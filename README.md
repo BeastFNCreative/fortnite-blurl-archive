@@ -10,6 +10,10 @@ The biggest (I think) VUID archive for Fortnite
 
 ● YLS-Dev (Contributor)
 
+● Boomer Bob (Contributor)
+
+● LeleDerGrasshalm (Contributor)
+
 ● DrewsDoggo (Contributor)
 
 ● fazfoxy (Contributor)
