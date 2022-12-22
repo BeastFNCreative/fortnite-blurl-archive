@@ -1,0 +1,12 @@
+{
+    "playlists": [
+        {
+            "type": "master",
+            "language": "en",
+            "url": "https://fortnitewc-ep.akamaized.net/cmaf/live/2026000/d95b6cba-73eb-4849-a8fa-54e524dc1e42/master.m3u8",
+            "fps": 60
+        }
+    ],
+    "type": "live",
+    "limits": "Dev=Android*,TotalPhysMem=3500,Res=648|Dev=Android*,Res=368|Res=720"
+}
