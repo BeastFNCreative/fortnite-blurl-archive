@@ -1,0 +1,12 @@
+{
+    "partysync": true,
+    "limits": "Dev=Android*,TotalPhysMem=3500,Res=720|Dev=Android*,Res=368|Res=720",
+    "playlists": [
+        {
+            "type": "master",
+            "url": "https://fortnite-vod.akamaized.net/3T588QAOZtVC1sTnsI/beeee132-7555-469b-93d4-dbfddd8a1076/master_en.m3u8",
+            "language": "en",
+            "fps": "30"
+        }
+    ]
+}
