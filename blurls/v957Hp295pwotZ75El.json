@@ -1,0 +1,11 @@
+{
+  "type": "live",
+  "limits": "Dev=Android*,TotalPhysMem=3500,Res=648|Dev=Android*,Res=368|Res=720",
+  "playlists": [
+    {
+      "type": "master",
+      "language": "en",
+      "url": "https://qstv-euc.akamaized.net/cmaf/live/2025936/5c77927c-1e82-4927-940a-4e0f41772b8f/master.m3u8"
+    }
+  ]
+}

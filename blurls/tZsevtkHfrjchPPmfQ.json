@@ -1,0 +1,583 @@
+{
+    "playlists": [
+        {
+            "type": "master",
+            "language": "ja",
+            "url": "https://fortnite-vod.akamaized.net/tZsevtkHfrjchPPmfQ/b6960421-b7ea-42b0-918a-5da708790da6/master_ja_JP.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"group_audio\",NAME=\"audio_0\",DEFAULT=YES,URI=\"variant_ja_JP_0.m3u8\"\n#EXT-X-STREAM-INF:BANDWIDTH=4243800,RESOLUTION=1152x648,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_0.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=6077500,RESOLUTION=1280x720,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_1.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2043800,RESOLUTION=896x504,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_2.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1311200,RESOLUTION=640x360,CODECS=\"avc1.64081e,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_3.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=943800,RESOLUTION=512x288,CODECS=\"avc1.640815,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_4.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=761200,RESOLUTION=256x144,CODECS=\"avc1.64080d,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_5.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=211200,CODECS=\"mp4a.40.2\",AUDIO=\"group_audio\"\nvariant_ja_JP_0.m3u8\n\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_0.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_0.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_0_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_0_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_0_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_1.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_1.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_1_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_1_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_1_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_2.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_2.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_2_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_2_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_2_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_3.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_3.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_3_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_3_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_3_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_4.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_4.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_4_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_4_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_4_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_5.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_5.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_5_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_5_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_5_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "variant_ja_JP_0.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-MAP:URI=\"init_ja_JP.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.020136,\nsegment_ja_JP_0_000000000.m4s\n#EXTINF:1.996916,\nsegment_ja_JP_0_000000001.m4s\n#EXTINF:1.761905,\nsegment_ja_JP_0_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "master",
+            "language": "zh-CN",
+            "url": "https://fortnite-vod.akamaized.net/tZsevtkHfrjchPPmfQ/b6960421-b7ea-42b0-918a-5da708790da6/master_zh_CN.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"group_audio\",NAME=\"audio_0\",DEFAULT=YES,URI=\"variant_zh_CN_0.m3u8\"\n#EXT-X-STREAM-INF:BANDWIDTH=4243800,RESOLUTION=1152x648,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_0.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=6077500,RESOLUTION=1280x720,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_1.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2043800,RESOLUTION=896x504,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_2.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1311200,RESOLUTION=640x360,CODECS=\"avc1.64081e,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_3.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=943800,RESOLUTION=512x288,CODECS=\"avc1.640815,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_4.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=761200,RESOLUTION=256x144,CODECS=\"avc1.64080d,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_5.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=211200,CODECS=\"mp4a.40.2\",AUDIO=\"group_audio\"\nvariant_zh_CN_0.m3u8\n\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_0.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_0.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_0_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_0_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_0_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_1.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_1.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_1_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_1_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_1_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_2.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_2.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_2_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_2_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_2_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_3.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_3.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_3_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_3_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_3_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_4.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_4.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_4_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_4_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_4_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_5.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_5.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_5_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_5_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_5_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "variant_zh_CN_0.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-MAP:URI=\"init_zh_CN.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.020136,\nsegment_zh_CN_0_000000000.m4s\n#EXTINF:1.996916,\nsegment_zh_CN_0_000000001.m4s\n#EXTINF:1.803628,\nsegment_zh_CN_0_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "master",
+            "language": "de",
+            "url": "https://fortnite-vod.akamaized.net/tZsevtkHfrjchPPmfQ/b6960421-b7ea-42b0-918a-5da708790da6/master_de_DE.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"group_audio\",NAME=\"audio_0\",DEFAULT=YES,URI=\"variant_de_DE_0.m3u8\"\n#EXT-X-STREAM-INF:BANDWIDTH=4243800,RESOLUTION=1152x648,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_0.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=6077500,RESOLUTION=1280x720,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_1.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2043800,RESOLUTION=896x504,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_2.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1311200,RESOLUTION=640x360,CODECS=\"avc1.64081e,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_3.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=943800,RESOLUTION=512x288,CODECS=\"avc1.640815,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_4.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=761200,RESOLUTION=256x144,CODECS=\"avc1.64080d,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_5.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=211200,CODECS=\"mp4a.40.2\",AUDIO=\"group_audio\"\nvariant_de_DE_0.m3u8\n\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_0.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_0.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_0_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_0_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_0_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_1.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_1.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_1_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_1_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_1_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_2.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_2.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_2_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_2_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_2_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_3.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_3.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_3_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_3_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_3_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_4.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_4.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_4_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_4_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_4_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_5.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_5.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_5_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_5_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_5_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "variant_de_DE_0.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-MAP:URI=\"init_de_DE.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.020136,\nsegment_de_DE_0_000000000.m4s\n#EXTINF:1.996916,\nsegment_de_DE_0_000000001.m4s\n#EXTINF:1.761905,\nsegment_de_DE_0_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "master",
+            "language": "ko",
+            "url": "https://fortnite-vod.akamaized.net/tZsevtkHfrjchPPmfQ/b6960421-b7ea-42b0-918a-5da708790da6/master_ko_KR.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"group_audio\",NAME=\"audio_0\",DEFAULT=YES,URI=\"variant_ko_KR_0.m3u8\"\n#EXT-X-STREAM-INF:BANDWIDTH=4243800,RESOLUTION=1152x648,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_0.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=6077500,RESOLUTION=1280x720,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_1.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2043800,RESOLUTION=896x504,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_2.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1311200,RESOLUTION=640x360,CODECS=\"avc1.64081e,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_3.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=943800,RESOLUTION=512x288,CODECS=\"avc1.640815,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_4.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=761200,RESOLUTION=256x144,CODECS=\"avc1.64080d,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_5.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=211200,CODECS=\"mp4a.40.2\",AUDIO=\"group_audio\"\nvariant_ko_KR_0.m3u8\n\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_0.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_0.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_0_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_0_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_0_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_1.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_1.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_1_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_1_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_1_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_2.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_2.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_2_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_2_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_2_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_3.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_3.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_3_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_3_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_3_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_4.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_4.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_4_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_4_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_4_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_5.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_5.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_5_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_5_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_5_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "variant_ko_KR_0.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-MAP:URI=\"init_ko_KR.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.020136,\nsegment_ko_KR_0_000000000.m4s\n#EXTINF:1.996916,\nsegment_ko_KR_0_000000001.m4s\n#EXTINF:1.803628,\nsegment_ko_KR_0_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "master",
+            "language": "tr",
+            "url": "https://fortnite-vod.akamaized.net/tZsevtkHfrjchPPmfQ/b6960421-b7ea-42b0-918a-5da708790da6/master_tr_TR.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"group_audio\",NAME=\"audio_0\",DEFAULT=YES,URI=\"variant_tr_TR_0.m3u8\"\n#EXT-X-STREAM-INF:BANDWIDTH=4243800,RESOLUTION=1152x648,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_0.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=6077500,RESOLUTION=1280x720,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_1.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2043800,RESOLUTION=896x504,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_2.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1311200,RESOLUTION=640x360,CODECS=\"avc1.64081e,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_3.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=943800,RESOLUTION=512x288,CODECS=\"avc1.640815,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_4.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=761200,RESOLUTION=256x144,CODECS=\"avc1.64080d,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_5.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=211200,CODECS=\"mp4a.40.2\",AUDIO=\"group_audio\"\nvariant_tr_TR_0.m3u8\n\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_0.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_0.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_0_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_0_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_0_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_1.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_1.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_1_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_1_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_1_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_2.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_2.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_2_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_2_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_2_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_3.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_3.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_3_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_3_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_3_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_4.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_4.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_4_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_4_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_4_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_5.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_5.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_5_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_5_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_5_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "variant_tr_TR_0.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-MAP:URI=\"init_tr_TR.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.020136,\nsegment_tr_TR_0_000000000.m4s\n#EXTINF:1.996916,\nsegment_tr_TR_0_000000001.m4s\n#EXTINF:1.803628,\nsegment_tr_TR_0_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "master",
+            "language": "ru",
+            "url": "https://fortnite-vod.akamaized.net/tZsevtkHfrjchPPmfQ/b6960421-b7ea-42b0-918a-5da708790da6/master_ru_RU.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"group_audio\",NAME=\"audio_0\",DEFAULT=YES,URI=\"variant_ru_RU_0.m3u8\"\n#EXT-X-STREAM-INF:BANDWIDTH=4243800,RESOLUTION=1152x648,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_0.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=6077500,RESOLUTION=1280x720,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_1.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2043800,RESOLUTION=896x504,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_2.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1311200,RESOLUTION=640x360,CODECS=\"avc1.64081e,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_3.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=943800,RESOLUTION=512x288,CODECS=\"avc1.640815,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_4.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=761200,RESOLUTION=256x144,CODECS=\"avc1.64080d,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_5.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=211200,CODECS=\"mp4a.40.2\",AUDIO=\"group_audio\"\nvariant_ru_RU_0.m3u8\n\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_0.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_0.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_0_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_0_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_0_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_1.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_1.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_1_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_1_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_1_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_2.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_2.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_2_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_2_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_2_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_3.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_3.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_3_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_3_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_3_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_4.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_4.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_4_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_4_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_4_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_5.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_5.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_5_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_5_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_5_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "variant_ru_RU_0.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-MAP:URI=\"init_ru_RU.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.020136,\nsegment_ru_RU_0_000000000.m4s\n#EXTINF:1.996916,\nsegment_ru_RU_0_000000001.m4s\n#EXTINF:1.803628,\nsegment_ru_RU_0_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "master",
+            "language": "pl",
+            "url": "https://fortnite-vod.akamaized.net/tZsevtkHfrjchPPmfQ/b6960421-b7ea-42b0-918a-5da708790da6/master_pl_PL.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"group_audio\",NAME=\"audio_0\",DEFAULT=YES,URI=\"variant_pl_PL_0.m3u8\"\n#EXT-X-STREAM-INF:BANDWIDTH=4243800,RESOLUTION=1152x648,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_0.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=6077500,RESOLUTION=1280x720,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_1.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2043800,RESOLUTION=896x504,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_2.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1311200,RESOLUTION=640x360,CODECS=\"avc1.64081e,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_3.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=943800,RESOLUTION=512x288,CODECS=\"avc1.640815,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_4.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=761200,RESOLUTION=256x144,CODECS=\"avc1.64080d,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_5.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=211200,CODECS=\"mp4a.40.2\",AUDIO=\"group_audio\"\nvariant_pl_PL_0.m3u8\n\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_0.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_0.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_0_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_0_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_0_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_1.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_1.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_1_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_1_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_1_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_2.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_2.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_2_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_2_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_2_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_3.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_3.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_3_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_3_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_3_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_4.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_4.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_4_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_4_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_4_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_5.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_5.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_5_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_5_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_5_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "variant_pl_PL_0.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-MAP:URI=\"init_pl_PL.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.020136,\nsegment_pl_PL_0_000000000.m4s\n#EXTINF:1.996916,\nsegment_pl_PL_0_000000001.m4s\n#EXTINF:1.761905,\nsegment_pl_PL_0_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "master",
+            "language": "ar",
+            "url": "https://fortnite-vod.akamaized.net/tZsevtkHfrjchPPmfQ/b6960421-b7ea-42b0-918a-5da708790da6/master_ar_AR.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"group_audio\",NAME=\"audio_0\",DEFAULT=YES,URI=\"variant_ar_AR_0.m3u8\"\n#EXT-X-STREAM-INF:BANDWIDTH=4243800,RESOLUTION=1152x648,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_0.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=6077500,RESOLUTION=1280x720,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_1.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2043800,RESOLUTION=896x504,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_2.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1311200,RESOLUTION=640x360,CODECS=\"avc1.64081e,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_3.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=943800,RESOLUTION=512x288,CODECS=\"avc1.640815,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_4.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=761200,RESOLUTION=256x144,CODECS=\"avc1.64080d,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_5.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=211200,CODECS=\"mp4a.40.2\",AUDIO=\"group_audio\"\nvariant_ar_AR_0.m3u8\n\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_0.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_0.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_0_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_0_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_0_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_1.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_1.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_1_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_1_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_1_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_2.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_2.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_2_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_2_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_2_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_3.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_3.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_3_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_3_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_3_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_4.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_4.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_4_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_4_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_4_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_5.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_5.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_5_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_5_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_5_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "variant_ar_AR_0.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-MAP:URI=\"init_ar_AR.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.020136,\nsegment_ar_AR_0_000000000.m4s\n#EXTINF:1.996916,\nsegment_ar_AR_0_000000001.m4s\n#EXTINF:1.803628,\nsegment_ar_AR_0_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "master",
+            "language": "pt-br",
+            "url": "https://fortnite-vod.akamaized.net/tZsevtkHfrjchPPmfQ/b6960421-b7ea-42b0-918a-5da708790da6/master_pt_BR.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"group_audio\",NAME=\"audio_0\",DEFAULT=YES,URI=\"variant_pt_BR_0.m3u8\"\n#EXT-X-STREAM-INF:BANDWIDTH=4243800,RESOLUTION=1152x648,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_0.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=6077500,RESOLUTION=1280x720,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_1.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2043800,RESOLUTION=896x504,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_2.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1311200,RESOLUTION=640x360,CODECS=\"avc1.64081e,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_3.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=943800,RESOLUTION=512x288,CODECS=\"avc1.640815,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_4.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=761200,RESOLUTION=256x144,CODECS=\"avc1.64080d,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_5.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=211200,CODECS=\"mp4a.40.2\",AUDIO=\"group_audio\"\nvariant_pt_BR_0.m3u8\n\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_0.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_0.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_0_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_0_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_0_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_1.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_1.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_1_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_1_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_1_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_2.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_2.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_2_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_2_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_2_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_3.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_3.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_3_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_3_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_3_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_4.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_4.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_4_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_4_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_4_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_5.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_5.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_5_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_5_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_5_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "variant_pt_BR_0.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-MAP:URI=\"init_pt_BR.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.020136,\nsegment_pt_BR_0_000000000.m4s\n#EXTINF:1.996916,\nsegment_pt_BR_0_000000001.m4s\n#EXTINF:1.803628,\nsegment_pt_BR_0_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "master",
+            "language": "en",
+            "url": "https://fortnite-vod.akamaized.net/tZsevtkHfrjchPPmfQ/3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/master_en_US.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"group_audio\",NAME=\"audio_6\",DEFAULT=YES,URI=\"variant_en_US_6.m3u8\"\n#EXT-X-STREAM-INF:BANDWIDTH=4243800,RESOLUTION=1152x648,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\nvariant_en_US_0.m3u8\n\n#EXT-X-STREAM-INF:BANDWIDTH=6077500,RESOLUTION=1280x720,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\nvariant_en_US_1.m3u8\n\n#EXT-X-STREAM-INF:BANDWIDTH=2043800,RESOLUTION=896x504,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\nvariant_en_US_2.m3u8\n\n#EXT-X-STREAM-INF:BANDWIDTH=1311200,RESOLUTION=640x360,CODECS=\"avc1.64081e,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\nvariant_en_US_3.m3u8\n\n#EXT-X-STREAM-INF:BANDWIDTH=943800,RESOLUTION=512x288,CODECS=\"avc1.640815,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\nvariant_en_US_4.m3u8\n\n#EXT-X-STREAM-INF:BANDWIDTH=761200,RESOLUTION=256x144,CODECS=\"avc1.64080d,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\nvariant_en_US_5.m3u8\n\n#EXT-X-STREAM-INF:BANDWIDTH=211200,CODECS=\"mp4a.40.2\",AUDIO=\"group_audio\"\nvariant_en_US_6.m3u8\n\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "variant_en_US_0.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_0.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_0_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_0_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_0_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "variant_en_US_1.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_1.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_1_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_1_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_1_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "variant_en_US_2.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_2.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_2_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_2_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_2_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "variant_en_US_3.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_3.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_3_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_3_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_3_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "variant_en_US_4.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_4.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_4_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_4_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_4_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "variant_en_US_5.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_5.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_5_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_5_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_5_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "variant_en_US_6.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-MAP:URI=\"init_en_US_6.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.020136,\nsegment_en_US_6_000000000.m4s\n#EXTINF:1.996916,\nsegment_en_US_6_000000001.m4s\n#EXTINF:1.761905,\nsegment_en_US_6_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "master",
+            "language": "es",
+            "url": "https://fortnite-vod.akamaized.net/tZsevtkHfrjchPPmfQ/b6960421-b7ea-42b0-918a-5da708790da6/master_es_ES.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"group_audio\",NAME=\"audio_0\",DEFAULT=YES,URI=\"variant_es_ES_0.m3u8\"\n#EXT-X-STREAM-INF:BANDWIDTH=4243800,RESOLUTION=1152x648,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_0.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=6077500,RESOLUTION=1280x720,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_1.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2043800,RESOLUTION=896x504,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_2.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1311200,RESOLUTION=640x360,CODECS=\"avc1.64081e,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_3.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=943800,RESOLUTION=512x288,CODECS=\"avc1.640815,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_4.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=761200,RESOLUTION=256x144,CODECS=\"avc1.64080d,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_5.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=211200,CODECS=\"mp4a.40.2\",AUDIO=\"group_audio\"\nvariant_es_ES_0.m3u8\n\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_0.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_0.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_0_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_0_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_0_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_1.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_1.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_1_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_1_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_1_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_2.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_2.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_2_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_2_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_2_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_3.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_3.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_3_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_3_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_3_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_4.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_4.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_4_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_4_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_4_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_5.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_5.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_5_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_5_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_5_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "variant_es_ES_0.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-MAP:URI=\"init_es_ES.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.020136,\nsegment_es_ES_0_000000000.m4s\n#EXTINF:1.996916,\nsegment_es_ES_0_000000001.m4s\n#EXTINF:1.761905,\nsegment_es_ES_0_000000002.m4s\n#EXT-X-ENDLIST\n#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-MAP:URI=\"init_es_ES.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.020136,\nsegment_es_ES_0_000000000.m4s\n#EXTINF:1.996916,\nsegment_es_ES_0_000000001.m4s\n#EXTINF:1.761905,\nsegment_es_ES_0_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "master",
+            "language": "it",
+            "url": "https://fortnite-vod.akamaized.net/tZsevtkHfrjchPPmfQ/b6960421-b7ea-42b0-918a-5da708790da6/master_it_IT.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"group_audio\",NAME=\"audio_0\",DEFAULT=YES,URI=\"variant_it_IT_0.m3u8\"\n#EXT-X-STREAM-INF:BANDWIDTH=4243800,RESOLUTION=1152x648,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_0.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=6077500,RESOLUTION=1280x720,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_1.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2043800,RESOLUTION=896x504,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_2.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1311200,RESOLUTION=640x360,CODECS=\"avc1.64081e,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_3.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=943800,RESOLUTION=512x288,CODECS=\"avc1.640815,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_4.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=761200,RESOLUTION=256x144,CODECS=\"avc1.64080d,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_5.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=211200,CODECS=\"mp4a.40.2\",AUDIO=\"group_audio\"\nvariant_it_IT_0.m3u8\n\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_0.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_0.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_0_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_0_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_0_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_1.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_1.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_1_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_1_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_1_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_2.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_2.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_2_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_2_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_2_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_3.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_3.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_3_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_3_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_3_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_4.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_4.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_4_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_4_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_4_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_5.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_5.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_5_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_5_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_5_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "variant_it_IT_0.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-MAP:URI=\"init_it_IT.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.020136,\nsegment_it_IT_0_000000000.m4s\n#EXTINF:1.996916,\nsegment_it_IT_0_000000001.m4s\n#EXTINF:1.761905,\nsegment_it_IT_0_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "master",
+            "language": "fr",
+            "url": "https://fortnite-vod.akamaized.net/tZsevtkHfrjchPPmfQ/b6960421-b7ea-42b0-918a-5da708790da6/master_fr_FR.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"group_audio\",NAME=\"audio_0\",DEFAULT=YES,URI=\"variant_fr_FR_0.m3u8\"\n#EXT-X-STREAM-INF:BANDWIDTH=4243800,RESOLUTION=1152x648,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_0.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=6077500,RESOLUTION=1280x720,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_1.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2043800,RESOLUTION=896x504,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_2.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1311200,RESOLUTION=640x360,CODECS=\"avc1.64081e,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_3.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=943800,RESOLUTION=512x288,CODECS=\"avc1.640815,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_4.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=761200,RESOLUTION=256x144,CODECS=\"avc1.64080d,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_5.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=211200,CODECS=\"mp4a.40.2\",AUDIO=\"group_audio\"\nvariant_fr_FR_0.m3u8\n\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_0.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_0.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_0_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_0_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_0_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_1.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_1.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_1_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_1_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_1_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_2.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_2.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_2_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_2_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_2_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_3.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_3.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_3_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_3_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_3_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_4.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_4.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_4_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_4_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_4_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_5.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_5.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_5_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_5_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_5_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "variant_fr_FR_0.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-MAP:URI=\"init_fr_FR.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.020136,\nsegment_fr_FR_0_000000000.m4s\n#EXTINF:1.996916,\nsegment_fr_FR_0_000000001.m4s\n#EXTINF:1.761905,\nsegment_fr_FR_0_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "master",
+            "language": "es-419",
+            "url": "https://fortnite-vod.akamaized.net/tZsevtkHfrjchPPmfQ/b6960421-b7ea-42b0-918a-5da708790da6/master_es_MX.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"group_audio\",NAME=\"audio_0\",DEFAULT=YES,URI=\"variant_es_MX_0.m3u8\"\n#EXT-X-STREAM-INF:BANDWIDTH=4243800,RESOLUTION=1152x648,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_0.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=6077500,RESOLUTION=1280x720,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_1.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2043800,RESOLUTION=896x504,CODECS=\"avc1.64081f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_2.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1311200,RESOLUTION=640x360,CODECS=\"avc1.64081e,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_3.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=943800,RESOLUTION=512x288,CODECS=\"avc1.640815,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_4.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=761200,RESOLUTION=256x144,CODECS=\"avc1.64080d,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=23.976\n../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_5.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=211200,CODECS=\"mp4a.40.2\",AUDIO=\"group_audio\"\nvariant_es_MX_0.m3u8\n\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_0.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_0.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_0_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_0_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_0_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_1.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_1.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_1_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_1_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_1_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_2.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_2.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_2_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_2_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_2_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_3.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_3.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_3_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_3_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_3_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_4.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_4.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_4_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_4_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_4_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "../3a33c3b8-bb49-429f-8333-7ee5a74c4b8a/variant_en_US_5.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_US_5.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.002000,\nsegment_en_US_5_000000000.m4s\n#EXTINF:2.002000,\nsegment_en_US_5_000000001.m4s\n#EXTINF:1.751750,\nsegment_en_US_5_000000002.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "variant_es_MX_0.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:2\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-MAP:URI=\"init_es_MX.mp4\"\n#EXT-X-KEY:METHOD=AES-128,URI=\"../key.key\"\n#EXTINF:2.020136,\nsegment_es_MX_0_000000000.m4s\n#EXTINF:1.996916,\nsegment_es_MX_0_000000001.m4s\n#EXTINF:1.761905,\nsegment_es_MX_0_000000002.m4s\n#EXT-X-ENDLIST\n"
+        }
+    ],
+    "ev": "AQAIABBQYmVXcGFPbe666MSD7LcoL+W49QMgkTM=",
+    "limits": "Dev=Android*,TotalPhysMem=3500,Res=648|Dev=Android*,Res=368|Dev=Switch*,Res=368|Res=720",
+    "subtitles": "{\"ar\":[{\"startTime\":\"+00000000.00:00:00.000000000\",\"endTime\":\"+00000000.00:00:00.917000000\",\"text\":\"GUY: \u0623\u0645\u0631\u0643 \u0644\u0645 \u064a\u0646\u062a\u0647\u064a\"},{\"startTime\":\"+00000000.00:00:01.292000000\",\"endTime\":\"+00000000.00:00:02.961000000\",\"text\":\"\u0625\u0646\u0645\u0627 \u062a\u0633\u0639\u062f\u0646\u064a \u0631\u0624\u064a\u062a\u0643\"},{\"startTime\":\"+00000000.00:00:03.378000000\",\"endTime\":\"+00000000.00:00:05.547000000\",\"text\":\"\u062a\u0628\u062f\u0648 \u0631\u0627\u0626\u0639\u064b\u0627 \u0627\u0644\u064a\u0648\u0645\u060c \u0645\u0638\u0647\u0631\u0643 \u064a\u0639\u062c\u0628\u0646\u064a.\"}],\"de\":[{\"startTime\":\"+00000000.00:00:00.000000000\",\"endTime\":\"+00000000.00:00:00.917000000\",\"text\":\"GUY: Du bist noch nicht fertig.\"},{\"startTime\":\"+00000000.00:00:01.292000000\",\"endTime\":\"+00000000.00:00:02.961000000\",\"text\":\"Aber ich freue mich immer, dich zu sehen.\"},{\"startTime\":\"+00000000.00:00:03.378000000\",\"endTime\":\"+00000000.00:00:05.547000000\",\"text\":\"Siehst toll aus, \u00fcbrigens. Liebe deinen Stil.\"}],\"en\":[{\"startTime\":\"+00000000.00:00:00.000000000\",\"endTime\":\"+00000000.00:00:00.917000000\",\"text\":\"You're not done yet,\"},{\"startTime\":\"+00000000.00:00:01.292000000\",\"endTime\":\"+00000000.00:00:02.961000000\",\"text\":\"But it's always good to see you.\"},{\"startTime\":\"+00000000.00:00:03.378000000\",\"endTime\":\"+00000000.00:00:05.547000000\",\"text\":\"You're looking great today, by the way. Love your style.\\n\"}],\"es\":[{\"startTime\":\"+00000000.00:00:00.000000000\",\"endTime\":\"+00000000.00:00:01.226000000\",\"text\":\"Guy: A\u00fan no has terminado,\"},{\"startTime\":\"+00000000.00:00:01.292000000\",\"endTime\":\"+00000000.00:00:02.961000000\",\"text\":\"pero siempre me alegro de verte.\"},{\"startTime\":\"+00000000.00:00:03.378000000\",\"endTime\":\"+00000000.00:00:05.757000000\",\"text\":\"Por cierto, hoy vas genial. Me encanta tu estilo.\"}],\"es-419\":[{\"startTime\":\"+00000000.00:00:00.000000000\",\"endTime\":\"+00000000.00:00:01.230000000\",\"text\":\"Guy: No terminaste,\"},{\"startTime\":\"+00000000.00:00:01.230000000\",\"endTime\":\"+00000000.00:00:03.140000000\",\"text\":\"pero es lindo verte otra vez.\"},{\"startTime\":\"+00000000.00:00:03.370000000\",\"endTime\":\"+00000000.00:00:05.860000000\",\"text\":\"Por cierto, te ves muy bien. Me encanta tu estilo.\"}],\"fr\":[{\"startTime\":\"+00000000.00:00:00.000000000\",\"endTime\":\"+00000000.00:00:00.917000000\",\"text\":\"GUY : C'est pas encore fini,\"},{\"startTime\":\"+00000000.00:00:01.292000000\",\"endTime\":\"+00000000.00:00:02.961000000\",\"text\":\"mais c'est toujours un plaisir de vous voir.\"},{\"startTime\":\"+00000000.00:00:03.378000000\",\"endTime\":\"+00000000.00:00:05.547000000\",\"text\":\"D'ailleurs, vous \u00eates super aujourd'hui. J'adore votre style.\"}],\"it\":[{\"startTime\":\"+00000000.00:00:00.008000000\",\"endTime\":\"+00000000.00:00:01.156000000\",\"text\":\"GUY: Non hai ancora finito,\"},{\"startTime\":\"+00000000.00:00:01.292000000\",\"endTime\":\"+00000000.00:00:02.961000000\",\"text\":\"ma \u00e8 sempre bello vederti.\"},{\"startTime\":\"+00000000.00:00:03.156000000\",\"endTime\":\"+00000000.00:00:04.218000000\",\"text\":\"Oggi stai alla grande.\"},{\"startTime\":\"+00000000.00:00:04.243000000\",\"endTime\":\"+00000000.00:00:05.625000000\",\"text\":\"Veramente, adoro il tuo stile.\"}],\"ja\":[{\"startTime\":\"+00000000.00:00:00.000000000\",\"endTime\":\"+00000000.00:00:00.917000000\",\"text\":\"\u30ac\u30a4: \u307e\u3060\u7d42\u308f\u3063\u3066\u306a\u3044\"},{\"startTime\":\"+00000000.00:00:01.292000000\",\"endTime\":\"+00000000.00:00:02.961000000\",\"text\":\"\u3060\u3051\u3069\u3044\u3064\u3067\u3082\u6b53\u8fce\u3059\u308b\u3088\"},{\"startTime\":\"+00000000.00:00:03.378000000\",\"endTime\":\"+00000000.00:00:05.547000000\",\"text\":\"\u4eca\u65e5\u306f\u6c7a\u307e\u3063\u3066\u308b\u306d \u305d\u3046\u3044\u3046\u30b9\u30bf\u30a4\u30eb\u5927\u597d\u304d\"}],\"ko\":[{\"startTime\":\"+00000000.00:00:00.000000000\",\"endTime\":\"+00000000.00:00:00.917000000\",\"text\":\"\uac00\uc774: \ub124 \ubaa9\ud45c\ub294 \uc544\uc9c1 \uc644\uc218\ud558\uc9c0 \ubabb\ud588\uc9c0\ub9cc\"},{\"startTime\":\"+00000000.00:00:01.292000000\",\"endTime\":\"+00000000.00:00:02.961000000\",\"text\":\"\uc640 \uc918\uc11c \uace0\ub9c8\uc6cc.\"},{\"startTime\":\"+00000000.00:00:03.378000000\",\"endTime\":\"+00000000.00:00:05.547000000\",\"text\":\"\uc624\ub298 \uc544\uc8fc \uc88b\uc544 \ubcf4\uc774\ub294\uac78. \uc2a4\ud0c0\uc77c \uc8fd\uc774\ub294\ub370.\"}],\"pl\":[{\"startTime\":\"+00000000.00:00:00.000000000\",\"endTime\":\"+00000000.00:00:00.917000000\",\"text\":\"FACET: To jeszcze nie koniec,\"},{\"startTime\":\"+00000000.00:00:01.292000000\",\"endTime\":\"+00000000.00:00:02.961000000\",\"text\":\"ale zawsze mi\u0142o ci\u0119 widzie\u0107.\"},{\"startTime\":\"+00000000.00:00:03.378000000\",\"endTime\":\"+00000000.00:00:05.547000000\",\"text\":\"Tak w og\u00f3le \u015bwietnie dzisiaj wygl\u0105dasz. Co za styl\u00f3wa!\\n\"}],\"pt-br\":[{\"startTime\":\"+00000000.00:00:00.000000000\",\"endTime\":\"+00000000.00:00:00.917000000\",\"text\":\"GUY: Ainda n\u00e3o terminou,\"},{\"startTime\":\"+00000000.00:00:01.292000000\",\"endTime\":\"+00000000.00:00:02.961000000\",\"text\":\"mas \u00e9 sempre bom te ver!\"},{\"startTime\":\"+00000000.00:00:03.378000000\",\"endTime\":\"+00000000.00:00:05.547000000\",\"text\":\"Sua cara t\u00e1 \u00f3tima, adorei o visual.\"}],\"ru\":[{\"startTime\":\"+00000000.00:00:00.000000000\",\"endTime\":\"+00000000.00:00:00.917000000\",\"text\":\"\u041f\u0410\u0420\u0415\u041d\u042c: \u0417\u0430\u0434\u0430\u0447\u0430 \u043d\u0435 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0430,\"},{\"startTime\":\"+00000000.00:00:01.292000000\",\"endTime\":\"+00000000.00:00:02.961000000\",\"text\":\"\u043d\u043e \u044f \u0432\u0441\u0435\u0433\u0434\u0430 \u0440\u0430\u0434 \u0442\u0435\u0431\u044f \u0432\u0438\u0434\u0435\u0442\u044c.\"},{\"startTime\":\"+00000000.00:00:03.378000000\",\"endTime\":\"+00000000.00:00:05.547000000\",\"text\":\"\u041a\u0441\u0442\u0430\u0442\u0438, \u043e\u0442\u043b\u0438\u0447\u043d\u043e \u0432\u044b\u0433\u043b\u044f\u0434\u0438\u0448\u044c. \u041a\u0440\u0443\u0442\u043e\u0439 \u043e\u0431\u0440\u0430\u0437.\"}],\"tr\":[{\"startTime\":\"+00000000.00:00:00.000000000\",\"endTime\":\"+00000000.00:00:00.917000000\",\"text\":\"GUY: G\u00f6rev hen\u00fcz bitmedi,\"},{\"startTime\":\"+00000000.00:00:01.292000000\",\"endTime\":\"+00000000.00:00:02.961000000\",\"text\":\"Ama seni g\u00f6rmek ne g\u00fczel.\"},{\"startTime\":\"+00000000.00:00:03.378000000\",\"endTime\":\"+00000000.00:00:05.547000000\",\"text\":\"Bug\u00fcn harika g\u00f6r\u00fcn\u00fcyorsun, tarz\u0131na da bay\u0131ld\u0131m.\"}],\"zh-CN\":[{\"startTime\":\"+00000000.00:00:00.000000000\",\"endTime\":\"+00000000.00:00:00.917000000\",\"text\":\"\u8fd8\u6ca1\u5b8c\u6210\uff1f\"},{\"startTime\":\"+00000000.00:00:01.292000000\",\"endTime\":\"+00000000.00:00:02.961000000\",\"text\":\"\u4f46\u662f\u89c1\u5230\u4f60\u603b\u662f\u4e0d\u9519\u7684\u3002\"},{\"startTime\":\"+00000000.00:00:03.378000000\",\"endTime\":\"+00000000.00:00:05.547000000\",\"text\":\"\u4f60\u5f88\u68d2\uff0c\u54e6\u5bf9\u4e86\uff0c\u6211\u559c\u6b22\u4f60\u7684\u8303\u513f\u3002\"}]}",
+    "ucp": "av",
+    "lrcs": "{\"ar\":[],\"de\":[],\"en\":[],\"es\":[],\"es-419\":[],\"fr\":[],\"it\":[],\"ja\":[],\"ko\":[],\"pl\":[],\"pt-br\":[],\"ru\":[],\"tr\":[],\"zh-CN\":[]}"
+}

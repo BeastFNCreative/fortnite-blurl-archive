@@ -1,0 +1,31 @@
+{
+    "partysync": false,
+    "playlists": [
+        {
+            "type": "master",
+            "url": "https://fortnite-vod.akamaized.net/seiVNdBqFpzAGQgf/master_en_vfinal5.m3u8",
+            "language": "en",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID=\"group_audio\",NAME=\"audio_6\",DEFAULT=YES,URI=\"oRpdsdUGFQqkOuSz/seiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_6.m3u8\"\n#EXT-X-EPICGAMES-CUSTOM:BFRAMES=1\n#EXT-X-STREAM-INF:BANDWIDTH=2411200,RESOLUTION=896x504,CODECS=\"avc1.64001f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=60.000\noRpdsdUGFQqkOuSz/seiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_0.m3u8\n\n#EXT-X-EPICGAMES-CUSTOM:BFRAMES=1\n#EXT-X-STREAM-INF:BANDWIDTH=2961200,RESOLUTION=1152x648,CODECS=\"avc1.640020,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=60.000\noRpdsdUGFQqkOuSz/seiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_1.m3u8\n\n#EXT-X-EPICGAMES-CUSTOM:BFRAMES=1\n#EXT-X-STREAM-INF:BANDWIDTH=1861200,RESOLUTION=640x360,CODECS=\"avc1.64001f,mp4a.40.2\",AUDIO=\"group_audio\",FRAME-RATE=60.000\noRpdsdUGFQqkOuSz/seiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_2.m3u8\n\n#EXT-X-STREAM-INF:BANDWIDTH=211200,CODECS=\"mp4a.40.2\",AUDIO=\"group_audio\"\noRpdsdUGFQqkOuSz/seiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_6.m3u8\n\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "oRpdsdUGFQqkOuSz/seiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_0.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:4\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_0.mp4\"\n#EXTINF:4.000000,\nseiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_0_000000000.m4s\n#EXTINF:4.000000,\nseiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_0_000000001.m4s\n#EXTINF:4.000000,\nseiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_0_000000002.m4s\n#EXTINF:4.000000,\nseiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_0_000000003.m4s\n#EXTINF:4.000000,\nseiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_0_000000004.m4s\n#EXTINF:0.333333,\nseiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_0_000000005.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "oRpdsdUGFQqkOuSz/seiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_1.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:4\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_1.mp4\"\n#EXTINF:4.000000,\nseiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_1_000000000.m4s\n#EXTINF:4.000000,\nseiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_1_000000001.m4s\n#EXTINF:4.000000,\nseiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_1_000000002.m4s\n#EXTINF:4.000000,\nseiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_1_000000003.m4s\n#EXTINF:4.000000,\nseiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_1_000000004.m4s\n#EXTINF:0.333333,\nseiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_1_000000005.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "oRpdsdUGFQqkOuSz/seiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_2.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:4\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-MAP:URI=\"init_en_2.mp4\"\n#EXTINF:4.000000,\nseiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_2_000000000.m4s\n#EXTINF:4.000000,\nseiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_2_000000001.m4s\n#EXTINF:4.000000,\nseiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_2_000000002.m4s\n#EXTINF:4.000000,\nseiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_2_000000003.m4s\n#EXTINF:4.000000,\nseiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_2_000000004.m4s\n#EXTINF:0.333333,\nseiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_2_000000005.m4s\n#EXT-X-ENDLIST\n"
+        },
+        {
+            "type": "variant",
+            "rel_url": "oRpdsdUGFQqkOuSz/seiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_6.m3u8",
+            "data": "#EXTM3U\n#EXT-X-VERSION:7\n#EXT-X-TARGETDURATION:4\n#EXT-X-MEDIA-SEQUENCE:0\n#EXT-X-PLAYLIST-TYPE:VOD\n#EXT-X-DISCONTINUITY\n#EXT-X-MAP:URI=\"init_en_6.mp4\"\n#EXTINF:4.017052,\nseiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_6_000000000.m4s\n#EXTINF:3.993832,\nseiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_6_000000001.m4s\n#EXTINF:3.993832,\nseiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_6_000000002.m4s\n#EXTINF:4.017052,\nseiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_6_000000003.m4s\n#EXTINF:3.993832,\nseiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_6_000000004.m4s\n#EXTINF:0.340952,\nseiVNdBqFpzAGQgf_oRpdsdUGFQqkOuSz_en_6_000000005.m4s\n#EXT-X-ENDLIST\n"
+        }
+    ]
+}
