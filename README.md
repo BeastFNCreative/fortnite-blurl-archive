@@ -6,7 +6,7 @@ The biggest (I think) VUID archive for Fortnite
 # Credits
 ● BeastFNCreative (Owner)
 
-● GRUmba (Owner)
+● GRUmbaWasHere (Owner)
 
 ● YLS-Dev (Contributor)
 
