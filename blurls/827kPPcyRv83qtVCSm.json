@@ -1,0 +1,12 @@
+{
+    "playlists": [
+        {
+            "type": "master",
+            "language": "en",
+            "url": "https://qstv-euc.akamaized.net/cmaf/live/2025928/514528b1-8b04-42d8-8648-883e48c34d0b/master.m3u8",
+            "fps": 60
+        }
+    ],
+    "type": "live",
+    "limits": "Dev=Android*,TotalPhysMem=3500,Res=648|Dev=Android*,Res=368|Res=720"
+}
