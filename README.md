@@ -26,7 +26,15 @@ The biggest (I think) VUID archive for Fortnite
 
 ● This Nils (Contributor)
 
-#
+# Most Wanted Missing VideoUIDs
+
+● Monarch Level Up Quest Pack (MOTD)
+
+● Joni The Red Fortnite Crew Cinematic (MOTD)
+
+● Soundwave Series : Gen Hoshino Picture-in-Picture
+
+● Soundwave Series : Emicida Picture-in-Picture
 
 If there is any Epic Offical VUIDs that you have the ID of, feel free to DM it to me on Discord : emily ♡#9229
 
