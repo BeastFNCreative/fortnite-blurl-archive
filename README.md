@@ -1,5 +1,5 @@
-# fortnite-blurl-archive
-The biggest (I think) VUID archive for Fortnite
+# Fortnite Blurl Archive
+The biggest Epic games VUID archive for Fortnite
 
 - Only contains VUIDs published by Epic Games (aka dosen't include Discover)
 
@@ -36,6 +36,6 @@ The biggest (I think) VUID archive for Fortnite
 
 ● Soundwave Series : Emicida Picture-in-Picture
 
-If there is any Epic Offical VUIDs that you have the ID of, feel free to DM it to me on Discord : emily ♡#9229
+If there is any Epic Offical VUIDs that you have the ID of, feel free to DM it to me on Discord : [emily ♡#9229](https://discord.com/users/593811960529944577) 
 
  
