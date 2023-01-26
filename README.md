@@ -1,5 +1,5 @@
 # Fortnite Blurl Archive
-The biggest Epic games VUID archive for Fortnite
+The biggest Epic Games VUID archive for Fortnite
 
 - Only contains VUIDs published by Epic Games (aka dosen't include Discover)
 
