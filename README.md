@@ -8,6 +8,8 @@ The biggest Epic Games VUID archive for Fortnite
 
 ● GRUmbaWasHere (Owner)
 
+● Venitex (Contributor)
+
 ● LeleDerGrasshalm (Contributor)
 
 ● Luwwani (Contributor)
