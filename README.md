@@ -10,6 +10,8 @@ The biggest Epic Games VUID archive for Fortnite
 
 ● Venitex (Contributor)
 
+● FossilSouthie (Contributor)
+
 ● LeleDerGrasshalm (Contributor)
 
 ● Luwwani (Contributor)
