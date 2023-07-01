@@ -1,7 +1,7 @@
 # Fortnite Blurl Archive
 The biggest Epic Games VUID archive for Fortnite
 
-- Only contains VUIDs published by Epic Games (aka dosen't include Discover)
+- Only contains VUIDs published by Epic Games (doesn't include Discover)
 
 # Credits
 ● BeastFNCreative (Owner)
