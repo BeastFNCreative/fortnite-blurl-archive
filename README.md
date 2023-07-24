@@ -1,47 +1,45 @@
-# Fortnite Blurl Archive
+## Fortnite Blurl Archive
 The biggest Epic Games VUID archive for Fortnite
 
 - Only contains VUIDs published by Epic Games (doesn't include Discover)
 
-# Credits
-● BeastFNCreative (Owner)
+## Credits
+- BeastFNCreative (Owner)
 
-● GRUmbaWasHere (Owner)
+- GRUmbaWasHere (Owner)
 
-● Venitex (Contributor)
+- Venitex (Contributor)
 
-● FossilSouthie (Contributor)
+- FossilSouthie (Contributor)
 
-● LeleDerGrasshalm (Contributor)
+- LeleDerGrasshalm (Contributor)
 
-● Luwwani (Contributor)
+- Luwwani (Contributor)
 
-● YLS-Dev (Contributor)
+- YLS-Dev (Contributor)
 
-● Boomer Bob (Contributor)
+- Boomer Bob (Contributor)
 
-● DrewsDoggo (Contributor)
+- DrewsDoggo (Contributor)
 
-● fazfoxy (Contributor)
+- fazfoxy (Contributor)
 
-● Fortnite-API \ Officer (Contributor)
+- Fortnite-API \ Officer (Contributor)
 
-● Junction (Contributor)
+- Junction (Contributor)
 
-● Lucas7Yoshi (Contributor)
+- Lucas7Yoshi (Contributor)
 
-● This Nils (Contributor)
+- This Nils (Contributor)
 
-# Most Wanted Missing VideoUIDs
+## Missing VUIDs
 
-● Monarch Level Up Quest Pack (MOTD)
+- Monarch Level Up Quest Pack (MOTD)
 
-● Joni The Red Fortnite Crew Cinematic (MOTD)
+- Joni The Red Fortnite Crew Cinematic (MOTD)
 
-● Soundwave Series : Gen Hoshino Picture-in-Picture
+- Soundwave Series : Gen Hoshino Picture-in-Picture
 
-● Soundwave Series : Emicida Picture-in-Picture
+- Soundwave Series : Emicida Picture-in-Picture
 
-If there is any Epic Offical VUIDs that you have the ID of, feel free to DM it to me on Discord : [emily ♡#9229](https://discord.com/users/593811960529944577) 
-
- 
+>If there is any Epic Offical VUIDs that you have the ID of, feel free to DM it to me on Discord : [Discord](https://discord.com/users/593811960529944577)
