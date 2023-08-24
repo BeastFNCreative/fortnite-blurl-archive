@@ -1,0 +1,12 @@
+{
+    "playlists": [
+        {
+            "type": "main",
+            "language": "en",
+            "url": "https://fortnite-vod.akamaized.net/sOVUdnXgTcyjucbKpW/781675cd-0eff-4b39-b477-a57a37422a35/main_en_US.mpd",
+            "fps": 24
+        }
+    ],
+    "type": "vod",
+    "ev": "AQALABB2WmpTYlpTdlpoUeiR6oHClTnxENxDgqQoUzA="
+}
