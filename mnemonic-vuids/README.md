@@ -3,7 +3,9 @@
 ## List of VUIDs
 
 VUIDs provided by the Links Service Island Metadata, this includes "video_vuid" and "extra_vuid".
-NOTE : This only applies for Epic Hosted Streams, any regular discover video will not be listed here.
+
+**NOTE : This only applies for Epic Hosted Streams, any regular discover video will not be listed here.**
+
 The Stream File Path Structure has to follow a Epic Uploaded Video Structure, not a regular discover one.
 
 ## Content
@@ -26,7 +28,7 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [tmvSSlruCWPBGwPGGo](tmvSSlruCWPBGwPGGo.json) | 9078-3552-2260 : Mall Stories |
 | [iDPCjnEJSWpwnLSsNy](iDPCjnEJSWpwnLSsNy.json) | 9697-2486-6699 : Doomsday Princess |
 | [FafeDLtfnvVWWmOFzQ](FafeDLtfnvVWWmOFzQ.json) | campaign : Save The World |
-| [LXnhkKEjFQvnqgpxJE](LXnhkKEjFQvnqgpxJE.json) | playlist_fmclubisland : Festival Jam Stage | DOWNLOAD
+| [LXnhkKEjFQvnqgpxJE](LXnhkKEjFQvnqgpxJE.json) | playlist_fmclubisland : Festival Jam Stage |
 | [lPAAqsIrORbZBsKCiX](lPAAqsIrORbZBsKCiX.json) | playlist_juno : LEGO Fortnite |
 | [vlFxcxMYwkzwNNKSFf](vlFxcxMYwkzwNNKSFf.json) | playlist_juno : LEGO Fortnite (Extra VUID) |
 | [HtLUWyhMKefRGsTxlE](HtLUWyhMKefRGsTxlE.json) | playlist_pilgrimquickplay : Festival Main Stage |
@@ -40,5 +42,5 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [nBXWuBNMdScHeYtCnP](nBXWuBNMdScHeYtCnP.json) | set_delmar_mrs_ranked : Rocket Racing |
 | [qpdchKarjFnwpdEnYj](qpdchKarjFnwpdEnYj.json) | set_delmar_mrs_ranked : Rocket Racing (Extra VUID) |
 | [VeMCQpJEuQxYyUQGeB](VeMCQpJEuQxYyUQGeB.json) | set_imposters_playlists : Impostors |
-| [KLHeAwpnfyWJzsHggq](KLHeAwpnfyWJzsHggq.json) | set_nobuild_playlists : Zero Build - Battle Royale | DOWNLOAD!!!
+| [KLHeAwpnfyWJzsHggq](KLHeAwpnfyWJzsHggq.json) | set_nobuild_playlists : Zero Build - Battle Royale |
 | [VTfsLUcDGhrnzHppNB](VTfsLUcDGhrnzHppNB.json) | set_nobuild_playlists : Zero Build - Battle Royale (v1) |
