@@ -8,6 +8,8 @@ Jam Track Audio Data from Fortnite Festival.
 
 | VUID                                                 | Description                                                                   |
 | :--------------------------------------------------- | :---------------------------------------------------------------------------- |
+| [qwJYDgZuhwIMaGZhUz](blurls/qwJYDgZuhwIMaGZhUz.json) | Aqua - Barbie Girl                                                            |
+| [rFDfrEOsaDxUrONCMq](blurls/rFDfrEOsaDxUrONCMq.json) | Aqua - Barbie Girl (Preview)                                                  |
 | [SyybJmpkCcIjSnRgrN](blurls/SyybJmpkCcIjSnRgrN.json) | Ariana Grande - Into You                                                      |
 | [BSqgxwfnohxHXfhRkn](blurls/BSqgxwfnohxHXfhRkn.json) | Ariana Grande - Into You (Preview)                                            |
 | [ykoZtYDmbwAUSVaSkd](blurls/ykoZtYDmbwAUSVaSkd.json) | Bastille - Pompeii                                                            |
@@ -28,12 +30,16 @@ Jam Track Audio Data from Fortnite Festival.
 | [mObSAekLEUiiRlVjgC](blurls/mObSAekLEUiiRlVjgC.json) | Epic Games - Flickering Flame (Preview)                                       |
 | [zIVFyCkOQcadroQWNg](blurls/zIVFyCkOQcadroQWNg.json) | Epic Games - I'm A Cat                                                        |
 | [HfXqZkMPfRZERxDZlB](blurls/HfXqZkMPfRZERxDZlB.json) | Epic Games - I'm A Cat (Preview)                                              |
+| [NhgMSQhsxpRqIbobUo](blurls/NhgMSQhsxpRqIbobUo.json) | Epic Games - Make It Known                                                    |
+| [gStMBDmPZqdJwujxvT](blurls/gStMBDmPZqdJwujxvT.json) | Epic Games - Make It Known (Preview)                                          |
 | [SvPTbHiaOIspktUaWF](blurls/SvPTbHiaOIspktUaWF.json) | Epic Games - OG (Future Remix)                                                |
 | [ummqUqCSFUWeQfzTvs](blurls/ummqUqCSFUWeQfzTvs.json) | Epic Games - OG (Future Remix) (Preview)                                      |
-| [JwDOJugzngIrXIWMNc](blurls/JwDOJugzngIrXIWMNc.json) | Epic Games - Switch Up                                                        |
-| [hSjdaUWjgTGjsvgwcM](blurls/hSjdaUWjgTGjsvgwcM.json) | Epic Games - Switch Up (Preview)                                              |
 | [vATlQurzvPwglcKfxp](blurls/vATlQurzvPwglcKfxp.json) | Epic Games - Show Them Who We Are                                             |
 | [cGcjyotaSPSnOCIUme](blurls/cGcjyotaSPSnOCIUme.json) | Epic Games - Show Them Who We Are (Preview)                                   |
+| [XCGKmuqiDgmuNvjtce](blurls/XCGKmuqiDgmuNvjtce.json) | Epic Games - Streets Ignite                                                   |
+| [lSSttxgmLYSvUJTvUs](blurls/lSSttxgmLYSvUJTvUs.json) | Epic Games - Streets Ignite (Preview)                                         |
+| [JwDOJugzngIrXIWMNc](blurls/JwDOJugzngIrXIWMNc.json) | Epic Games - Switch Up                                                        |
+| [hSjdaUWjgTGjsvgwcM](blurls/hSjdaUWjgTGjsvgwcM.json) | Epic Games - Switch Up (Preview)                                              |
 | [ZtkBgwLEUFVPJsByvD](blurls/ZtkBgwLEUFVPJsByvD.json) | Epic Games - Take Me Higher                                                   |
 | [LjVfzBLBaBIQRRcmJX](blurls/LjVfzBLBaBIQRRcmJX.json) | Epic Games - Take Me Higher (Preview)                                         |
 | [pCBfbQCBvKPcFqjtgU](blurls/pCBfbQCBvKPcFqjtgU.json) | Epic Games - Brace for Chaos                                                  |
@@ -76,6 +82,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [nxLJFcAiIPllRRssqw](blurls/nxLJFcAiIPllRRssqw.json) | LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem (Preview)             |
 | [CEyQyyKYlUcMctCEpu](blurls/CEyQyyKYlUcMctCEpu.json) | Machine Gun Kelly ft. WILLOW - emo girl                                       |
 | [XdgIvalKRbHSgrJghw](blurls/XdgIvalKRbHSgrJghw.json) | Machine Gun Kelly ft. WILLOW - emo girl (Preview)                             |
+| [QxxqeiJTLAgOWqOuTb](blurls/QxxqeiJTLAgOWqOuTb.json) | Miley Cyrus  - Flowers                                                        |
+| [oSeWpNfSFwwwIxguPl](blurls/oSeWpNfSFwwwIxguPl.json) | Miley Cyrus  - Flowers (Preview)                                              |
 | [YolvkrBomHFUlpdGSz](blurls/YolvkrBomHFUlpdGSz.json) | NF - The Search                                                               |
 | [ckmLIpnenbdybYNhlq](blurls/ckmLIpnenbdybYNhlq.json) | NF - The Search (Preview)                                                     |
 | [ACTspeMIfwTviqNDtz](blurls/ACTspeMIfwTviqNDtz.json) | Nine Inch Nails - Less Than                                                   |
@@ -121,6 +129,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [UYiiZmAJIzdnMDqEjS](blurls/UYiiZmAJIzdnMDqEjS.json) | The Weeknd - Take My Breath (Preview)                                         |
 | [DatkYCnyQXhilclBWq](blurls/DatkYCnyQXhilclBWq.json) | The Weeknd - The Hills                                                        |
 | [HCRPRUFmfPuyhItQYw](blurls/HCRPRUFmfPuyhItQYw.json) | The Weeknd - The Hills (Preview)                                              |
+| [sSxwOWiQsOMIGAyiEY](blurls/sSxwOWiQsOMIGAyiEY.json) | The Weeknd, Madonna & Playboi Carti - Popular                                 |
+| [fgQHLgQTMRzzGdjrzR](blurls/fgQHLgQTMRzzGdjrzR.json) | The Weeknd, Madonna & Playboi Carti - Popular (Preview)                       |
 | [xIPtZmwHsbDLtrrNSA](blurls/xIPtZmwHsbDLtrrNSA.json) | The White Stripes - Seven Nation Army                                         |
 | [yYYGxrAeIDehFIbYAa](blurls/yYYGxrAeIDehFIbYAa.json) | The White Stripes - Seven Nation Army (Preview)                               |
 | [njMVLvDKgEItxBgmTP](blurls/njMVLvDKgEItxBgmTP.json) | U2 - Beautiful Day                                                            |
@@ -133,3 +143,5 @@ Jam Track Audio Data from Fortnite Festival.
 | [LMXwIbQlnMVDNGfJUf](blurls/LMXwIbQlnMVDNGfJUf.json) | Weezer - Buddy Holly (Preview)                                                |
 | [XUabTUvKGFvaquBMet](blurls/XUabTUvKGFvaquBMet.json) | WitchGang - Nothing's Alright                                                 |
 | [XCOsTRifVQudgAjJff](blurls/XCOsTRifVQudgAjJff.json) | WitchGang - Nothing's Alright (Preview)                                       |
+| [GYbVDBVHDgXObXqyjr](blurls/GYbVDBVHDgXObXqyjr.json) | WitchGang - Timeless                                                          |
+| [fVALLXBdAuxUVUnnQj](blurls/fVALLXBdAuxUVUnnQj.json) | WitchGang - Timeless (Preview)                                                |
