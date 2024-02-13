@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [xhqYFAGAgKOwwJJwsM](blurls/xhqYFAGAgKOwwJJwsM.json) | Make Some Waves Icon Series Emote |
 | [CEXzXHNeGmZqzpUbVf](blurls/CEXzXHNeGmZqzpUbVf.json) | Gangam Style Emote |
 | [jgAyOxpKMZuEXMtYGa](blurls/jgAyOxpKMZuEXMtYGa.json) | Vi Set Fortnite Crew Trailer |
 | [LHwzeZiknDWtyDghIA](blurls/LHwzeZiknDWtyDghIA.json) | Mando's Bounty LTM |
