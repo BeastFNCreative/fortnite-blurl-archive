@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [mTlETPywBowpdUKopj](blurls/mTlETPywBowpdUKopj.json) | No Cure Icon Series Emote |
 | [xhqYFAGAgKOwwJJwsM](blurls/xhqYFAGAgKOwwJJwsM.json) | Make Some Waves Icon Series Emote |
 | [CEXzXHNeGmZqzpUbVf](blurls/CEXzXHNeGmZqzpUbVf.json) | Gangam Style Emote |
 | [jgAyOxpKMZuEXMtYGa](blurls/jgAyOxpKMZuEXMtYGa.json) | Vi Set Fortnite Crew Trailer |
