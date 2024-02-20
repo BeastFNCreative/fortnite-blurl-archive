@@ -24,6 +24,12 @@ Jam Track Audio Data from Fortnite Festival.
 | [qGGzNaSjbTmuRSbMRp](blurls/qGGzNaSjbTmuRSbMRp.json) | Doja Cat - Say So (Preview)                                                   |
 | [rFVnhHkGeIWkYTeMef](blurls/rFVnhHkGeIWkYTeMef.json) | Elton John & Britney Spears - Hold Me Closer                                  |
 | [AACFRxoSQmUrLrsJro](blurls/AACFRxoSQmUrLrsJro.json) | Elton John & Britney Spears - Hold Me Closer (Preview)                        |
+| [HEwIkFRBGDQntjsWma](blurls/HEwIkFRBGDQntjsWma.json) | Epic Games - 8-Bit Beat                                                       |
+| [xzGWhFrUlsQXgZiPSz](blurls/xzGWhFrUlsQXgZiPSz.json) | Epic Games - 8-Bit Beat (Preview)                                             |
+| [wEQdWEUuAfOPOcOzvU](blurls/wEQdWEUuAfOPOcOzvU.json) | Epic Games - Best Buds                                                        |
+| [LnKXyVnlaYCChIxKKJ](blurls/LnKXyVnlaYCChIxKKJ.json) | Epic Games - Best Buds  (Preview)                                             |
+| [ZCKNHQfzFDwxhuoQcX](blurls/ZCKNHQfzFDwxhuoQcX.json) | Epic Games - Bloom                                                            |
+| [BzJXrdsEXRrfAzEnjv](blurls/BzJXrdsEXRrfAzEnjv.json) | Epic Games - Bloom  (Preview)                                                 |
 | [JXTHTqaQusWrIqTwWo](blurls/JXTHTqaQusWrIqTwWo.json) | Epic Games - Butter Barn Hoedown                                              |
 | [LvAUtAEuWsMjWFDfIn](blurls/LvAUtAEuWsMjWFDfIn.json) | Epic Games - Butter Barn Hoedown (Preview)                                    |
 | [AqzJOZzkSxbofUdkMB](blurls/AqzJOZzkSxbofUdkMB.json) | Epic Games - Butter Barn Hoedown (OG VUID)                                    |
@@ -40,6 +46,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [cGcjyotaSPSnOCIUme](blurls/cGcjyotaSPSnOCIUme.json) | Epic Games - Show Them Who We Are (Preview)                                   |
 | [XCGKmuqiDgmuNvjtce](blurls/XCGKmuqiDgmuNvjtce.json) | Epic Games - Streets Ignite                                                   |
 | [lSSttxgmLYSvUJTvUs](blurls/lSSttxgmLYSvUJTvUs.json) | Epic Games - Streets Ignite (Preview)                                         |
+| [KhjBedwOBvlhUtLogG](blurls/KhjBedwOBvlhUtLogG.json) | Epic Games - Sweet Victory                                                    |
+| [vLlrMxOlVLFEPMXBQR](blurls/vLlrMxOlVLFEPMXBQR.json) | Epic Games - Sweet Victory (Preview)                                          |
 | [JwDOJugzngIrXIWMNc](blurls/JwDOJugzngIrXIWMNc.json) | Epic Games - Switch Up                                                        |
 | [hSjdaUWjgTGjsvgwcM](blurls/hSjdaUWjgTGjsvgwcM.json) | Epic Games - Switch Up (Preview)                                              |
 | [ZtkBgwLEUFVPJsByvD](blurls/ZtkBgwLEUFVPJsByvD.json) | Epic Games - Take Me Higher                                                   |
