@@ -94,6 +94,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [XdgIvalKRbHSgrJghw](blurls/XdgIvalKRbHSgrJghw.json) | Machine Gun Kelly ft. WILLOW - emo girl (Preview)                             |
 | [QxxqeiJTLAgOWqOuTb](blurls/QxxqeiJTLAgOWqOuTb.json) | Miley Cyrus  - Flowers                                                        |
 | [oSeWpNfSFwwwIxguPl](blurls/oSeWpNfSFwwwIxguPl.json) | Miley Cyrus  - Flowers (Preview)                                              |
+| [lVbXhTnpHAwjodfxyF](blurls/lVbXhTnpHAwjodfxyF.json) | Nelly ft. City Spud - Ride Wit Me                                             |
+| [IWdHVthmtpcMZrYXfN](blurls/IWdHVthmtpcMZrYXfN.json) | Nelly ft. City Spud - Ride Wit Me (Preview)                                   |
 | [YolvkrBomHFUlpdGSz](blurls/YolvkrBomHFUlpdGSz.json) | NF - The Search                                                               |
 | [ckmLIpnenbdybYNhlq](blurls/ckmLIpnenbdybYNhlq.json) | NF - The Search (Preview)                                                     |
 | [ACTspeMIfwTviqNDtz](blurls/ACTspeMIfwTviqNDtz.json) | Nine Inch Nails - Less Than                                                   |
@@ -102,6 +104,22 @@ Jam Track Audio Data from Fortnite Festival.
 | [zvzLsOScWEiyWIsown](blurls/zvzLsOScWEiyWIsown.json) | Nine Inch Nails - March Of The Pigs (Preview)                                 |
 | [xHyCrugKkxSvzyBvMd](blurls/xHyCrugKkxSvzyBvMd.json) | Nine Inch Nails - The Hand That Feeds                                         |
 | [nKymeCiZOyeUZcBWux](blurls/nKymeCiZOyeUZcBWux.json) | Nine Inch Nails - The Hand That Feeds (Preview)                               |
+| [LStTLeuLYTIJPoeYMN](blurls/LStTLeuLYTIJPoeYMN.json) | Lady Gaga - Applause                                                          |
+| [ggUDJCRhfiAJpXjHAc](blurls/ggUDJCRhfiAJpXjHAc.json) | Lady Gaga - Applause (Preview)                                                |
+| [piJWVLBlEkZKKEkgPN](blurls/piJWVLBlEkZKKEkgPN.json) | Lady Gaga - Bloody Mary                                                       |
+| [KibOAJFidtZiCTCFMi](blurls/KibOAJFidtZiCTCFMi.json) | Lady Gaga - Bloody Mary (Preview)                                             |
+| [fLwYXUZuIaIdSoTdKl](blurls/fLwYXUZuIaIdSoTdKl.json) | Lady Gaga - Born This Way                                                     |
+| [ErVOmoDIybmXSxbYPa](blurls/ErVOmoDIybmXSxbYPa.json) | Lady Gaga - Born This Way (Preview)                                           |
+| [LaIOnwYjsIhBfmgSwQ](blurls/LaIOnwYjsIhBfmgSwQ.json) | Lady Gaga - Poker Face                                                        |
+| [MVgwckidrZVHAyFAUH](blurls/MVgwckidrZVHAyFAUH.json) | Lady Gaga - Poker Face (Preview)                                              |
+| [KLeSDnrrvEVIaYAuFg](blurls/KLeSDnrrvEVIaYAuFg.json) | Lady Gaga - Stupid Love                                                       |
+| [ufmdyWcicCMBQxMURC](blurls/ufmdyWcicCMBQxMURC.json) | Lady Gaga - Stupid Love (Preview)                                             |
+| [EczPjHoRQbqCGGgTIw](blurls/EczPjHoRQbqCGGgTIw.json) | Lady Gaga - The Edge of Glory                                                 |
+| [GvsYNJmWBWkDGtDHMo](blurls/GvsYNJmWBWkDGtDHMo.json) | Lady Gaga - The Edge of Glory (Preview)                                       |
+| [uljYQEjaTEOkHJIrbS](blurls/uljYQEjaTEOkHJIrbS.json) | Lady Gaga & Ariana Grande - Rain On Me                                        |
+| [pNDQUlhJzCUMomxMXD](blurls/pNDQUlhJzCUMomxMXD.json) | Lady Gaga & Ariana Grande - Rain On Me (Preview)                              |
+| [PEltnuMHcKMlNCKPeX](blurls/PEltnuMHcKMlNCKPeX.json) | Lady Gaga ft. Colby O'Donis - Just Dance                                      |
+| [YqegtUpkrBquZcKbrw](blurls/YqegtUpkrBquZcKbrw.json) | Lady Gaga ft. Colby O'Donis - Just Dance (Preview)                            |
 | [nNcDyfisUVhLYpRVpw](blurls/nNcDyfisUVhLYpRVpw.json) | Lil Nas X ft. Jack Harlow - Industry Baby                                     |
 | [bptdzIoxcqLWGsIoJA](blurls/bptdzIoxcqLWGsIoJA.json) | Olivia Rodrigo - get him back!                                                |
 | [cPXAnKPSQXOZsDbmNC](blurls/cPXAnKPSQXOZsDbmNC.json) | Olivia Rodrigo - get him back! (Preview)                                      |
@@ -121,6 +139,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [FxvqxjnvmZFyOVanYZ](blurls/FxvqxjnvmZFyOVanYZ.json) | Selena Gomez - Single Soon (Preview)                                          |
 | [ytgNlkXOBSYxNWCaeR](blurls/ytgNlkXOBSYxNWCaeR.json) | Shawn Mendes - Stitches                                                       |
 | [dSfUlfmAsRSlcVhKZR](blurls/dSfUlfmAsRSlcVhKZR.json) | Shawn Mendes - Stitches (Preview)                                             |
+| [cCTLWzqDboIkMWyOTd](blurls/cCTLWzqDboIkMWyOTd.json) | Soundgarden - Black Hole Sun                                                  |
+| [nExtkgFrPFhLiJOuuq](blurls/nExtkgFrPFhLiJOuuq.json) | Soundgarden - Black Hole Sun (Preview)                                        |
 | [QXKPSFvMysPqegENXn](blurls/QXKPSFvMysPqegENXn.json) | Sub Urban - Cradles                                                           |
 | [mAMYWlxEUGkmpOLOlW](blurls/mAMYWlxEUGkmpOLOlW.json) | Sub Urban - Cradles (Preview)                                                 |
 | [LzKrWMfTRNAdAQBhDL](blurls/LzKrWMfTRNAdAQBhDL.json) | The All-American Rejects - Dirty Little Secret                                |
@@ -143,6 +163,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [fgQHLgQTMRzzGdjrzR](blurls/fgQHLgQTMRzzGdjrzR.json) | The Weeknd, Madonna & Playboi Carti - Popular (Preview)                       |
 | [xIPtZmwHsbDLtrrNSA](blurls/xIPtZmwHsbDLtrrNSA.json) | The White Stripes - Seven Nation Army                                         |
 | [yYYGxrAeIDehFIbYAa](blurls/yYYGxrAeIDehFIbYAa.json) | The White Stripes - Seven Nation Army (Preview)                               |
+| [latjtpHkeCFuqgcaHo](blurls/latjtpHkeCFuqgcaHo.json) | Topic w/ A7S - Breaking Me                                                    |
+| [zyzKCncxihJKEIjDZk](blurls/zyzKCncxihJKEIjDZk.json) | Topic w/ A7S - Breaking Me (Preview)                                          |
 | [njMVLvDKgEItxBgmTP](blurls/njMVLvDKgEItxBgmTP.json) | U2 - Beautiful Day                                                            |
 | [OiPuShmtSSKvJSEWmE](blurls/OiPuShmtSSKvJSEWmE.json) | U2 - Beautiful Day (Preview)                                                  |
 | [hbbXFlnTsClTIFDwYj](blurls/hbbXFlnTsClTIFDwYj.json) | U2 - I Still Haven't Found What I'm Looking For                               |
