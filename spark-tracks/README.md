@@ -86,8 +86,25 @@ Jam Track Audio Data from Fortnite Festival.
 | [AXwlTRapkfttUjHlGT](blurls/AXwlTRapkfttUjHlGT.json) | Kendrick Lamar - i (Preview)                                                  |
 | [nOREGzPlkaULcxClcO](blurls/nOREGzPlkaULcxClcO.json) | KT Tunstall - Suddenly I See                                                  |
 | [zrdluIrPYziTpscLKt](blurls/zrdluIrPYziTpscLKt.json) | KT Tunstall - Suddenly I See (Preview)                                        |
+| [LStTLeuLYTIJPoeYMN](blurls/LStTLeuLYTIJPoeYMN.json) | Lady Gaga - Applause                                                          |
+| [ggUDJCRhfiAJpXjHAc](blurls/ggUDJCRhfiAJpXjHAc.json) | Lady Gaga - Applause (Preview)                                                |
 | [NsvHQkJCyKsgcKIzOq](blurls/NsvHQkJCyKsgcKIzOq.json) | Lady Gaga - Bad Romance                                                       |
 | [FnWemccrEscmtHGCXw](blurls/FnWemccrEscmtHGCXw.json) | Lady Gaga - Bad Romance (Preview)                                             |
+| [piJWVLBlEkZKKEkgPN](blurls/piJWVLBlEkZKKEkgPN.json) | Lady Gaga - Bloody Mary                                                       |
+| [KibOAJFidtZiCTCFMi](blurls/KibOAJFidtZiCTCFMi.json) | Lady Gaga - Bloody Mary (Preview)                                             |
+| [fLwYXUZuIaIdSoTdKl](blurls/fLwYXUZuIaIdSoTdKl.json) | Lady Gaga - Born This Way                                                     |
+| [ErVOmoDIybmXSxbYPa](blurls/ErVOmoDIybmXSxbYPa.json) | Lady Gaga - Born This Way (Preview)                                           |
+| [LaIOnwYjsIhBfmgSwQ](blurls/LaIOnwYjsIhBfmgSwQ.json) | Lady Gaga - Poker Face                                                        |
+| [MVgwckidrZVHAyFAUH](blurls/MVgwckidrZVHAyFAUH.json) | Lady Gaga - Poker Face (Preview)                                              |
+| [KLeSDnrrvEVIaYAuFg](blurls/KLeSDnrrvEVIaYAuFg.json) | Lady Gaga - Stupid Love                                                       |
+| [ufmdyWcicCMBQxMURC](blurls/ufmdyWcicCMBQxMURC.json) | Lady Gaga - Stupid Love (Preview)                                             |
+| [EczPjHoRQbqCGGgTIw](blurls/EczPjHoRQbqCGGgTIw.json) | Lady Gaga - The Edge of Glory                                                 |
+| [GvsYNJmWBWkDGtDHMo](blurls/GvsYNJmWBWkDGtDHMo.json) | Lady Gaga - The Edge of Glory (Preview)                                       |
+| [uljYQEjaTEOkHJIrbS](blurls/uljYQEjaTEOkHJIrbS.json) | Lady Gaga & Ariana Grande - Rain On Me                                        |
+| [pNDQUlhJzCUMomxMXD](blurls/pNDQUlhJzCUMomxMXD.json) | Lady Gaga & Ariana Grande - Rain On Me (Preview)                              |
+| [PEltnuMHcKMlNCKPeX](blurls/PEltnuMHcKMlNCKPeX.json) | Lady Gaga ft. Colby O'Donis - Just Dance                                      |
+| [YqegtUpkrBquZcKbrw](blurls/YqegtUpkrBquZcKbrw.json) | Lady Gaga ft. Colby O'Donis - Just Dance (Preview)                            |
+| [nNcDyfisUVhLYpRVpw](blurls/nNcDyfisUVhLYpRVpw.json) | Lil Nas X ft. Jack Harlow - Industry Baby                                     |
 | [BDDJiGIZinqbqsXKub](blurls/BDDJiGIZinqbqsXKub.json) | LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem                       |
 | [nxLJFcAiIPllRRssqw](blurls/nxLJFcAiIPllRRssqw.json) | LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem (Preview)             |
 | [CEyQyyKYlUcMctCEpu](blurls/CEyQyyKYlUcMctCEpu.json) | Machine Gun Kelly ft. WILLOW - emo girl                                       |
@@ -104,23 +121,6 @@ Jam Track Audio Data from Fortnite Festival.
 | [zvzLsOScWEiyWIsown](blurls/zvzLsOScWEiyWIsown.json) | Nine Inch Nails - March Of The Pigs (Preview)                                 |
 | [xHyCrugKkxSvzyBvMd](blurls/xHyCrugKkxSvzyBvMd.json) | Nine Inch Nails - The Hand That Feeds                                         |
 | [nKymeCiZOyeUZcBWux](blurls/nKymeCiZOyeUZcBWux.json) | Nine Inch Nails - The Hand That Feeds (Preview)                               |
-| [LStTLeuLYTIJPoeYMN](blurls/LStTLeuLYTIJPoeYMN.json) | Lady Gaga - Applause                                                          |
-| [ggUDJCRhfiAJpXjHAc](blurls/ggUDJCRhfiAJpXjHAc.json) | Lady Gaga - Applause (Preview)                                                |
-| [piJWVLBlEkZKKEkgPN](blurls/piJWVLBlEkZKKEkgPN.json) | Lady Gaga - Bloody Mary                                                       |
-| [KibOAJFidtZiCTCFMi](blurls/KibOAJFidtZiCTCFMi.json) | Lady Gaga - Bloody Mary (Preview)                                             |
-| [fLwYXUZuIaIdSoTdKl](blurls/fLwYXUZuIaIdSoTdKl.json) | Lady Gaga - Born This Way                                                     |
-| [ErVOmoDIybmXSxbYPa](blurls/ErVOmoDIybmXSxbYPa.json) | Lady Gaga - Born This Way (Preview)                                           |
-| [LaIOnwYjsIhBfmgSwQ](blurls/LaIOnwYjsIhBfmgSwQ.json) | Lady Gaga - Poker Face                                                        |
-| [MVgwckidrZVHAyFAUH](blurls/MVgwckidrZVHAyFAUH.json) | Lady Gaga - Poker Face (Preview)                                              |
-| [KLeSDnrrvEVIaYAuFg](blurls/KLeSDnrrvEVIaYAuFg.json) | Lady Gaga - Stupid Love                                                       |
-| [ufmdyWcicCMBQxMURC](blurls/ufmdyWcicCMBQxMURC.json) | Lady Gaga - Stupid Love (Preview)                                             |
-| [EczPjHoRQbqCGGgTIw](blurls/EczPjHoRQbqCGGgTIw.json) | Lady Gaga - The Edge of Glory                                                 |
-| [GvsYNJmWBWkDGtDHMo](blurls/GvsYNJmWBWkDGtDHMo.json) | Lady Gaga - The Edge of Glory (Preview)                                       |
-| [uljYQEjaTEOkHJIrbS](blurls/uljYQEjaTEOkHJIrbS.json) | Lady Gaga & Ariana Grande - Rain On Me                                        |
-| [pNDQUlhJzCUMomxMXD](blurls/pNDQUlhJzCUMomxMXD.json) | Lady Gaga & Ariana Grande - Rain On Me (Preview)                              |
-| [PEltnuMHcKMlNCKPeX](blurls/PEltnuMHcKMlNCKPeX.json) | Lady Gaga ft. Colby O'Donis - Just Dance                                      |
-| [YqegtUpkrBquZcKbrw](blurls/YqegtUpkrBquZcKbrw.json) | Lady Gaga ft. Colby O'Donis - Just Dance (Preview)                            |
-| [nNcDyfisUVhLYpRVpw](blurls/nNcDyfisUVhLYpRVpw.json) | Lil Nas X ft. Jack Harlow - Industry Baby                                     |
 | [bptdzIoxcqLWGsIoJA](blurls/bptdzIoxcqLWGsIoJA.json) | Olivia Rodrigo - get him back!                                                |
 | [cPXAnKPSQXOZsDbmNC](blurls/cPXAnKPSQXOZsDbmNC.json) | Olivia Rodrigo - get him back! (Preview)                                      |
 | [iGDzixqlczsvBNJeee](blurls/iGDzixqlczsvBNJeee.json) | Olivia Rodrigo - good 4 u                                                     |
