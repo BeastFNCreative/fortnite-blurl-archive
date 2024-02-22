@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [plUAtjTviltaccHJJj](blurls/plUAtjTviltaccHJJj.json) | Fortnite Festival Season 2 Lady Gaga Cinematic Trailer |
 | [NhSndttzFbijPDympv](blurls/NhSndttzFbijPDympv.json) | LEGO Fortnite Styles Trailer |
 | [nyrVaMeKZqICcoEUbe](blurls/nyrVaMeKZqICcoEUbe.json) | FNCS Champion Stash'd Outfit Showcase |
 | [mTlETPywBowpdUKopj](blurls/mTlETPywBowpdUKopj.json) | No Cure Icon Series Emote |
