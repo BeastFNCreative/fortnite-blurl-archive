@@ -10,6 +10,8 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [ZfBzfmtfHjYIEYHdHW](blurls/ZfBzfmtfHjYIEYHdHW.json) | Interstellar Bass Icon Series Emote |
+| [BQhDEWvzOcHmjVwxrD](blurls/BQhDEWvzOcHmjVwxrD.json) | LEGO Fortnite Cinematic Trailer |
 | [plUAtjTviltaccHJJj](blurls/plUAtjTviltaccHJJj.json) | Fortnite Festival Season 2 Lady Gaga Cinematic Trailer |
 | [NhSndttzFbijPDympv](blurls/NhSndttzFbijPDympv.json) | LEGO Fortnite Styles Trailer |
 | [nyrVaMeKZqICcoEUbe](blurls/nyrVaMeKZqICcoEUbe.json) | FNCS Champion Stash'd Outfit Showcase |
@@ -198,7 +200,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 | [jhWRjfxtWpLNbXikzD](blurls/jhWRjfxtWpLNbXikzD.json) | NIKE Collaboration Wave 2 Trailer |
 | [AKYkPZIfmbwzZvteKn](blurls/AKYkPZIfmbwzZvteKn.json) | Red Claw Set Fortnite Crew Trailer |
 | [BCkLQsxUwLdOuXhdaW](blurls/BCkLQsxUwLdOuXhdaW.json) | Deimos Set Fortnite Crew Trailer (w/o Spotify) |
-| [BFvznnyjRvJonkvWXb](blurls/BFvznnyjRvJonkvWXb.json) | LEGO Fortnite Cinematic Trailer |
+| [BFvznnyjRvJonkvWXb](blurls/BFvznnyjRvJonkvWXb.json) | LEGO Fortnite Cinematic Trailer (OG VUID) |
 | [BmTFLEPGpVWirrTdTQ](blurls/BmTFLEPGpVWirrTdTQ.json) | Loki Marvel Series Set Fortnite Crew Trailer |
 | [CaGHsWoMJxMGUDasbB](blurls/CaGHsWoMJxMGUDasbB.json) | Fortnite OG Teaser |
 | [dFmJidmJPsjTjeDqji](blurls/dFmJidmJPsjTjeDqji.json) | Capture The Flag Creative LTM Showcase |
