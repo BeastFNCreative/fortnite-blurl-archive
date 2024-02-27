@@ -32,8 +32,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [BzJXrdsEXRrfAzEnjv](blurls/BzJXrdsEXRrfAzEnjv.json) | Epic Games - Bloom  (Preview)                                                 |
 | [JXTHTqaQusWrIqTwWo](blurls/JXTHTqaQusWrIqTwWo.json) | Epic Games - Butter Barn Hoedown                                              |
 | [LvAUtAEuWsMjWFDfIn](blurls/LvAUtAEuWsMjWFDfIn.json) | Epic Games - Butter Barn Hoedown (Preview)                                    |
-| [AqzJOZzkSxbofUdkMB](blurls/AqzJOZzkSxbofUdkMB.json) | Epic Games - Butter Barn Hoedown (OG VUID)                                    |
-| [ibdfdERRkeiDoCnFPM](blurls/ibdfdERRkeiDoCnFPM.json) | Epic Games - Butter Barn Hoedown (OG VUID) (Preview)                          |
+| [AqzJOZzkSxbofUdkMB](blurls/AqzJOZzkSxbofUdkMB.json) | Epic Games - Butter Barn Hoedown (v1 VUID)                                    |
+| [ibdfdERRkeiDoCnFPM](blurls/ibdfdERRkeiDoCnFPM.json) | Epic Games - Butter Barn Hoedown (v1 VUID) (Preview)                          |
 | [ggOVvBIigmrYidAdlU](blurls/ggOVvBIigmrYidAdlU.json) | Epic Games - Flickering Flame                                                 |
 | [mObSAekLEUiiRlVjgC](blurls/mObSAekLEUiiRlVjgC.json) | Epic Games - Flickering Flame (Preview)                                       |
 | [zIVFyCkOQcadroQWNg](blurls/zIVFyCkOQcadroQWNg.json) | Epic Games - I'm A Cat                                                        |
@@ -66,8 +66,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [GDBzQCdOUJEpXwEqql](blurls/GDBzQCdOUJEpXwEqql.json) | Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up) (Preview) |
 | [mWjTugiKTqwMWrrGbw](blurls/mWjTugiKTqwMWrrGbw.json) | Florence + The Machine - Dog Days Are Over                                    |
 | [MZnIlagpQkjalAHQjK](blurls/MZnIlagpQkjalAHQjK.json) | Florence + The Machine - Dog Days Are Over (Preview)                          |
-| [PDHnYsfoqqtMtMJXWf](blurls/PDHnYsfoqqtMtMJXWf.json) | Glass Animals - Heat Waves (OG VUID)                                          |
-| [lRyyfqXvYUtypwXDte](blurls/lRyyfqXvYUtypwXDte.json) | Glass Animals - Heat Waves (OG VUID) (Preview)                                |
+| [PDHnYsfoqqtMtMJXWf](blurls/PDHnYsfoqqtMtMJXWf.json) | Glass Animals - Heat Waves (v1)                                               |
+| [lRyyfqXvYUtypwXDte](blurls/lRyyfqXvYUtypwXDte.json) | Glass Animals - Heat Waves (v1) (Preview)                                     |
 | [DFtfUXkCkZRYaZcJzu](blurls/DFtfUXkCkZRYaZcJzu.json) | Glass Animals - Heat Waves                                                    |
 | [iXvdhpzYyAfqnuWtLC](blurls/iXvdhpzYyAfqnuWtLC.json) | Glass Animals - Heat Waves (Preview)                                          |
 | [cRVZgAGWLQYkXFAAVJ](blurls/cRVZgAGWLQYkXFAAVJ.json) | Green Day - Basket Case                                                       |
@@ -84,22 +84,26 @@ Jam Track Audio Data from Fortnite Festival.
 | [oIuiDZqtIGZxyvUgAW](blurls/oIuiDZqtIGZxyvUgAW.json) | Imagine Dragons - Believer (Preview)                                          |
 | [XZUUuItQfREbtEpCTE](blurls/XZUUuItQfREbtEpCTE.json) | Imagine Dragons - Thunder                                                     |
 | [KTfnyyIvbxiWBFKKjM](blurls/KTfnyyIvbxiWBFKKjM.json) | Imagine Dragons - Thunder (Preview)                                           |
-| [NsitmLqggPcjUqIdkD](blurls/NsitmLqggPcjUqIdkD.json) | Kendrick Lamar - i (OG VUID)                                                  |
-| [AXwlTRapkfttUjHlGT](blurls/AXwlTRapkfttUjHlGT.json) | Kendrick Lamar - i (OG VUID) (Preview)                                        |
+| [NsitmLqggPcjUqIdkD](blurls/NsitmLqggPcjUqIdkD.json) | Kendrick Lamar - i (v1)                                                       |
+| [AXwlTRapkfttUjHlGT](blurls/AXwlTRapkfttUjHlGT.json) | Kendrick Lamar - i (v1) (Preview)                                             |
 | [WLVhTjCsFGVtDGoHPM](blurls/WLVhTjCsFGVtDGoHPM.json) | Kendrick Lamar - i                                                            |
 | [wOBbQOTrZoYqRnyulI](blurls/wOBbQOTrZoYqRnyulI.json) | Kendrick Lamar - i (Preview)                                                  |
 | [nOREGzPlkaULcxClcO](blurls/nOREGzPlkaULcxClcO.json) | KT Tunstall - Suddenly I See                                                  |
 | [zrdluIrPYziTpscLKt](blurls/zrdluIrPYziTpscLKt.json) | KT Tunstall - Suddenly I See (Preview)                                        |
-| [LStTLeuLYTIJPoeYMN](blurls/LStTLeuLYTIJPoeYMN.json) | Lady Gaga - Applause                                                          |
-| [ggUDJCRhfiAJpXjHAc](blurls/ggUDJCRhfiAJpXjHAc.json) | Lady Gaga - Applause (Preview)                                                |
+| [VUTlcqnUOQrEkESaxv](blurls/VUTlcqnUOQrEkESaxv.json) | Lady Gaga - Applause                                                          |
+| [ncmJfFBqOtuyIGGdah](blurls/ncmJfFBqOtuyIGGdah.json) | Lady Gaga - Applause (Preview)                                                |
+| [LStTLeuLYTIJPoeYMN](blurls/LStTLeuLYTIJPoeYMN.json) | Lady Gaga - Applause (v1)                                                     |
+| [ggUDJCRhfiAJpXjHAc](blurls/ggUDJCRhfiAJpXjHAc.json) | Lady Gaga - Applause (v1) (Preview)                                           |
 | [NsvHQkJCyKsgcKIzOq](blurls/NsvHQkJCyKsgcKIzOq.json) | Lady Gaga - Bad Romance                                                       |
 | [FnWemccrEscmtHGCXw](blurls/FnWemccrEscmtHGCXw.json) | Lady Gaga - Bad Romance (Preview)                                             |
 | [piJWVLBlEkZKKEkgPN](blurls/piJWVLBlEkZKKEkgPN.json) | Lady Gaga - Bloody Mary                                                       |
 | [KibOAJFidtZiCTCFMi](blurls/KibOAJFidtZiCTCFMi.json) | Lady Gaga - Bloody Mary (Preview)                                             |
 | [fLwYXUZuIaIdSoTdKl](blurls/fLwYXUZuIaIdSoTdKl.json) | Lady Gaga - Born This Way                                                     |
 | [ErVOmoDIybmXSxbYPa](blurls/ErVOmoDIybmXSxbYPa.json) | Lady Gaga - Born This Way (Preview)                                           |
-| [LaIOnwYjsIhBfmgSwQ](blurls/LaIOnwYjsIhBfmgSwQ.json) | Lady Gaga - Poker Face                                                        |
-| [MVgwckidrZVHAyFAUH](blurls/MVgwckidrZVHAyFAUH.json) | Lady Gaga - Poker Face (Preview)                                              |
+| [DSaSnwVQCdWHexngGi](blurls/DSaSnwVQCdWHexngGi.json) | Lady Gaga - Poker Face                                                        |
+| [igerifkcKeeqfUGrbW](blurls/igerifkcKeeqfUGrbW.json) | Lady Gaga - Poker Face (Preview)                                              |
+| [LaIOnwYjsIhBfmgSwQ](blurls/LaIOnwYjsIhBfmgSwQ.json) | Lady Gaga - Poker Face (v1)                                                   |
+| [MVgwckidrZVHAyFAUH](blurls/MVgwckidrZVHAyFAUH.json) | Lady Gaga - Poker Face (v1) (Preview)                                         |
 | [KLeSDnrrvEVIaYAuFg](blurls/KLeSDnrrvEVIaYAuFg.json) | Lady Gaga - Stupid Love                                                       |
 | [ufmdyWcicCMBQxMURC](blurls/ufmdyWcicCMBQxMURC.json) | Lady Gaga - Stupid Love (Preview)                                             |
 | [EczPjHoRQbqCGGgTIw](blurls/EczPjHoRQbqCGGgTIw.json) | Lady Gaga - The Edge of Glory                                                 |
