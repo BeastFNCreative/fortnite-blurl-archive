@@ -18,6 +18,12 @@ Jam Track Audio Data from Fortnite Festival.
 | [EeaSoyOgNJLpyZfRyI](blurls/EeaSoyOgNJLpyZfRyI.json) | Bell Biv DeVoe - Poison (Preview)                                             |
 | [vCxMdIUPNtibNoDQDD](blurls/vCxMdIUPNtibNoDQDD.json) | Billie Eilish - bad guy                                                       |
 | [GeyOyokliHUGnVUMfZ](blurls/GeyOyokliHUGnVUMfZ.json) | Billie Eilish - bad guy (Preview)                                             |
+| [SPhkAgoXkChFZOCdzy](blurls/SPhkAgoXkChFZOCdzy.json) | blink-182 - All The Small Things                                              |
+| [ZlalCvEdFXuHdBMhaa](blurls/ZlalCvEdFXuHdBMhaa.json) | blink-182 - All The Small Things (Preview)                                    |
+| [rqWBVOktMCvItZKREe](blurls/rqWBVOktMCvItZKREe.json) | Blink-182 - What's My Age Again?                                              |
+| [ugZxeSKVBgKhnPuxxO](blurls/ugZxeSKVBgKhnPuxxO.json) | Blink-182 - What's My Age Again? (Preview)                                    |
+| [zPVjoTOrRuaMuKHzbO](blurls/zPVjoTOrRuaMuKHzbO.json) | blink-182 - YOU DON'T KNOW WHAT YOU'VE GOT                                    |
+| [weInZCDieUraQpcgIb](blurls/weInZCDieUraQpcgIb.json) | blink-182 - YOU DON'T KNOW WHAT YOU'VE GOT (Preview)                          |
 | [HlxxRMLRaRnUCdfuII](blurls/HlxxRMLRaRnUCdfuII.json) | DNCE - Cake By The Ocean                                                      |
 | [VrvUmHEqRmGKpFVSrr](blurls/VrvUmHEqRmGKpFVSrr.json) | DNCE - Cake By The Ocean (Preview)                                            |
 | [ACtnHHwmqTRPvwcjjR](blurls/ACtnHHwmqTRPvwcjjR.json) | Doja Cat - Say So                                                             |
@@ -84,6 +90,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [oIuiDZqtIGZxyvUgAW](blurls/oIuiDZqtIGZxyvUgAW.json) | Imagine Dragons - Believer (Preview)                                          |
 | [XZUUuItQfREbtEpCTE](blurls/XZUUuItQfREbtEpCTE.json) | Imagine Dragons - Thunder                                                     |
 | [KTfnyyIvbxiWBFKKjM](blurls/KTfnyyIvbxiWBFKKjM.json) | Imagine Dragons - Thunder (Preview)                                           |
+| [UByosFTMsePZbNRTzD](blurls/UByosFTMsePZbNRTzD.json) | JID ft. 21 Savage & Baby Tate - Surround Sound                                |
+| [ObIXGlDubbRhxJAsnz](blurls/ObIXGlDubbRhxJAsnz.json) | JID ft. 21 Savage & Baby Tate - Surround Sound (Preview)                      |
+| [VjNlpNgDaavDSsSTtJ](blurls/VjNlpNgDaavDSsSTtJ.json) | John Legend - All Of Me (Tiësto's Birthday Treatment Remix)                   |
+| [GqlQlRHNMTHHZcGBXP](blurls/GqlQlRHNMTHHZcGBXP.json) | John Legend - All Of Me (Tiësto's Birthday Treatment Remix) (Preview)         |
 | [NsitmLqggPcjUqIdkD](blurls/NsitmLqggPcjUqIdkD.json) | Kendrick Lamar - i (v1)                                                       |
 | [AXwlTRapkfttUjHlGT](blurls/AXwlTRapkfttUjHlGT.json) | Kendrick Lamar - i (v1) (Preview)                                             |
 | [WLVhTjCsFGVtDGoHPM](blurls/WLVhTjCsFGVtDGoHPM.json) | Kendrick Lamar - i                                                            |
@@ -112,11 +122,15 @@ Jam Track Audio Data from Fortnite Festival.
 | [pNDQUlhJzCUMomxMXD](blurls/pNDQUlhJzCUMomxMXD.json) | Lady Gaga & Ariana Grande - Rain On Me (Preview)                              |
 | [PEltnuMHcKMlNCKPeX](blurls/PEltnuMHcKMlNCKPeX.json) | Lady Gaga ft. Colby O'Donis - Just Dance                                      |
 | [YqegtUpkrBquZcKbrw](blurls/YqegtUpkrBquZcKbrw.json) | Lady Gaga ft. Colby O'Donis - Just Dance (Preview)                            |
+| [zmZdgTsVRlMixlemOd](blurls/zmZdgTsVRlMixlemOd.json) | Latto - Big Energy                                                            |
+| [spfNvDjeujyZSdtlMX](blurls/spfNvDjeujyZSdtlMX.json) | Latto - Big Energy (Preview)                                                  |
 | [nNcDyfisUVhLYpRVpw](blurls/nNcDyfisUVhLYpRVpw.json) | Lil Nas X ft. Jack Harlow - Industry Baby                                     |
 | [BDDJiGIZinqbqsXKub](blurls/BDDJiGIZinqbqsXKub.json) | LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem                       |
 | [nxLJFcAiIPllRRssqw](blurls/nxLJFcAiIPllRRssqw.json) | LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem (Preview)             |
 | [CEyQyyKYlUcMctCEpu](blurls/CEyQyyKYlUcMctCEpu.json) | Machine Gun Kelly ft. WILLOW - emo girl                                       |
 | [XdgIvalKRbHSgrJghw](blurls/XdgIvalKRbHSgrJghw.json) | Machine Gun Kelly ft. WILLOW - emo girl (Preview)                             |
+| [DYuvjnLoohihYQRSjy](blurls/DYuvjnLoohihYQRSjy.json) | Meghan Trainor - Me Too                                                       |
+| [pYJCnjqDOqmMOeIPFq](blurls/pYJCnjqDOqmMOeIPFq.json) | Meghan Trainor - Me Too (Preview)                                             |
 | [QxxqeiJTLAgOWqOuTb](blurls/QxxqeiJTLAgOWqOuTb.json) | Miley Cyrus  - Flowers                                                        |
 | [oSeWpNfSFwwwIxguPl](blurls/oSeWpNfSFwwwIxguPl.json) | Miley Cyrus  - Flowers (Preview)                                              |
 | [lVbXhTnpHAwjodfxyF](blurls/lVbXhTnpHAwjodfxyF.json) | Nelly ft. City Spud - Ride Wit Me                                             |
@@ -143,6 +157,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [YFbENNUpVeqiyyGEbm](blurls/YFbENNUpVeqiyyGEbm.json) | PSY - Gangnam Style (Preview)                                                 |
 | [vBlsDPnZYHiPYzAbID](blurls/vBlsDPnZYHiPYzAbID.json) | Queens of the Stone Age - Go With The Flow                                    |
 | [vfjKbIGlrZKEtKdwUH](blurls/vfjKbIGlrZKEtKdwUH.json) | Queens of the Stone Age - Go With The Flow (Preview)                          |
+| [ExFDcIVnwGOFHIqPwV](blurls/ExFDcIVnwGOFHIqPwV.json) | Rob Base & DJ EZ Rock - It Takes Two                                          |
+| [VKMEWQtHvGGdgqfMzN](blurls/VKMEWQtHvGGdgqfMzN.json) | Rob Base & DJ EZ Rock - It Takes Two (Preview)                                |
 | [ClExCoWngnMAVPlBLR](blurls/ClExCoWngnMAVPlBLR.json) | Selena Gomez - Single Soon                                                    |
 | [FxvqxjnvmZFyOVanYZ](blurls/FxvqxjnvmZFyOVanYZ.json) | Selena Gomez - Single Soon (Preview)                                          |
 | [ytgNlkXOBSYxNWCaeR](blurls/ytgNlkXOBSYxNWCaeR.json) | Shawn Mendes - Stitches                                                       |
@@ -153,6 +169,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [mAMYWlxEUGkmpOLOlW](blurls/mAMYWlxEUGkmpOLOlW.json) | Sub Urban - Cradles (Preview)                                                 |
 | [LzKrWMfTRNAdAQBhDL](blurls/LzKrWMfTRNAdAQBhDL.json) | The All-American Rejects - Dirty Little Secret                                |
 | [SYOAJSHtalCDBjDAzR](blurls/SYOAJSHtalCDBjDAzR.json) | The All-American Rejects - Dirty Little Secret (Preview)                      |
+| [dBsAKLACZwMImWXUem](blurls/dBsAKLACZwMImWXUem.json) | The Chainsmokers ft. Halsey - Closer                                          |
+| [oqNvlONiJOBXooDJFk](blurls/oqNvlONiJOBXooDJFk.json) | The Chainsmokers ft. Halsey - Closer (Preview)                                |
 | [mbeIGXNmiVskWcWFeT](blurls/mbeIGXNmiVskWcWFeT.json) | The Cranberries - Zombie                                                      |
 | [ocvyEJlcRjvGuodeLt](blurls/ocvyEJlcRjvGuodeLt.json) | The Cranberries - Zombie (Preview)                                            |
 | [GNGENvcSHgKpfWLNDA](blurls/GNGENvcSHgKpfWLNDA.json) | The Killers - Mr. Brightside                                                  |
