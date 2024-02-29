@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [RnljnozsXgWcPZXbQK](blurls/RnljnozsXgWcPZXbQK.json) | The Squabble Icon Series Emote |
 | [ZfBzfmtfHjYIEYHdHW](blurls/ZfBzfmtfHjYIEYHdHW.json) | Interstellar Bass Icon Series Emote |
 | [BQhDEWvzOcHmjVwxrD](blurls/BQhDEWvzOcHmjVwxrD.json) | LEGO Fortnite Cinematic Trailer |
 | [plUAtjTviltaccHJJj](blurls/plUAtjTviltaccHJJj.json) | Fortnite Festival Season 2 Lady Gaga Cinematic Trailer |
