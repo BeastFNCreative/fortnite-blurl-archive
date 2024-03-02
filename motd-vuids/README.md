@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [gsiqjBmLVtVJKLrbce](blurls/gsiqjBmLVtVJKLrbce.json) | Careless Icon Series Emote |
 | [RnljnozsXgWcPZXbQK](blurls/RnljnozsXgWcPZXbQK.json) | The Squabble Icon Series Emote |
 | [ZfBzfmtfHjYIEYHdHW](blurls/ZfBzfmtfHjYIEYHdHW.json) | Interstellar Bass Icon Series Emote |
 | [BQhDEWvzOcHmjVwxrD](blurls/BQhDEWvzOcHmjVwxrD.json) | LEGO Fortnite Cinematic Trailer |
@@ -297,7 +298,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 | [pBQaTziambDTBXFCoY](blurls/pBQaTziambDTBXFCoY.json) | MY HERO ACADEMIA Gameplay Trailer |
 | [mqgWvKuaUHzCBXshHC](blurls/mqgWvKuaUHzCBXshHC.json) | Warm Up Icon Series Emote |
 | [RXiQkiERxHcBciraef](blurls/RXiQkiERxHcBciraef.json) | Falcon Scout Item Trailer |
-| [iKxEsbPbEOibflEbAZ](blurls/iKxEsbPbEOibflEbAZ.json) | The Kid LAROI Icon Series Set Trailer |
+| [iKxEsbPbEOibflEbAZ](blurls/iKxEsbPbEOibflEbAZ.json) | The Kid LAROI Collaboration Trailer |
 | [SUJfxkyQACqPOeXPWy](blurls/SUJfxkyQACqPOeXPWy.json) | The Kid LAROIs Wild Dreams Event Trailer |
 | [GohhATLxBhNWShRPdw](blurls/GohhATLxBhNWShRPdw.json) | DB2 WAVE EMOTES VIDEO |
 | [HaPWguIwCowpERlsye](blurls/HaPWguIwCowpERlsye.json) | Shugoki Icon Series Glider Trailer |
