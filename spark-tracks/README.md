@@ -20,14 +20,18 @@ Jam Track Audio Data from Fortnite Festival.
 | [GeyOyokliHUGnVUMfZ](blurls/GeyOyokliHUGnVUMfZ.json) | Billie Eilish - bad guy (Preview)                                             |
 | [SPhkAgoXkChFZOCdzy](blurls/SPhkAgoXkChFZOCdzy.json) | blink-182 - All The Small Things                                              |
 | [ZlalCvEdFXuHdBMhaa](blurls/ZlalCvEdFXuHdBMhaa.json) | blink-182 - All The Small Things (Preview)                                    |
-| [rqWBVOktMCvItZKREe](blurls/rqWBVOktMCvItZKREe.json) | Blink-182 - What's My Age Again?                                              |
-| [ugZxeSKVBgKhnPuxxO](blurls/ugZxeSKVBgKhnPuxxO.json) | Blink-182 - What's My Age Again? (Preview)                                    |
+| [rqWBVOktMCvItZKREe](blurls/rqWBVOktMCvItZKREe.json) | blink-182 - What's My Age Again?                                              |
+| [ugZxeSKVBgKhnPuxxO](blurls/ugZxeSKVBgKhnPuxxO.json) | blink-182 - What's My Age Again? (Preview)                                    |
 | [zPVjoTOrRuaMuKHzbO](blurls/zPVjoTOrRuaMuKHzbO.json) | blink-182 - YOU DON'T KNOW WHAT YOU'VE GOT                                    |
 | [weInZCDieUraQpcgIb](blurls/weInZCDieUraQpcgIb.json) | blink-182 - YOU DON'T KNOW WHAT YOU'VE GOT (Preview)                          |
+| [ATKBVHqtnSLVACLvrs](blurls/ATKBVHqtnSLVACLvrs.json) | Disturbed - Down with the Sickness                                            |
+| [xbOGowCBNjszsGpjNX](blurls/xbOGowCBNjszsGpjNX.json) | Disturbed - Down with the Sickness (Preview)                                  |
 | [HlxxRMLRaRnUCdfuII](blurls/HlxxRMLRaRnUCdfuII.json) | DNCE - Cake By The Ocean                                                      |
 | [VrvUmHEqRmGKpFVSrr](blurls/VrvUmHEqRmGKpFVSrr.json) | DNCE - Cake By The Ocean (Preview)                                            |
 | [ACtnHHwmqTRPvwcjjR](blurls/ACtnHHwmqTRPvwcjjR.json) | Doja Cat - Say So                                                             |
 | [qGGzNaSjbTmuRSbMRp](blurls/qGGzNaSjbTmuRSbMRp.json) | Doja Cat - Say So (Preview)                                                   |
+| [WRKyljCDBpRoyYtjWe](blurls/WRKyljCDBpRoyYtjWe.json) | Ed Sheeran - Shivers                                                          |
+| [DPArzxivXSQMGpUAKl](blurls/DPArzxivXSQMGpUAKl.json) | Ed Sheeran - Shivers (Preview)                                                |
 | [rFVnhHkGeIWkYTeMef](blurls/rFVnhHkGeIWkYTeMef.json) | Elton John & Britney Spears - Hold Me Closer                                  |
 | [AACFRxoSQmUrLrsJro](blurls/AACFRxoSQmUrLrsJro.json) | Elton John & Britney Spears - Hold Me Closer (Preview)                        |
 | [HEwIkFRBGDQntjsWma](blurls/HEwIkFRBGDQntjsWma.json) | Epic Games - 8-Bit Beat                                                       |
@@ -76,6 +80,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [lRyyfqXvYUtypwXDte](blurls/lRyyfqXvYUtypwXDte.json) | Glass Animals - Heat Waves (v1) (Preview)                                     |
 | [DFtfUXkCkZRYaZcJzu](blurls/DFtfUXkCkZRYaZcJzu.json) | Glass Animals - Heat Waves                                                    |
 | [iXvdhpzYyAfqnuWtLC](blurls/iXvdhpzYyAfqnuWtLC.json) | Glass Animals - Heat Waves (Preview)                                          |
+| [VMhOLCOVOFDKhlUeac](blurls/VMhOLCOVOFDKhlUeac.json) | Gorillaz - Feel Good Inc                                                      |
+| [pIVFAyffMjxKfdCivx](blurls/pIVFAyffMjxKfdCivx.json) | Gorillaz - Feel Good Inc (Preview)                                            |
 | [cRVZgAGWLQYkXFAAVJ](blurls/cRVZgAGWLQYkXFAAVJ.json) | Green Day - Basket Case                                                       |
 | [eNUZuNpvxcEwjeRfKT](blurls/eNUZuNpvxcEwjeRfKT.json) | Green Day - Basket Case (Preview)                                             |
 | [gQDsXwYMBaPypmQITA](blurls/gQDsXwYMBaPypmQITA.json) | Green Day - Welcome to Paradise                                               |
@@ -90,6 +96,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [oIuiDZqtIGZxyvUgAW](blurls/oIuiDZqtIGZxyvUgAW.json) | Imagine Dragons - Believer (Preview)                                          |
 | [XZUUuItQfREbtEpCTE](blurls/XZUUuItQfREbtEpCTE.json) | Imagine Dragons - Thunder                                                     |
 | [KTfnyyIvbxiWBFKKjM](blurls/KTfnyyIvbxiWBFKKjM.json) | Imagine Dragons - Thunder (Preview)                                           |
+| [EEiSPgqewiaalVZOnP](blurls/EEiSPgqewiaalVZOnP.json) | Jack Harlow - WHATS POPPIN                                                    |
+| [NdGrrjvVtRWmBvKWFh](blurls/NdGrrjvVtRWmBvKWFh.json) | Jack Harlow - WHATS POPPIN (Preview)                                          |
 | [UByosFTMsePZbNRTzD](blurls/UByosFTMsePZbNRTzD.json) | JID ft. 21 Savage & Baby Tate - Surround Sound                                |
 | [ObIXGlDubbRhxJAsnz](blurls/ObIXGlDubbRhxJAsnz.json) | JID ft. 21 Savage & Baby Tate - Surround Sound (Preview)                      |
 | [VjNlpNgDaavDSsSTtJ](blurls/VjNlpNgDaavDSsSTtJ.json) | John Legend - All Of Me (Tiësto's Birthday Treatment Remix)                   |
@@ -125,6 +133,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [zmZdgTsVRlMixlemOd](blurls/zmZdgTsVRlMixlemOd.json) | Latto - Big Energy                                                            |
 | [spfNvDjeujyZSdtlMX](blurls/spfNvDjeujyZSdtlMX.json) | Latto - Big Energy (Preview)                                                  |
 | [nNcDyfisUVhLYpRVpw](blurls/nNcDyfisUVhLYpRVpw.json) | Lil Nas X ft. Jack Harlow - Industry Baby                                     |
+| [ovoFZlSqdtoBtXBxdW](blurls/ovoFZlSqdtoBtXBxdW.json) | Linkin Park - Numb                                                            |
+| [cGiGEljlaNGZADvZEO](blurls/cGiGEljlaNGZADvZEO.json) | Linkin Park - Numb (Preview)                                                  |
 | [BDDJiGIZinqbqsXKub](blurls/BDDJiGIZinqbqsXKub.json) | LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem                       |
 | [nxLJFcAiIPllRRssqw](blurls/nxLJFcAiIPllRRssqw.json) | LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem (Preview)             |
 | [CEyQyyKYlUcMctCEpu](blurls/CEyQyyKYlUcMctCEpu.json) | Machine Gun Kelly ft. WILLOW - emo girl                                       |
@@ -151,8 +161,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [XygbnObJMfKxwRRYpP](blurls/XygbnObJMfKxwRRYpP.json) | Olivia Rodrigo - vampire (Preview)                                            |
 | [riNhemRROyUlttwSgs](blurls/riNhemRROyUlttwSgs.json) | OneRepublic - Counting Stars                                                  |
 | [trFSPMmSuyiVaBMVfN](blurls/trFSPMmSuyiVaBMVfN.json) | OneRepublic - Counting Stars (Preview)                                        |
+| [NqjqtyqhtVuwXsWuOw](blurls/NqjqtyqhtVuwXsWuOw.json) | Panic! at the Disco - High Hopes                                              |
+| [ORgIbvKisVBGYpgSRp](blurls/ORgIbvKisVBGYpgSRp.json) | Panic! at the Disco - High Hopes (Preview)                                    |
+| [QsmbQZmAHCwMwGUzni](blurls/QsmbQZmAHCwMwGUzni.json) | Paramore - Misery Business                                                    |
+| [zUfWsNOdizEYECvaNv](blurls/zUfWsNOdizEYECvaNv.json) | Paramore - Misery Business (Preview)                                          |
 | [QeWVWyrbFhcQfaHYUq](blurls/QeWVWyrbFhcQfaHYUq.json) | Pat Benatar - Heartbreaker                                                    |
 | [YXdJwGrgvgTgntrdbA](blurls/YXdJwGrgvgTgntrdbA.json) | Pat Benatar - Heartbreaker (Preview)                                          |
+| [DENVGWeeUtiPZuFSiD](blurls/DENVGWeeUtiPZuFSiD.json) | Portugal. The Man - Feel It Still                                             |
+| [MjLyyEACnNSwCxjtdy](blurls/MjLyyEACnNSwCxjtdy.json) | Portugal. The Man - Feel It Still (Preview)                                   |
 | [FNXNEPYqgZJwUeZWCs](blurls/FNXNEPYqgZJwUeZWCs.json) | PSY - Gangnam Style                                                           |
 | [YFbENNUpVeqiyyGEbm](blurls/YFbENNUpVeqiyyGEbm.json) | PSY - Gangnam Style (Preview)                                                 |
 | [vBlsDPnZYHiPYzAbID](blurls/vBlsDPnZYHiPYzAbID.json) | Queens of the Stone Age - Go With The Flow                                    |
