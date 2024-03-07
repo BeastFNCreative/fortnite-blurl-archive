@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [UgEAsOaOwJHgdOXtJf](blurls/UgEAsOaOwJHgdOXtJf.json) | Myths and Mortals (Chapter 5 Season 2 Cinematic Teaser) |
 | [gsiqjBmLVtVJKLrbce](blurls/gsiqjBmLVtVJKLrbce.json) | Careless Icon Series Emote |
 | [RnljnozsXgWcPZXbQK](blurls/RnljnozsXgWcPZXbQK.json) | The Squabble Icon Series Emote |
 | [ZfBzfmtfHjYIEYHdHW](blurls/ZfBzfmtfHjYIEYHdHW.json) | Interstellar Bass Icon Series Emote |
