@@ -51,7 +51,9 @@ Seasonal Trailer Video Content, found in either the Career Tab or First Time Sta
 | [OdUZGeZJMqUrGpjPKp](blurls/OdUZGeZJMqUrGpjPKp.json) | Chapter 4 Season 4 : Battle Pass Trailer & Cinematic Trailer |
 | [ogHDHTBmCyrHxKJZBY](blurls/ogHDHTBmCyrHxKJZBY.json) | Chapter 4 Season 4 : Battle Pass Trailer & Cinematic Trailer (Alt) |
 | [ojgRdkSQoLaABnyvzP](blurls/ojgRdkSQoLaABnyvzP.json) | Chapter 4 Season OG : In-Game Trailer |
-| [MPnLHtfcdnqNPxXYId](blurls/MPnLHtfcdnqNPxXYId.json) | Chapter 5 Season 1 : Eco Trailer |
+| [MPnLHtfcdnqNPxXYId](blurls/MPnLHtfcdnqNPxXYId.json) | Chapter 5 Season 1 : Ecosystem Trailer |
 | [HsarxbkNSSsgBlPxiC](blurls/HsarxbkNSSsgBlPxiC.json) | Chapter 5 Season 1 : Battle Pass Trailer & Cinematic Trailer |
 | [gAVSCLqxEKKvhZxZcC](blurls/gAVSCLqxEKKvhZxZcC.json) | Chapter 5 Season 1 : Battle Pass Trailer & Cinematic Trailer (Alternative) |
 | [DngoFIpcHmNjxWrjfu](blurls/DngoFIpcHmNjxWrjfu.json) | Chapter 5 Season 1 : Battle Pass Trailer & Cinematic Trailer (Alternative) |
+| [DoURAWYbUPGegHbudF](blurls/DoURAWYbUPGegHbudF.json) | Chapter 5 Season 2 : Battle Pass Trailer & Cinematic Trailer |
+| [oZBwQKuLABCXEMOHoa](blurls/oZBwQKuLABCXEMOHoa.json) | Chapter 5 Season 2 : Ecosystem Trailer |

@@ -12,8 +12,6 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 
 | VUID | Description                |
 | :-------- | :------------------------- |
-| [CWJQKLvQwXgtEHMOio](blurls/CWJQKLvQwXgtEHMOio.json) | set_br_playlists : Myths and Mortals |
-| [abxnGhUwXcjPrymobq](blurls/abxnGhUwXcjPrymobq.json) | set_nobuild_playlists : Myths and Mortals |
 | [YdKtkcvQROjZcpicXX](blurls/YdKtkcvQROjZcpicXX.json) | 0227-4570-9187 : Little Bird |
 | [dQdFriXlyUSKgMqJhI](blurls/dQdFriXlyUSKgMqJhI.json) | 2601-0606-9081 : The Kid LAROI's Wild Dreams |
 | [FtvCYcMvKOulsOYCzT](blurls/FtvCYcMvKOulsOYCzT.json) | 3500-0540-0065 : Soundwave Series ft. Aya Nakamura |
@@ -41,8 +39,10 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [DpfVjiXQaFTRgOaGFE](blurls/DpfVjiXQaFTRgOaGFE.json) | set_br_playlists : Battle Royale |
 | [taqdZkWyokbCyEFWld](blurls/taqdZkWyokbCyEFWld.json) | set_br_playlists : Battle Royale (v1) |
 | [tMxxShcqdutMflWvpG](blurls/tMxxShcqdutMflWvpG.json) | set_br_playlists : Battle Royale (v2) |
+| [CWJQKLvQwXgtEHMOio](blurls/CWJQKLvQwXgtEHMOio.json) | set_br_playlists : Myths and Mortals |
 | [nBXWuBNMdScHeYtCnP](blurls/nBXWuBNMdScHeYtCnP.json) | set_delmar_mrs_ranked : Rocket Racing |
 | [qpdchKarjFnwpdEnYj](blurls/qpdchKarjFnwpdEnYj.json) | set_delmar_mrs_ranked : Rocket Racing (Extra VUID) |
 | [VeMCQpJEuQxYyUQGeB](blurls/VeMCQpJEuQxYyUQGeB.json) | set_imposters_playlists : Impostors |
+| [abxnGhUwXcjPrymobq](blurls/abxnGhUwXcjPrymobq.json) | set_nobuild_playlists : Myths and Mortals |
 | [KLHeAwpnfyWJzsHggq](blurls/KLHeAwpnfyWJzsHggq.json) | set_nobuild_playlists : Zero Build - Battle Royale |
 | [VTfsLUcDGhrnzHppNB](blurls/VTfsLUcDGhrnzHppNB.json) | set_nobuild_playlists : Zero Build - Battle Royale (v1) |

@@ -42,8 +42,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [BzJXrdsEXRrfAzEnjv](blurls/BzJXrdsEXRrfAzEnjv.json) | Epic Games - Bloom  (Preview)                                                 |
 | [JXTHTqaQusWrIqTwWo](blurls/JXTHTqaQusWrIqTwWo.json) | Epic Games - Butter Barn Hoedown                                              |
 | [LvAUtAEuWsMjWFDfIn](blurls/LvAUtAEuWsMjWFDfIn.json) | Epic Games - Butter Barn Hoedown (Preview)                                    |
-| [AqzJOZzkSxbofUdkMB](blurls/AqzJOZzkSxbofUdkMB.json) | Epic Games - Butter Barn Hoedown (v1 VUID)                                    |
-| [ibdfdERRkeiDoCnFPM](blurls/ibdfdERRkeiDoCnFPM.json) | Epic Games - Butter Barn Hoedown (v1 VUID) (Preview)                          |
+| [AqzJOZzkSxbofUdkMB](blurls/AqzJOZzkSxbofUdkMB.json) | Epic Games - Butter Barn Hoedown (v1)                                         |
+| [ibdfdERRkeiDoCnFPM](blurls/ibdfdERRkeiDoCnFPM.json) | Epic Games - Butter Barn Hoedown (v1) (Preview)                               |
 | [ggOVvBIigmrYidAdlU](blurls/ggOVvBIigmrYidAdlU.json) | Epic Games - Flickering Flame                                                 |
 | [mObSAekLEUiiRlVjgC](blurls/mObSAekLEUiiRlVjgC.json) | Epic Games - Flickering Flame (Preview)                                       |
 | [zIVFyCkOQcadroQWNg](blurls/zIVFyCkOQcadroQWNg.json) | Epic Games - I'm A Cat                                                        |
@@ -58,10 +58,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [lSSttxgmLYSvUJTvUs](blurls/lSSttxgmLYSvUJTvUs.json) | Epic Games - Streets Ignite (Preview)                                         |
 | [KhjBedwOBvlhUtLogG](blurls/KhjBedwOBvlhUtLogG.json) | Epic Games - Sweet Victory                                                    |
 | [vLlrMxOlVLFEPMXBQR](blurls/vLlrMxOlVLFEPMXBQR.json) | Epic Games - Sweet Victory (Preview)                                          |
+| [JuKnIyjDHJOAXqIhsE](blurls/JuKnIyjDHJOAXqIhsE.json) | Epic Games - Swim Free                                                        |
+| [HojRJfaIRvTzBvHeUO](blurls/HojRJfaIRvTzBvHeUO.json) | Epic Games - Swim Free (Preview)                                              |
 | [JwDOJugzngIrXIWMNc](blurls/JwDOJugzngIrXIWMNc.json) | Epic Games - Switch Up                                                        |
 | [hSjdaUWjgTGjsvgwcM](blurls/hSjdaUWjgTGjsvgwcM.json) | Epic Games - Switch Up (Preview)                                              |
 | [ZtkBgwLEUFVPJsByvD](blurls/ZtkBgwLEUFVPJsByvD.json) | Epic Games - Take Me Higher                                                   |
 | [LjVfzBLBaBIQRRcmJX](blurls/LjVfzBLBaBIQRRcmJX.json) | Epic Games - Take Me Higher (Preview)                                         |
+| [DuUVxGRztgxPIObnSa](blurls/DuUVxGRztgxPIObnSa.json) | Epic Games - The Hunting Ground                                               |
+| [JXmRdPnKKATjMzTriN](blurls/JXmRdPnKKATjMzTriN.json) | Epic Games - The Hunting Ground (Preview)                                     |
 | [pCBfbQCBvKPcFqjtgU](blurls/pCBfbQCBvKPcFqjtgU.json) | Epic Games - Brace for Chaos                                                  |
 | [UVaPRcwdihUdxhhCia](blurls/UVaPRcwdihUdxhhCia.json) | Epic Games - Brace for Chaos (Preview)                                        |
 | [xPekeINTciUVooITmh](blurls/xPekeINTciUVooITmh.json) | Epic Games - Return of the Tiger                                              |
@@ -72,14 +76,16 @@ Jam Track Audio Data from Fortnite Festival.
 | [IVpxBpwjSCdfHrKCAH](blurls/IVpxBpwjSCdfHrKCAH.json) | Epic Games - Winterfest Wish (Preview)                                        |
 | [ADVHilMkRFqgVYNodu](blurls/ADVHilMkRFqgVYNodu.json) | Epic Games - You Don't Know Me                                                |
 | [aYvnqpcyHlEMOdDrBI](blurls/aYvnqpcyHlEMOdDrBI.json) | Epic Games - You Don't Know Me (Preview)                                      |
+| [nWsBPWqEvuryzsEqQc](blurls/nWsBPWqEvuryzsEqQc.json) | Epic Games - You're All Mine                                                  |
+| [IfgPRlXoxQIrDRnzys](blurls/IfgPRlXoxQIrDRnzys.json) | Epic Games - You're All Mine (Preview)                                        |
 | [FEeVYNTEBnLAzfDdLJ](blurls/FEeVYNTEBnLAzfDdLJ.json) | Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up)           |
 | [GDBzQCdOUJEpXwEqql](blurls/GDBzQCdOUJEpXwEqql.json) | Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up) (Preview) |
 | [mWjTugiKTqwMWrrGbw](blurls/mWjTugiKTqwMWrrGbw.json) | Florence + The Machine - Dog Days Are Over                                    |
 | [MZnIlagpQkjalAHQjK](blurls/MZnIlagpQkjalAHQjK.json) | Florence + The Machine - Dog Days Are Over (Preview)                          |
-| [PDHnYsfoqqtMtMJXWf](blurls/PDHnYsfoqqtMtMJXWf.json) | Glass Animals - Heat Waves (v1)                                               |
-| [lRyyfqXvYUtypwXDte](blurls/lRyyfqXvYUtypwXDte.json) | Glass Animals - Heat Waves (v1) (Preview)                                     |
 | [DFtfUXkCkZRYaZcJzu](blurls/DFtfUXkCkZRYaZcJzu.json) | Glass Animals - Heat Waves                                                    |
 | [iXvdhpzYyAfqnuWtLC](blurls/iXvdhpzYyAfqnuWtLC.json) | Glass Animals - Heat Waves (Preview)                                          |
+| [PDHnYsfoqqtMtMJXWf](blurls/PDHnYsfoqqtMtMJXWf.json) | Glass Animals - Heat Waves (v1)                                               |
+| [lRyyfqXvYUtypwXDte](blurls/lRyyfqXvYUtypwXDte.json) | Glass Animals - Heat Waves (v1) (Preview)                                     |
 | [VMhOLCOVOFDKhlUeac](blurls/VMhOLCOVOFDKhlUeac.json) | Gorillaz - Feel Good Inc                                                      |
 | [pIVFAyffMjxKfdCivx](blurls/pIVFAyffMjxKfdCivx.json) | Gorillaz - Feel Good Inc (Preview)                                            |
 | [cRVZgAGWLQYkXFAAVJ](blurls/cRVZgAGWLQYkXFAAVJ.json) | Green Day - Basket Case                                                       |
@@ -96,16 +102,18 @@ Jam Track Audio Data from Fortnite Festival.
 | [oIuiDZqtIGZxyvUgAW](blurls/oIuiDZqtIGZxyvUgAW.json) | Imagine Dragons - Believer (Preview)                                          |
 | [XZUUuItQfREbtEpCTE](blurls/XZUUuItQfREbtEpCTE.json) | Imagine Dragons - Thunder                                                     |
 | [KTfnyyIvbxiWBFKKjM](blurls/KTfnyyIvbxiWBFKKjM.json) | Imagine Dragons - Thunder (Preview)                                           |
-| [EEiSPgqewiaalVZOnP](blurls/EEiSPgqewiaalVZOnP.json) | Jack Harlow - WHATS POPPIN                                                    |
-| [NdGrrjvVtRWmBvKWFh](blurls/NdGrrjvVtRWmBvKWFh.json) | Jack Harlow - WHATS POPPIN (Preview)                                          |
+| [JXOekLgtaGBlNynJgO](blurls/JXOekLgtaGBlNynJgO.json) | Jack Harlow - WHATS POPPIN                                                    |
+| [rPToQPfrpyrLLoUSAh](blurls/rPToQPfrpyrLLoUSAh.json) | Jack Harlow - WHATS POPPIN (Preview)                                          |
+| [EEiSPgqewiaalVZOnP](blurls/EEiSPgqewiaalVZOnP.json) | Jack Harlow - WHATS POPPIN (v1)                                               |
+| [NdGrrjvVtRWmBvKWFh](blurls/NdGrrjvVtRWmBvKWFh.json) | Jack Harlow - WHATS POPPIN (v1) (Preview)                                     |
 | [UByosFTMsePZbNRTzD](blurls/UByosFTMsePZbNRTzD.json) | JID ft. 21 Savage & Baby Tate - Surround Sound                                |
 | [ObIXGlDubbRhxJAsnz](blurls/ObIXGlDubbRhxJAsnz.json) | JID ft. 21 Savage & Baby Tate - Surround Sound (Preview)                      |
 | [VjNlpNgDaavDSsSTtJ](blurls/VjNlpNgDaavDSsSTtJ.json) | John Legend - All Of Me (Tiësto's Birthday Treatment Remix)                   |
 | [GqlQlRHNMTHHZcGBXP](blurls/GqlQlRHNMTHHZcGBXP.json) | John Legend - All Of Me (Tiësto's Birthday Treatment Remix) (Preview)         |
-| [NsitmLqggPcjUqIdkD](blurls/NsitmLqggPcjUqIdkD.json) | Kendrick Lamar - i (v1)                                                       |
-| [AXwlTRapkfttUjHlGT](blurls/AXwlTRapkfttUjHlGT.json) | Kendrick Lamar - i (v1) (Preview)                                             |
 | [WLVhTjCsFGVtDGoHPM](blurls/WLVhTjCsFGVtDGoHPM.json) | Kendrick Lamar - i                                                            |
 | [wOBbQOTrZoYqRnyulI](blurls/wOBbQOTrZoYqRnyulI.json) | Kendrick Lamar - i (Preview)                                                  |
+| [NsitmLqggPcjUqIdkD](blurls/NsitmLqggPcjUqIdkD.json) | Kendrick Lamar - i (v1)                                                       |
+| [AXwlTRapkfttUjHlGT](blurls/AXwlTRapkfttUjHlGT.json) | Kendrick Lamar - i (v1) (Preview)                                             |
 | [nOREGzPlkaULcxClcO](blurls/nOREGzPlkaULcxClcO.json) | KT Tunstall - Suddenly I See                                                  |
 | [zrdluIrPYziTpscLKt](blurls/zrdluIrPYziTpscLKt.json) | KT Tunstall - Suddenly I See (Preview)                                        |
 | [VUTlcqnUOQrEkESaxv](blurls/VUTlcqnUOQrEkESaxv.json) | Lady Gaga - Applause                                                          |
