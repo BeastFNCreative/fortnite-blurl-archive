@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [yrjtfamcruXYQyewgY](blurls/yrjtfamcruXYQyewgY.json) | Introducing Fortnite Lego kits Trailer | 
 | [TDFknhIIEDOhejYdcq](blurls/TDFknhIIEDOhejYdcq.json) | Myths and Mortals (Chapter 5 Season 2 Cinematic Trailer) |
 | [UgEAsOaOwJHgdOXtJf](blurls/UgEAsOaOwJHgdOXtJf.json) | Myths and Mortals (Chapter 5 Season 2 Cinematic Teaser) |
 | [gsiqjBmLVtVJKLrbce](blurls/gsiqjBmLVtVJKLrbce.json) | Careless Icon Series Emote |
