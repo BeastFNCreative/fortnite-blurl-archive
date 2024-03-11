@@ -54,8 +54,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [ummqUqCSFUWeQfzTvs](blurls/ummqUqCSFUWeQfzTvs.json) | Epic Games - OG (Future Remix) (Preview)                                      |
 | [vATlQurzvPwglcKfxp](blurls/vATlQurzvPwglcKfxp.json) | Epic Games - Show Them Who We Are                                             |
 | [cGcjyotaSPSnOCIUme](blurls/cGcjyotaSPSnOCIUme.json) | Epic Games - Show Them Who We Are (Preview)                                   |
-| [XCGKmuqiDgmuNvjtce](blurls/XCGKmuqiDgmuNvjtce.json) | Epic Games - Streets Ignite                                                   |
-| [lSSttxgmLYSvUJTvUs](blurls/lSSttxgmLYSvUJTvUs.json) | Epic Games - Streets Ignite (Preview)                                         |
+| [LoWYCRMgTmizOwuhhE](blurls/LoWYCRMgTmizOwuhhE.json) | Epic Games - Streets Ignite                                                   |
+| [KpZUhezmmNeGfkZrzW](blurls/KpZUhezmmNeGfkZrzW.json) | Epic Games - Streets Ignite (Preview)                                         |
+| [XCGKmuqiDgmuNvjtce](blurls/XCGKmuqiDgmuNvjtce.json) | Epic Games - Streets Ignite (v1)                                              |
+| [lSSttxgmLYSvUJTvUs](blurls/lSSttxgmLYSvUJTvUs.json) | Epic Games - Streets Ignite (v1) (Preview)                                    |
 | [KhjBedwOBvlhUtLogG](blurls/KhjBedwOBvlhUtLogG.json) | Epic Games - Sweet Victory                                                    |
 | [vLlrMxOlVLFEPMXBQR](blurls/vLlrMxOlVLFEPMXBQR.json) | Epic Games - Sweet Victory (Preview)                                          |
 | [JuKnIyjDHJOAXqIhsE](blurls/JuKnIyjDHJOAXqIhsE.json) | Epic Games - Swim Free                                                        |
