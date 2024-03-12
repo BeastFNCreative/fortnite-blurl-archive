@@ -24,8 +24,12 @@ Jam Track Audio Data from Fortnite Festival.
 | [ugZxeSKVBgKhnPuxxO](blurls/ugZxeSKVBgKhnPuxxO.json) | blink-182 - What's My Age Again? (Preview)                                    |
 | [zPVjoTOrRuaMuKHzbO](blurls/zPVjoTOrRuaMuKHzbO.json) | blink-182 - YOU DON'T KNOW WHAT YOU'VE GOT                                    |
 | [weInZCDieUraQpcgIb](blurls/weInZCDieUraQpcgIb.json) | blink-182 - YOU DON'T KNOW WHAT YOU'VE GOT (Preview)                          |
+| [YWSZWKXdPcJdCgXheg](blurls/YWSZWKXdPcJdCgXheg.json) | Darude - Sandstorm                                                            |
+| [fFiWFfKnAjyjncUHLI](blurls/fFiWFfKnAjyjncUHLI.json) | Darude - Sandstorm (Preview)                                                  |
 | [ATKBVHqtnSLVACLvrs](blurls/ATKBVHqtnSLVACLvrs.json) | Disturbed - Down with the Sickness                                            |
 | [xbOGowCBNjszsGpjNX](blurls/xbOGowCBNjszsGpjNX.json) | Disturbed - Down with the Sickness (Preview)                                  |
+| [dNzhpYzOCoQbchHjPi](blurls/dNzhpYzOCoQbchHjPi.json) | DMX - X Gon' Give It To Ya                                                    |
+| [NkLaeMUkINfhzwRlwg](blurls/NkLaeMUkINfhzwRlwg.json) | DMX - X Gon' Give It To Ya (Preview)                                          |
 | [HlxxRMLRaRnUCdfuII](blurls/HlxxRMLRaRnUCdfuII.json) | DNCE - Cake By The Ocean                                                      |
 | [VrvUmHEqRmGKpFVSrr](blurls/VrvUmHEqRmGKpFVSrr.json) | DNCE - Cake By The Ocean (Preview)                                            |
 | [ACtnHHwmqTRPvwcjjR](blurls/ACtnHHwmqTRPvwcjjR.json) | Doja Cat - Say So                                                             |
@@ -110,8 +114,16 @@ Jam Track Audio Data from Fortnite Festival.
 | [NdGrrjvVtRWmBvKWFh](blurls/NdGrrjvVtRWmBvKWFh.json) | Jack Harlow - WHATS POPPIN (v1) (Preview)                                     |
 | [UByosFTMsePZbNRTzD](blurls/UByosFTMsePZbNRTzD.json) | JID ft. 21 Savage & Baby Tate - Surround Sound                                |
 | [ObIXGlDubbRhxJAsnz](blurls/ObIXGlDubbRhxJAsnz.json) | JID ft. 21 Savage & Baby Tate - Surround Sound (Preview)                      |
+| [dTAHuVXeYtSVXnHfei](blurls/dTAHuVXeYtSVXnHfei.json) | Jimmy Eat World - The Middle                                                  |
+| [QJdPDQMItiCyUiHeXy](blurls/QJdPDQMItiCyUiHeXy.json) | Jimmy Eat World - The Middle (Preview)                                        |
 | [VjNlpNgDaavDSsSTtJ](blurls/VjNlpNgDaavDSsSTtJ.json) | John Legend - All Of Me (Tiësto's Birthday Treatment Remix)                   |
 | [GqlQlRHNMTHHZcGBXP](blurls/GqlQlRHNMTHHZcGBXP.json) | John Legend - All Of Me (Tiësto's Birthday Treatment Remix) (Preview)         |
+| [ExyKoSEXKXzxaCARtv](blurls/ExyKoSEXKXzxaCARtv.json) | Juice WRLD - Lucid Dreams                                                     |
+| [vmHRfNYrCrrJmCxXbI](blurls/vmHRfNYrCrrJmCxXbI.json) | Juice WRLD - Lucid Dreams (Preview)                                           |
+| [WVLkcCPXlFLRAgRzAU](blurls/WVLkcCPXlFLRAgRzAU.json) | Juice WRLD w/ Marshmello - Come & Go                                          |
+| [yXywvsouffAkaGwQLk](blurls/yXywvsouffAkaGwQLk.json) | Juice WRLD w/ Marshmello - Come & Go (Preview)                                |
+| [YJuJITYtGSdfDcXGNp](blurls/YJuJITYtGSdfDcXGNp.json) | Katy Perry - Firework                                                         |
+| [EsavPhYoXQtFgqOHoe](blurls/EsavPhYoXQtFgqOHoe.json) | Katy Perry - Firework (Preview)                                               |
 | [WLVhTjCsFGVtDGoHPM](blurls/WLVhTjCsFGVtDGoHPM.json) | Kendrick Lamar - i                                                            |
 | [wOBbQOTrZoYqRnyulI](blurls/wOBbQOTrZoYqRnyulI.json) | Kendrick Lamar - i (Preview)                                                  |
 | [NsitmLqggPcjUqIdkD](blurls/NsitmLqggPcjUqIdkD.json) | Kendrick Lamar - i (v1)                                                       |
@@ -171,6 +183,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [XygbnObJMfKxwRRYpP](blurls/XygbnObJMfKxwRRYpP.json) | Olivia Rodrigo - vampire (Preview)                                            |
 | [riNhemRROyUlttwSgs](blurls/riNhemRROyUlttwSgs.json) | OneRepublic - Counting Stars                                                  |
 | [trFSPMmSuyiVaBMVfN](blurls/trFSPMmSuyiVaBMVfN.json) | OneRepublic - Counting Stars (Preview)                                        |
+| [aKCpBJfDAMofyKgNaF](blurls/aKCpBJfDAMofyKgNaF.json) | P!nk - So What                                                                |
+| [RHoPodddhErJGKVBEJ](blurls/RHoPodddhErJGKVBEJ.json) | P!nk - So What (Preview)                                                      |
 | [NqjqtyqhtVuwXsWuOw](blurls/NqjqtyqhtVuwXsWuOw.json) | Panic! at the Disco - High Hopes                                              |
 | [ORgIbvKisVBGYpgSRp](blurls/ORgIbvKisVBGYpgSRp.json) | Panic! at the Disco - High Hopes (Preview)                                    |
 | [QsmbQZmAHCwMwGUzni](blurls/QsmbQZmAHCwMwGUzni.json) | Paramore - Misery Business                                                    |
@@ -185,6 +199,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [vfjKbIGlrZKEtKdwUH](blurls/vfjKbIGlrZKEtKdwUH.json) | Queens of the Stone Age - Go With The Flow (Preview)                          |
 | [ExFDcIVnwGOFHIqPwV](blurls/ExFDcIVnwGOFHIqPwV.json) | Rob Base & DJ EZ Rock - It Takes Two                                          |
 | [VKMEWQtHvGGdgqfMzN](blurls/VKMEWQtHvGGdgqfMzN.json) | Rob Base & DJ EZ Rock - It Takes Two (Preview)                                |
+| [JuhxsaNyDRNqHoQulM](blurls/JuhxsaNyDRNqHoQulM.json) | SAINt JHN - Roses (Imanbek Remix)                                             |
+| [VJbKowiQsUTRfybpUD](blurls/VJbKowiQsUTRfybpUD.json) | SAINt JHN - Roses (Imanbek Remix) (Preview)                                   |
 | [ClExCoWngnMAVPlBLR](blurls/ClExCoWngnMAVPlBLR.json) | Selena Gomez - Single Soon                                                    |
 | [FxvqxjnvmZFyOVanYZ](blurls/FxvqxjnvmZFyOVanYZ.json) | Selena Gomez - Single Soon (Preview)                                          |
 | [ytgNlkXOBSYxNWCaeR](blurls/ytgNlkXOBSYxNWCaeR.json) | Shawn Mendes - Stitches                                                       |
