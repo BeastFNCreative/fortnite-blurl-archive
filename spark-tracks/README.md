@@ -8,6 +8,8 @@ Jam Track Audio Data from Fortnite Festival.
 
 | VUID                                                 | Description                                                                   |
 | :--------------------------------------------------- | :---------------------------------------------------------------------------- |
+| [LINpKUDVhCDeNueSky](blurls/LINpKUDVhCDeNueSky.json) | ATB, Topic, A7S - Your Love (9pm)                                             |
+| [pWamLhSDzUNwWzYLtd](blurls/pWamLhSDzUNwWzYLtd.json) | ATB, Topic, A7S - Your Love (9pm) (Preview)                                   |
 | [qwJYDgZuhwIMaGZhUz](blurls/qwJYDgZuhwIMaGZhUz.json) | Aqua - Barbie Girl                                                            |
 | [rFDfrEOsaDxUrONCMq](blurls/rFDfrEOsaDxUrONCMq.json) | Aqua - Barbie Girl (Preview)                                                  |
 | [SyybJmpkCcIjSnRgrN](blurls/SyybJmpkCcIjSnRgrN.json) | Ariana Grande - Into You                                                      |
@@ -24,6 +26,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [ugZxeSKVBgKhnPuxxO](blurls/ugZxeSKVBgKhnPuxxO.json) | blink-182 - What's My Age Again? (Preview)                                    |
 | [zPVjoTOrRuaMuKHzbO](blurls/zPVjoTOrRuaMuKHzbO.json) | blink-182 - YOU DON'T KNOW WHAT YOU'VE GOT                                    |
 | [weInZCDieUraQpcgIb](blurls/weInZCDieUraQpcgIb.json) | blink-182 - YOU DON'T KNOW WHAT YOU'VE GOT (Preview)                          |
+| [yZUGFgMbTQzURFyVgh](blurls/yZUGFgMbTQzURFyVgh.json) | Blue Öyster Cult - (Don't Fear) The Reaper                                    |
+| [IzrmlVOZOhnecfHtNX](blurls/IzrmlVOZOhnecfHtNX.json) | Blue Öyster Cult - (Don't Fear) The Reaper (Preview)                          |
+| [XGDjMunlsORZzUwgiz](blurls/XGDjMunlsORZzUwgiz.json) | Carly Rae Jepsen - Call Me Maybe                                              |
+| [oGHaoBdNdtrRIvgWwe](blurls/oGHaoBdNdtrRIvgWwe.json) | Carly Rae Jepsen - Call Me Maybe (Preview)                                    |
 | [YWSZWKXdPcJdCgXheg](blurls/YWSZWKXdPcJdCgXheg.json) | Darude - Sandstorm                                                            |
 | [fFiWFfKnAjyjncUHLI](blurls/fFiWFfKnAjyjncUHLI.json) | Darude - Sandstorm (Preview)                                                  |
 | [ATKBVHqtnSLVACLvrs](blurls/ATKBVHqtnSLVACLvrs.json) | Disturbed - Down with the Sickness                                            |
@@ -86,6 +92,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [IfgPRlXoxQIrDRnzys](blurls/IfgPRlXoxQIrDRnzys.json) | Epic Games - You're All Mine (Preview)                                        |
 | [FEeVYNTEBnLAzfDdLJ](blurls/FEeVYNTEBnLAzfDdLJ.json) | Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up)           |
 | [GDBzQCdOUJEpXwEqql](blurls/GDBzQCdOUJEpXwEqql.json) | Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up) (Preview) |
+| [XpHWHLEsVfsDiIlSri](blurls/XpHWHLEsVfsDiIlSri.json) | Far East Movement ft. The Cataracs & DEV - Like A G6                          |
+| [WSUhSFJUohzHULIhmH](blurls/WSUhSFJUohzHULIhmH.json) | Far East Movement ft. The Cataracs & DEV - Like A G6 (Preview)                |
 | [mWjTugiKTqwMWrrGbw](blurls/mWjTugiKTqwMWrrGbw.json) | Florence + The Machine - Dog Days Are Over                                    |
 | [MZnIlagpQkjalAHQjK](blurls/MZnIlagpQkjalAHQjK.json) | Florence + The Machine - Dog Days Are Over (Preview)                          |
 | [DFtfUXkCkZRYaZcJzu](blurls/DFtfUXkCkZRYaZcJzu.json) | Glass Animals - Heat Waves                                                    |
@@ -122,6 +130,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [vmHRfNYrCrrJmCxXbI](blurls/vmHRfNYrCrrJmCxXbI.json) | Juice WRLD - Lucid Dreams (Preview)                                           |
 | [WVLkcCPXlFLRAgRzAU](blurls/WVLkcCPXlFLRAgRzAU.json) | Juice WRLD w/ Marshmello - Come & Go                                          |
 | [yXywvsouffAkaGwQLk](blurls/yXywvsouffAkaGwQLk.json) | Juice WRLD w/ Marshmello - Come & Go (Preview)                                |
+| [DsbiBwgXxjDMzjNHLO](blurls/DsbiBwgXxjDMzjNHLO.json) | Kansas - Carry on Wayward Son                                                 |
+| [EhQGiOYdhbkADxIaNY](blurls/EhQGiOYdhbkADxIaNY.json) | Kansas - Carry on Wayward Son (Preview)                                       |
 | [YJuJITYtGSdfDcXGNp](blurls/YJuJITYtGSdfDcXGNp.json) | Katy Perry - Firework                                                         |
 | [EsavPhYoXQtFgqOHoe](blurls/EsavPhYoXQtFgqOHoe.json) | Katy Perry - Firework (Preview)                                               |
 | [WLVhTjCsFGVtDGoHPM](blurls/WLVhTjCsFGVtDGoHPM.json) | Kendrick Lamar - i                                                            |
@@ -159,12 +169,18 @@ Jam Track Audio Data from Fortnite Festival.
 | [cGiGEljlaNGZADvZEO](blurls/cGiGEljlaNGZADvZEO.json) | Linkin Park - Numb (Preview)                                                  |
 | [BDDJiGIZinqbqsXKub](blurls/BDDJiGIZinqbqsXKub.json) | LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem                       |
 | [nxLJFcAiIPllRRssqw](blurls/nxLJFcAiIPllRRssqw.json) | LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem (Preview)             |
-| [CEyQyyKYlUcMctCEpu](blurls/CEyQyyKYlUcMctCEpu.json) | Machine Gun Kelly ft. WILLOW - emo girl                                       |
-| [XdgIvalKRbHSgrJghw](blurls/XdgIvalKRbHSgrJghw.json) | Machine Gun Kelly ft. WILLOW - emo girl (Preview)                             |
+| [MkyyPKPtudTihOhtvb](blurls/MkyyPKPtudTihOhtvb.json) | Masked Wolf - Astronaut In The Ocean                                          |
+| [ihMVSkpqzXlyBUxvVc](blurls/ihMVSkpqzXlyBUxvVc.json) | Masked Wolf - Astronaut In The Ocean (Preview)                                |
 | [DYuvjnLoohihYQRSjy](blurls/DYuvjnLoohihYQRSjy.json) | Meghan Trainor - Me Too                                                       |
 | [pYJCnjqDOqmMOeIPFq](blurls/pYJCnjqDOqmMOeIPFq.json) | Meghan Trainor - Me Too (Preview)                                             |
+| [WcMBWDRxVECRdNePkF](blurls/WcMBWDRxVECRdNePkF.json) | mgk, YUNGBLUD & Travis Barker - I Think I'm OKAY                              |
+| [JeCMiwimzhNKVIESDf](blurls/JeCMiwimzhNKVIESDf.json) | mgk, YUNGBLUD & Travis Barker - I Think I'm OKAY (Preview)                    |
+| [CEyQyyKYlUcMctCEpu](blurls/CEyQyyKYlUcMctCEpu.json) | mgk ft. WILLOW - emo girl                                                     |
+| [XdgIvalKRbHSgrJghw](blurls/XdgIvalKRbHSgrJghw.json) | mgk ft. WILLOW - emo girl (Preview)                                           |
 | [QxxqeiJTLAgOWqOuTb](blurls/QxxqeiJTLAgOWqOuTb.json) | Miley Cyrus  - Flowers                                                        |
 | [oSeWpNfSFwwwIxguPl](blurls/oSeWpNfSFwwwIxguPl.json) | Miley Cyrus  - Flowers (Preview)                                              |
+| [BZsiBryiAYRCTdkWNT](blurls/BZsiBryiAYRCTdkWNT.json) | Muse  - Hysteria                                                              |
+| [hGXYhAVRLCvxMMqDOG](blurls/hGXYhAVRLCvxMMqDOG.json) | Muse  - Hysteria (Preview)                                                    |
 | [lVbXhTnpHAwjodfxyF](blurls/lVbXhTnpHAwjodfxyF.json) | Nelly ft. City Spud - Ride Wit Me                                             |
 | [IWdHVthmtpcMZrYXfN](blurls/IWdHVthmtpcMZrYXfN.json) | Nelly ft. City Spud - Ride Wit Me (Preview)                                   |
 | [YolvkrBomHFUlpdGSz](blurls/YolvkrBomHFUlpdGSz.json) | NF - The Search                                                               |
