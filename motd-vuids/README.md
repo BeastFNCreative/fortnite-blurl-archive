@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [BTrBwVrjwptOdTmdCd](blurls/BTrBwVrjwptOdTmdCd.json) | Player Made Fortnite Lego Islands Trailer | 
 | [qeaNVDIZrbpbdKenII](blurls/qeaNVDIZrbpbdKenII.json) | Player Made Rocket Racing Tracks Trailer | 
 | [dTvrofeSfQsCfafusX](blurls/dTvrofeSfQsCfafusX.json) | Evil Plan Icon Series Emote | 
 | [yrjtfamcruXYQyewgY](blurls/yrjtfamcruXYQyewgY.json) | Introducing Fortnite Lego kits Trailer | 
