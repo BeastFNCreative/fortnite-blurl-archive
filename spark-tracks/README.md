@@ -8,6 +8,10 @@ Jam Track Audio Data from Fortnite Festival.
 
 | VUID                                                 | Description                                                                   |
 | :--------------------------------------------------- | :---------------------------------------------------------------------------- |
+| [eBBboClwZXowrdoMXp](blurls/eBBboClwZXowrdoMXp.json) | 24kGoldn ft. iann dior - Mood                                                 |
+| [AECvkpYDfjztWoqKNX](blurls/AECvkpYDfjztWoqKNX.json) | 24kGoldn ft. iann dior - Mood (Preview)                                       |
+| [RLIOuvGprzElBniPKM](blurls/RLIOuvGprzElBniPKM.json) | A Tribe Called Quest ft. Leaders Of The New School - Scenario                 |
+| [HfsUCLQbmgYRRSbywT](blurls/HfsUCLQbmgYRRSbywT.json) | A Tribe Called Quest ft. Leaders Of The New School - Scenario (Preview)       |
 | [LINpKUDVhCDeNueSky](blurls/LINpKUDVhCDeNueSky.json) | ATB, Topic, A7S - Your Love (9pm)                                             |
 | [pWamLhSDzUNwWzYLtd](blurls/pWamLhSDzUNwWzYLtd.json) | ATB, Topic, A7S - Your Love (9pm) (Preview)                                   |
 | [qwJYDgZuhwIMaGZhUz](blurls/qwJYDgZuhwIMaGZhUz.json) | Aqua - Barbie Girl                                                            |
@@ -126,6 +130,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [QJdPDQMItiCyUiHeXy](blurls/QJdPDQMItiCyUiHeXy.json) | Jimmy Eat World - The Middle (Preview)                                        |
 | [VjNlpNgDaavDSsSTtJ](blurls/VjNlpNgDaavDSsSTtJ.json) | John Legend - All Of Me (Tiësto's Birthday Treatment Remix)                   |
 | [GqlQlRHNMTHHZcGBXP](blurls/GqlQlRHNMTHHZcGBXP.json) | John Legend - All Of Me (Tiësto's Birthday Treatment Remix) (Preview)         |
+| [ovRGmsUbItCAUfHMye](blurls/ovRGmsUbItCAUfHMye.json) | Jonas Brothers - Sucker                                                       |
+| [tccfoxUXzLfwXYdzEk](blurls/tccfoxUXzLfwXYdzEk.json) | Jonas Brothers - Sucker (Preview)                                             |
 | [ExyKoSEXKXzxaCARtv](blurls/ExyKoSEXKXzxaCARtv.json) | Juice WRLD - Lucid Dreams                                                     |
 | [vmHRfNYrCrrJmCxXbI](blurls/vmHRfNYrCrrJmCxXbI.json) | Juice WRLD - Lucid Dreams (Preview)                                           |
 | [WVLkcCPXlFLRAgRzAU](blurls/WVLkcCPXlFLRAgRzAU.json) | Juice WRLD w/ Marshmello - Come & Go                                          |
@@ -169,6 +175,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [cGiGEljlaNGZADvZEO](blurls/cGiGEljlaNGZADvZEO.json) | Linkin Park - Numb (Preview)                                                  |
 | [BDDJiGIZinqbqsXKub](blurls/BDDJiGIZinqbqsXKub.json) | LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem                       |
 | [nxLJFcAiIPllRRssqw](blurls/nxLJFcAiIPllRRssqw.json) | LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem (Preview)             |
+| [jcBequaEgqHcYiSHSd](blurls/jcBequaEgqHcYiSHSd.json) | Maroon 5 ft. Christina Aguilera - Moves Like Jagger                           |
+| [RCdQrLVlrsqCHIUURx](blurls/RCdQrLVlrsqCHIUURx.json) | Maroon 5 ft. Christina Aguilera - Moves Like Jagger (Preview)                 |
 | [MkyyPKPtudTihOhtvb](blurls/MkyyPKPtudTihOhtvb.json) | Masked Wolf - Astronaut In The Ocean                                          |
 | [ihMVSkpqzXlyBUxvVc](blurls/ihMVSkpqzXlyBUxvVc.json) | Masked Wolf - Astronaut In The Ocean (Preview)                                |
 | [DYuvjnLoohihYQRSjy](blurls/DYuvjnLoohihYQRSjy.json) | Meghan Trainor - Me Too                                                       |
@@ -213,6 +221,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [YFbENNUpVeqiyyGEbm](blurls/YFbENNUpVeqiyyGEbm.json) | PSY - Gangnam Style (Preview)                                                 |
 | [vBlsDPnZYHiPYzAbID](blurls/vBlsDPnZYHiPYzAbID.json) | Queens of the Stone Age - Go With The Flow                                    |
 | [vfjKbIGlrZKEtKdwUH](blurls/vfjKbIGlrZKEtKdwUH.json) | Queens of the Stone Age - Go With The Flow (Preview)                          |
+| [NNQBQJkGHqdmvcBwYG](blurls/NNQBQJkGHqdmvcBwYG.json) | Rick James - Super Freak                                                      |
+| [hoflzQQnraYuWHrzdQ](blurls/hoflzQQnraYuWHrzdQ.json) | Rick James - Super Freak (Preview)                                            |
 | [ExFDcIVnwGOFHIqPwV](blurls/ExFDcIVnwGOFHIqPwV.json) | Rob Base & DJ EZ Rock - It Takes Two                                          |
 | [VKMEWQtHvGGdgqfMzN](blurls/VKMEWQtHvGGdgqfMzN.json) | Rob Base & DJ EZ Rock - It Takes Two (Preview)                                |
 | [JuhxsaNyDRNqHoQulM](blurls/JuhxsaNyDRNqHoQulM.json) | SAINt JHN - Roses (Imanbek Remix)                                             |
@@ -257,7 +267,13 @@ Jam Track Audio Data from Fortnite Festival.
 | [apmIYJTdGWespJIAEf](blurls/apmIYJTdGWespJIAEf.json) | U2 - With Or Without You (Preview)                                            |
 | [bJtXoDgRSDEWwNCeBs](blurls/bJtXoDgRSDEWwNCeBs.json) | Weezer - Buddy Holly                                                          |
 | [LMXwIbQlnMVDNGfJUf](blurls/LMXwIbQlnMVDNGfJUf.json) | Weezer - Buddy Holly (Preview)                                                |
+| [DQAPlrHVzoOANPCXnh](blurls/DQAPlrHVzoOANPCXnh.json) | WILLOW ft. Travis Barker - t r a n s p a r e n t s o u l                      |
+| [gVjMbCHwjpApEkHNhK](blurls/gVjMbCHwjpApEkHNhK.json) | WILLOW ft. Travis Barker - t r a n s p a r e n t s o u l (Preview)            |
 | [XUabTUvKGFvaquBMet](blurls/XUabTUvKGFvaquBMet.json) | WitchGang - Nothing's Alright                                                 |
 | [XCOsTRifVQudgAjJff](blurls/XCOsTRifVQudgAjJff.json) | WitchGang - Nothing's Alright (Preview)                                       |
 | [GYbVDBVHDgXObXqyjr](blurls/GYbVDBVHDgXObXqyjr.json) | WitchGang - Timeless                                                          |
 | [fVALLXBdAuxUVUnnQj](blurls/fVALLXBdAuxUVUnnQj.json) | WitchGang - Timeless (Preview)                                                |
+| [gniXTOGIdaDCiapOYk](blurls/gniXTOGIdaDCiapOYk.json) | Young MC - Bust A Move                                                        |
+| [OAuUHCQATAKKHDWgcz](blurls/OAuUHCQATAKKHDWgcz.json) | Young MC - Bust A Move (Preview)                                              |
+| [ORhDQOoCEUwGjhyrsA](blurls/ORhDQOoCEUwGjhyrsA.json) | Zedd, Maren Morris & Grey - The Middle                                        |
+| [JlSJeNXyQhYTPfSKqo](blurls/JlSJeNXyQhYTPfSKqo.json) | Zedd, Maren Morris & Grey - The Middle (Preview)                              |

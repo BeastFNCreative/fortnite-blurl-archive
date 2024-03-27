@@ -31,6 +31,7 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [LXnhkKEjFQvnqgpxJE](blurls/LXnhkKEjFQvnqgpxJE.json) | playlist_fmclubisland : Festival Jam Stage |
 | [lPAAqsIrORbZBsKCiX](blurls/lPAAqsIrORbZBsKCiX.json) | playlist_juno : LEGO Fortnite |
 | [vlFxcxMYwkzwNNKSFf](blurls/vlFxcxMYwkzwNNKSFf.json) | playlist_juno : LEGO Fortnite (Extra VUID) |
+| [bxjliYBuPmtkOttZEu](blurls/bxjliYBuPmtkOttZEu.json) | playlist_juno : LEGO Fortnite (Mechanical Mayhem) |
 | [HtLUWyhMKefRGsTxlE](blurls/HtLUWyhMKefRGsTxlE.json) | playlist_pilgrimquickplay : Festival Main Stage |
 | [phKkVMFeiaJhLHyGHa](blurls/phKkVMFeiaJhLHyGHa.json) | playlist_pilgrimquickplay : Festival Main Stage (Extra VUID) |
 | [pOQbjpyNSnZNptoned](blurls/pOQbjpyNSnZNptoned.json) | playlist_playgroundv2 : Creative |

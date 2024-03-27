@@ -10,7 +10,10 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
-| [BTrBwVrjwptOdTmdCd](blurls/BTrBwVrjwptOdTmdCd.json) | Player Made Fortnite Lego Islands Trailer | 
+| [bjCwLgCQbvyxKwElSP](blurls/bjCwLgCQbvyxKwElSP.json) | Fresh Out The Box Emote Airphoria | 
+| [pCgNSSdnKrwqQYtwrQ](blurls/pCgNSSdnKrwqQYtwrQ.json) | Ares Set Fortnite Crew Cinematic Trailer | 
+| [MxXBhUokuIrJSqUCeH](blurls/MxXBhUokuIrJSqUCeH.json) | LEGO Fortnite Mechanical Mayhem Update Trailer | 
+| [BTrBwVrjwptOdTmdCd](blurls/BTrBwVrjwptOdTmdCd.json) | Player Made Fortnite LEGO Islands Trailer | 
 | [qeaNVDIZrbpbdKenII](blurls/qeaNVDIZrbpbdKenII.json) | Player Made Rocket Racing Tracks Trailer | 
 | [dTvrofeSfQsCfafusX](blurls/dTvrofeSfQsCfafusX.json) | Evil Plan Icon Series Emote | 
 | [yrjtfamcruXYQyewgY](blurls/yrjtfamcruXYQyewgY.json) | Introducing Fortnite Lego kits Trailer | 
