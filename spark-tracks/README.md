@@ -100,6 +100,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [WSUhSFJUohzHULIhmH](blurls/WSUhSFJUohzHULIhmH.json) | Far East Movement ft. The Cataracs & DEV - Like A G6 (Preview)                |
 | [mWjTugiKTqwMWrrGbw](blurls/mWjTugiKTqwMWrrGbw.json) | Florence + The Machine - Dog Days Are Over                                    |
 | [MZnIlagpQkjalAHQjK](blurls/MZnIlagpQkjalAHQjK.json) | Florence + The Machine - Dog Days Are Over (Preview)                          |
+| [vhXvmCNkwUfWyGtbrJ](blurls/vhXvmCNkwUfWyGtbrJ.json) | Foo Fighters - Everlong                                                       |
+| [KlhsxJUOLCxwSyGWiN](blurls/KlhsxJUOLCxwSyGWiN.json) | Foo Fighters - Everlong (Preview)                                             |
 | [DFtfUXkCkZRYaZcJzu](blurls/DFtfUXkCkZRYaZcJzu.json) | Glass Animals - Heat Waves                                                    |
 | [iXvdhpzYyAfqnuWtLC](blurls/iXvdhpzYyAfqnuWtLC.json) | Glass Animals - Heat Waves (Preview)                                          |
 | [PDHnYsfoqqtMtMJXWf](blurls/PDHnYsfoqqtMtMJXWf.json) | Glass Animals - Heat Waves (v1)                                               |
@@ -118,6 +120,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [UZepUKAXBQJAEDSchu](blurls/UZepUKAXBQJAEDSchu.json) | Haddaway - What Is Love (Preview)                                             |
 | [QwcSJqzFBWJtZQLapy](blurls/QwcSJqzFBWJtZQLapy.json) | Imagine Dragons - Believer                                                    |
 | [oIuiDZqtIGZxyvUgAW](blurls/oIuiDZqtIGZxyvUgAW.json) | Imagine Dragons - Believer (Preview)                                          |
+| [mYaCNBepLpSevVisYP](blurls/mYaCNBepLpSevVisYP.json) | Imagine Dragons - Eyes Closed                                                 |
+| [riqhfgKUkPzkyWnVTo](blurls/riqhfgKUkPzkyWnVTo.json) | Imagine Dragons - Eyes Closed (Preview)                                       |
 | [XZUUuItQfREbtEpCTE](blurls/XZUUuItQfREbtEpCTE.json) | Imagine Dragons - Thunder                                                     |
 | [KTfnyyIvbxiWBFKKjM](blurls/KTfnyyIvbxiWBFKKjM.json) | Imagine Dragons - Thunder (Preview)                                           |
 | [JXOekLgtaGBlNynJgO](blurls/JXOekLgtaGBlNynJgO.json) | Jack Harlow - WHATS POPPIN                                                    |
@@ -185,6 +189,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [JeCMiwimzhNKVIESDf](blurls/JeCMiwimzhNKVIESDf.json) | mgk, YUNGBLUD & Travis Barker - I Think I'm OKAY (Preview)                    |
 | [CEyQyyKYlUcMctCEpu](blurls/CEyQyyKYlUcMctCEpu.json) | mgk ft. WILLOW - emo girl                                                     |
 | [XdgIvalKRbHSgrJghw](blurls/XdgIvalKRbHSgrJghw.json) | mgk ft. WILLOW - emo girl (Preview)                                           |
+| [koEZTFZBpgeqUEhGxo](blurls/koEZTFZBpgeqUEhGxo.json) | MGMT - Kids                                                                   |
+| [uwXcjJAnMFJDIRmVUL](blurls/uwXcjJAnMFJDIRmVUL.json) | MGMT - Kids (Preview)                                                         |
 | [QxxqeiJTLAgOWqOuTb](blurls/QxxqeiJTLAgOWqOuTb.json) | Miley Cyrus  - Flowers                                                        |
 | [oSeWpNfSFwwwIxguPl](blurls/oSeWpNfSFwwwIxguPl.json) | Miley Cyrus  - Flowers (Preview)                                              |
 | [BZsiBryiAYRCTdkWNT](blurls/BZsiBryiAYRCTdkWNT.json) | Muse  - Hysteria                                                              |
@@ -229,12 +235,18 @@ Jam Track Audio Data from Fortnite Festival.
 | [VJbKowiQsUTRfybpUD](blurls/VJbKowiQsUTRfybpUD.json) | SAINt JHN - Roses (Imanbek Remix) (Preview)                                   |
 | [ClExCoWngnMAVPlBLR](blurls/ClExCoWngnMAVPlBLR.json) | Selena Gomez - Single Soon                                                    |
 | [FxvqxjnvmZFyOVanYZ](blurls/FxvqxjnvmZFyOVanYZ.json) | Selena Gomez - Single Soon (Preview)                                          |
+| [HgzUnQokynDsohQDiJ](blurls/HgzUnQokynDsohQDiJ.json) | Selena Gomez w/Marshmello - Wolves                                            |
+| [FHGXRAqAHhGGHteYZE](blurls/FHGXRAqAHhGGHteYZE.json) | Selena Gomez w/Marshmello - Wolves (Preview)                                  |
 | [ytgNlkXOBSYxNWCaeR](blurls/ytgNlkXOBSYxNWCaeR.json) | Shawn Mendes - Stitches                                                       |
 | [dSfUlfmAsRSlcVhKZR](blurls/dSfUlfmAsRSlcVhKZR.json) | Shawn Mendes - Stitches (Preview)                                             |
+| [LaHUcJnUMBAfICvrfF](blurls/LaHUcJnUMBAfICvrfF.json) | Skee-Lo - I Wish                                                              |
+| [HsCGWpvjlDmYVUjxVa](blurls/HsCGWpvjlDmYVUjxVa.json) | Skee-Lo - I Wish (Preview)                                                    |
 | [cCTLWzqDboIkMWyOTd](blurls/cCTLWzqDboIkMWyOTd.json) | Soundgarden - Black Hole Sun                                                  |
 | [nExtkgFrPFhLiJOuuq](blurls/nExtkgFrPFhLiJOuuq.json) | Soundgarden - Black Hole Sun (Preview)                                        |
 | [QXKPSFvMysPqegENXn](blurls/QXKPSFvMysPqegENXn.json) | Sub Urban - Cradles                                                           |
 | [mAMYWlxEUGkmpOLOlW](blurls/mAMYWlxEUGkmpOLOlW.json) | Sub Urban - Cradles (Preview)                                                 |
+| [HwqWjyIrdXvdeApMnQ](blurls/HwqWjyIrdXvdeApMnQ.json) | Swedish House Mafia ft. John Martin - Don't You Worry Child                   |
+| [rmmbIzCyVNeSugaLjG](blurls/rmmbIzCyVNeSugaLjG.json) | Swedish House Mafia ft. John Martin - Don't You Worry Child (Preview)         |
 | [LzKrWMfTRNAdAQBhDL](blurls/LzKrWMfTRNAdAQBhDL.json) | The All-American Rejects - Dirty Little Secret                                |
 | [SYOAJSHtalCDBjDAzR](blurls/SYOAJSHtalCDBjDAzR.json) | The All-American Rejects - Dirty Little Secret (Preview)                      |
 | [dBsAKLACZwMImWXUem](blurls/dBsAKLACZwMImWXUem.json) | The Chainsmokers ft. Halsey - Closer                                          |
