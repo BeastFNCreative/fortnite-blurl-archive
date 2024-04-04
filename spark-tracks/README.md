@@ -68,6 +68,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [ummqUqCSFUWeQfzTvs](blurls/ummqUqCSFUWeQfzTvs.json) | Epic Games - OG (Future Remix) (Preview)                                      |
 | [vATlQurzvPwglcKfxp](blurls/vATlQurzvPwglcKfxp.json) | Epic Games - Show Them Who We Are                                             |
 | [cGcjyotaSPSnOCIUme](blurls/cGcjyotaSPSnOCIUme.json) | Epic Games - Show Them Who We Are (Preview)                                   |
+| [ZGSLwGYelfMLKTfvDn](blurls/ZGSLwGYelfMLKTfvDn.json) | Epic Games - Show Them Who We Are (v1)                                        |
+| [wCQJgdwIcbTBFRevlf](blurls/wCQJgdwIcbTBFRevlf.json) | Epic Games - Show Them Who We Are (v1) (Preview)                              |
 | [LoWYCRMgTmizOwuhhE](blurls/LoWYCRMgTmizOwuhhE.json) | Epic Games - Streets Ignite                                                   |
 | [KpZUhezmmNeGfkZrzW](blurls/KpZUhezmmNeGfkZrzW.json) | Epic Games - Streets Ignite (Preview)                                         |
 | [XCGKmuqiDgmuNvjtce](blurls/XCGKmuqiDgmuNvjtce.json) | Epic Games - Streets Ignite (v1)                                              |
@@ -80,6 +82,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [hSjdaUWjgTGjsvgwcM](blurls/hSjdaUWjgTGjsvgwcM.json) | Epic Games - Switch Up (Preview)                                              |
 | [ZtkBgwLEUFVPJsByvD](blurls/ZtkBgwLEUFVPJsByvD.json) | Epic Games - Take Me Higher                                                   |
 | [LjVfzBLBaBIQRRcmJX](blurls/LjVfzBLBaBIQRRcmJX.json) | Epic Games - Take Me Higher (Preview)                                         |
+| [zZXvTbypMIqofbLaJN](blurls/zZXvTbypMIqofbLaJN.json) | Epic Games - Take Me Higher (v1)                                              |
+| [irAAWbZgcfCylAIaYF](blurls/irAAWbZgcfCylAIaYF.json) | Epic Games - Take Me Higher (v1) (Preview)                                    |
 | [DuUVxGRztgxPIObnSa](blurls/DuUVxGRztgxPIObnSa.json) | Epic Games - The Hunting Ground                                               |
 | [JXmRdPnKKATjMzTriN](blurls/JXmRdPnKKATjMzTriN.json) | Epic Games - The Hunting Ground (Preview)                                     |
 | [pCBfbQCBvKPcFqjtgU](blurls/pCBfbQCBvKPcFqjtgU.json) | Epic Games - Brace for Chaos                                                  |
