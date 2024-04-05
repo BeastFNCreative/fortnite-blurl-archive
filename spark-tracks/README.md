@@ -193,8 +193,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [JeCMiwimzhNKVIESDf](blurls/JeCMiwimzhNKVIESDf.json) | mgk, YUNGBLUD & Travis Barker - I Think I'm OKAY (Preview)                    |
 | [CEyQyyKYlUcMctCEpu](blurls/CEyQyyKYlUcMctCEpu.json) | mgk ft. WILLOW - emo girl                                                     |
 | [XdgIvalKRbHSgrJghw](blurls/XdgIvalKRbHSgrJghw.json) | mgk ft. WILLOW - emo girl (Preview)                                           |
-| [koEZTFZBpgeqUEhGxo](blurls/koEZTFZBpgeqUEhGxo.json) | MGMT - Kids                                                                   |
-| [uwXcjJAnMFJDIRmVUL](blurls/uwXcjJAnMFJDIRmVUL.json) | MGMT - Kids (Preview)                                                         |
+| [BKsIYBmngGbOAuPhLl](blurls/BKsIYBmngGbOAuPhLl.json) | MGMT - Kids                                                                   |
+| [IAiBrxQuafNxPupzuR](blurls/IAiBrxQuafNxPupzuR.json) | MGMT - Kids (Preview)                                                         |
+| [koEZTFZBpgeqUEhGxo](blurls/koEZTFZBpgeqUEhGxo.json) | MGMT - Kids (v1)                                                              |
+| [uwXcjJAnMFJDIRmVUL](blurls/uwXcjJAnMFJDIRmVUL.json) | MGMT - Kids (v1) (Preview)                                                    |
 | [QxxqeiJTLAgOWqOuTb](blurls/QxxqeiJTLAgOWqOuTb.json) | Miley Cyrus  - Flowers                                                        |
 | [oSeWpNfSFwwwIxguPl](blurls/oSeWpNfSFwwwIxguPl.json) | Miley Cyrus  - Flowers (Preview)                                              |
 | [BZsiBryiAYRCTdkWNT](blurls/BZsiBryiAYRCTdkWNT.json) | Muse  - Hysteria                                                              |
