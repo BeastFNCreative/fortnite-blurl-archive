@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [YkhNDhxvmHgKLuCbrr](blurls/YkhNDhxvmHgKLuCbrr.json) | Stoic Icon Series Emote |
 | [zYsvpTYUqgdCUFGJZK](blurls/zYsvpTYUqgdCUFGJZK.json) | To The Beat Icon Series Emote |
 | [bjCwLgCQbvyxKwElSP](blurls/bjCwLgCQbvyxKwElSP.json) | Fresh Out The Box Emote Airphoria | 
 | [pCgNSSdnKrwqQYtwrQ](blurls/pCgNSSdnKrwqQYtwrQ.json) | Ares Set Fortnite Crew Cinematic Trailer | 
