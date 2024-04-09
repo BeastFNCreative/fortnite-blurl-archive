@@ -10,6 +10,8 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [ollNxPacWgpUqAHlvB](blurls/ollNxPacWgpUqAHlvB.json) | Rocket Racing : Neon Rush Season Trailer |
+| [XXjZgIFLZNaaEXFAuy](blurls/XXjZgIFLZNaaEXFAuy.json) | Avatar The Last Airbender : Elements Event Teaser |
 | [YkhNDhxvmHgKLuCbrr](blurls/YkhNDhxvmHgKLuCbrr.json) | Stoic Icon Series Emote |
 | [zYsvpTYUqgdCUFGJZK](blurls/zYsvpTYUqgdCUFGJZK.json) | To The Beat Icon Series Emote |
 | [bjCwLgCQbvyxKwElSP](blurls/bjCwLgCQbvyxKwElSP.json) | Fresh Out The Box Emote Airphoria | 

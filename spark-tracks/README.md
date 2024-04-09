@@ -24,6 +24,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [EeaSoyOgNJLpyZfRyI](blurls/EeaSoyOgNJLpyZfRyI.json) | Bell Biv DeVoe - Poison (Preview)                                             |
 | [vCxMdIUPNtibNoDQDD](blurls/vCxMdIUPNtibNoDQDD.json) | Billie Eilish - bad guy                                                       |
 | [GeyOyokliHUGnVUMfZ](blurls/GeyOyokliHUGnVUMfZ.json) | Billie Eilish - bad guy (Preview)                                             |
+| [ILfPPkkniPTicvLVXW](blurls/ILfPPkkniPTicvLVXW.json) | Bleachers - I Wanna Get Better                                                |
+| [KZpOMROMJHgVexOnMp](blurls/KZpOMROMJHgVexOnMp.json) | Bleachers - I Wanna Get Better (Preview)                                      |
 | [SPhkAgoXkChFZOCdzy](blurls/SPhkAgoXkChFZOCdzy.json) | blink-182 - All The Small Things                                              |
 | [ZlalCvEdFXuHdBMhaa](blurls/ZlalCvEdFXuHdBMhaa.json) | blink-182 - All The Small Things (Preview)                                    |
 | [rqWBVOktMCvItZKREe](blurls/rqWBVOktMCvItZKREe.json) | blink-182 - What's My Age Again?                                              |
@@ -32,6 +34,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [weInZCDieUraQpcgIb](blurls/weInZCDieUraQpcgIb.json) | blink-182 - YOU DON'T KNOW WHAT YOU'VE GOT (Preview)                          |
 | [yZUGFgMbTQzURFyVgh](blurls/yZUGFgMbTQzURFyVgh.json) | Blue Öyster Cult - (Don't Fear) The Reaper                                    |
 | [IzrmlVOZOhnecfHtNX](blurls/IzrmlVOZOhnecfHtNX.json) | Blue Öyster Cult - (Don't Fear) The Reaper (Preview)                          |
+| [IyhVBinycmxflrTlus](blurls/IyhVBinycmxflrTlus.json) | Blur - Song 2                                                                 |
+| [ADhPmaOkPTCpSrIcMG](blurls/ADhPmaOkPTCpSrIcMG.json) | Blur - Song 2 (Preview)                                                       |
 | [XGDjMunlsORZzUwgiz](blurls/XGDjMunlsORZzUwgiz.json) | Carly Rae Jepsen - Call Me Maybe                                              |
 | [oGHaoBdNdtrRIvgWwe](blurls/oGHaoBdNdtrRIvgWwe.json) | Carly Rae Jepsen - Call Me Maybe (Preview)                                    |
 | [YWSZWKXdPcJdCgXheg](blurls/YWSZWKXdPcJdCgXheg.json) | Darude - Sandstorm                                                            |
@@ -42,6 +46,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [NkLaeMUkINfhzwRlwg](blurls/NkLaeMUkINfhzwRlwg.json) | DMX - X Gon' Give It To Ya (Preview)                                          |
 | [HlxxRMLRaRnUCdfuII](blurls/HlxxRMLRaRnUCdfuII.json) | DNCE - Cake By The Ocean                                                      |
 | [VrvUmHEqRmGKpFVSrr](blurls/VrvUmHEqRmGKpFVSrr.json) | DNCE - Cake By The Ocean (Preview)                                            |
+| [bJnPPhbFIFsvMPDfdT](blurls/bJnPPhbFIFsvMPDfdT.json) | Doja Cat - Paint The Town Red                                                 |
+| [POCoJqLZXiWhYTEMuU](blurls/POCoJqLZXiWhYTEMuU.json) | Doja Cat - Paint The Town Red (Preview)                                       |
 | [ACtnHHwmqTRPvwcjjR](blurls/ACtnHHwmqTRPvwcjjR.json) | Doja Cat - Say So                                                             |
 | [qGGzNaSjbTmuRSbMRp](blurls/qGGzNaSjbTmuRSbMRp.json) | Doja Cat - Say So (Preview)                                                   |
 | [WRKyljCDBpRoyYtjWe](blurls/WRKyljCDBpRoyYtjWe.json) | Ed Sheeran - Shivers                                                          |
@@ -70,6 +76,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [cGcjyotaSPSnOCIUme](blurls/cGcjyotaSPSnOCIUme.json) | Epic Games - Show Them Who We Are (Preview)                                   |
 | [ZGSLwGYelfMLKTfvDn](blurls/ZGSLwGYelfMLKTfvDn.json) | Epic Games - Show Them Who We Are (v1)                                        |
 | [wCQJgdwIcbTBFRevlf](blurls/wCQJgdwIcbTBFRevlf.json) | Epic Games - Show Them Who We Are (v1) (Preview)                              |
+| [nLRSnynjxuTxtoozSl](blurls/nLRSnynjxuTxtoozSl.json) | Epic Games - Sky Surfer (Neon Rush Remix)                                     |
+| [LIAskQehpQkgutISLU](blurls/LIAskQehpQkgutISLU.json) | Epic Games - Sky Surfer (Neon Rush Remix) (Preview)                           |
 | [LoWYCRMgTmizOwuhhE](blurls/LoWYCRMgTmizOwuhhE.json) | Epic Games - Streets Ignite                                                   |
 | [KpZUhezmmNeGfkZrzW](blurls/KpZUhezmmNeGfkZrzW.json) | Epic Games - Streets Ignite (Preview)                                         |
 | [XCGKmuqiDgmuNvjtce](blurls/XCGKmuqiDgmuNvjtce.json) | Epic Games - Streets Ignite (v1)                                              |
@@ -98,6 +106,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [aYvnqpcyHlEMOdDrBI](blurls/aYvnqpcyHlEMOdDrBI.json) | Epic Games - You Don't Know Me (Preview)                                      |
 | [nWsBPWqEvuryzsEqQc](blurls/nWsBPWqEvuryzsEqQc.json) | Epic Games - You're All Mine                                                  |
 | [IfgPRlXoxQIrDRnzys](blurls/IfgPRlXoxQIrDRnzys.json) | Epic Games - You're All Mine (Preview)                                        |
+| [KMZSjRPMJPOFBuTsSR](blurls/KMZSjRPMJPOFBuTsSR.json) | Eslabon Armado, Peso Pluma  - Ella Baila Sola                                 |
+| [JlZgpuVyUmKvcJYCxD](blurls/JlZgpuVyUmKvcJYCxD.json) | Eslabon Armado, Peso Pluma  - Ella Baila Sola (Preview)                       |
 | [FEeVYNTEBnLAzfDdLJ](blurls/FEeVYNTEBnLAzfDdLJ.json) | Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up)           |
 | [GDBzQCdOUJEpXwEqql](blurls/GDBzQCdOUJEpXwEqql.json) | Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up) (Preview) |
 | [XpHWHLEsVfsDiIlSri](blurls/XpHWHLEsVfsDiIlSri.json) | Far East Movement ft. The Cataracs & DEV - Like A G6                          |
@@ -179,6 +189,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [zmZdgTsVRlMixlemOd](blurls/zmZdgTsVRlMixlemOd.json) | Latto - Big Energy                                                            |
 | [spfNvDjeujyZSdtlMX](blurls/spfNvDjeujyZSdtlMX.json) | Latto - Big Energy (Preview)                                                  |
 | [nNcDyfisUVhLYpRVpw](blurls/nNcDyfisUVhLYpRVpw.json) | Lil Nas X ft. Jack Harlow - Industry Baby                                     |
+| [bMjVhlNERaRzxPzoHv](blurls/bMjVhlNERaRzxPzoHv.json) | Lil Uzi Vert ft. Oh Wonder - The Way Life Goes                                |
+| [nZNkFqssQWYuhyaYhY](blurls/nZNkFqssQWYuhyaYhY.json) | Lil Uzi Vert ft. Oh Wonder - The Way Life Goes (Preview)                      |
 | [ovoFZlSqdtoBtXBxdW](blurls/ovoFZlSqdtoBtXBxdW.json) | Linkin Park - Numb                                                            |
 | [cGiGEljlaNGZADvZEO](blurls/cGiGEljlaNGZADvZEO.json) | Linkin Park - Numb (Preview)                                                  |
 | [BDDJiGIZinqbqsXKub](blurls/BDDJiGIZinqbqsXKub.json) | LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem                       |
@@ -227,6 +239,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [zUfWsNOdizEYECvaNv](blurls/zUfWsNOdizEYECvaNv.json) | Paramore - Misery Business (Preview)                                          |
 | [QeWVWyrbFhcQfaHYUq](blurls/QeWVWyrbFhcQfaHYUq.json) | Pat Benatar - Heartbreaker                                                    |
 | [YXdJwGrgvgTgntrdbA](blurls/YXdJwGrgvgTgntrdbA.json) | Pat Benatar - Heartbreaker (Preview)                                          |
+| [AcwNQMsKhZcKBFnLuz](blurls/AcwNQMsKhZcKBFnLuz.json) | PinkPantheress & Ice Spice - Boy's A Liar Pt. 2                               | 
+| [YSGggxkkTahheWiDwQ](blurls/YSGggxkkTahheWiDwQ.json) | PinkPantheress & Ice Spice - Boy's A Liar Pt. 2 (Preview)                     |
 | [DENVGWeeUtiPZuFSiD](blurls/DENVGWeeUtiPZuFSiD.json) | Portugal. The Man - Feel It Still                                             |
 | [MjLyyEACnNSwCxjtdy](blurls/MjLyyEACnNSwCxjtdy.json) | Portugal. The Man - Feel It Still (Preview)                                   |
 | [FNXNEPYqgZJwUeZWCs](blurls/FNXNEPYqgZJwUeZWCs.json) | PSY - Gangnam Style                                                           |
@@ -251,8 +265,12 @@ Jam Track Audio Data from Fortnite Festival.
 | [nExtkgFrPFhLiJOuuq](blurls/nExtkgFrPFhLiJOuuq.json) | Soundgarden - Black Hole Sun (Preview)                                        |
 | [QXKPSFvMysPqegENXn](blurls/QXKPSFvMysPqegENXn.json) | Sub Urban - Cradles                                                           |
 | [mAMYWlxEUGkmpOLOlW](blurls/mAMYWlxEUGkmpOLOlW.json) | Sub Urban - Cradles (Preview)                                                 |
+| [KyIJcTflIcXHAvoWbd](blurls/KyIJcTflIcXHAvoWbd.json) | Sublime - What I Got                                                          |
+| [AWEjWsNKZbPAIrMgon](blurls/AWEjWsNKZbPAIrMgon.json) | Sublime - What I Got (Preview)                                                |
 | [HwqWjyIrdXvdeApMnQ](blurls/HwqWjyIrdXvdeApMnQ.json) | Swedish House Mafia ft. John Martin - Don't You Worry Child                   |
 | [rmmbIzCyVNeSugaLjG](blurls/rmmbIzCyVNeSugaLjG.json) | Swedish House Mafia ft. John Martin - Don't You Worry Child (Preview)         |
+| [JTUazgeAknaesOgxnb](blurls/JTUazgeAknaesOgxnb.json) | Taking Back Sunday - MakeDamnSure                                             |
+| [SNgkCjifyzSXREvCRA](blurls/SNgkCjifyzSXREvCRA.json) | Taking Back Sunday - MakeDamnSure (Preview)                                   |
 | [LzKrWMfTRNAdAQBhDL](blurls/LzKrWMfTRNAdAQBhDL.json) | The All-American Rejects - Dirty Little Secret                                |
 | [SYOAJSHtalCDBjDAzR](blurls/SYOAJSHtalCDBjDAzR.json) | The All-American Rejects - Dirty Little Secret (Preview)                      |
 | [dBsAKLACZwMImWXUem](blurls/dBsAKLACZwMImWXUem.json) | The Chainsmokers ft. Halsey - Closer                                          |

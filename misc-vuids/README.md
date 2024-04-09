@@ -52,6 +52,7 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [cdItBLrFXpWRXScwuc](blurls/cdItBLrFXpWRXScwuc.json) | Mobile Shooting Tutorial Unused Video 3                                                              |
 | [yZCScFFPeBHXNMtusu](blurls/yZCScFFPeBHXNMtusu.json) | Picture-in-Picture Bouncing Llama Placeholder                                                        |
 | [NAMfVPLLYJqykofrFu](blurls/NAMfVPLLYJqykofrFu.json) | Rift Tour Tab Background                                                                             |
+| [nKaFcQbEhacuiRdfFD](blurls/nKaFcQbEhacuiRdfFD.json) | Rocket Racing First-Time Launch Video                                                                |
 | [shortnite_combined](blurls/shortnite_combined.json) | Short Nite is back! : Combined Version                                                               |
 | [UFDxtqZPQKgaoloDlR](blurls/UFDxtqZPQKgaoloDlR.json) | Soundwave Series ft. Aya Nakamura Picture-in-Picture                                                 |
 | [xDsRQcMMMKqpwdMH](blurls/xDsRQcMMMKqpwdMH.json)     | Soundwave Series ft. Tones And I Picture-in-Picture                                                  |
