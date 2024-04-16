@@ -50,6 +50,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [POCoJqLZXiWhYTEMuU](blurls/POCoJqLZXiWhYTEMuU.json) | Doja Cat - Paint The Town Red (Preview)                                       |
 | [ACtnHHwmqTRPvwcjjR](blurls/ACtnHHwmqTRPvwcjjR.json) | Doja Cat - Say So                                                             |
 | [qGGzNaSjbTmuRSbMRp](blurls/qGGzNaSjbTmuRSbMRp.json) | Doja Cat - Say So (Preview)                                                   |
+| [OGqyvlPjABgfiNGJtd](blurls/OGqyvlPjABgfiNGJtd.json) | Doja Cat - Woman                                                              |
+| [WauaDKgCDRkaarRdUE](blurls/WauaDKgCDRkaarRdUE.json) | Doja Cat - Woman (Preview)                                                    |
 | [WRKyljCDBpRoyYtjWe](blurls/WRKyljCDBpRoyYtjWe.json) | Ed Sheeran - Shivers                                                          |
 | [DPArzxivXSQMGpUAKl](blurls/DPArzxivXSQMGpUAKl.json) | Ed Sheeran - Shivers (Preview)                                                |
 | [rFVnhHkGeIWkYTeMef](blurls/rFVnhHkGeIWkYTeMef.json) | Elton John & Britney Spears - Hold Me Closer                                  |
@@ -138,6 +140,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [riqhfgKUkPzkyWnVTo](blurls/riqhfgKUkPzkyWnVTo.json) | Imagine Dragons - Eyes Closed (Preview)                                       |
 | [XZUUuItQfREbtEpCTE](blurls/XZUUuItQfREbtEpCTE.json) | Imagine Dragons - Thunder                                                     |
 | [KTfnyyIvbxiWBFKKjM](blurls/KTfnyyIvbxiWBFKKjM.json) | Imagine Dragons - Thunder (Preview)                                           |
+| [MxadvEnoHUMbnbbktP](blurls/MxadvEnoHUMbnbbktP.json) | J. Balvin & Willy William - Mi Gente                                          |
+| [NBYVvNMXujQZcEUELl](blurls/NBYVvNMXujQZcEUELl.json) | J. Balvin & Willy William - Mi Gente (Preview)                                |
 | [JXOekLgtaGBlNynJgO](blurls/JXOekLgtaGBlNynJgO.json) | Jack Harlow - WHATS POPPIN                                                    |
 | [rPToQPfrpyrLLoUSAh](blurls/rPToQPfrpyrLLoUSAh.json) | Jack Harlow - WHATS POPPIN (Preview)                                          |
 | [EEiSPgqewiaalVZOnP](blurls/EEiSPgqewiaalVZOnP.json) | Jack Harlow - WHATS POPPIN (v1)                                               |
@@ -189,6 +193,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [zmZdgTsVRlMixlemOd](blurls/zmZdgTsVRlMixlemOd.json) | Latto - Big Energy                                                            |
 | [spfNvDjeujyZSdtlMX](blurls/spfNvDjeujyZSdtlMX.json) | Latto - Big Energy (Preview)                                                  |
 | [nNcDyfisUVhLYpRVpw](blurls/nNcDyfisUVhLYpRVpw.json) | Lil Nas X ft. Jack Harlow - Industry Baby                                     |
+| [ZzdveBTMVSejUSDGnS](blurls/ZzdveBTMVSejUSDGnS.json) | Lil Uzi Vert - XO Tour Llif3                                                  |
+| [SNVLBWTIHwFiCeRnUF](blurls/SNVLBWTIHwFiCeRnUF.json) | Lil Uzi Vert - XO Tour Llif3  (Preview)                                       |
 | [bMjVhlNERaRzxPzoHv](blurls/bMjVhlNERaRzxPzoHv.json) | Lil Uzi Vert ft. Oh Wonder - The Way Life Goes                                |
 | [nZNkFqssQWYuhyaYhY](blurls/nZNkFqssQWYuhyaYhY.json) | Lil Uzi Vert ft. Oh Wonder - The Way Life Goes (Preview)                      |
 | [ovoFZlSqdtoBtXBxdW](blurls/ovoFZlSqdtoBtXBxdW.json) | Linkin Park - Numb                                                            |
@@ -223,6 +229,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [zvzLsOScWEiyWIsown](blurls/zvzLsOScWEiyWIsown.json) | Nine Inch Nails - March Of The Pigs (Preview)                                 |
 | [xHyCrugKkxSvzyBvMd](blurls/xHyCrugKkxSvzyBvMd.json) | Nine Inch Nails - The Hand That Feeds                                         |
 | [nKymeCiZOyeUZcBWux](blurls/nKymeCiZOyeUZcBWux.json) | Nine Inch Nails - The Hand That Feeds (Preview)                               |
+| [dorCiiRycRlvnwkZuZ](blurls/dorCiiRycRlvnwkZuZ.json) | No Doubt - Just A Girl                                                        |
+| [btZZlILuGsZcPEFzMM](blurls/btZZlILuGsZcPEFzMM.json) | No Doubt - Just A Girl (Preview)                                              |
 | [bptdzIoxcqLWGsIoJA](blurls/bptdzIoxcqLWGsIoJA.json) | Olivia Rodrigo - get him back!                                                |
 | [cPXAnKPSQXOZsDbmNC](blurls/cPXAnKPSQXOZsDbmNC.json) | Olivia Rodrigo - get him back! (Preview)                                      |
 | [iGDzixqlczsvBNJeee](blurls/iGDzixqlczsvBNJeee.json) | Olivia Rodrigo - good 4 u                                                     |
@@ -265,6 +273,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [nExtkgFrPFhLiJOuuq](blurls/nExtkgFrPFhLiJOuuq.json) | Soundgarden - Black Hole Sun (Preview)                                        |
 | [QXKPSFvMysPqegENXn](blurls/QXKPSFvMysPqegENXn.json) | Sub Urban - Cradles                                                           |
 | [mAMYWlxEUGkmpOLOlW](blurls/mAMYWlxEUGkmpOLOlW.json) | Sub Urban - Cradles (Preview)                                                 |
+| [dHQjyapLoDdxwglLMi](blurls/dHQjyapLoDdxwglLMi.json) | Sublime - Santeria                                                            |
+| [oGRqKrvyIQrDUGJYZU](blurls/oGRqKrvyIQrDUGJYZU.json) | Sublime - Santeria (Preview)                                                  |
 | [KyIJcTflIcXHAvoWbd](blurls/KyIJcTflIcXHAvoWbd.json) | Sublime - What I Got                                                          |
 | [AWEjWsNKZbPAIrMgon](blurls/AWEjWsNKZbPAIrMgon.json) | Sublime - What I Got (Preview)                                                |
 | [HwqWjyIrdXvdeApMnQ](blurls/HwqWjyIrdXvdeApMnQ.json) | Swedish House Mafia ft. John Martin - Don't You Worry Child                   |

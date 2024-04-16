@@ -10,7 +10,8 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
-| [PBFfPPTewNBMZVGqZZ](blurls/PBFfPPTewNBMZVGqZZ.json) | Avatar Elements |
+| [lHjUUkvuxepqVqExLt](blurls/lHjUUkvuxepqVqExLt.json) | Fortnite X Star Wars Teaser Trailer |
+| [PBFfPPTewNBMZVGqZZ](blurls/PBFfPPTewNBMZVGqZZ.json) | Avatar The Last Airbender : Elements Gameplay Trailer |
 | [ollNxPacWgpUqAHlvB](blurls/ollNxPacWgpUqAHlvB.json) | Rocket Racing : Neon Rush Season Trailer |
 | [XXjZgIFLZNaaEXFAuy](blurls/XXjZgIFLZNaaEXFAuy.json) | Avatar The Last Airbender : Elements Event Teaser |
 | [YkhNDhxvmHgKLuCbrr](blurls/YkhNDhxvmHgKLuCbrr.json) | Stoic Icon Series Emote |
@@ -21,7 +22,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 | [BTrBwVrjwptOdTmdCd](blurls/BTrBwVrjwptOdTmdCd.json) | Player Made Fortnite LEGO Islands Trailer | 
 | [qeaNVDIZrbpbdKenII](blurls/qeaNVDIZrbpbdKenII.json) | Player Made Rocket Racing Tracks Trailer | 
 | [dTvrofeSfQsCfafusX](blurls/dTvrofeSfQsCfafusX.json) | Evil Plan Icon Series Emote | 
-| [yrjtfamcruXYQyewgY](blurls/yrjtfamcruXYQyewgY.json) | Introducing Fortnite Lego kits Trailer | 
+| [yrjtfamcruXYQyewgY](blurls/yrjtfamcruXYQyewgY.json) | Introducing Fortnite LEGO Kits Trailer | 
 | [TDFknhIIEDOhejYdcq](blurls/TDFknhIIEDOhejYdcq.json) | Myths and Mortals (Chapter 5 Season 2 Cinematic Trailer) |
 | [UgEAsOaOwJHgdOXtJf](blurls/UgEAsOaOwJHgdOXtJf.json) | Myths and Mortals (Chapter 5 Season 2 Cinematic Teaser) |
 | [gsiqjBmLVtVJKLrbce](blurls/gsiqjBmLVtVJKLrbce.json) | Careless Icon Series Emote |
