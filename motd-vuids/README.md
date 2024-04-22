@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [VlmfWonlCyGMRoeTng](blurls/VlmfWonlCyGMRoeTng.json) | Boney Bounce Icon Series Emote |
 | [lHjUUkvuxepqVqExLt](blurls/lHjUUkvuxepqVqExLt.json) | Fortnite X Star Wars Teaser Trailer |
 | [PBFfPPTewNBMZVGqZZ](blurls/PBFfPPTewNBMZVGqZZ.json) | Avatar The Last Airbender : Elements Gameplay Trailer |
 | [ollNxPacWgpUqAHlvB](blurls/ollNxPacWgpUqAHlvB.json) | Rocket Racing : Neon Rush Season Trailer |
