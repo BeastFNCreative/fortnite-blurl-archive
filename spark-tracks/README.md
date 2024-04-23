@@ -208,6 +208,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [YqegtUpkrBquZcKbrw](blurls/YqegtUpkrBquZcKbrw.json) | Lady Gaga ft. Colby O'Donis - Just Dance (Preview)                            |
 | [zmZdgTsVRlMixlemOd](blurls/zmZdgTsVRlMixlemOd.json) | Latto - Big Energy                                                            |
 | [spfNvDjeujyZSdtlMX](blurls/spfNvDjeujyZSdtlMX.json) | Latto - Big Energy (Preview)                                                  |
+| [vBGQUULeIETezKftrt](blurls/vBGQUULeIETezKftrt.json) | Lil Jon & The East Side Boyz ft. Ying Yang Twins - Get Low                    |
+| [kPecXJXYuKmbFDXBQA](blurls/kPecXJXYuKmbFDXBQA.json) | Lil Jon & The East Side Boyz ft. Ying Yang Twins - Get Low (Preview)          |
 | [nNcDyfisUVhLYpRVpw](blurls/nNcDyfisUVhLYpRVpw.json) | Lil Nas X ft. Jack Harlow - Industry Baby                                     |
 | [ZzdveBTMVSejUSDGnS](blurls/ZzdveBTMVSejUSDGnS.json) | Lil Uzi Vert - XO Tour Llif3                                                  |
 | [SNVLBWTIHwFiCeRnUF](blurls/SNVLBWTIHwFiCeRnUF.json) | Lil Uzi Vert - XO Tour Llif3  (Preview)                                       |
@@ -227,6 +229,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [pYJCnjqDOqmMOeIPFq](blurls/pYJCnjqDOqmMOeIPFq.json) | Meghan Trainor - Me Too (Preview)                                             |
 | [WcMBWDRxVECRdNePkF](blurls/WcMBWDRxVECRdNePkF.json) | mgk, YUNGBLUD & Travis Barker - I Think I'm OKAY                              |
 | [JeCMiwimzhNKVIESDf](blurls/JeCMiwimzhNKVIESDf.json) | mgk, YUNGBLUD & Travis Barker - I Think I'm OKAY (Preview)                    |
+| [OUISsotQeBvfqyjWDs](blurls/OUISsotQeBvfqyjWDs.json) | mgk & blackbear - my ex's best friend                                         |
+| [uVGjFGonueFFiHBmcT](blurls/uVGjFGonueFFiHBmcT.json) | mgk & blackbear - my ex's best friend (Preview)                               |
 | [CEyQyyKYlUcMctCEpu](blurls/CEyQyyKYlUcMctCEpu.json) | mgk ft. WILLOW - emo girl                                                     |
 | [XdgIvalKRbHSgrJghw](blurls/XdgIvalKRbHSgrJghw.json) | mgk ft. WILLOW - emo girl (Preview)                                           |
 | [BKsIYBmngGbOAuPhLl](blurls/BKsIYBmngGbOAuPhLl.json) | MGMT - Kids                                                                   |
