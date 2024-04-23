@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [XboEFlbtapiukQmSzn](blurls/XboEFlbtapiukQmSzn.json) | Fortnite Festival Season 3 Billie Eilish Cinematic Trailer |
 | [VlmfWonlCyGMRoeTng](blurls/VlmfWonlCyGMRoeTng.json) | Boney Bounce Icon Series Emote |
 | [lHjUUkvuxepqVqExLt](blurls/lHjUUkvuxepqVqExLt.json) | Fortnite X Star Wars Teaser Trailer |
 | [PBFfPPTewNBMZVGqZZ](blurls/PBFfPPTewNBMZVGqZZ.json) | Avatar The Last Airbender : Elements Gameplay Trailer |

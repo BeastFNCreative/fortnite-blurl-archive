@@ -10,6 +10,8 @@ Jam Track Audio Data from Fortnite Festival.
 | :--------------------------------------------------- | :---------------------------------------------------------------------------- |
 | [eBBboClwZXowrdoMXp](blurls/eBBboClwZXowrdoMXp.json) | 24kGoldn ft. iann dior - Mood                                                 |
 | [AECvkpYDfjztWoqKNX](blurls/AECvkpYDfjztWoqKNX.json) | 24kGoldn ft. iann dior - Mood (Preview)                                       |
+| [WQpCEpPpQJHyGBkzJw](blurls/WQpCEpPpQJHyGBkzJw.json) | 5 Seconds Of Summer - Youngblood                                              |
+| [plyrQeWOeFHAPibQiO](blurls/plyrQeWOeFHAPibQiO.json) | 5 Seconds Of Summer - Youngblood (Preview)                                    |
 | [RLIOuvGprzElBniPKM](blurls/RLIOuvGprzElBniPKM.json) | A Tribe Called Quest ft. Leaders Of The New School - Scenario                 |
 | [HfsUCLQbmgYRRSbywT](blurls/HfsUCLQbmgYRRSbywT.json) | A Tribe Called Quest ft. Leaders Of The New School - Scenario (Preview)       |
 | [LINpKUDVhCDeNueSky](blurls/LINpKUDVhCDeNueSky.json) | ATB, Topic, A7S - Your Love (9pm)                                             |
@@ -22,8 +24,16 @@ Jam Track Audio Data from Fortnite Festival.
 | [YULqMcQIIgrpNmdTgB](blurls/YULqMcQIIgrpNmdTgB.json) | Bastille - Pompeii (Preview)                                                  |
 | [PxZKeZngmCyBMuvUiW](blurls/PxZKeZngmCyBMuvUiW.json) | Bell Biv DeVoe - Poison                                                       |
 | [EeaSoyOgNJLpyZfRyI](blurls/EeaSoyOgNJLpyZfRyI.json) | Bell Biv DeVoe - Poison (Preview)                                             |
+| [FuoXXkcDMFbOiEebrz](blurls/FuoXXkcDMFbOiEebrz.json) | Billie Eilish - all the good girls go to hell                                 |
+| [giDeXpQiAMldVggAeN](blurls/giDeXpQiAMldVggAeN.json) | Billie Eilish - all the good girls go to hell (Preview)                       |
 | [vCxMdIUPNtibNoDQDD](blurls/vCxMdIUPNtibNoDQDD.json) | Billie Eilish - bad guy                                                       |
 | [GeyOyokliHUGnVUMfZ](blurls/GeyOyokliHUGnVUMfZ.json) | Billie Eilish - bad guy (Preview)                                             |
+| [PpZREnIfOLVCPondNe](blurls/PpZREnIfOLVCPondNe.json) | Billie Eilish - Happier Than Ever - Edit                                      |
+| [EFvMmVDtAlQZaoTWoE](blurls/EFvMmVDtAlQZaoTWoE.json) | Billie Eilish - Happier Than Ever - Edit (Preview)                            |
+| [tMyWVzzboGKViOiSOI](blurls/tMyWVzzboGKViOiSOI.json) | Billie Eilish - Oxytocin                                                      |
+| [ngCwwEWQbxZiRwuiPJ](blurls/ngCwwEWQbxZiRwuiPJ.json) | Billie Eilish - Oxytocin (Preview)                                            |
+| [aLyxwtupWnTxERuxNl](blurls/aLyxwtupWnTxERuxNl.json) | Billie Eilish - Therefore I Am                                                |
+| [XQYwFXnsFpZzmBLOwA](blurls/XQYwFXnsFpZzmBLOwA.json) | Billie Eilish - Therefore I Am (Preview)                                      |
 | [ILfPPkkniPTicvLVXW](blurls/ILfPPkkniPTicvLVXW.json) | Bleachers - I Wanna Get Better                                                |
 | [KZpOMROMJHgVexOnMp](blurls/KZpOMROMJHgVexOnMp.json) | Bleachers - I Wanna Get Better (Preview)                                      |
 | [SPhkAgoXkChFZOCdzy](blurls/SPhkAgoXkChFZOCdzy.json) | blink-182 - All The Small Things                                              |
@@ -66,6 +76,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [LvAUtAEuWsMjWFDfIn](blurls/LvAUtAEuWsMjWFDfIn.json) | Epic Games - Butter Barn Hoedown (Preview)                                    |
 | [AqzJOZzkSxbofUdkMB](blurls/AqzJOZzkSxbofUdkMB.json) | Epic Games - Butter Barn Hoedown (v1)                                         |
 | [ibdfdERRkeiDoCnFPM](blurls/ibdfdERRkeiDoCnFPM.json) | Epic Games - Butter Barn Hoedown (v1) (Preview)                               |
+| [pZVXXRWfCuHijYNagg](blurls/pZVXXRWfCuHijYNagg.json) | Epic Games - Change                                                           |
+| [GGlGfkVHYNrJMjdmnJ](blurls/GGlGfkVHYNrJMjdmnJ.json) | Epic Games - Change (Preview)                                                 |
+| [AGTCTgnGzQPlUyqVcT](blurls/AGTCTgnGzQPlUyqVcT.json) | Epic Games - Find the Fury                                                    |
+| [ZeimxqDjkNaKOetpDq](blurls/ZeimxqDjkNaKOetpDq.json) | Epic Games - Find the Fury (Preview)                                          |
 | [ggOVvBIigmrYidAdlU](blurls/ggOVvBIigmrYidAdlU.json) | Epic Games - Flickering Flame                                                 |
 | [mObSAekLEUiiRlVjgC](blurls/mObSAekLEUiiRlVjgC.json) | Epic Games - Flickering Flame (Preview)                                       |
 | [zIVFyCkOQcadroQWNg](blurls/zIVFyCkOQcadroQWNg.json) | Epic Games - I'm A Cat                                                        |
@@ -78,6 +92,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [cGcjyotaSPSnOCIUme](blurls/cGcjyotaSPSnOCIUme.json) | Epic Games - Show Them Who We Are (Preview)                                   |
 | [ZGSLwGYelfMLKTfvDn](blurls/ZGSLwGYelfMLKTfvDn.json) | Epic Games - Show Them Who We Are (v1)                                        |
 | [wCQJgdwIcbTBFRevlf](blurls/wCQJgdwIcbTBFRevlf.json) | Epic Games - Show Them Who We Are (v1) (Preview)                              |
+| [hJsXVCKtpBVzoaUiqj](blurls/hJsXVCKtpBVzoaUiqj.json) | Epic Games - Silly Bros                                                       |
+| [UGzCXrPokPNRRriYMU](blurls/UGzCXrPokPNRRriYMU.json) | Epic Games - Silly Bros (Preview)                                             |
 | [nLRSnynjxuTxtoozSl](blurls/nLRSnynjxuTxtoozSl.json) | Epic Games - Sky Surfer (Neon Rush Remix)                                     |
 | [LIAskQehpQkgutISLU](blurls/LIAskQehpQkgutISLU.json) | Epic Games - Sky Surfer (Neon Rush Remix) (Preview)                           |
 | [LoWYCRMgTmizOwuhhE](blurls/LoWYCRMgTmizOwuhhE.json) | Epic Games - Streets Ignite                                                   |
@@ -201,6 +217,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [cGiGEljlaNGZADvZEO](blurls/cGiGEljlaNGZADvZEO.json) | Linkin Park - Numb (Preview)                                                  |
 | [BDDJiGIZinqbqsXKub](blurls/BDDJiGIZinqbqsXKub.json) | LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem                       |
 | [nxLJFcAiIPllRRssqw](blurls/nxLJFcAiIPllRRssqw.json) | LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem (Preview)             |
+| [UOUmIjfRcZZIDERmwM](blurls/UOUmIjfRcZZIDERmwM.json) | Maroon 5 - Maps                                                               |
+| [cuAreqkhIjmfycXzhA](blurls/cuAreqkhIjmfycXzhA.json) | Maroon 5 - Maps (Preview)                                                     |
 | [jcBequaEgqHcYiSHSd](blurls/jcBequaEgqHcYiSHSd.json) | Maroon 5 ft. Christina Aguilera - Moves Like Jagger                           |
 | [RCdQrLVlrsqCHIUURx](blurls/RCdQrLVlrsqCHIUURx.json) | Maroon 5 ft. Christina Aguilera - Moves Like Jagger (Preview)                 |
 | [MkyyPKPtudTihOhtvb](blurls/MkyyPKPtudTihOhtvb.json) | Masked Wolf - Astronaut In The Ocean                                          |
@@ -287,6 +305,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [oqNvlONiJOBXooDJFk](blurls/oqNvlONiJOBXooDJFk.json) | The Chainsmokers ft. Halsey - Closer (Preview)                                |
 | [mbeIGXNmiVskWcWFeT](blurls/mbeIGXNmiVskWcWFeT.json) | The Cranberries - Zombie                                                      |
 | [ocvyEJlcRjvGuodeLt](blurls/ocvyEJlcRjvGuodeLt.json) | The Cranberries - Zombie (Preview)                                            |
+| [exSMgeBaoDgpFRWLDI](blurls/exSMgeBaoDgpFRWLDI.json) | The Cure - Friday I'm In Love                                                 |
+| [EwsjQefTOkYKgTBjzv](blurls/EwsjQefTOkYKgTBjzv.json) | The Cure - Friday I'm In Love (Preview)                                       |
 | [GNGENvcSHgKpfWLNDA](blurls/GNGENvcSHgKpfWLNDA.json) | The Killers - Mr. Brightside                                                  |
 | [KGRprRNLfuTkgjehoV](blurls/KGRprRNLfuTkgjehoV.json) | The Killers - Mr. Brightside (Preview)                                        |
 | [xcjDYSfdznOZcRQhER](blurls/xcjDYSfdznOZcRQhER.json) | The Weeknd - Blinding Lights                                                  |
@@ -317,6 +337,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [gVjMbCHwjpApEkHNhK](blurls/gVjMbCHwjpApEkHNhK.json) | WILLOW ft. Travis Barker - t r a n s p a r e n t s o u l (Preview)            |
 | [XUabTUvKGFvaquBMet](blurls/XUabTUvKGFvaquBMet.json) | WitchGang - Nothing's Alright                                                 |
 | [XCOsTRifVQudgAjJff](blurls/XCOsTRifVQudgAjJff.json) | WitchGang - Nothing's Alright (Preview)                                       |
+| [CPPXwpZDDUPQWqoyqS](blurls/CPPXwpZDDUPQWqoyqS.json) | WitchGang - Runaway                                                           |
+| [bqrIhKltkIGuQcPwky](blurls/bqrIhKltkIGuQcPwky.json) | WitchGang - Runaway (Preview)                                                 |
 | [GYbVDBVHDgXObXqyjr](blurls/GYbVDBVHDgXObXqyjr.json) | WitchGang - Timeless                                                          |
 | [fVALLXBdAuxUVUnnQj](blurls/fVALLXBdAuxUVUnnQj.json) | WitchGang - Timeless (Preview)                                                |
 | [gniXTOGIdaDCiapOYk](blurls/gniXTOGIdaDCiapOYk.json) | Young MC - Bust A Move                                                        |
