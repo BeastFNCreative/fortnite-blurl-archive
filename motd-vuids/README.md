@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [jlitZfXRlikkawWouz](blurls/jlitZfXRlikkawWouz.json) | Bad Guy Icon Series Emote |
 | [XboEFlbtapiukQmSzn](blurls/XboEFlbtapiukQmSzn.json) | Fortnite Festival Season 3 Billie Eilish Cinematic Trailer |
 | [VlmfWonlCyGMRoeTng](blurls/VlmfWonlCyGMRoeTng.json) | Boney Bounce Icon Series Emote |
 | [lHjUUkvuxepqVqExLt](blurls/lHjUUkvuxepqVqExLt.json) | Fortnite X Star Wars Teaser Trailer |
