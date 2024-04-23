@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [KWDChtAcFfdzEfXbrJ](blurls/KWDChtAcFfdzEfXbrJ.json) | you should see me in a crown Icon Series Emote |
 | [lDEGCJqpoivAkbIVTv](blurls/lDEGCJqpoivAkbIVTv.json) | LEGO Fortnite Farm Friends Update Trailer |
 | [jlitZfXRlikkawWouz](blurls/jlitZfXRlikkawWouz.json) | Bad Guy Icon Series Emote |
 | [XboEFlbtapiukQmSzn](blurls/XboEFlbtapiukQmSzn.json) | Fortnite Festival Season 3 Billie Eilish Cinematic Trailer |
