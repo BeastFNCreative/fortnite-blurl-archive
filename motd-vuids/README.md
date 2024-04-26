@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [qJUpYwLJpxtBltRssc](blurls/qJUpYwLJpxtBltRssc.json) | Lil' Supercar Icon Series Emote |
 | [KWDChtAcFfdzEfXbrJ](blurls/KWDChtAcFfdzEfXbrJ.json) | you should see me in a crown Icon Series Emote |
 | [lDEGCJqpoivAkbIVTv](blurls/lDEGCJqpoivAkbIVTv.json) | LEGO Fortnite Farm Friends Update Trailer |
 | [jlitZfXRlikkawWouz](blurls/jlitZfXRlikkawWouz.json) | Bad Guy Icon Series Emote |
