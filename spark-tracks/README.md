@@ -134,6 +134,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [MZnIlagpQkjalAHQjK](blurls/MZnIlagpQkjalAHQjK.json) | Florence + The Machine - Dog Days Are Over (Preview)                          |
 | [vhXvmCNkwUfWyGtbrJ](blurls/vhXvmCNkwUfWyGtbrJ.json) | Foo Fighters - Everlong                                                       |
 | [KlhsxJUOLCxwSyGWiN](blurls/KlhsxJUOLCxwSyGWiN.json) | Foo Fighters - Everlong (Preview)                                             |
+| [ajIPKzQveMPCZXoWhV](blurls/ajIPKzQveMPCZXoWhV.json) | Glass Animals - Creatures In Heaven                                           |
+| [DvuPKzUGGiQBzIUUPr](blurls/DvuPKzUGGiQBzIUUPr.json) | Glass Animals - Creatures In Heaven (Preview)                                 |
 | [DFtfUXkCkZRYaZcJzu](blurls/DFtfUXkCkZRYaZcJzu.json) | Glass Animals - Heat Waves                                                    |
 | [iXvdhpzYyAfqnuWtLC](blurls/iXvdhpzYyAfqnuWtLC.json) | Glass Animals - Heat Waves (Preview)                                          |
 | [PDHnYsfoqqtMtMJXWf](blurls/PDHnYsfoqqtMtMJXWf.json) | Glass Animals - Heat Waves (v1)                                               |
@@ -178,6 +180,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [EhQGiOYdhbkADxIaNY](blurls/EhQGiOYdhbkADxIaNY.json) | Kansas - Carry on Wayward Son (Preview)                                       |
 | [YJuJITYtGSdfDcXGNp](blurls/YJuJITYtGSdfDcXGNp.json) | Katy Perry - Firework                                                         |
 | [EsavPhYoXQtFgqOHoe](blurls/EsavPhYoXQtFgqOHoe.json) | Katy Perry - Firework (Preview)                                               |
+| [TPApdjhCVZKhNzIyYX](blurls/TPApdjhCVZKhNzIyYX.json) | Kelly Clarkson - Stronger (What Doesn't Kill You)                             |
+| [IkpIuUfnWoRzCoTNux](blurls/IkpIuUfnWoRzCoTNux.json) | Kelly Clarkson - Stronger (What Doesn't Kill You) (Preview)                   |
 | [WLVhTjCsFGVtDGoHPM](blurls/WLVhTjCsFGVtDGoHPM.json) | Kendrick Lamar - i                                                            |
 | [wOBbQOTrZoYqRnyulI](blurls/wOBbQOTrZoYqRnyulI.json) | Kendrick Lamar - i (Preview)                                                  |
 | [NsitmLqggPcjUqIdkD](blurls/NsitmLqggPcjUqIdkD.json) | Kendrick Lamar - i (v1)                                                       |
@@ -239,6 +243,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [uwXcjJAnMFJDIRmVUL](blurls/uwXcjJAnMFJDIRmVUL.json) | MGMT - Kids (v1) (Preview)                                                    |
 | [QxxqeiJTLAgOWqOuTb](blurls/QxxqeiJTLAgOWqOuTb.json) | Miley Cyrus  - Flowers                                                        |
 | [oSeWpNfSFwwwIxguPl](blurls/oSeWpNfSFwwwIxguPl.json) | Miley Cyrus  - Flowers (Preview)                                              |
+| [FDEaZmTqwPwSvNrgyj](blurls/FDEaZmTqwPwSvNrgyj.json) | Montell Jordan - This Is How We Do It                                         |
+| [UOyvyyUWbjQkJnCmqw](blurls/UOyvyyUWbjQkJnCmqw.json) | Montell Jordan - This Is How We Do It (Preview)                               |
 | [BZsiBryiAYRCTdkWNT](blurls/BZsiBryiAYRCTdkWNT.json) | Muse  - Hysteria                                                              |
 | [hGXYhAVRLCvxMMqDOG](blurls/hGXYhAVRLCvxMMqDOG.json) | Muse  - Hysteria (Preview)                                                    |
 | [lVbXhTnpHAwjodfxyF](blurls/lVbXhTnpHAwjodfxyF.json) | Nelly ft. City Spud - Ride Wit Me                                             |
@@ -251,6 +257,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [zvzLsOScWEiyWIsown](blurls/zvzLsOScWEiyWIsown.json) | Nine Inch Nails - March Of The Pigs (Preview)                                 |
 | [xHyCrugKkxSvzyBvMd](blurls/xHyCrugKkxSvzyBvMd.json) | Nine Inch Nails - The Hand That Feeds                                         |
 | [nKymeCiZOyeUZcBWux](blurls/nKymeCiZOyeUZcBWux.json) | Nine Inch Nails - The Hand That Feeds (Preview)                               |
+| [KGGpaEgzFgHKBxjGxD](blurls/KGGpaEgzFgHKBxjGxD.json) | Nirvana - Breed                                                               |
+| [TXlZYRIdDRwxMsaVqp](blurls/TXlZYRIdDRwxMsaVqp.json) | Nirvana - Breed (Preview)                                                     |
 | [dorCiiRycRlvnwkZuZ](blurls/dorCiiRycRlvnwkZuZ.json) | No Doubt - Just A Girl                                                        |
 | [btZZlILuGsZcPEFzMM](blurls/btZZlILuGsZcPEFzMM.json) | No Doubt - Just A Girl (Preview)                                              |
 | [bptdzIoxcqLWGsIoJA](blurls/bptdzIoxcqLWGsIoJA.json) | Olivia Rodrigo - get him back!                                                |
@@ -277,6 +285,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [YFbENNUpVeqiyyGEbm](blurls/YFbENNUpVeqiyyGEbm.json) | PSY - Gangnam Style (Preview)                                                 |
 | [vBlsDPnZYHiPYzAbID](blurls/vBlsDPnZYHiPYzAbID.json) | Queens of the Stone Age - Go With The Flow                                    |
 | [vfjKbIGlrZKEtKdwUH](blurls/vfjKbIGlrZKEtKdwUH.json) | Queens of the Stone Age - Go With The Flow (Preview)                          |
+| [EbRuFltOuaXxgLcWBc](blurls/EbRuFltOuaXxgLcWBc.json) | Rage Against The Machine - Killing In The Name                                |
+| [GburfSTihFFuVWyzOI](blurls/GburfSTihFFuVWyzOI.json) | Rage Against The Machine - Killing In The Name (Preview)                      |
 | [NNQBQJkGHqdmvcBwYG](blurls/NNQBQJkGHqdmvcBwYG.json) | Rick James - Super Freak                                                      |
 | [hoflzQQnraYuWHrzdQ](blurls/hoflzQQnraYuWHrzdQ.json) | Rick James - Super Freak (Preview)                                            |
 | [ExFDcIVnwGOFHIqPwV](blurls/ExFDcIVnwGOFHIqPwV.json) | Rob Base & DJ EZ Rock - It Takes Two                                          |
@@ -289,6 +299,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [FHGXRAqAHhGGHteYZE](blurls/FHGXRAqAHhGGHteYZE.json) | Selena Gomez w/Marshmello - Wolves (Preview)                                  |
 | [ytgNlkXOBSYxNWCaeR](blurls/ytgNlkXOBSYxNWCaeR.json) | Shawn Mendes - Stitches                                                       |
 | [dSfUlfmAsRSlcVhKZR](blurls/dSfUlfmAsRSlcVhKZR.json) | Shawn Mendes - Stitches (Preview)                                             |
+| [EzgqlCwNWAwANRDMaa](blurls/EzgqlCwNWAwANRDMaa.json) | Sia ft. Sean Paul - Cheap Thrills                                             |
+| [LHaSzZpMQzCzqLZwhT](blurls/LHaSzZpMQzCzqLZwhT.json) | Sia ft. Sean Paul - Cheap Thrills (Preview)                                   |
 | [LaHUcJnUMBAfICvrfF](blurls/LaHUcJnUMBAfICvrfF.json) | Skee-Lo - I Wish                                                              |
 | [HsCGWpvjlDmYVUjxVa](blurls/HsCGWpvjlDmYVUjxVa.json) | Skee-Lo - I Wish (Preview)                                                    |
 | [cCTLWzqDboIkMWyOTd](blurls/cCTLWzqDboIkMWyOTd.json) | Soundgarden - Black Hole Sun                                                  |
