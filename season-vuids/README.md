@@ -57,3 +57,4 @@ Seasonal Trailer Video Content, found in either the Career Tab or First Time Sta
 | [DngoFIpcHmNjxWrjfu](blurls/DngoFIpcHmNjxWrjfu.json) | Chapter 5 Season 1 : Battle Pass Trailer & Cinematic Trailer (Alternative) |
 | [DoURAWYbUPGegHbudF](blurls/DoURAWYbUPGegHbudF.json) | Chapter 5 Season 2 : Battle Pass Trailer & Cinematic Trailer |
 | [oZBwQKuLABCXEMOHoa](blurls/oZBwQKuLABCXEMOHoa.json) | Chapter 5 Season 2 : Ecosystem Trailer |
+| [vuwGpWOMSgfsLNBlLX](blurls/vuwGpWOMSgfsLNBlLX.json) | Chapter 5 Season 2 : Ecosystem Trailer (Star Wars Update) |

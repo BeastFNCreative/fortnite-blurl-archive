@@ -10,6 +10,9 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [LTfNpWwIxvaHLBfspL](blurls/LTfNpWwIxvaHLBfspL.json) | LEGO Rebel Adventure Cinematic |
+| [CzFafsbxjUZnBUbRYY](blurls/CzFafsbxjUZnBUbRYY.json) | Fortnite Star Wars Update Gameplay Trailer |
+| [AYZZdTlnkXmICeQVGK](blurls/AYZZdTlnkXmICeQVGK.json) | LEGO Rebel Adventure Pass Explanation |
 | [qJUpYwLJpxtBltRssc](blurls/qJUpYwLJpxtBltRssc.json) | Lil' Supercar Icon Series Emote |
 | [KWDChtAcFfdzEfXbrJ](blurls/KWDChtAcFfdzEfXbrJ.json) | you should see me in a crown Icon Series Emote |
 | [lDEGCJqpoivAkbIVTv](blurls/lDEGCJqpoivAkbIVTv.json) | LEGO Fortnite Farm Friends Update Trailer |

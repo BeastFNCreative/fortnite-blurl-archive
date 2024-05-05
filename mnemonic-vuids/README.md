@@ -32,8 +32,10 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [lPAAqsIrORbZBsKCiX](blurls/lPAAqsIrORbZBsKCiX.json) | playlist_juno : LEGO Fortnite |
 | [vlFxcxMYwkzwNNKSFf](blurls/vlFxcxMYwkzwNNKSFf.json) | playlist_juno : LEGO Fortnite (Extra VUID) |
 | [bxjliYBuPmtkOttZEu](blurls/bxjliYBuPmtkOttZEu.json) | playlist_juno : LEGO Fortnite (Mechanical Mayhem) |
+| [JwCGPTNphEQftuekrL](blurls/JwCGPTNphEQftuekrL.json) | playlist_juno : LEGO Fortnite (Star Wars Update) |
 | [HtLUWyhMKefRGsTxlE](blurls/HtLUWyhMKefRGsTxlE.json) | playlist_pilgrimquickplay : Festival Main Stage |
 | [phKkVMFeiaJhLHyGHa](blurls/phKkVMFeiaJhLHyGHa.json) | playlist_pilgrimquickplay : Festival Main Stage (Extra VUID) |
+| [ZCnFXMOqRWXfNuYTmr](blurls/ZCnFXMOqRWXfNuYTmr.json) | playlist_pilgrimquickplay : Festival Main Stage (Star Wars Update) |
 | [pOQbjpyNSnZNptoned](blurls/pOQbjpyNSnZNptoned.json) | playlist_playgroundv2 : Creative |
 | [QljBuQXFYaplYHblAR](blurls/QljBuQXFYaplYHblAR.json) | playlist_respawn_24_alt : Team Rumble (v1) |
 | [EmSIVIsQevEAdtLiZq](blurls/EmSIVIsQevEAdtLiZq.json) | set_arena_playlists : Arena Modes |
@@ -43,7 +45,9 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [CWJQKLvQwXgtEHMOio](blurls/CWJQKLvQwXgtEHMOio.json) | set_br_playlists : Myths and Mortals |
 | [nBXWuBNMdScHeYtCnP](blurls/nBXWuBNMdScHeYtCnP.json) | set_delmar_mrs_ranked : Rocket Racing |
 | [qpdchKarjFnwpdEnYj](blurls/qpdchKarjFnwpdEnYj.json) | set_delmar_mrs_ranked : Rocket Racing (Extra VUID) |
+| [zmDptnMNGqUEdlBwTv](blurls/zmDptnMNGqUEdlBwTv.json) | set_delmar_mrs_ranked : Rocket Racing (Star Wars Update) |
 | [VeMCQpJEuQxYyUQGeB](blurls/VeMCQpJEuQxYyUQGeB.json) | set_imposters_playlists : Impostors |
 | [abxnGhUwXcjPrymobq](blurls/abxnGhUwXcjPrymobq.json) | set_nobuild_playlists : Myths and Mortals |
+| [gnEAizFWiuyqzUeEeL](blurls/gnEAizFWiuyqzUeEeL.json) | set_nobuild_playlists : Myths and Mortals (Star Wars Update) |
 | [KLHeAwpnfyWJzsHggq](blurls/KLHeAwpnfyWJzsHggq.json) | set_nobuild_playlists : Zero Build - Battle Royale |
 | [VTfsLUcDGhrnzHppNB](blurls/VTfsLUcDGhrnzHppNB.json) | set_nobuild_playlists : Zero Build - Battle Royale (v1) |
