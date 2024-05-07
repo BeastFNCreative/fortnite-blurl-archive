@@ -8,6 +8,8 @@ Jam Track Audio Data from Fortnite Festival.
 
 | VUID                                                 | Description                                                                   |
 | :--------------------------------------------------- | :---------------------------------------------------------------------------- |
+| [GpNFoziIXTqzLpJqye](blurls/GpNFoziIXTqzLpJqye.json) | 2Pac ft. Talent - Changes                                                     |
+| [xmatzFYiLBuEGwwtxe](blurls/xmatzFYiLBuEGwwtxe.json) | 2Pac ft. Talent - Changes (Preview)                                           |
 | [eBBboClwZXowrdoMXp](blurls/eBBboClwZXowrdoMXp.json) | 24kGoldn ft. iann dior - Mood                                                 |
 | [AECvkpYDfjztWoqKNX](blurls/AECvkpYDfjztWoqKNX.json) | 24kGoldn ft. iann dior - Mood (Preview)                                       |
 | [WQpCEpPpQJHyGBkzJw](blurls/WQpCEpPpQJHyGBkzJw.json) | 5 Seconds Of Summer - Youngblood                                              |
@@ -62,6 +64,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [qGGzNaSjbTmuRSbMRp](blurls/qGGzNaSjbTmuRSbMRp.json) | Doja Cat - Say So (Preview)                                                   |
 | [OGqyvlPjABgfiNGJtd](blurls/OGqyvlPjABgfiNGJtd.json) | Doja Cat - Woman                                                              |
 | [WauaDKgCDRkaarRdUE](blurls/WauaDKgCDRkaarRdUE.json) | Doja Cat - Woman (Preview)                                                    |
+| [PFleHMpwfEiopfVtWg](blurls/PFleHMpwfEiopfVtWg.json) | Doja Cat ft. SZA - Kiss Me More                                               |
+| [aFsJFbGuxihIUHcETd](blurls/aFsJFbGuxihIUHcETd.json) | Doja Cat ft. SZA - Kiss Me More (Preview)                                     |
 | [WRKyljCDBpRoyYtjWe](blurls/WRKyljCDBpRoyYtjWe.json) | Ed Sheeran - Shivers                                                          |
 | [DPArzxivXSQMGpUAKl](blurls/DPArzxivXSQMGpUAKl.json) | Ed Sheeran - Shivers (Preview)                                                |
 | [rFVnhHkGeIWkYTeMef](blurls/rFVnhHkGeIWkYTeMef.json) | Elton John & Britney Spears - Hold Me Closer                                  |
@@ -126,6 +130,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [IfgPRlXoxQIrDRnzys](blurls/IfgPRlXoxQIrDRnzys.json) | Epic Games - You're All Mine (Preview)                                        |
 | [KMZSjRPMJPOFBuTsSR](blurls/KMZSjRPMJPOFBuTsSR.json) | Eslabon Armado, Peso Pluma  - Ella Baila Sola                                 |
 | [JlZgpuVyUmKvcJYCxD](blurls/JlZgpuVyUmKvcJYCxD.json) | Eslabon Armado, Peso Pluma  - Ella Baila Sola (Preview)                       |
+| [cvVkdoJeFeXXCUhVfn](blurls/cvVkdoJeFeXXCUhVfn.json) | Evanescence - Bring Me To Life                                                |
+| [owXQzomvTwwigludHw](blurls/owXQzomvTwwigludHw.json) | Evanescence - Bring Me To Life (Preview)                                      |
 | [FEeVYNTEBnLAzfDdLJ](blurls/FEeVYNTEBnLAzfDdLJ.json) | Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up)           |
 | [GDBzQCdOUJEpXwEqql](blurls/GDBzQCdOUJEpXwEqql.json) | Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up) (Preview) |
 | [XpHWHLEsVfsDiIlSri](blurls/XpHWHLEsVfsDiIlSri.json) | Far East Movement ft. The Cataracs & DEV - Like A G6                          |
@@ -160,6 +166,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [KTfnyyIvbxiWBFKKjM](blurls/KTfnyyIvbxiWBFKKjM.json) | Imagine Dragons - Thunder (Preview)                                           |
 | [MxadvEnoHUMbnbbktP](blurls/MxadvEnoHUMbnbbktP.json) | J. Balvin & Willy William - Mi Gente                                          |
 | [NBYVvNMXujQZcEUELl](blurls/NBYVvNMXujQZcEUELl.json) | J. Balvin & Willy William - Mi Gente (Preview)                                |
+| [wCsAMcXJNzrqYncpai](blurls/wCsAMcXJNzrqYncpai.json) | Jack Harlow - Lovin On Me                                                     |
+| [hgeGrbbSxdRCeutUaH](blurls/hgeGrbbSxdRCeutUaH.json) | Jack Harlow - Lovin On Me (Preview)                                           |
 | [JXOekLgtaGBlNynJgO](blurls/JXOekLgtaGBlNynJgO.json) | Jack Harlow - WHATS POPPIN                                                    |
 | [rPToQPfrpyrLLoUSAh](blurls/rPToQPfrpyrLLoUSAh.json) | Jack Harlow - WHATS POPPIN (Preview)                                          |
 | [EEiSPgqewiaalVZOnP](blurls/EEiSPgqewiaalVZOnP.json) | Jack Harlow - WHATS POPPIN (v1)                                               |
@@ -253,6 +261,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [IWdHVthmtpcMZrYXfN](blurls/IWdHVthmtpcMZrYXfN.json) | Nelly ft. City Spud - Ride Wit Me (Preview)                                   |
 | [YolvkrBomHFUlpdGSz](blurls/YolvkrBomHFUlpdGSz.json) | NF - The Search                                                               |
 | [ckmLIpnenbdybYNhlq](blurls/ckmLIpnenbdybYNhlq.json) | NF - The Search (Preview)                                                     |
+| [NKYnNKqZMYSlccqGkU](blurls/NKYnNKqZMYSlccqGkU.json) | Nicki Minaj - Starships                                                       |
+| [jEVtqlgDKkFLeszFxK](blurls/jEVtqlgDKkFLeszFxK.json) | Nicki Minaj - Starships (Preview)                                             |
 | [ACTspeMIfwTviqNDtz](blurls/ACTspeMIfwTviqNDtz.json) | Nine Inch Nails - Less Than                                                   |
 | [IXOdGhEscJAMpIqgbm](blurls/IXOdGhEscJAMpIqgbm.json) | Nine Inch Nails - Less Than (Preview)                                         |
 | [GjABDjDzcxdeuEnlRI](blurls/GjABDjDzcxdeuEnlRI.json) | Nine Inch Nails - March Of The Pigs                                           |
@@ -305,6 +315,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [LHaSzZpMQzCzqLZwhT](blurls/LHaSzZpMQzCzqLZwhT.json) | Sia ft. Sean Paul - Cheap Thrills (Preview)                                   |
 | [LaHUcJnUMBAfICvrfF](blurls/LaHUcJnUMBAfICvrfF.json) | Skee-Lo - I Wish                                                              |
 | [HsCGWpvjlDmYVUjxVa](blurls/HsCGWpvjlDmYVUjxVa.json) | Skee-Lo - I Wish (Preview)                                                    |
+| [jqIYjdFZrEyUgNOvSf](blurls/jqIYjdFZrEyUgNOvSf.json) | Slipknot - Before I Forget                                                    |
+| [eWkigBnOQxgWuhbQQQ](blurls/eWkigBnOQxgWuhbQQQ.json) | Slipknot - Before I Forget (Preview)                                          |
 | [cCTLWzqDboIkMWyOTd](blurls/cCTLWzqDboIkMWyOTd.json) | Soundgarden - Black Hole Sun                                                  |
 | [nExtkgFrPFhLiJOuuq](blurls/nExtkgFrPFhLiJOuuq.json) | Soundgarden - Black Hole Sun (Preview)                                        |
 | [QXKPSFvMysPqegENXn](blurls/QXKPSFvMysPqegENXn.json) | Sub Urban - Cradles                                                           |
@@ -315,6 +327,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [AWEjWsNKZbPAIrMgon](blurls/AWEjWsNKZbPAIrMgon.json) | Sublime - What I Got (Preview)                                                |
 | [HwqWjyIrdXvdeApMnQ](blurls/HwqWjyIrdXvdeApMnQ.json) | Swedish House Mafia ft. John Martin - Don't You Worry Child                   |
 | [rmmbIzCyVNeSugaLjG](blurls/rmmbIzCyVNeSugaLjG.json) | Swedish House Mafia ft. John Martin - Don't You Worry Child (Preview)         |
+| [xpDRqPSuerbGgAOvJQ](blurls/xpDRqPSuerbGgAOvJQ.json) | System Of A Down - Toxicity                                                   |
+| [ggVTPwPQKHiSkCTZWC](blurls/ggVTPwPQKHiSkCTZWC.json) | System Of A Down - Toxicity (Preview)                                         |
 | [JTUazgeAknaesOgxnb](blurls/JTUazgeAknaesOgxnb.json) | Taking Back Sunday - MakeDamnSure                                             |
 | [SNgkCjifyzSXREvCRA](blurls/SNgkCjifyzSXREvCRA.json) | Taking Back Sunday - MakeDamnSure (Preview)                                   |
 | [LzKrWMfTRNAdAQBhDL](blurls/LzKrWMfTRNAdAQBhDL.json) | The All-American Rejects - Dirty Little Secret                                |
