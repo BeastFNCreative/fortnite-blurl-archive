@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [mjYMOhHZajuwZyiAtg](blurls/mjYMOhHZajuwZyiAtg.json) | Challenge Icon Series Emote |
 | [OaRmPGkjVpjegfbmjp](blurls/OaRmPGkjVpjegfbmjp.json) | Swag Shuffle Icon Series Emote |
 | [LTfNpWwIxvaHLBfspL](blurls/LTfNpWwIxvaHLBfspL.json) | LEGO Rebel Adventure Cinematic |
 | [CzFafsbxjUZnBUbRYY](blurls/CzFafsbxjUZnBUbRYY.json) | Fortnite Star Wars Update Gameplay Trailer |

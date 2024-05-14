@@ -48,7 +48,9 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [MDGivPFDqtjHhqjTqE](blurls/MDGivPFDqtjHhqjTqE.json) | Free Guy Quest Post-Quest Video 5                                                                    |
 | [qFVNDPSJXMhynlmgcr](blurls/qFVNDPSJXMhynlmgcr.json) | MEGA City Environment Music                                                                          |
 | [ElXyXuuBVqxWSdHChR](blurls/ElXyXuuBVqxWSdHChR.json) | Media Streaming Radio Licensed VUID                                                                  |
+| [LJmAefawOpFKUPquHC](blurls/LJmAefawOpFKUPquHC.json) | Media Streaming Radio Licensed VUID V2                                                               |
 | [KfxUyvIlltgRDBYwcO](blurls/KfxUyvIlltgRDBYwcO.json) | Media Streaming Radio Unlicensed VUID                                                                |
+| [MYPiLEMnlcEoZidMuU](blurls/MYPiLEMnlcEoZidMuU.json) | Media Streaming Radio Unlicensed VUID V2                                                             |
 | [zvQuSNCIqYMGgFljiM](blurls/zvQuSNCIqYMGgFljiM.json) | Mobile Shooting Tutorial Unused Video 1                                                              |
 | [AMzqULFVDUKJFmWtxq](blurls/AMzqULFVDUKJFmWtxq.json) | Mobile Shooting Tutorial Unused Video 2                                                              |
 | [cdItBLrFXpWRXScwuc](blurls/cdItBLrFXpWRXScwuc.json) | Mobile Shooting Tutorial Unused Video 3                                                              |

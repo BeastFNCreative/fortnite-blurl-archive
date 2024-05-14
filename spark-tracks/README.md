@@ -22,6 +22,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [rFDfrEOsaDxUrONCMq](blurls/rFDfrEOsaDxUrONCMq.json) | Aqua - Barbie Girl (Preview)                                                  |
 | [SyybJmpkCcIjSnRgrN](blurls/SyybJmpkCcIjSnRgrN.json) | Ariana Grande - Into You                                                      |
 | [BSqgxwfnohxHXfhRkn](blurls/BSqgxwfnohxHXfhRkn.json) | Ariana Grande - Into You (Preview)                                            |
+| [YxEWNqJlxhqgRGSQuK](blurls/YxEWNqJlxhqgRGSQuK.json) | Avenged Sevenfold - Hail To The King                                          |
+| [RxkAXHDBleHmweVvKC](blurls/RxkAXHDBleHmweVvKC.json) | Avenged Sevenfold - Hail To The King (Preview)                                |
 | [ykoZtYDmbwAUSVaSkd](blurls/ykoZtYDmbwAUSVaSkd.json) | Bastille - Pompeii                                                            |
 | [YULqMcQIIgrpNmdTgB](blurls/YULqMcQIIgrpNmdTgB.json) | Bastille - Pompeii (Preview)                                                  |
 | [PxZKeZngmCyBMuvUiW](blurls/PxZKeZngmCyBMuvUiW.json) | Bell Biv DeVoe - Poison                                                       |
@@ -239,6 +241,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [RCdQrLVlrsqCHIUURx](blurls/RCdQrLVlrsqCHIUURx.json) | Maroon 5 ft. Christina Aguilera - Moves Like Jagger (Preview)                 |
 | [MkyyPKPtudTihOhtvb](blurls/MkyyPKPtudTihOhtvb.json) | Masked Wolf - Astronaut In The Ocean                                          |
 | [ihMVSkpqzXlyBUxvVc](blurls/ihMVSkpqzXlyBUxvVc.json) | Masked Wolf - Astronaut In The Ocean (Preview)                                |
+| [SbXZiPWySrRquUuPXH](blurls/SbXZiPWySrRquUuPXH.json) | Megan Thee Stallion - Savage                                                  |
+| [FKNzqhvOkCAXjZihZx](blurls/FKNzqhvOkCAXjZihZx.json) | Megan Thee Stallion - Savage (Preview)                                        |
 | [DYuvjnLoohihYQRSjy](blurls/DYuvjnLoohihYQRSjy.json) | Meghan Trainor - Me Too                                                       |
 | [pYJCnjqDOqmMOeIPFq](blurls/pYJCnjqDOqmMOeIPFq.json) | Meghan Trainor - Me Too (Preview)                                             |
 | [WcMBWDRxVECRdNePkF](blurls/WcMBWDRxVECRdNePkF.json) | mgk, YUNGBLUD & Travis Barker - I Think I'm OKAY                              |
@@ -355,6 +359,12 @@ Jam Track Audio Data from Fortnite Festival.
 | [fgQHLgQTMRzzGdjrzR](blurls/fgQHLgQTMRzzGdjrzR.json) | The Weeknd, Madonna & Playboi Carti - Popular (Preview)                       |
 | [xIPtZmwHsbDLtrrNSA](blurls/xIPtZmwHsbDLtrrNSA.json) | The White Stripes - Seven Nation Army                                         |
 | [yYYGxrAeIDehFIbYAa](blurls/yYYGxrAeIDehFIbYAa.json) | The White Stripes - Seven Nation Army (Preview)                               |
+| [GmNbxrUhiubcLZOMkS](blurls/GmNbxrUhiubcLZOMkS.json) | Twenty One Pilots - Heathens                                                  |
+| [dNxJTUbMqnkSMIcnai](blurls/dNxJTUbMqnkSMIcnai.json) | Twenty One Pilots - Heathens (Preview)                                        |
+| [IHpIDKlqmxGozGDfMg](blurls/IHpIDKlqmxGozGDfMg.json) | Twenty One Pilots - Next Semester                                             |
+| [hRATldJYrnVKTjGxNU](blurls/hRATldJYrnVKTjGxNU.json) | Twenty One Pilots - Next Semester (Preview)                                   |
+| [YSciafFVdpQjnHgdZH](blurls/YSciafFVdpQjnHgdZH.json) | Twenty One Pilots - Stressed Out                                              |
+| [EkEbhkZVQXOOFjTaaZ](blurls/EkEbhkZVQXOOFjTaaZ.json) | Twenty One Pilots - Stressed Out (Preview)                                    |
 | [latjtpHkeCFuqgcaHo](blurls/latjtpHkeCFuqgcaHo.json) | Topic w/ A7S - Breaking Me                                                    |
 | [zyzKCncxihJKEIjDZk](blurls/zyzKCncxihJKEIjDZk.json) | Topic w/ A7S - Breaking Me (Preview)                                          |
 | [njMVLvDKgEItxBgmTP](blurls/njMVLvDKgEItxBgmTP.json) | U2 - Beautiful Day                                                            |
