@@ -32,10 +32,16 @@ Jam Track Audio Data from Fortnite Festival.
 | [giDeXpQiAMldVggAeN](blurls/giDeXpQiAMldVggAeN.json) | Billie Eilish - all the good girls go to hell (Preview)                       |
 | [vCxMdIUPNtibNoDQDD](blurls/vCxMdIUPNtibNoDQDD.json) | Billie Eilish - bad guy                                                       |
 | [GeyOyokliHUGnVUMfZ](blurls/GeyOyokliHUGnVUMfZ.json) | Billie Eilish - bad guy (Preview)                                             |
+| [SDesALCSNGNcAertca](blurls/SDesALCSNGNcAertca.json) | Billie Eilish - CHIHIRO                                                       |
+| [TSxYLyeraLWxkLsMVX](blurls/TSxYLyeraLWxkLsMVX.json) | Billie Eilish - CHIHIRO (Preview)                                             |
 | [PpZREnIfOLVCPondNe](blurls/PpZREnIfOLVCPondNe.json) | Billie Eilish - Happier Than Ever - Edit                                      |
 | [EFvMmVDtAlQZaoTWoE](blurls/EFvMmVDtAlQZaoTWoE.json) | Billie Eilish - Happier Than Ever - Edit (Preview)                            |
+| [dJXGkxwuGBadtKTZaV](blurls/dJXGkxwuGBadtKTZaV.json) | Billie Eilish - LUNCH                                                         |
+| [FKdalvykAHCToHyThu](blurls/FKdalvykAHCToHyThu.json) | Billie Eilish - LUNCH (Preview)                                               |
 | [tMyWVzzboGKViOiSOI](blurls/tMyWVzzboGKViOiSOI.json) | Billie Eilish - Oxytocin                                                      |
 | [ngCwwEWQbxZiRwuiPJ](blurls/ngCwwEWQbxZiRwuiPJ.json) | Billie Eilish - Oxytocin (Preview)                                            |
+| [venFkjNggfkGRVdKjB](blurls/venFkjNggfkGRVdKjB.json) | Billie Eilish - THE DINER                                                     |
+| [unMXlyDfmVEXtdcFAP](blurls/unMXlyDfmVEXtdcFAP.json) | Billie Eilish - THE DINER (Preview)                                           |
 | [aLyxwtupWnTxERuxNl](blurls/aLyxwtupWnTxERuxNl.json) | Billie Eilish - Therefore I Am                                                |
 | [XQYwFXnsFpZzmBLOwA](blurls/XQYwFXnsFpZzmBLOwA.json) | Billie Eilish - Therefore I Am (Preview)                                      |
 | [ILfPPkkniPTicvLVXW](blurls/ILfPPkkniPTicvLVXW.json) | Bleachers - I Wanna Get Better                                                |
@@ -86,14 +92,20 @@ Jam Track Audio Data from Fortnite Festival.
 | [GGlGfkVHYNrJMjdmnJ](blurls/GGlGfkVHYNrJMjdmnJ.json) | Epic Games - Change (Preview)                                                 |
 | [AGTCTgnGzQPlUyqVcT](blurls/AGTCTgnGzQPlUyqVcT.json) | Epic Games - Find the Fury                                                    |
 | [ZeimxqDjkNaKOetpDq](blurls/ZeimxqDjkNaKOetpDq.json) | Epic Games - Find the Fury (Preview)                                          |
+| [BRCVQrjLZlyresRzQN](blurls/BRCVQrjLZlyresRzQN.json) | Epic Games - Fire and Steel                                                   |
+| [pwVkSDxdTLgDpqCoaL](blurls/pwVkSDxdTLgDpqCoaL.json) | Epic Games - Fire and Steel (Preview)                                         |
 | [ggOVvBIigmrYidAdlU](blurls/ggOVvBIigmrYidAdlU.json) | Epic Games - Flickering Flame                                                 |
 | [mObSAekLEUiiRlVjgC](blurls/mObSAekLEUiiRlVjgC.json) | Epic Games - Flickering Flame (Preview)                                       |
 | [zIVFyCkOQcadroQWNg](blurls/zIVFyCkOQcadroQWNg.json) | Epic Games - I'm A Cat                                                        |
 | [HfXqZkMPfRZERxDZlB](blurls/HfXqZkMPfRZERxDZlB.json) | Epic Games - I'm A Cat (Preview)                                              |
+| [xRbqgFdHlAIUsFwPTd](blurls/xRbqgFdHlAIUsFwPTd.json) | Epic Games - Lord of the Wasteland                                            |
+| [IArpfprNbSxpuWPMTA](blurls/IArpfprNbSxpuWPMTA.json) | Epic Games - Lord of the Wasteland (Preview)                                  |
 | [NhgMSQhsxpRqIbobUo](blurls/NhgMSQhsxpRqIbobUo.json) | Epic Games - Make It Known                                                    |
 | [gStMBDmPZqdJwujxvT](blurls/gStMBDmPZqdJwujxvT.json) | Epic Games - Make It Known (Preview)                                          |
 | [SvPTbHiaOIspktUaWF](blurls/SvPTbHiaOIspktUaWF.json) | Epic Games - OG (Future Remix)                                                |
 | [ummqUqCSFUWeQfzTvs](blurls/ummqUqCSFUWeQfzTvs.json) | Epic Games - OG (Future Remix) (Preview)                                      |
+| [hVjVGjHwdXdwBRRBqO](blurls/hVjVGjHwdXdwBRRBqO.json) | Epic Games - Pea Like Me                                                      |
+| [NmpEimoCXOVNkRwZqk](blurls/NmpEimoCXOVNkRwZqk.json) | Epic Games - Pea Like Me (Preview)                                            |
 | [vATlQurzvPwglcKfxp](blurls/vATlQurzvPwglcKfxp.json) | Epic Games - Show Them Who We Are                                             |
 | [cGcjyotaSPSnOCIUme](blurls/cGcjyotaSPSnOCIUme.json) | Epic Games - Show Them Who We Are (Preview)                                   |
 | [ZGSLwGYelfMLKTfvDn](blurls/ZGSLwGYelfMLKTfvDn.json) | Epic Games - Show Them Who We Are (v1)                                        |
@@ -245,6 +257,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [FKNzqhvOkCAXjZihZx](blurls/FKNzqhvOkCAXjZihZx.json) | Megan Thee Stallion - Savage (Preview)                                        |
 | [DYuvjnLoohihYQRSjy](blurls/DYuvjnLoohihYQRSjy.json) | Meghan Trainor - Me Too                                                       |
 | [pYJCnjqDOqmMOeIPFq](blurls/pYJCnjqDOqmMOeIPFq.json) | Meghan Trainor - Me Too (Preview)                                             |
+| [ZYdDAVZKqgujbvYrVV](blurls/ZYdDAVZKqgujbvYrVV.json) | Metallica - Fuel                                                              |
+| [AZuMTfNywNhJuivsGZ](blurls/AZuMTfNywNhJuivsGZ.json) | Metallica - Fuel (Preview)                                                    |
 | [WcMBWDRxVECRdNePkF](blurls/WcMBWDRxVECRdNePkF.json) | mgk, YUNGBLUD & Travis Barker - I Think I'm OKAY                              |
 | [JeCMiwimzhNKVIESDf](blurls/JeCMiwimzhNKVIESDf.json) | mgk, YUNGBLUD & Travis Barker - I Think I'm OKAY (Preview)                    |
 | [OUISsotQeBvfqyjWDs](blurls/OUISsotQeBvfqyjWDs.json) | mgk & blackbear - my ex's best friend                                         |
@@ -303,10 +317,16 @@ Jam Track Audio Data from Fortnite Festival.
 | [vfjKbIGlrZKEtKdwUH](blurls/vfjKbIGlrZKEtKdwUH.json) | Queens of the Stone Age - Go With The Flow (Preview)                          |
 | [EbRuFltOuaXxgLcWBc](blurls/EbRuFltOuaXxgLcWBc.json) | Rage Against The Machine - Killing In The Name                                |
 | [GburfSTihFFuVWyzOI](blurls/GburfSTihFFuVWyzOI.json) | Rage Against The Machine - Killing In The Name (Preview)                      |
+| [kXDQpQoBJozSqCyzfb](blurls/kXDQpQoBJozSqCyzfb.json) | Ramones - Blitzkrieg Bop                                                      |
+| [bsojbLQurLmexiSkGr](blurls/bsojbLQurLmexiSkGr.json) | Ramones - Blitzkrieg Bop (Preview)                                            |
+| [zHvrYndwCmaxwGTWbb](blurls/zHvrYndwCmaxwGTWbb.json) | Rancid - Ruby Soho                                                            |
+| [NiRfmyLvywArMrUXIU](blurls/NiRfmyLvywArMrUXIU.json) | Rancid - Ruby Soho (Preview)                                                  |
 | [NNQBQJkGHqdmvcBwYG](blurls/NNQBQJkGHqdmvcBwYG.json) | Rick James - Super Freak                                                      |
 | [hoflzQQnraYuWHrzdQ](blurls/hoflzQQnraYuWHrzdQ.json) | Rick James - Super Freak (Preview)                                            |
 | [ExFDcIVnwGOFHIqPwV](blurls/ExFDcIVnwGOFHIqPwV.json) | Rob Base & DJ EZ Rock - It Takes Two                                          |
 | [VKMEWQtHvGGdgqfMzN](blurls/VKMEWQtHvGGdgqfMzN.json) | Rob Base & DJ EZ Rock - It Takes Two (Preview)                                |
+| [cJVRTkYtthHQfCYUCy](blurls/cJVRTkYtthHQfCYUCy.json) | Rob Zombie - Dragula                                                          |
+| [RjYNsdjgoDFYxNDoup](blurls/RjYNsdjgoDFYxNDoup.json) | Rob Zombie - Dragula (Preview)                                                |
 | [JuhxsaNyDRNqHoQulM](blurls/JuhxsaNyDRNqHoQulM.json) | SAINt JHN - Roses (Imanbek Remix)                                             |
 | [VJbKowiQsUTRfybpUD](blurls/VJbKowiQsUTRfybpUD.json) | SAINt JHN - Roses (Imanbek Remix) (Preview)                                   |
 | [ClExCoWngnMAVPlBLR](blurls/ClExCoWngnMAVPlBLR.json) | Selena Gomez - Single Soon                                                    |

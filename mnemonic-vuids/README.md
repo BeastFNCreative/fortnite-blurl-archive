@@ -43,11 +43,13 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [taqdZkWyokbCyEFWld](blurls/taqdZkWyokbCyEFWld.json) | set_br_playlists : Battle Royale (v1) |
 | [tMxxShcqdutMflWvpG](blurls/tMxxShcqdutMflWvpG.json) | set_br_playlists : Battle Royale (v2) |
 | [CWJQKLvQwXgtEHMOio](blurls/CWJQKLvQwXgtEHMOio.json) | set_br_playlists : Myths and Mortals |
+| [iYrWMWYEnnantjNdRv](blurls/iYrWMWYEnnantjNdRv.json) | set_br_playlists : Wrecked |
 | [nBXWuBNMdScHeYtCnP](blurls/nBXWuBNMdScHeYtCnP.json) | set_delmar_mrs_ranked : Rocket Racing |
 | [qpdchKarjFnwpdEnYj](blurls/qpdchKarjFnwpdEnYj.json) | set_delmar_mrs_ranked : Rocket Racing (Extra VUID) |
 | [zmDptnMNGqUEdlBwTv](blurls/zmDptnMNGqUEdlBwTv.json) | set_delmar_mrs_ranked : Rocket Racing (Star Wars Update) |
 | [VeMCQpJEuQxYyUQGeB](blurls/VeMCQpJEuQxYyUQGeB.json) | set_imposters_playlists : Impostors |
 | [abxnGhUwXcjPrymobq](blurls/abxnGhUwXcjPrymobq.json) | set_nobuild_playlists : Myths and Mortals |
 | [gnEAizFWiuyqzUeEeL](blurls/gnEAizFWiuyqzUeEeL.json) | set_nobuild_playlists : Myths and Mortals (Star Wars Update) |
+| [NmHbNVlXvXnjavJGTV](blurls/NmHbNVlXvXnjavJGTV.json) | set_nobuild_playlists : Wrecked |
 | [KLHeAwpnfyWJzsHggq](blurls/KLHeAwpnfyWJzsHggq.json) | set_nobuild_playlists : Zero Build - Battle Royale |
 | [VTfsLUcDGhrnzHppNB](blurls/VTfsLUcDGhrnzHppNB.json) | set_nobuild_playlists : Zero Build - Battle Royale (v1) |
