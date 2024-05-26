@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [mjYMOhHZajuwZyiAtg](blurls/mjYMOhHZajuwZyiAtg.json) | Lo-fi Headbang Icon Series Emote |
 | [vlhZvAyfLlJPhhPASF](blurls/vlhZvAyfLlJPhhPASF.json) | Wrecked (Chapter 5 Season 3 Cinematic Trailer) |
 | [xFQmglWykLSRImZvjv](blurls/xFQmglWykLSRImZvjv.json) | Wrecked (Chapter 5 Season 3 Cinematic Teaser) |
 | [mjYMOhHZajuwZyiAtg](blurls/mjYMOhHZajuwZyiAtg.json) | Challenge Icon Series Emote |
