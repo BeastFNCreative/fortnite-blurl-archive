@@ -49,8 +49,11 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [qFVNDPSJXMhynlmgcr](blurls/qFVNDPSJXMhynlmgcr.json) | MEGA City Environment Music                                                                          |
 | [ElXyXuuBVqxWSdHChR](blurls/ElXyXuuBVqxWSdHChR.json) | Media Streaming Radio Licensed VUID                                                                  |
 | [LJmAefawOpFKUPquHC](blurls/LJmAefawOpFKUPquHC.json) | Media Streaming Radio Licensed VUID V2                                                               |
+| [BxaWeBLSwwKrhQwdjI](blurls/BxaWeBLSwwKrhQwdjI.json) | Media Streaming Radio Licensed VUID V3                                                               |
 | [KfxUyvIlltgRDBYwcO](blurls/KfxUyvIlltgRDBYwcO.json) | Media Streaming Radio Unlicensed VUID                                                                |
 | [MYPiLEMnlcEoZidMuU](blurls/MYPiLEMnlcEoZidMuU.json) | Media Streaming Radio Unlicensed VUID V2                                                             |
+| [PTLmbduIlPXGQSyQgF](blurls/PTLmbduIlPXGQSyQgF.json) | Media Streaming Radio Unlicensed VUID V3                                                             |
+| [ERRsjRLNeCwCWlcMfn](blurls/ERRsjRLNeCwCWlcMfn.json) | Media Streaming Radio Unlicensed VUID V4                                                             |
 | [zvQuSNCIqYMGgFljiM](blurls/zvQuSNCIqYMGgFljiM.json) | Mobile Shooting Tutorial Unused Video 1                                                              |
 | [AMzqULFVDUKJFmWtxq](blurls/AMzqULFVDUKJFmWtxq.json) | Mobile Shooting Tutorial Unused Video 2                                                              |
 | [cdItBLrFXpWRXScwuc](blurls/cdItBLrFXpWRXScwuc.json) | Mobile Shooting Tutorial Unused Video 3                                                              |

@@ -22,6 +22,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [rFDfrEOsaDxUrONCMq](blurls/rFDfrEOsaDxUrONCMq.json) | Aqua - Barbie Girl (Preview)                                                  |
 | [SyybJmpkCcIjSnRgrN](blurls/SyybJmpkCcIjSnRgrN.json) | Ariana Grande - Into You                                                      |
 | [BSqgxwfnohxHXfhRkn](blurls/BSqgxwfnohxHXfhRkn.json) | Ariana Grande - Into You (Preview)                                            |
+| [ycfVewBbZHQBOZfpmi](blurls/ycfVewBbZHQBOZfpmi.json) | Ariana Grande - positions                                                     |
+| [IIfaOKOrKgaHwwFHSN](blurls/IIfaOKOrKgaHwwFHSN.json) | Ariana Grande - positions (Preview)                                           |
+| [rUKlFltQKjTuARECul](blurls/rUKlFltQKjTuARECul.json) | Ariana Grande - the boy is mine                                               |
+| [FnZTUXJXKpLXkffgtt](blurls/FnZTUXJXKpLXkffgtt.json) | Ariana Grande - the boy is mine (Preview)                                     |
+| [usRuufZarZmWlQhmZu](blurls/usRuufZarZmWlQhmZu.json) | Ariana Grande - yes, and?                                                     |
+| [FIJePHjrHhoMYTKjYR](blurls/FIJePHjrHhoMYTKjYR.json) | Ariana Grande - yes, and? (Preview)                                           |
+| [okKQtOiizMPqJwyAOG](blurls/okKQtOiizMPqJwyAOG.json) | Ariana Grande ft. Nicki Minaj - Side To Side                                  |
+| [ypOgGLXwEOVFFAwUuh](blurls/ypOgGLXwEOVFFAwUuh.json) | Ariana Grande ft. Nicki Minaj - Side To Side (Preview)                        |
 | [YxEWNqJlxhqgRGSQuK](blurls/YxEWNqJlxhqgRGSQuK.json) | Avenged Sevenfold - Hail To The King                                          |
 | [RxkAXHDBleHmweVvKC](blurls/RxkAXHDBleHmweVvKC.json) | Avenged Sevenfold - Hail To The King (Preview)                                |
 | [ykoZtYDmbwAUSVaSkd](blurls/ykoZtYDmbwAUSVaSkd.json) | Bastille - Pompeii                                                            |
@@ -32,8 +40,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [giDeXpQiAMldVggAeN](blurls/giDeXpQiAMldVggAeN.json) | Billie Eilish - all the good girls go to hell (Preview)                       |
 | [vCxMdIUPNtibNoDQDD](blurls/vCxMdIUPNtibNoDQDD.json) | Billie Eilish - bad guy                                                       |
 | [GeyOyokliHUGnVUMfZ](blurls/GeyOyokliHUGnVUMfZ.json) | Billie Eilish - bad guy (Preview)                                             |
-| [SDesALCSNGNcAertca](blurls/SDesALCSNGNcAertca.json) | Billie Eilish - CHIHIRO                                                       |
-| [TSxYLyeraLWxkLsMVX](blurls/TSxYLyeraLWxkLsMVX.json) | Billie Eilish - CHIHIRO (Preview)                                             |
+| [niNorIihvMsCMQWbow](blurls/niNorIihvMsCMQWbow.json) | Billie Eilish - CHIHIRO                                                       |
+| [SloYJvzSpCWhkgfQGE](blurls/SloYJvzSpCWhkgfQGE.json) | Billie Eilish - CHIHIRO (Preview)                                             |
+| [SDesALCSNGNcAertca](blurls/SDesALCSNGNcAertca.json) | Billie Eilish - CHIHIRO (v1)                                                  |
+| [TSxYLyeraLWxkLsMVX](blurls/TSxYLyeraLWxkLsMVX.json) | Billie Eilish - CHIHIRO (v1) (Preview)                                        |
 | [PpZREnIfOLVCPondNe](blurls/PpZREnIfOLVCPondNe.json) | Billie Eilish - Happier Than Ever - Edit                                      |
 | [EFvMmVDtAlQZaoTWoE](blurls/EFvMmVDtAlQZaoTWoE.json) | Billie Eilish - Happier Than Ever - Edit (Preview)                            |
 | [dJXGkxwuGBadtKTZaV](blurls/dJXGkxwuGBadtKTZaV.json) | Billie Eilish - LUNCH                                                         |
@@ -74,6 +84,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [WauaDKgCDRkaarRdUE](blurls/WauaDKgCDRkaarRdUE.json) | Doja Cat - Woman (Preview)                                                    |
 | [PFleHMpwfEiopfVtWg](blurls/PFleHMpwfEiopfVtWg.json) | Doja Cat ft. SZA - Kiss Me More                                               |
 | [aFsJFbGuxihIUHcETd](blurls/aFsJFbGuxihIUHcETd.json) | Doja Cat ft. SZA - Kiss Me More (Preview)                                     |
+| [bvOFCPuFQkBFCrTTMD](blurls/bvOFCPuFQkBFCrTTMD.json) | Don Toliver - Bandit                                                          |
+| [NPFfzRorFmayRVbTwL](blurls/NPFfzRorFmayRVbTwL.json) | Don Toliver - Bandit (Preview)                                                |
 | [WRKyljCDBpRoyYtjWe](blurls/WRKyljCDBpRoyYtjWe.json) | Ed Sheeran - Shivers                                                          |
 | [DPArzxivXSQMGpUAKl](blurls/DPArzxivXSQMGpUAKl.json) | Ed Sheeran - Shivers (Preview)                                                |
 | [rFVnhHkGeIWkYTeMef](blurls/rFVnhHkGeIWkYTeMef.json) | Elton John & Britney Spears - Hold Me Closer                                  |
@@ -247,6 +259,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [cGiGEljlaNGZADvZEO](blurls/cGiGEljlaNGZADvZEO.json) | Linkin Park - Numb (Preview)                                                  |
 | [BDDJiGIZinqbqsXKub](blurls/BDDJiGIZinqbqsXKub.json) | LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem                       |
 | [nxLJFcAiIPllRRssqw](blurls/nxLJFcAiIPllRRssqw.json) | LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem (Preview)             |
+| [owLJvubTiZDBPasCSy](blurls/owLJvubTiZDBPasCSy.json) | Måneskin - Beggin'                                                            |
+| [mkwbfIZyeQEvIYUPvt](blurls/mkwbfIZyeQEvIYUPvt.json) | Måneskin - Beggin' (Preview)                                                  |
 | [UOUmIjfRcZZIDERmwM](blurls/UOUmIjfRcZZIDERmwM.json) | Maroon 5 - Maps                                                               |
 | [cuAreqkhIjmfycXzhA](blurls/cuAreqkhIjmfycXzhA.json) | Maroon 5 - Maps (Preview)                                                     |
 | [jcBequaEgqHcYiSHSd](blurls/jcBequaEgqHcYiSHSd.json) | Maroon 5 ft. Christina Aguilera - Moves Like Jagger                           |
@@ -315,6 +329,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [YFbENNUpVeqiyyGEbm](blurls/YFbENNUpVeqiyyGEbm.json) | PSY - Gangnam Style (Preview)                                                 |
 | [vBlsDPnZYHiPYzAbID](blurls/vBlsDPnZYHiPYzAbID.json) | Queens of the Stone Age - Go With The Flow                                    |
 | [vfjKbIGlrZKEtKdwUH](blurls/vfjKbIGlrZKEtKdwUH.json) | Queens of the Stone Age - Go With The Flow (Preview)                          |
+| [SNTRQojMzKHZfooiXD](blurls/SNTRQojMzKHZfooiXD.json) | Rage Against The Machine - Bulls On Parade                                    |
+| [WBJtKbvssMbUTJBSxJ](blurls/WBJtKbvssMbUTJBSxJ.json) | Rage Against The Machine - Bulls On Parade (Preview)                          |
 | [EbRuFltOuaXxgLcWBc](blurls/EbRuFltOuaXxgLcWBc.json) | Rage Against The Machine - Killing In The Name                                |
 | [GburfSTihFFuVWyzOI](blurls/GburfSTihFFuVWyzOI.json) | Rage Against The Machine - Killing In The Name (Preview)                      |
 | [kXDQpQoBJozSqCyzfb](blurls/kXDQpQoBJozSqCyzfb.json) | Ramones - Blitzkrieg Bop                                                      |

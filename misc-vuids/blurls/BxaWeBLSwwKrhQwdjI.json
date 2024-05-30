@@ -1,0 +1,16 @@
+{
+    "playlists": [
+        {
+            "type": "main",
+            "language": "en",
+            "url": "https://fortnite-vod.akamaized.net/BxaWeBLSwwKrhQwdjI/838444a2-c2c3-4b85-b08d-8e898f508352/main_en_US.mpd",
+            "data": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd\" xmlns:clearkey=\"http://dashif.org/guidelines/clearKey\" xmlns:cenc=\"urn:mpeg:cenc:2013\" profiles=\"urn:mpeg:dash:profile:isoff-live:2011\" type=\"static\" mediaPresentationDuration=\"PT12M56.600S\" minBufferTime=\"PT3.900S\">\n  <ProgramInformation></ProgramInformation>\n  <Period id=\"0\" start=\"PT0S\">\n    <AdaptationSet id=\"0\" contentType=\"audio\" segmentAlignment=\"true\" bitstreamSwitching=\"true\">\n      <Representation id=\"0\" audioSamplingRate=\"48000\" bandwidth=\"128000\" mimeType=\"audio/mp4\" codecs=\"mp4a.40.2\">\n        <SegmentTemplate duration=\"2000000\" timescale=\"1000000\" initialization=\"init_en_US_$RepresentationID$.mp4\" media=\"segment_en_US_$RepresentationID$_$Number$.m4s\" startNumber=\"1\"></SegmentTemplate>\n        <AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\"></AudioChannelConfiguration>\n      </Representation>\n      <ContentProtection schemeIdUri=\"urn:mpeg:dash:mp4protection:2011\" value=\"cenc\" cenc:default_KID=\"0b3aeb2f-2d41-be39-82ef-ae49ce0e1ad9\"></ContentProtection>\n      <ContentProtection schemeIdUri=\"urn:uuid:e2719d58-a985-b3c9-781a-b030af78d30e\" value=\"ClearKey1.0\">\n        <clearkey:Laurl Lic_type=\"EME-1.0\">key.key</clearkey:Laurl>\n      </ContentProtection>\n    </AdaptationSet>\n  </Period>\n</MPD>",
+            "duration": 779.6375409999999
+        }
+    ],
+    "type": "vod",
+    "ev": "AQANABBMVGxRREJDWWdFc2prBSa4gcPzRU+KRH2uoqpp8g==",
+    "ucp": "a",
+    "audioonly": true,
+    "partysync": true
+}
