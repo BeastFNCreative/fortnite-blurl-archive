@@ -22,6 +22,7 @@ Radio Stations used In-Game when inside Vehicles.
 | [VlYSRdFWOKyyhNNNgr](blurls/VlYSRdFWOKyyhNNNgr.json) | Radio Underground (v1) |
 | [liZWCXyJDbxNMHWlyk](blurls/liZWCXyJDbxNMHWlyk.json) | Radio Yonder |
 | [GEviYjIhzVVzJufW](blurls/GEviYjIhzVVzJufW.json) | Radio Yonder (v1) |
-| [eaIPyhOJafbnZUIYnZ](blurls/eaIPyhOJafbnZUIYnZ.json) | Rock & Royale |
+| [rdWxjjhVHWyqWozyMU](blurls/rdWxjjhVHWyqWozyMU.json) | Rock & Royale |
 | [hgsuJcchvKuaEzzijr](blurls/hgsuJcchvKuaEzzijr.json) | Rock & Royale (v1) |
+| [eaIPyhOJafbnZUIYnZ](blurls/eaIPyhOJafbnZUIYnZ.json) | Rock & Royale (v2) |
 | [PGDsVRDpWMMkgVqAZc](blurls/PGDsVRDpWMMkgVqAZc.json) | Rocket League Radio |
