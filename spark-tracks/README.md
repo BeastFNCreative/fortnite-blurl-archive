@@ -34,6 +34,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [RxkAXHDBleHmweVvKC](blurls/RxkAXHDBleHmweVvKC.json) | Avenged Sevenfold - Hail To The King (Preview)                                |
 | [ykoZtYDmbwAUSVaSkd](blurls/ykoZtYDmbwAUSVaSkd.json) | Bastille - Pompeii                                                            |
 | [YULqMcQIIgrpNmdTgB](blurls/YULqMcQIIgrpNmdTgB.json) | Bastille - Pompeii (Preview)                                                  |
+| [UwPEfihsoziveoAjav](blurls/UwPEfihsoziveoAjav.json) | Beastie Boys - Sabotage                                                       |
+| [RzxRNvXXdHBxiPFlRg](blurls/RzxRNvXXdHBxiPFlRg.json) | Beastie Boys - Sabotage (Preview)                                             |
 | [PxZKeZngmCyBMuvUiW](blurls/PxZKeZngmCyBMuvUiW.json) | Bell Biv DeVoe - Poison                                                       |
 | [EeaSoyOgNJLpyZfRyI](blurls/EeaSoyOgNJLpyZfRyI.json) | Bell Biv DeVoe - Poison (Preview)                                             |
 | [FuoXXkcDMFbOiEebrz](blurls/FuoXXkcDMFbOiEebrz.json) | Billie Eilish - all the good girls go to hell                                 |
@@ -273,6 +275,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [pYJCnjqDOqmMOeIPFq](blurls/pYJCnjqDOqmMOeIPFq.json) | Meghan Trainor - Me Too (Preview)                                             |
 | [ZYdDAVZKqgujbvYrVV](blurls/ZYdDAVZKqgujbvYrVV.json) | Metallica - Fuel                                                              |
 | [AZuMTfNywNhJuivsGZ](blurls/AZuMTfNywNhJuivsGZ.json) | Metallica - Fuel (Preview)                                                    |
+| [fqLBMZwzfLhjLlToKW](blurls/fqLBMZwzfLhjLlToKW.json) | Metallica - Master of Puppets                                                 |
+| [rFdkcEysstAAwOmvKf](blurls/rFdkcEysstAAwOmvKf.json) | Metallica - Master of Puppets (Preview)                                       |
 | [WcMBWDRxVECRdNePkF](blurls/WcMBWDRxVECRdNePkF.json) | mgk, YUNGBLUD & Travis Barker - I Think I'm OKAY                              |
 | [JeCMiwimzhNKVIESDf](blurls/JeCMiwimzhNKVIESDf.json) | mgk, YUNGBLUD & Travis Barker - I Think I'm OKAY (Preview)                    |
 | [OUISsotQeBvfqyjWDs](blurls/OUISsotQeBvfqyjWDs.json) | mgk & blackbear - my ex's best friend                                         |
@@ -323,8 +327,16 @@ Jam Track Audio Data from Fortnite Festival.
 | [YXdJwGrgvgTgntrdbA](blurls/YXdJwGrgvgTgntrdbA.json) | Pat Benatar - Heartbreaker (Preview)                                          |
 | [AcwNQMsKhZcKBFnLuz](blurls/AcwNQMsKhZcKBFnLuz.json) | PinkPantheress & Ice Spice - Boy's A Liar Pt. 2                               | 
 | [YSGggxkkTahheWiDwQ](blurls/YSGggxkkTahheWiDwQ.json) | PinkPantheress & Ice Spice - Boy's A Liar Pt. 2 (Preview)                     |
+| [FrezyhXJavYKCskTpx](blurls/FrezyhXJavYKCskTpx.json) | Pitbull ft. Ne-Yo, Afrojack & Nayer - Give Me Everything                      |
+| [lMLklRtOTdtsVKcFNA](blurls/lMLklRtOTdtsVKcFNA.json) | Pitbull ft. Ne-Yo, Afrojack & Nayer - Give Me Everything (Preview)            |
 | [DENVGWeeUtiPZuFSiD](blurls/DENVGWeeUtiPZuFSiD.json) | Portugal. The Man - Feel It Still                                             |
 | [MjLyyEACnNSwCxjtdy](blurls/MjLyyEACnNSwCxjtdy.json) | Portugal. The Man - Feel It Still (Preview)                                   |
+| [lPRcGqidhJJlKDsABq](blurls/lPRcGqidhJJlKDsABq.json) | Post Malone - Better Now                                                      |
+| [dxXZxdBNVWYOPvUItj](blurls/dxXZxdBNVWYOPvUItj.json) | Post Malone - Better Now (Preview)                                            |
+| [mVXZuoJBeeuuytrRiq](blurls/mVXZuoJBeeuuytrRiq.json) | Post Malone - Circles                                                         |
+| [fjBrrlrKKoZerTkXCv](blurls/fjBrrlrKKoZerTkXCv.json) | Post Malone - Circles (Preview)                                               |
+| [ITshznCQqsBbaFoZhx](blurls/ITshznCQqsBbaFoZhx.json) | Post Malone ft. Morgan Wallen - I Had Some Help                               |
+| [uwOZpwtBVMwqQzfvNf](blurls/uwOZpwtBVMwqQzfvNf.json) | Post Malone ft. Morgan Wallen - I Had Some Help (Preview)                     |
 | [FNXNEPYqgZJwUeZWCs](blurls/FNXNEPYqgZJwUeZWCs.json) | PSY - Gangnam Style                                                           |
 | [YFbENNUpVeqiyyGEbm](blurls/YFbENNUpVeqiyyGEbm.json) | PSY - Gangnam Style (Preview)                                                 |
 | [vBlsDPnZYHiPYzAbID](blurls/vBlsDPnZYHiPYzAbID.json) | Queens of the Stone Age - Go With The Flow                                    |
