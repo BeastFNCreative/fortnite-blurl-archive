@@ -10,6 +10,8 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [LXBYujCVcWbRUKhAcA](blurls/LXBYujCVcWbRUKhAcA.json) | Groove Destroyer Icon Series Emote |
+| [rVwxoELoNuUHrFaDga](blurls/rVwxoELoNuUHrFaDga.json) | Metallica x Fortnite Trailer |
 | [mFBdyOlEefyXRzfoPC](blurls/mFBdyOlEefyXRzfoPC.json) | Point and Strut Icon Series Emote |
 | [mjYMOhHZajuwZyiAtg](blurls/mjYMOhHZajuwZyiAtg.json) | Lo-fi Headbang Icon Series Emote |
 | [vlhZvAyfLlJPhhPASF](blurls/vlhZvAyfLlJPhhPASF.json) | Wrecked (Chapter 5 Season 3 Cinematic Trailer) |

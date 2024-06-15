@@ -104,6 +104,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [ibdfdERRkeiDoCnFPM](blurls/ibdfdERRkeiDoCnFPM.json) | Epic Games - Butter Barn Hoedown (v1) (Preview)                               |
 | [pZVXXRWfCuHijYNagg](blurls/pZVXXRWfCuHijYNagg.json) | Epic Games - Change                                                           |
 | [GGlGfkVHYNrJMjdmnJ](blurls/GGlGfkVHYNrJMjdmnJ.json) | Epic Games - Change (Preview)                                                 |
+| [IixNeqDWIyeLPErqRY](blurls/IixNeqDWIyeLPErqRY.json) | Epic Games - Dreamer                                                          |
+| [uXyzxlhWHahCpVhomG](blurls/uXyzxlhWHahCpVhomG.json) | Epic Games - Dreamer (Preview)                                                |
 | [AGTCTgnGzQPlUyqVcT](blurls/AGTCTgnGzQPlUyqVcT.json) | Epic Games - Find the Fury                                                    |
 | [ZeimxqDjkNaKOetpDq](blurls/ZeimxqDjkNaKOetpDq.json) | Epic Games - Find the Fury (Preview)                                          |
 | [BRCVQrjLZlyresRzQN](blurls/BRCVQrjLZlyresRzQN.json) | Epic Games - Fire and Steel                                                   |
@@ -120,6 +122,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [ummqUqCSFUWeQfzTvs](blurls/ummqUqCSFUWeQfzTvs.json) | Epic Games - OG (Future Remix) (Preview)                                      |
 | [hVjVGjHwdXdwBRRBqO](blurls/hVjVGjHwdXdwBRRBqO.json) | Epic Games - Pea Like Me                                                      |
 | [NmpEimoCXOVNkRwZqk](blurls/NmpEimoCXOVNkRwZqk.json) | Epic Games - Pea Like Me (Preview)                                            |
+| [cPolNLrCmxJBVTmIUd](blurls/cPolNLrCmxJBVTmIUd.json) | Epic Games - S.O.M.P.                                                         |
+| [SvlYPCRZOuvNdVBOQj](blurls/SvlYPCRZOuvNdVBOQj.json) | Epic Games - S.O.M.P. (Preview)                                               |
 | [vATlQurzvPwglcKfxp](blurls/vATlQurzvPwglcKfxp.json) | Epic Games - Show Them Who We Are                                             |
 | [cGcjyotaSPSnOCIUme](blurls/cGcjyotaSPSnOCIUme.json) | Epic Games - Show Them Who We Are (Preview)                                   |
 | [ZGSLwGYelfMLKTfvDn](blurls/ZGSLwGYelfMLKTfvDn.json) | Epic Games - Show Them Who We Are (v1)                                        |
@@ -144,6 +148,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [irAAWbZgcfCylAIaYF](blurls/irAAWbZgcfCylAIaYF.json) | Epic Games - Take Me Higher (v1) (Preview)                                    |
 | [DuUVxGRztgxPIObnSa](blurls/DuUVxGRztgxPIObnSa.json) | Epic Games - The Hunting Ground                                               |
 | [JXmRdPnKKATjMzTriN](blurls/JXmRdPnKKATjMzTriN.json) | Epic Games - The Hunting Ground (Preview)                                     |
+| [CREtGvWUTYbZlLtHGY](blurls/CREtGvWUTYbZlLtHGY.json) | Epic Games - The Night Porter                                                 |
+| [QUenaJTiKiYzBSCKHA](blurls/QUenaJTiKiYzBSCKHA.json) | Epic Games - The Night Porter (Preview)                                       |
 | [pCBfbQCBvKPcFqjtgU](blurls/pCBfbQCBvKPcFqjtgU.json) | Epic Games - Brace for Chaos                                                  |
 | [UVaPRcwdihUdxhhCia](blurls/UVaPRcwdihUdxhhCia.json) | Epic Games - Brace for Chaos (Preview)                                        |
 | [xPekeINTciUVooITmh](blurls/xPekeINTciUVooITmh.json) | Epic Games - Return of the Tiger                                              |
@@ -273,10 +279,20 @@ Jam Track Audio Data from Fortnite Festival.
 | [FKNzqhvOkCAXjZihZx](blurls/FKNzqhvOkCAXjZihZx.json) | Megan Thee Stallion - Savage (Preview)                                        |
 | [DYuvjnLoohihYQRSjy](blurls/DYuvjnLoohihYQRSjy.json) | Meghan Trainor - Me Too                                                       |
 | [pYJCnjqDOqmMOeIPFq](blurls/pYJCnjqDOqmMOeIPFq.json) | Meghan Trainor - Me Too (Preview)                                             |
+| [BWeqxqIAWCHdsiImhb](blurls/BWeqxqIAWCHdsiImhb.json) | Metallica - Enter Sandman                                                     |
+| [TfCkUHwHjGwpIgefDC](blurls/TfCkUHwHjGwpIgefDC.json) | Metallica - Enter Sandman (Preview)                                           |
 | [ZYdDAVZKqgujbvYrVV](blurls/ZYdDAVZKqgujbvYrVV.json) | Metallica - Fuel                                                              |
 | [AZuMTfNywNhJuivsGZ](blurls/AZuMTfNywNhJuivsGZ.json) | Metallica - Fuel (Preview)                                                    |
 | [fqLBMZwzfLhjLlToKW](blurls/fqLBMZwzfLhjLlToKW.json) | Metallica - Master of Puppets                                                 |
 | [rFdkcEysstAAwOmvKf](blurls/rFdkcEysstAAwOmvKf.json) | Metallica - Master of Puppets (Preview)                                       |
+| [QUsAgbzDpcwCObrqQH](blurls/QUsAgbzDpcwCObrqQH.json) | Metallica - One                                                               |
+| [qcHTpyvpAiOUnZRdqB](blurls/qcHTpyvpAiOUnZRdqB.json) | Metallica - One (Preview)                                                     |
+| [wNvyTAQyqAudrWjwzA](blurls/wNvyTAQyqAudrWjwzA.json) | Metallica - Ride the Lightning                                                |
+| [aONGNeWsjTLUWPVULO](blurls/aONGNeWsjTLUWPVULO.json) | Metallica - Ride the Lightning (Preview)                                      |
+| [rBVzAUtXvMBqrexkJC](blurls/rBVzAUtXvMBqrexkJC.json) | Metallica - The Unforgiven                                                    |
+| [ZQYBLXcbHivGDObeHW](blurls/ZQYBLXcbHivGDObeHW.json) | Metallica - The Unforgiven (Preview)                                          |
+| [FfXzwGTWYMWXVHreZg](blurls/FfXzwGTWYMWXVHreZg.json) | Metallica - Wherever I May Roam                                               |
+| [plkhwzSZLKkuDkJkuP](blurls/plkhwzSZLKkuDkJkuP.json) | Metallica - Wherever I May Roam (Preview)                                     |
 | [WcMBWDRxVECRdNePkF](blurls/WcMBWDRxVECRdNePkF.json) | mgk, YUNGBLUD & Travis Barker - I Think I'm OKAY                              |
 | [JeCMiwimzhNKVIESDf](blurls/JeCMiwimzhNKVIESDf.json) | mgk, YUNGBLUD & Travis Barker - I Think I'm OKAY (Preview)                    |
 | [OUISsotQeBvfqyjWDs](blurls/OUISsotQeBvfqyjWDs.json) | mgk & blackbear - my ex's best friend                                         |
@@ -297,6 +313,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [IWdHVthmtpcMZrYXfN](blurls/IWdHVthmtpcMZrYXfN.json) | Nelly ft. City Spud - Ride Wit Me (Preview)                                   |
 | [YolvkrBomHFUlpdGSz](blurls/YolvkrBomHFUlpdGSz.json) | NF - The Search                                                               |
 | [ckmLIpnenbdybYNhlq](blurls/ckmLIpnenbdybYNhlq.json) | NF - The Search (Preview)                                                     |
+| [gcJkTGABhxeREWakDS](blurls/gcJkTGABhxeREWakDS.json) | NickEh30 - Never Back Down                                                    |
+| [rAKHvrlursjMZvhBJh](blurls/rAKHvrlursjMZvhBJh.json) | NickEh30 - Never Back Down (Preview)                                          |
 | [NKYnNKqZMYSlccqGkU](blurls/NKYnNKqZMYSlccqGkU.json) | Nicki Minaj - Starships                                                       |
 | [jEVtqlgDKkFLeszFxK](blurls/jEVtqlgDKkFLeszFxK.json) | Nicki Minaj - Starships (Preview)                                             |
 | [ACTspeMIfwTviqNDtz](blurls/ACTspeMIfwTviqNDtz.json) | Nine Inch Nails - Less Than                                                   |
