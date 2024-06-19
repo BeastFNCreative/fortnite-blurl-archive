@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [kbcyFnAcJQXSOQgQJa](blurls/kbcyFnAcJQXSOQgQJa.json) | Lumberjack Heroes UEFN Experience Promo |
 | [LXBYujCVcWbRUKhAcA](blurls/LXBYujCVcWbRUKhAcA.json) | Groove Destroyer Icon Series Emote |
 | [rVwxoELoNuUHrFaDga](blurls/rVwxoELoNuUHrFaDga.json) | Metallica x Fortnite Trailer |
 | [mFBdyOlEefyXRzfoPC](blurls/mFBdyOlEefyXRzfoPC.json) | Point and Strut Icon Series Emote |
