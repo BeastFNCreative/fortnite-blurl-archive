@@ -40,6 +40,8 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [pOQbjpyNSnZNptoned](blurls/pOQbjpyNSnZNptoned.json) | playlist_playgroundv2 : Creative |
 | [QljBuQXFYaplYHblAR](blurls/QljBuQXFYaplYHblAR.json) | playlist_respawn_24_alt : Team Rumble (v1) |
 | [EmSIVIsQevEAdtLiZq](blurls/EmSIVIsQevEAdtLiZq.json) | set_arena_playlists : Arena Modes |
+| [XcoOakTVCLfjUdhgrS](blurls/XcoOakTVCLfjUdhgrS.json) | set_blastberry_nobuild_playlists : Reload - Zero Build |
+| [eMXrklniVQMEoVSpsE](blurls/eMXrklniVQMEoVSpsE.json) | set_blastberry_playlists : Reload |
 | [DpfVjiXQaFTRgOaGFE](blurls/DpfVjiXQaFTRgOaGFE.json) | set_br_playlists : Battle Royale |
 | [taqdZkWyokbCyEFWld](blurls/taqdZkWyokbCyEFWld.json) | set_br_playlists : Battle Royale (v1) |
 | [tMxxShcqdutMflWvpG](blurls/tMxxShcqdutMflWvpG.json) | set_br_playlists : Battle Royale (v2) |
