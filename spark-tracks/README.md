@@ -281,14 +281,22 @@ Jam Track Audio Data from Fortnite Festival.
 | [pYJCnjqDOqmMOeIPFq](blurls/pYJCnjqDOqmMOeIPFq.json) | Meghan Trainor - Me Too (Preview)                                             |
 | [BWeqxqIAWCHdsiImhb](blurls/BWeqxqIAWCHdsiImhb.json) | Metallica - Enter Sandman                                                     |
 | [TfCkUHwHjGwpIgefDC](blurls/TfCkUHwHjGwpIgefDC.json) | Metallica - Enter Sandman (Preview)                                           |
+| [fsyYeUEekJdeWTHHGv](blurls/fsyYeUEekJdeWTHHGv.json) | Metallica - For Whom The Bell Tolls                                           |
+| [iSQhOJvWkXCxKgkrGx](blurls/iSQhOJvWkXCxKgkrGx.json) | Metallica - For Whom The Bell Tolls (Preview)                                 |
 | [ZYdDAVZKqgujbvYrVV](blurls/ZYdDAVZKqgujbvYrVV.json) | Metallica - Fuel                                                              |
 | [AZuMTfNywNhJuivsGZ](blurls/AZuMTfNywNhJuivsGZ.json) | Metallica - Fuel (Preview)                                                    |
+| [LJnTIGRpqMVcPfkOgS](blurls/LJnTIGRpqMVcPfkOgS.json) | Metallica - Lux Æterna                                                        |
+| [UsLWjBiwMRRQGmgYrz](blurls/UsLWjBiwMRRQGmgYrz.json) | Metallica - Lux Æterna (Preview)                                              |
 | [fqLBMZwzfLhjLlToKW](blurls/fqLBMZwzfLhjLlToKW.json) | Metallica - Master of Puppets                                                 |
 | [rFdkcEysstAAwOmvKf](blurls/rFdkcEysstAAwOmvKf.json) | Metallica - Master of Puppets (Preview)                                       |
+| [aUVKdxsQXpPwUETMrv](blurls/aUVKdxsQXpPwUETMrv.json) | Metallica - Nothing Else Matters                                              |
+| [xBPYCWGzVdlApHFPbG](blurls/xBPYCWGzVdlApHFPbG.json) | Metallica - Nothing Else Matters (Preview)                                    |
 | [QUsAgbzDpcwCObrqQH](blurls/QUsAgbzDpcwCObrqQH.json) | Metallica - One                                                               |
 | [qcHTpyvpAiOUnZRdqB](blurls/qcHTpyvpAiOUnZRdqB.json) | Metallica - One (Preview)                                                     |
 | [wNvyTAQyqAudrWjwzA](blurls/wNvyTAQyqAudrWjwzA.json) | Metallica - Ride the Lightning                                                |
 | [aONGNeWsjTLUWPVULO](blurls/aONGNeWsjTLUWPVULO.json) | Metallica - Ride the Lightning (Preview)                                      |
+| [uUvPLHKvpsEupIaopO](blurls/uUvPLHKvpsEupIaopO.json) | Metallica - Seek & Destroy                                                    |
+| [QCaIZkXiwrnbgMCfqT](blurls/QCaIZkXiwrnbgMCfqT.json) | Metallica - Seek & Destroy (Preview)                                          |
 | [rBVzAUtXvMBqrexkJC](blurls/rBVzAUtXvMBqrexkJC.json) | Metallica - The Unforgiven                                                    |
 | [ZQYBLXcbHivGDObeHW](blurls/ZQYBLXcbHivGDObeHW.json) | Metallica - The Unforgiven (Preview)                                          |
 | [FfXzwGTWYMWXVHreZg](blurls/FfXzwGTWYMWXVHreZg.json) | Metallica - Wherever I May Roam                                               |
