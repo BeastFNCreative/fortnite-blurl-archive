@@ -10,6 +10,8 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [NTaNhMZFhsOxhCNQoA](blurls/NTaNhMZFhsOxhCNQoA.json) | Metallica Concert Preview |
+| [JawoqhFVjIkZUKdvvZ](blurls/JawoqhFVjIkZUKdvvZ.json) | Reload Gameplay Trailer |
 | [caKLXYdnYdxkwDFNor](blurls/caKLXYdnYdxkwDFNor.json) | Ringer Icon Series Emote |
 | [kbcyFnAcJQXSOQgQJa](blurls/kbcyFnAcJQXSOQgQJa.json) | Lumberjack Heroes UEFN Experience Promo |
 | [LXBYujCVcWbRUKhAcA](blurls/LXBYujCVcWbRUKhAcA.json) | Groove Destroyer Icon Series Emote |
