@@ -38,6 +38,8 @@ The biggest Epic Games VUID archive for Fortnite
 
 - Joni The Red Fortnite Crew Cinematic (MOTD)
 
+- Smooth Slide Emote (MOTD)
+
 - Soundwave Series : Gen Hoshino Picture-in-Picture
 
 - Soundwave Series : Emicida Picture-in-Picture
