@@ -12,8 +12,10 @@ Radio Stations used In-Game when inside Vehicles.
 | [BXrDueZkosvNvxtx](blurls/BXrDueZkosvNvxtx.json) | Beat Box (v1) |
 | [saeOLZXrNKpBEPGRBQ](blurls/saeOLZXrNKpBEPGRBQ.json) | Icon Radio (v1) |
 | [WQaQbnGzaPXXMHGQXt](blurls/WQaQbnGzaPXXMHGQXt.json) | Icon Radio (v2) |
+| [uaPoQwpGCgjrbKpoYZ](blurls/uaPoQwpGCgjrbKpoYZ.json) | Icon Radio (v3) |
 | [PcYBipXFpjOrozNTFn](blurls/PcYBipXFpjOrozNTFn.json) | Mysterious Transmission |
 | [lYBIdANIhjdJRndiNy](blurls/lYBIdANIhjdJRndiNy.json) | Mysterious Transmission (v2) |
+| [PKjmpDLzMySZvuOxOg](blurls/PKjmpDLzMySZvuOxOg.json) | Mysterious Transmission (v3) |
 | [QWGQAynCdixzoLIdJl](blurls/QWGQAynCdixzoLIdJl.json) | Party Royale |
 | [DGeVaWdcXtfpbAaP](blurls/DGeVaWdcXtfpbAaP.json) | Party Royale (v1) |
 | [dWkLynOluUUuCAPJHA](blurls/dWkLynOluUUuCAPJHA.json) | Power Play |

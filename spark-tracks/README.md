@@ -32,6 +32,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [ypOgGLXwEOVFFAwUuh](blurls/ypOgGLXwEOVFFAwUuh.json) | Ariana Grande ft. Nicki Minaj - Side To Side (Preview)                        |
 | [YxEWNqJlxhqgRGSQuK](blurls/YxEWNqJlxhqgRGSQuK.json) | Avenged Sevenfold - Hail To The King                                          |
 | [RxkAXHDBleHmweVvKC](blurls/RxkAXHDBleHmweVvKC.json) | Avenged Sevenfold - Hail To The King (Preview)                                |
+| [mMmipXNbiJibRuclIe](blurls/mMmipXNbiJibRuclIe.json) | Bad Bunny and Jhayco - DÁKITI                                                 |
+| [mZritCnEhzCDSKmnGa](blurls/mZritCnEhzCDSKmnGa.json) | Bad Bunny and Jhayco - DÁKITI (Preview)                                       |
 | [ykoZtYDmbwAUSVaSkd](blurls/ykoZtYDmbwAUSVaSkd.json) | Bastille - Pompeii                                                            |
 | [YULqMcQIIgrpNmdTgB](blurls/YULqMcQIIgrpNmdTgB.json) | Bastille - Pompeii (Preview)                                                  |
 | [UwPEfihsoziveoAjav](blurls/UwPEfihsoziveoAjav.json) | Beastie Boys - Sabotage                                                       |
@@ -68,6 +70,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [IzrmlVOZOhnecfHtNX](blurls/IzrmlVOZOhnecfHtNX.json) | Blue Öyster Cult - (Don't Fear) The Reaper (Preview)                          |
 | [IyhVBinycmxflrTlus](blurls/IyhVBinycmxflrTlus.json) | Blur - Song 2                                                                 |
 | [ADhPmaOkPTCpSrIcMG](blurls/ADhPmaOkPTCpSrIcMG.json) | Blur - Song 2 (Preview)                                                       |
+| [jThSsVpxhHxxfAJtMB](blurls/jThSsVpxhHxxfAJtMB.json) | Bruno Mars - 24K Magic                                                        |
+| [lBkonWnHrAFuWPRpFk](blurls/lBkonWnHrAFuWPRpFk.json) | Bruno Mars - 24K Magic (Preview)                                              |
 | [XGDjMunlsORZzUwgiz](blurls/XGDjMunlsORZzUwgiz.json) | Carly Rae Jepsen - Call Me Maybe                                              |
 | [oGHaoBdNdtrRIvgWwe](blurls/oGHaoBdNdtrRIvgWwe.json) | Carly Rae Jepsen - Call Me Maybe (Preview)                                    |
 | [YWSZWKXdPcJdCgXheg](blurls/YWSZWKXdPcJdCgXheg.json) | Darude - Sandstorm                                                            |
@@ -220,6 +224,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [vmHRfNYrCrrJmCxXbI](blurls/vmHRfNYrCrrJmCxXbI.json) | Juice WRLD - Lucid Dreams (Preview)                                           |
 | [WVLkcCPXlFLRAgRzAU](blurls/WVLkcCPXlFLRAgRzAU.json) | Juice WRLD w/ Marshmello - Come & Go                                          |
 | [yXywvsouffAkaGwQLk](blurls/yXywvsouffAkaGwQLk.json) | Juice WRLD w/ Marshmello - Come & Go (Preview)                                |
+| [JpzfgzGVPrXmERHAGn](blurls/JpzfgzGVPrXmERHAGn.json) | Justin Timberlake - Can't Stop The Feeling!                                   |
+| [rzYIOsqHGaPTmYiHfu](blurls/rzYIOsqHGaPTmYiHfu.json) | Justin Timberlake - Can't Stop The Feeling! (Preview)                         |
 | [DsbiBwgXxjDMzjNHLO](blurls/DsbiBwgXxjDMzjNHLO.json) | Kansas - Carry on Wayward Son                                                 |
 | [EhQGiOYdhbkADxIaNY](blurls/EhQGiOYdhbkADxIaNY.json) | Kansas - Carry on Wayward Son (Preview)                                       |
 | [YJuJITYtGSdfDcXGNp](blurls/YJuJITYtGSdfDcXGNp.json) | Katy Perry - Firework                                                         |
@@ -258,6 +264,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [spfNvDjeujyZSdtlMX](blurls/spfNvDjeujyZSdtlMX.json) | Latto - Big Energy (Preview)                                                  |
 | [vBGQUULeIETezKftrt](blurls/vBGQUULeIETezKftrt.json) | Lil Jon & The East Side Boyz ft. Ying Yang Twins - Get Low                    |
 | [kPecXJXYuKmbFDXBQA](blurls/kPecXJXYuKmbFDXBQA.json) | Lil Jon & The East Side Boyz ft. Ying Yang Twins - Get Low (Preview)          |
+| [IueLxUbiYosuLefshS](blurls/IueLxUbiYosuLefshS.json) | Lil Mosey - Blueberry Faygo                                                   |
+| [GvdBWjGeWjvYKqLbXq](blurls/GvdBWjGeWjvYKqLbXq.json) | Lil Mosey - Blueberry Faygo (Preview)                                         |
 | [nNcDyfisUVhLYpRVpw](blurls/nNcDyfisUVhLYpRVpw.json) | Lil Nas X ft. Jack Harlow - Industry Baby                                     |
 | [ZzdveBTMVSejUSDGnS](blurls/ZzdveBTMVSejUSDGnS.json) | Lil Uzi Vert - XO Tour Llif3                                                  |
 | [SNVLBWTIHwFiCeRnUF](blurls/SNVLBWTIHwFiCeRnUF.json) | Lil Uzi Vert - XO Tour Llif3  (Preview)                                       |
@@ -447,6 +455,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [wseGRrwtpPScYarlCO](blurls/wseGRrwtpPScYarlCO.json) | U2 - I Still Haven't Found What I'm Looking For (Preview)                     |
 | [IEDJagWyPJNQMruLxp](blurls/IEDJagWyPJNQMruLxp.json) | U2 - With Or Without You                                                      |
 | [apmIYJTdGWespJIAEf](blurls/apmIYJTdGWespJIAEf.json) | U2 - With Or Without You (Preview)                                            |
+| [qaLNwKlBokpUqHjlSq](blurls/qaLNwKlBokpUqHjlSq.json) | Vengaboys - We Like To Party! (The Vengabus)                                  |
+| [zsoUfdDtJMdmQREoeO](blurls/zsoUfdDtJMdmQREoeO.json) | Vengaboys - We Like To Party! (The Vengabus) (Preview)                        |
 | [bJtXoDgRSDEWwNCeBs](blurls/bJtXoDgRSDEWwNCeBs.json) | Weezer - Buddy Holly                                                          |
 | [LMXwIbQlnMVDNGfJUf](blurls/LMXwIbQlnMVDNGfJUf.json) | Weezer - Buddy Holly (Preview)                                                |
 | [DQAPlrHVzoOANPCXnh](blurls/DQAPlrHVzoOANPCXnh.json) | WILLOW ft. Travis Barker - t r a n s p a r e n t s o u l                      |
