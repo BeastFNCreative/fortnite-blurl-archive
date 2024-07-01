@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [iZKZXJqkzlRylSwndA](blurls/iZKZXJqkzlRylSwndA.json) | Entranced Icon Series Emote |
 | [NTaNhMZFhsOxhCNQoA](blurls/NTaNhMZFhsOxhCNQoA.json) | Metallica Concert Preview |
 | [JawoqhFVjIkZUKdvvZ](blurls/JawoqhFVjIkZUKdvvZ.json) | Reload Gameplay Trailer |
 | [caKLXYdnYdxkwDFNor](blurls/caKLXYdnYdxkwDFNor.json) | Ringer Icon Series Emote |
