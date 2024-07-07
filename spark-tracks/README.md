@@ -72,6 +72,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [ADhPmaOkPTCpSrIcMG](blurls/ADhPmaOkPTCpSrIcMG.json) | Blur - Song 2 (Preview)                                                       |
 | [jThSsVpxhHxxfAJtMB](blurls/jThSsVpxhHxxfAJtMB.json) | Bruno Mars - 24K Magic                                                        |
 | [lBkonWnHrAFuWPRpFk](blurls/lBkonWnHrAFuWPRpFk.json) | Bruno Mars - 24K Magic (Preview)                                              |
+| [fXdDtaCJWpitsNZMNR](blurls/fXdDtaCJWpitsNZMNR.json) | BTS  - Dynamite                                                               |
+| [hNyRLPYmWTQboMFGCn](blurls/hNyRLPYmWTQboMFGCn.json) | BTS  - Dynamite (Preview)                                                     |
 | [XGDjMunlsORZzUwgiz](blurls/XGDjMunlsORZzUwgiz.json) | Carly Rae Jepsen - Call Me Maybe                                              |
 | [oGHaoBdNdtrRIvgWwe](blurls/oGHaoBdNdtrRIvgWwe.json) | Carly Rae Jepsen - Call Me Maybe (Preview)                                    |
 | [YWSZWKXdPcJdCgXheg](blurls/YWSZWKXdPcJdCgXheg.json) | Darude - Sandstorm                                                            |
@@ -194,8 +196,12 @@ Jam Track Audio Data from Fortnite Festival.
 | [JrQGFmzxNJsMrUzYuw](blurls/JrQGFmzxNJsMrUzYuw.json) | Green Day - When I Come Around (Preview)                                      |
 | [pLXQcYQiUYYPtpzMBK](blurls/pLXQcYQiUYYPtpzMBK.json) | Greta Van Fleet - Highway Tune                                                |
 | [tcBplZNrogWAdRkeZp](blurls/tcBplZNrogWAdRkeZp.json) | Greta Van Fleet - Highway Tune (Preview)                                      |
+| [KbhlfnGyOcbjiFwaIt](blurls/KbhlfnGyOcbjiFwaIt.json) | Gwen Stefani - Hollaback Girl |
+| [kXZEBfgAcSWxYXEYPv](blurls/kXZEBfgAcSWxYXEYPv.json) | Gwen Stefani - Hollaback Girl (Preview) |
 | [rVojFSsmfeMlyxaqye](blurls/rVojFSsmfeMlyxaqye.json) | Haddaway - What Is Love                                                       |
 | [UZepUKAXBQJAEDSchu](blurls/UZepUKAXBQJAEDSchu.json) | Haddaway - What Is Love (Preview)                                             |
+| [ZYZjHisfyyGZcmaFTs](blurls/ZYZjHisfyyGZcmaFTs.json) | Hozier - Too Sweet                                                            |
+| [rZObpKxOjuQPIRoqWz](blurls/rZObpKxOjuQPIRoqWz.json) | Hozier - Too Sweet (Preview)                                                  | 
 | [QwcSJqzFBWJtZQLapy](blurls/QwcSJqzFBWJtZQLapy.json) | Imagine Dragons - Believer                                                    |
 | [oIuiDZqtIGZxyvUgAW](blurls/oIuiDZqtIGZxyvUgAW.json) | Imagine Dragons - Believer (Preview)                                          |
 | [mYaCNBepLpSevVisYP](blurls/mYaCNBepLpSevVisYP.json) | Imagine Dragons - Eyes Closed                                                 |
@@ -232,10 +238,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [EsavPhYoXQtFgqOHoe](blurls/EsavPhYoXQtFgqOHoe.json) | Katy Perry - Firework (Preview)                                               |
 | [TPApdjhCVZKhNzIyYX](blurls/TPApdjhCVZKhNzIyYX.json) | Kelly Clarkson - Stronger (What Doesn't Kill You)                             |
 | [IkpIuUfnWoRzCoTNux](blurls/IkpIuUfnWoRzCoTNux.json) | Kelly Clarkson - Stronger (What Doesn't Kill You) (Preview)                   |
+| [hGUlLxMytolyksBWyh](blurls/hGUlLxMytolyksBWyh.json) | Kendrick Lamar - HUMBLE.                                                      |
+| [URGSFrpaSPuvaQVMqm](blurls/URGSFrpaSPuvaQVMqm.json) | Kendrick Lamar - HUMBLE. (Preview)                                            |
 | [WLVhTjCsFGVtDGoHPM](blurls/WLVhTjCsFGVtDGoHPM.json) | Kendrick Lamar - i                                                            |
 | [wOBbQOTrZoYqRnyulI](blurls/wOBbQOTrZoYqRnyulI.json) | Kendrick Lamar - i (Preview)                                                  |
 | [NsitmLqggPcjUqIdkD](blurls/NsitmLqggPcjUqIdkD.json) | Kendrick Lamar - i (v1)                                                       |
 | [AXwlTRapkfttUjHlGT](blurls/AXwlTRapkfttUjHlGT.json) | Kendrick Lamar - i (v1) (Preview)                                             |
+| [ijaWRbBNpHaFlqWrGz](blurls/ijaWRbBNpHaFlqWrGz.json) | Kendrick Lamar ft. SZA - All The Stars                                        |
+| [ekDMaQOcPinllpyChU](blurls/ekDMaQOcPinllpyChU.json) | Kendrick Lamar ft. SZA - All The Stars (Preview)                              |
 | [nOREGzPlkaULcxClcO](blurls/nOREGzPlkaULcxClcO.json) | KT Tunstall - Suddenly I See                                                  |
 | [zrdluIrPYziTpscLKt](blurls/zrdluIrPYziTpscLKt.json) | KT Tunstall - Suddenly I See (Preview)                                        |
 | [VUTlcqnUOQrEkESaxv](blurls/VUTlcqnUOQrEkESaxv.json) | Lady Gaga - Applause                                                          |
@@ -273,6 +283,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [nZNkFqssQWYuhyaYhY](blurls/nZNkFqssQWYuhyaYhY.json) | Lil Uzi Vert ft. Oh Wonder - The Way Life Goes (Preview)                      |
 | [ovoFZlSqdtoBtXBxdW](blurls/ovoFZlSqdtoBtXBxdW.json) | Linkin Park - Numb                                                            |
 | [cGiGEljlaNGZADvZEO](blurls/cGiGEljlaNGZADvZEO.json) | Linkin Park - Numb (Preview)                                                  |
+| [qMIdhudepxvLGaNwfP](blurls/qMIdhudepxvLGaNwfP.json) | LMFAO - Sexy And I Know It                                                    |
+| [UyFhhtHiaeiibGoJCI](blurls/UyFhhtHiaeiibGoJCI.json) | LMFAO - Sexy And I Know It (Preview)                                          |
 | [BDDJiGIZinqbqsXKub](blurls/BDDJiGIZinqbqsXKub.json) | LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem                       |
 | [nxLJFcAiIPllRRssqw](blurls/nxLJFcAiIPllRRssqw.json) | LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem (Preview)             |
 | [owLJvubTiZDBPasCSy](blurls/owLJvubTiZDBPasCSy.json) | Måneskin - Beggin'                                                            |
