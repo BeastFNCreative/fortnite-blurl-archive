@@ -32,6 +32,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [ypOgGLXwEOVFFAwUuh](blurls/ypOgGLXwEOVFFAwUuh.json) | Ariana Grande ft. Nicki Minaj - Side To Side (Preview)                        |
 | [YxEWNqJlxhqgRGSQuK](blurls/YxEWNqJlxhqgRGSQuK.json) | Avenged Sevenfold - Hail To The King                                          |
 | [RxkAXHDBleHmweVvKC](blurls/RxkAXHDBleHmweVvKC.json) | Avenged Sevenfold - Hail To The King (Preview)                                |
+| [sxsgSMMWvyIFNXevPF](blurls/sxsgSMMWvyIFNXevPF.json) | Avicii - Hey Brother                                                          |
+| [FEVUjsuIPIDEexwGoj](blurls/FEVUjsuIPIDEexwGoj.json) | Avicii - Hey Brother (Preview)                                                |
+| [KjereopOoXsOPYLGvI](blurls/KjereopOoXsOPYLGvI.json) | Bad Bunny - Tití Me Preguntó                                                  |
+| [DujLMclKUZFRWQHmWl](blurls/DujLMclKUZFRWQHmWl.json) | Bad Bunny - Tití Me Preguntó (Preview)                                        |
 | [mMmipXNbiJibRuclIe](blurls/mMmipXNbiJibRuclIe.json) | Bad Bunny and Jhayco - DÁKITI                                                 |
 | [mZritCnEhzCDSKmnGa](blurls/mZritCnEhzCDSKmnGa.json) | Bad Bunny and Jhayco - DÁKITI (Preview)                                       |
 | [ykoZtYDmbwAUSVaSkd](blurls/ykoZtYDmbwAUSVaSkd.json) | Bastille - Pompeii                                                            |
@@ -289,6 +293,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [nxLJFcAiIPllRRssqw](blurls/nxLJFcAiIPllRRssqw.json) | LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem (Preview)             |
 | [owLJvubTiZDBPasCSy](blurls/owLJvubTiZDBPasCSy.json) | Måneskin - Beggin'                                                            |
 | [mkwbfIZyeQEvIYUPvt](blurls/mkwbfIZyeQEvIYUPvt.json) | Måneskin - Beggin' (Preview)                                                  |
+| [JSSfPDTCwsFcTopvjD](blurls/JSSfPDTCwsFcTopvjD.json) | Mark Ronson ft. Bruno Mars - Uptown Funk                                      |
+| [hHivsrkRnmicZXtbEU](blurls/hHivsrkRnmicZXtbEU.json) | Mark Ronson ft. Bruno Mars - Uptown Funk (Preview)                            |
 | [UOUmIjfRcZZIDERmwM](blurls/UOUmIjfRcZZIDERmwM.json) | Maroon 5 - Maps                                                               |
 | [cuAreqkhIjmfycXzhA](blurls/cuAreqkhIjmfycXzhA.json) | Maroon 5 - Maps (Preview)                                                     |
 | [jcBequaEgqHcYiSHSd](blurls/jcBequaEgqHcYiSHSd.json) | Maroon 5 ft. Christina Aguilera - Moves Like Jagger                           |
@@ -403,6 +409,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [RjYNsdjgoDFYxNDoup](blurls/RjYNsdjgoDFYxNDoup.json) | Rob Zombie - Dragula (Preview)                                                |
 | [JuhxsaNyDRNqHoQulM](blurls/JuhxsaNyDRNqHoQulM.json) | SAINt JHN - Roses (Imanbek Remix)                                             |
 | [VJbKowiQsUTRfybpUD](blurls/VJbKowiQsUTRfybpUD.json) | SAINt JHN - Roses (Imanbek Remix) (Preview)                                   |
+| [mNqpqBDFUEflqmkNcH](blurls/mNqpqBDFUEflqmkNcH.json) | Sean Paul - Gimme The Light                                                   |
+| [zjjBipTuuHFeFYZOEi](blurls/zjjBipTuuHFeFYZOEi.json) | Sean Paul - Gimme The Light (Preview)                                         |
 | [ClExCoWngnMAVPlBLR](blurls/ClExCoWngnMAVPlBLR.json) | Selena Gomez - Single Soon                                                    |
 | [FxvqxjnvmZFyOVanYZ](blurls/FxvqxjnvmZFyOVanYZ.json) | Selena Gomez - Single Soon (Preview)                                          |
 | [HgzUnQokynDsohQDiJ](blurls/HgzUnQokynDsohQDiJ.json) | Selena Gomez w/Marshmello - Wolves                                            |
