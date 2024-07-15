@@ -34,8 +34,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [RxkAXHDBleHmweVvKC](blurls/RxkAXHDBleHmweVvKC.json) | Avenged Sevenfold - Hail To The King (Preview)                                |
 | [sxsgSMMWvyIFNXevPF](blurls/sxsgSMMWvyIFNXevPF.json) | Avicii - Hey Brother                                                          |
 | [FEVUjsuIPIDEexwGoj](blurls/FEVUjsuIPIDEexwGoj.json) | Avicii - Hey Brother (Preview)                                                |
-| [KjereopOoXsOPYLGvI](blurls/KjereopOoXsOPYLGvI.json) | Bad Bunny - Tití Me Preguntó                                                  |
-| [DujLMclKUZFRWQHmWl](blurls/DujLMclKUZFRWQHmWl.json) | Bad Bunny - Tití Me Preguntó (Preview)                                        |
+| [tNwsdCwzOdrkJLqMkn](blurls/tNwsdCwzOdrkJLqMkn.json) | Bad Bunny - Tití Me Preguntó                                                  |
+| [uTkMcPCKIYFLYzlrfZ](blurls/uTkMcPCKIYFLYzlrfZ.json) | Bad Bunny - Tití Me Preguntó (Preview)                                        |
+| [KjereopOoXsOPYLGvI](blurls/KjereopOoXsOPYLGvI.json) | Bad Bunny - Tití Me Preguntó (v1)                                             |
+| [DujLMclKUZFRWQHmWl](blurls/DujLMclKUZFRWQHmWl.json) | Bad Bunny - Tití Me Preguntó (v1) (Preview)                                   |
 | [mMmipXNbiJibRuclIe](blurls/mMmipXNbiJibRuclIe.json) | Bad Bunny and Jhayco - DÁKITI                                                 |
 | [mZritCnEhzCDSKmnGa](blurls/mZritCnEhzCDSKmnGa.json) | Bad Bunny and Jhayco - DÁKITI (Preview)                                       |
 | [ykoZtYDmbwAUSVaSkd](blurls/ykoZtYDmbwAUSVaSkd.json) | Bastille - Pompeii                                                            |
