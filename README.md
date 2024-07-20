@@ -32,6 +32,8 @@ The biggest Epic Games VUID archive for Fortnite
 
 - This Nils (Contributor)
 
+- SpushFNBR (Contributor)
+
 ## Missing VUIDs
 
 - Monarch Level Up Quest Pack (MOTD)

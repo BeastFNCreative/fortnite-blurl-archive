@@ -78,6 +78,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [ADhPmaOkPTCpSrIcMG](blurls/ADhPmaOkPTCpSrIcMG.json) | Blur - Song 2 (Preview)                                                       |
 | [jThSsVpxhHxxfAJtMB](blurls/jThSsVpxhHxxfAJtMB.json) | Bruno Mars - 24K Magic                                                        |
 | [lBkonWnHrAFuWPRpFk](blurls/lBkonWnHrAFuWPRpFk.json) | Bruno Mars - 24K Magic (Preview)                                              |
+| [RORkOQigQzXzLZHrzd](blurls/RORkOQigQzXzLZHrzd.json) | BTS - Butter                                                                  |
+| [JaLLMqvYtmBSoIVowo](blurls/JaLLMqvYtmBSoIVowo.json) | BTS - Butter (Preview)                                                        |
 | [fXdDtaCJWpitsNZMNR](blurls/fXdDtaCJWpitsNZMNR.json) | BTS  - Dynamite                                                               |
 | [hNyRLPYmWTQboMFGCn](blurls/hNyRLPYmWTQboMFGCn.json) | BTS  - Dynamite (Preview)                                                     |
 | [XGDjMunlsORZzUwgiz](blurls/XGDjMunlsORZzUwgiz.json) | Carly Rae Jepsen - Call Me Maybe                                              |
@@ -110,6 +112,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [LnKXyVnlaYCChIxKKJ](blurls/LnKXyVnlaYCChIxKKJ.json) | Epic Games - Best Buds  (Preview)                                             |
 | [ZCKNHQfzFDwxhuoQcX](blurls/ZCKNHQfzFDwxhuoQcX.json) | Epic Games - Bloom                                                            |
 | [BzJXrdsEXRrfAzEnjv](blurls/BzJXrdsEXRrfAzEnjv.json) | Epic Games - Bloom  (Preview)                                                 |
+| [gKwdiNZThCnzqhIxjy](blurls/gKwdiNZThCnzqhIxjy.json) | Epic Games - Bouncin' Back                                                    |
+| [MucXykbHXCLbFkPDJq](blurls/MucXykbHXCLbFkPDJq.json) | Epic Games - Bouncin' Back (Preview)                                          |
 | [JXTHTqaQusWrIqTwWo](blurls/JXTHTqaQusWrIqTwWo.json) | Epic Games - Butter Barn Hoedown                                              |
 | [LvAUtAEuWsMjWFDfIn](blurls/LvAUtAEuWsMjWFDfIn.json) | Epic Games - Butter Barn Hoedown (Preview)                                    |
 | [AqzJOZzkSxbofUdkMB](blurls/AqzJOZzkSxbofUdkMB.json) | Epic Games - Butter Barn Hoedown (v1)                                         |
@@ -186,6 +190,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [MZnIlagpQkjalAHQjK](blurls/MZnIlagpQkjalAHQjK.json) | Florence + The Machine - Dog Days Are Over (Preview)                          |
 | [vhXvmCNkwUfWyGtbrJ](blurls/vhXvmCNkwUfWyGtbrJ.json) | Foo Fighters - Everlong                                                       |
 | [KlhsxJUOLCxwSyGWiN](blurls/KlhsxJUOLCxwSyGWiN.json) | Foo Fighters - Everlong (Preview)                                             |
+| [pIyOIVqGPrvtIEEFEt](blurls/pIyOIVqGPrvtIEEFEt.json) | GAYLE - abcdefu                                                               |
+| [ZKOzlkbPzQFjYsGDih](blurls/ZKOzlkbPzQFjYsGDih.json) | GAYLE - abcdefu (Preview)                                                     |
 | [ajIPKzQveMPCZXoWhV](blurls/ajIPKzQveMPCZXoWhV.json) | Glass Animals - Creatures In Heaven                                           |
 | [DvuPKzUGGiQBzIUUPr](blurls/DvuPKzUGGiQBzIUUPr.json) | Glass Animals - Creatures In Heaven (Preview)                                 |
 | [DFtfUXkCkZRYaZcJzu](blurls/DFtfUXkCkZRYaZcJzu.json) | Glass Animals - Heat Waves                                                    |
@@ -347,6 +353,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [hGXYhAVRLCvxMMqDOG](blurls/hGXYhAVRLCvxMMqDOG.json) | Muse  - Hysteria (Preview)                                                    |
 | [lVbXhTnpHAwjodfxyF](blurls/lVbXhTnpHAwjodfxyF.json) | Nelly ft. City Spud - Ride Wit Me                                             |
 | [IWdHVthmtpcMZrYXfN](blurls/IWdHVthmtpcMZrYXfN.json) | Nelly ft. City Spud - Ride Wit Me (Preview)                                   |
+| [iDOKLTUTYDWoPDQkGr](blurls/iDOKLTUTYDWoPDQkGr.json) | NF - Let You Down                                                             |
+| [bclLEyvHzTlynEKzPb](blurls/bclLEyvHzTlynEKzPb.json) | NF - Let You Down (Preview)                                                   |
 | [YolvkrBomHFUlpdGSz](blurls/YolvkrBomHFUlpdGSz.json) | NF - The Search                                                               |
 | [ckmLIpnenbdybYNhlq](blurls/ckmLIpnenbdybYNhlq.json) | NF - The Search (Preview)                                                     |
 | [gcJkTGABhxeREWakDS](blurls/gcJkTGABhxeREWakDS.json) | NickEh30 - Never Back Down                                                    |
@@ -361,6 +369,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [nKymeCiZOyeUZcBWux](blurls/nKymeCiZOyeUZcBWux.json) | Nine Inch Nails - The Hand That Feeds (Preview)                               |
 | [KGGpaEgzFgHKBxjGxD](blurls/KGGpaEgzFgHKBxjGxD.json) | Nirvana - Breed                                                               |
 | [TXlZYRIdDRwxMsaVqp](blurls/TXlZYRIdDRwxMsaVqp.json) | Nirvana - Breed (Preview)                                                     |
+| [IBMKKZzxVhcQcvquJR](blurls/IBMKKZzxVhcQcvquJR.json) | NLE Choppa ft. Roddy Ricch - Walk Em Down                                     |
+| [SLRbNGUPyygZhQdnhS](blurls/SLRbNGUPyygZhQdnhS.json) | NLE Choppa ft. Roddy Ricch - Walk Em Down (Preview)                           |
 | [dorCiiRycRlvnwkZuZ](blurls/dorCiiRycRlvnwkZuZ.json) | No Doubt - Just A Girl                                                        |
 | [btZZlILuGsZcPEFzMM](blurls/btZZlILuGsZcPEFzMM.json) | No Doubt - Just A Girl (Preview)                                              |
 | [bptdzIoxcqLWGsIoJA](blurls/bptdzIoxcqLWGsIoJA.json) | Olivia Rodrigo - get him back!                                                |

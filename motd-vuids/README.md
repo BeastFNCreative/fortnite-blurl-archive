@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [xxNwsKwsiOOgRwDULf](blurls/xxNwsKwsiOOgRwDULf.json) | Fortnite x Pirates Of The Carribean Trailer |
 | [MEFPmTUCZExipuBfvy](blurls/MEFPmTUCZExipuBfvy.json) | Looking Good Icon Series Emote |
 | [iZKZXJqkzlRylSwndA](blurls/iZKZXJqkzlRylSwndA.json) | Entranced Icon Series Emote |
 | [NTaNhMZFhsOxhCNQoA](blurls/NTaNhMZFhsOxhCNQoA.json) | Metallica Concert Preview |
