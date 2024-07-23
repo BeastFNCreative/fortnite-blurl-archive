@@ -130,6 +130,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [mObSAekLEUiiRlVjgC](blurls/mObSAekLEUiiRlVjgC.json) | Epic Games - Flickering Flame (Preview)                                       |
 | [zIVFyCkOQcadroQWNg](blurls/zIVFyCkOQcadroQWNg.json) | Epic Games - I'm A Cat                                                        |
 | [HfXqZkMPfRZERxDZlB](blurls/HfXqZkMPfRZERxDZlB.json) | Epic Games - I'm A Cat (Preview)                                              |
+| [UkHTxLZRfIiyGoZjob](blurls/UkHTxLZRfIiyGoZjob.json) | Epic Games - Inferno Island (Molten Mix)                                      |
+| [SmoyMxQWvSaWABGqSs](blurls/SmoyMxQWvSaWABGqSs.json) | Epic Games - Inferno Island (Molten Mix) (Preview)                            |
 | [xRbqgFdHlAIUsFwPTd](blurls/xRbqgFdHlAIUsFwPTd.json) | Epic Games - Lord of the Wasteland                                            |
 | [IArpfprNbSxpuWPMTA](blurls/IArpfprNbSxpuWPMTA.json) | Epic Games - Lord of the Wasteland (Preview)                                  |
 | [NhgMSQhsxpRqIbobUo](blurls/NhgMSQhsxpRqIbobUo.json) | Epic Games - Make It Known                                                    |
@@ -202,14 +204,16 @@ Jam Track Audio Data from Fortnite Festival.
 | [pIVFAyffMjxKfdCivx](blurls/pIVFAyffMjxKfdCivx.json) | Gorillaz - Feel Good Inc (Preview)                                            |
 | [cRVZgAGWLQYkXFAAVJ](blurls/cRVZgAGWLQYkXFAAVJ.json) | Green Day - Basket Case                                                       |
 | [eNUZuNpvxcEwjeRfKT](blurls/eNUZuNpvxcEwjeRfKT.json) | Green Day - Basket Case (Preview)                                             |
+| [qfZRWifLuRrtpivRWl](blurls/qfZRWifLuRrtpivRWl.json) | Green Day - Holiday                                                           |
+| [EveKFDtgkbOUwIhzmA](blurls/EveKFDtgkbOUwIhzmA.json) | Green Day - Holiday (Preview)                                                 |
 | [gQDsXwYMBaPypmQITA](blurls/gQDsXwYMBaPypmQITA.json) | Green Day - Welcome to Paradise                                               |
 | [XVbsYEVxUnnmZjoaam](blurls/XVbsYEVxUnnmZjoaam.json) | Green Day - Welcome to Paradise (Preview)                                     |
 | [ihiytHdIaYumZeoAXu](blurls/ihiytHdIaYumZeoAXu.json) | Green Day - When I Come Around                                                |
 | [JrQGFmzxNJsMrUzYuw](blurls/JrQGFmzxNJsMrUzYuw.json) | Green Day - When I Come Around (Preview)                                      |
 | [pLXQcYQiUYYPtpzMBK](blurls/pLXQcYQiUYYPtpzMBK.json) | Greta Van Fleet - Highway Tune                                                |
 | [tcBplZNrogWAdRkeZp](blurls/tcBplZNrogWAdRkeZp.json) | Greta Van Fleet - Highway Tune (Preview)                                      |
-| [KbhlfnGyOcbjiFwaIt](blurls/KbhlfnGyOcbjiFwaIt.json) | Gwen Stefani - Hollaback Girl |
-| [kXZEBfgAcSWxYXEYPv](blurls/kXZEBfgAcSWxYXEYPv.json) | Gwen Stefani - Hollaback Girl (Preview) |
+| [KbhlfnGyOcbjiFwaIt](blurls/KbhlfnGyOcbjiFwaIt.json) | Gwen Stefani - Hollaback Girl                                                 |
+| [kXZEBfgAcSWxYXEYPv](blurls/kXZEBfgAcSWxYXEYPv.json) | Gwen Stefani - Hollaback Girl (Preview)                                       |
 | [rVojFSsmfeMlyxaqye](blurls/rVojFSsmfeMlyxaqye.json) | Haddaway - What Is Love                                                       |
 | [UZepUKAXBQJAEDSchu](blurls/UZepUKAXBQJAEDSchu.json) | Haddaway - What Is Love (Preview)                                             |
 | [ZYZjHisfyyGZcmaFTs](blurls/ZYZjHisfyyGZcmaFTs.json) | Hozier - Too Sweet                                                            |

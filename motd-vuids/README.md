@@ -10,6 +10,8 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [YzyNLfaTJAFSwrfukX](blurls/YzyNLfaTJAFSwrfukX.json) | Tesla Cyber Truck Cinematic Trailer |
+| [GJqGQmysBhvqNoIQVy](blurls/GJqGQmysBhvqNoIQVy.json) | Rocket Racing Season 2 : Inferno Island Trailer |
 | [xxNwsKwsiOOgRwDULf](blurls/xxNwsKwsiOOgRwDULf.json) | Fortnite x Pirates Of The Carribean Trailer |
 | [MEFPmTUCZExipuBfvy](blurls/MEFPmTUCZExipuBfvy.json) | Looking Good Icon Series Emote |
 | [iZKZXJqkzlRylSwndA](blurls/iZKZXJqkzlRylSwndA.json) | Entranced Icon Series Emote |
