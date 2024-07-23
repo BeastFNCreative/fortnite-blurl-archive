@@ -28,3 +28,4 @@ Radio Stations used In-Game when inside Vehicles.
 | [hgsuJcchvKuaEzzijr](blurls/hgsuJcchvKuaEzzijr.json) | Rock & Royale (v1) |
 | [eaIPyhOJafbnZUIYnZ](blurls/eaIPyhOJafbnZUIYnZ.json) | Rock & Royale (v2) |
 | [PGDsVRDpWMMkgVqAZc](blurls/PGDsVRDpWMMkgVqAZc.json) | Rocket League Radio |
+| [UkfrqQCHURTSgvnQRI](blurls/UkfrqQCHURTSgvnQRI.json) | Summer Road Trip |
