@@ -16,6 +16,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [plyrQeWOeFHAPibQiO](blurls/plyrQeWOeFHAPibQiO.json) | 5 Seconds Of Summer - Youngblood (Preview)                                    |
 | [RLIOuvGprzElBniPKM](blurls/RLIOuvGprzElBniPKM.json) | A Tribe Called Quest ft. Leaders Of The New School - Scenario                 |
 | [HfsUCLQbmgYRRSbywT](blurls/HfsUCLQbmgYRRSbywT.json) | A Tribe Called Quest ft. Leaders Of The New School - Scenario (Preview)       |
+| [LOAsiQdsDkBSGbDbTt](blurls/LOAsiQdsDkBSGbDbTt.json) | Alice In Chains - Would?                                                      |
+| [qKfGoYaOyJLoHomeiX](blurls/qKfGoYaOyJLoHomeiX.json) | Alice In Chains - Would? (Preview)                                            |
 | [LINpKUDVhCDeNueSky](blurls/LINpKUDVhCDeNueSky.json) | ATB, Topic, A7S - Your Love (9pm)                                             |
 | [pWamLhSDzUNwWzYLtd](blurls/pWamLhSDzUNwWzYLtd.json) | ATB, Topic, A7S - Your Love (9pm) (Preview)                                   |
 | [qwJYDgZuhwIMaGZhUz](blurls/qwJYDgZuhwIMaGZhUz.json) | Aqua - Barbie Girl                                                            |
@@ -182,6 +184,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [IfgPRlXoxQIrDRnzys](blurls/IfgPRlXoxQIrDRnzys.json) | Epic Games - You're All Mine (Preview)                                        |
 | [KMZSjRPMJPOFBuTsSR](blurls/KMZSjRPMJPOFBuTsSR.json) | Eslabon Armado, Peso Pluma  - Ella Baila Sola                                 |
 | [JlZgpuVyUmKvcJYCxD](blurls/JlZgpuVyUmKvcJYCxD.json) | Eslabon Armado, Peso Pluma  - Ella Baila Sola (Preview)                       |
+| [IaPcrdhZXGIqQrdwWZ](blurls/IaPcrdhZXGIqQrdwWZ.json) | Europe - The Final Countdown                                                  |
+| [wUtPKuydDDEmnbwzUn](blurls/wUtPKuydDDEmnbwzUn.json) | Europe - The Final Countdown (Preview)                                        |
 | [cvVkdoJeFeXXCUhVfn](blurls/cvVkdoJeFeXXCUhVfn.json) | Evanescence - Bring Me To Life                                                |
 | [owXQzomvTwwigludHw](blurls/owXQzomvTwwigludHw.json) | Evanescence - Bring Me To Life (Preview)                                      |
 | [FEeVYNTEBnLAzfDdLJ](blurls/FEeVYNTEBnLAzfDdLJ.json) | Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up)           |
@@ -439,6 +443,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [HsCGWpvjlDmYVUjxVa](blurls/HsCGWpvjlDmYVUjxVa.json) | Skee-Lo - I Wish (Preview)                                                    |
 | [jqIYjdFZrEyUgNOvSf](blurls/jqIYjdFZrEyUgNOvSf.json) | Slipknot - Before I Forget                                                    |
 | [eWkigBnOQxgWuhbQQQ](blurls/eWkigBnOQxgWuhbQQQ.json) | Slipknot - Before I Forget (Preview)                                          |
+| [DbJQEftuJdZClxxqOp](blurls/DbJQEftuJdZClxxqOp.json) | Slipknot - Unsainted                                                          |
+| [aVlrOLiKBxgWYyWShs](blurls/aVlrOLiKBxgWYyWShs.json) | Slipknot - Unsainted (Preview)                                                |
 | [cCTLWzqDboIkMWyOTd](blurls/cCTLWzqDboIkMWyOTd.json) | Soundgarden - Black Hole Sun                                                  |
 | [nExtkgFrPFhLiJOuuq](blurls/nExtkgFrPFhLiJOuuq.json) | Soundgarden - Black Hole Sun (Preview)                                        |
 | [QXKPSFvMysPqegENXn](blurls/QXKPSFvMysPqegENXn.json) | Sub Urban - Cradles                                                           |
@@ -477,6 +483,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [fgQHLgQTMRzzGdjrzR](blurls/fgQHLgQTMRzzGdjrzR.json) | The Weeknd, Madonna & Playboi Carti - Popular (Preview)                       |
 | [xIPtZmwHsbDLtrrNSA](blurls/xIPtZmwHsbDLtrrNSA.json) | The White Stripes - Seven Nation Army                                         |
 | [yYYGxrAeIDehFIbYAa](blurls/yYYGxrAeIDehFIbYAa.json) | The White Stripes - Seven Nation Army (Preview)                               |
+| [kpBIsfpIOSFfCoqjEf](blurls/kpBIsfpIOSFfCoqjEf.json) | Thin Lizzy - The Boys Are Back In Town                                        |
+| [paLyNYAexJRirsLPZG](blurls/paLyNYAexJRirsLPZG.json) | Thin Lizzy - The Boys Are Back In Town (Preview)                              |
 | [GmNbxrUhiubcLZOMkS](blurls/GmNbxrUhiubcLZOMkS.json) | Twenty One Pilots - Heathens                                                  |
 | [dNxJTUbMqnkSMIcnai](blurls/dNxJTUbMqnkSMIcnai.json) | Twenty One Pilots - Heathens (Preview)                                        |
 | [IHpIDKlqmxGozGDfMg](blurls/IHpIDKlqmxGozGDfMg.json) | Twenty One Pilots - Next Semester                                             |
