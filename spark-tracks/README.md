@@ -321,8 +321,12 @@ Jam Track Audio Data from Fortnite Festival.
 | [FKNzqhvOkCAXjZihZx](blurls/FKNzqhvOkCAXjZihZx.json) | Megan Thee Stallion - Savage (Preview)                                        |
 | [DYuvjnLoohihYQRSjy](blurls/DYuvjnLoohihYQRSjy.json) | Meghan Trainor - Me Too                                                       |
 | [pYJCnjqDOqmMOeIPFq](blurls/pYJCnjqDOqmMOeIPFq.json) | Meghan Trainor - Me Too (Preview)                                             |
+| [NelnICKyBKmgiTHCwp](blurls/NelnICKyBKmgiTHCwp.json) | Metallica - Battery                                                           |
+| [BmXsiufJgbMTCuIThh](blurls/BmXsiufJgbMTCuIThh.json) | Metallica - Battery (Preview)                                                 |
 | [BWeqxqIAWCHdsiImhb](blurls/BWeqxqIAWCHdsiImhb.json) | Metallica - Enter Sandman                                                     |
 | [TfCkUHwHjGwpIgefDC](blurls/TfCkUHwHjGwpIgefDC.json) | Metallica - Enter Sandman (Preview)                                           |
+| [zprIUWluSSmlQehIaP](blurls/zprIUWluSSmlQehIaP.json) | Metallica - Fade to Black                                                     |
+| [ORTHSfEJUxcVkTrWrA](blurls/ORTHSfEJUxcVkTrWrA.json) | Metallica - Fade to Black (Preview)                                           |
 | [fsyYeUEekJdeWTHHGv](blurls/fsyYeUEekJdeWTHHGv.json) | Metallica - For Whom The Bell Tolls                                           |
 | [iSQhOJvWkXCxKgkrGx](blurls/iSQhOJvWkXCxKgkrGx.json) | Metallica - For Whom The Bell Tolls (Preview)                                 |
 | [ZYdDAVZKqgujbvYrVV](blurls/ZYdDAVZKqgujbvYrVV.json) | Metallica - Fuel                                                              |
@@ -337,6 +341,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [qcHTpyvpAiOUnZRdqB](blurls/qcHTpyvpAiOUnZRdqB.json) | Metallica - One (Preview)                                                     |
 | [wNvyTAQyqAudrWjwzA](blurls/wNvyTAQyqAudrWjwzA.json) | Metallica - Ride the Lightning                                                |
 | [aONGNeWsjTLUWPVULO](blurls/aONGNeWsjTLUWPVULO.json) | Metallica - Ride the Lightning (Preview)                                      |
+| [JcnlDNfcqaWUcdiqNj](blurls/JcnlDNfcqaWUcdiqNj.json) | Metallica - Sad But True                                                      |
+| [UGpUkmLKQSbOwXMzPr](blurls/UGpUkmLKQSbOwXMzPr.json) | Metallica - Sad But True (Preview)                                            |
 | [uUvPLHKvpsEupIaopO](blurls/uUvPLHKvpsEupIaopO.json) | Metallica - Seek & Destroy                                                    |
 | [QCaIZkXiwrnbgMCfqT](blurls/QCaIZkXiwrnbgMCfqT.json) | Metallica - Seek & Destroy (Preview)                                          |
 | [rBVzAUtXvMBqrexkJC](blurls/rBVzAUtXvMBqrexkJC.json) | Metallica - The Unforgiven                                                    |
