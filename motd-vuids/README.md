@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [nheSRKKtYAbbNWgeYd](blurls/nheSRKKtYAbbNWgeYd.json) | Fortnite x Fall Guys Trailer |
 | [RoldFVNSAzQTmbUQHL](blurls/RoldFVNSAzQTmbUQHL.json) | Mine Icon Series Emote |
 | [YzyNLfaTJAFSwrfukX](blurls/YzyNLfaTJAFSwrfukX.json) | Tesla Cyber Truck Cinematic Trailer |
 | [GJqGQmysBhvqNoIQVy](blurls/GJqGQmysBhvqNoIQVy.json) | Rocket Racing Season 2 : Inferno Island Trailer |

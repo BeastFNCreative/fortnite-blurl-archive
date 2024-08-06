@@ -124,6 +124,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [GGlGfkVHYNrJMjdmnJ](blurls/GGlGfkVHYNrJMjdmnJ.json) | Epic Games - Change (Preview)                                                 |
 | [IixNeqDWIyeLPErqRY](blurls/IixNeqDWIyeLPErqRY.json) | Epic Games - Dreamer                                                          |
 | [uXyzxlhWHahCpVhomG](blurls/uXyzxlhWHahCpVhomG.json) | Epic Games - Dreamer (Preview)                                                |
+| [reelRePfWVUMJpUNUr](blurls/reelRePfWVUMJpUNUr.json) | Epic Games - Everybody Falls (Chill Mix)                                      |
+| [hapqGYlqGsAIXLoAEe](blurls/hapqGYlqGsAIXLoAEe.json) | Epic Games - Everybody Falls (Chill Mix) (Preview)                            |
 | [AGTCTgnGzQPlUyqVcT](blurls/AGTCTgnGzQPlUyqVcT.json) | Epic Games - Find the Fury                                                    |
 | [ZeimxqDjkNaKOetpDq](blurls/ZeimxqDjkNaKOetpDq.json) | Epic Games - Find the Fury (Preview)                                          |
 | [BRCVQrjLZlyresRzQN](blurls/BRCVQrjLZlyresRzQN.json) | Epic Games - Fire and Steel                                                   |
