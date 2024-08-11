@@ -84,10 +84,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [JaLLMqvYtmBSoIVowo](blurls/JaLLMqvYtmBSoIVowo.json) | BTS - Butter (Preview)                                                        |
 | [fXdDtaCJWpitsNZMNR](blurls/fXdDtaCJWpitsNZMNR.json) | BTS  - Dynamite                                                               |
 | [hNyRLPYmWTQboMFGCn](blurls/hNyRLPYmWTQboMFGCn.json) | BTS  - Dynamite (Preview)                                                     |
+| [wByRQOnQvgiBJREhEo](blurls/wByRQOnQvgiBJREhEo.json) | Cage The Elephant - Ain't No Rest For The Wicked                              |
+| [grbHoDzVgDIoSLodVv](blurls/grbHoDzVgDIoSLodVv.json) | Cage The Elephant - Ain't No Rest For The Wicked (Preview)                    |
 | [XGDjMunlsORZzUwgiz](blurls/XGDjMunlsORZzUwgiz.json) | Carly Rae Jepsen - Call Me Maybe                                              |
 | [oGHaoBdNdtrRIvgWwe](blurls/oGHaoBdNdtrRIvgWwe.json) | Carly Rae Jepsen - Call Me Maybe (Preview)                                    |
 | [YWSZWKXdPcJdCgXheg](blurls/YWSZWKXdPcJdCgXheg.json) | Darude - Sandstorm                                                            |
 | [fFiWFfKnAjyjncUHLI](blurls/fFiWFfKnAjyjncUHLI.json) | Darude - Sandstorm (Preview)                                                  |
+| [OogMSBWhzMhQdtJole](blurls/OogMSBWhzMhQdtJole.json) | Desiigner - Panda                                                             |
+| [DsItqBpPnthMkVstQR](blurls/DsItqBpPnthMkVstQR.json) | Desiigner - Panda (Preview)                                                   |
 | [ATKBVHqtnSLVACLvrs](blurls/ATKBVHqtnSLVACLvrs.json) | Disturbed - Down with the Sickness                                            |
 | [xbOGowCBNjszsGpjNX](blurls/xbOGowCBNjszsGpjNX.json) | Disturbed - Down with the Sickness (Preview)                                  |
 | [dNzhpYzOCoQbchHjPi](blurls/dNzhpYzOCoQbchHjPi.json) | DMX - X Gon' Give It To Ya                                                    |
@@ -218,6 +222,12 @@ Jam Track Audio Data from Fortnite Festival.
 | [JrQGFmzxNJsMrUzYuw](blurls/JrQGFmzxNJsMrUzYuw.json) | Green Day - When I Come Around (Preview)                                      |
 | [pLXQcYQiUYYPtpzMBK](blurls/pLXQcYQiUYYPtpzMBK.json) | Greta Van Fleet - Highway Tune                                                |
 | [tcBplZNrogWAdRkeZp](blurls/tcBplZNrogWAdRkeZp.json) | Greta Van Fleet - Highway Tune (Preview)                                      |
+| [lfnhSaXjYHJKjhyapO](blurls/lfnhSaXjYHJKjhyapO.json) | Guns N' Roses - Paradise City                                                 |
+| [mpZwoZDhSGTUubzQRf](blurls/mpZwoZDhSGTUubzQRf.json) | Guns N' Roses - Paradise City (Preview)                                       |
+| [byQKfwmOljgQJTPdab](blurls/byQKfwmOljgQJTPdab.json) | Guns N' Roses  - Sweet Child O' Mine                                          |
+| [kLDJvvjYKffGSZVaiU](blurls/kLDJvvjYKffGSZVaiU.json) | Guns N' Roses  - Sweet Child O' Mine (Preview)                                |
+| [lxTjdDTrjIcdtsqzpS](blurls/lxTjdDTrjIcdtsqzpS.json) | Guns N' Roses - Welcome To The Jungle                                         |
+| [WrpimpYEDLJJAHJjnA](blurls/WrpimpYEDLJJAHJjnA.json) | Guns N' Roses - Welcome To The Jungle (Preview)                               |
 | [KbhlfnGyOcbjiFwaIt](blurls/KbhlfnGyOcbjiFwaIt.json) | Gwen Stefani - Hollaback Girl                                                 |
 | [kXZEBfgAcSWxYXEYPv](blurls/kXZEBfgAcSWxYXEYPv.json) | Gwen Stefani - Hollaback Girl (Preview)                                       |
 | [rVojFSsmfeMlyxaqye](blurls/rVojFSsmfeMlyxaqye.json) | Haddaway - What Is Love                                                       |
@@ -268,6 +278,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [AXwlTRapkfttUjHlGT](blurls/AXwlTRapkfttUjHlGT.json) | Kendrick Lamar - i (v1) (Preview)                                             |
 | [ijaWRbBNpHaFlqWrGz](blurls/ijaWRbBNpHaFlqWrGz.json) | Kendrick Lamar ft. SZA - All The Stars                                        |
 | [ekDMaQOcPinllpyChU](blurls/ekDMaQOcPinllpyChU.json) | Kendrick Lamar ft. SZA - All The Stars (Preview)                              |
+| [UxoOUoPPnxdAvdTauV](blurls/UxoOUoPPnxdAvdTauV.json) | Kid Cudi - Day 'N' Nite                                                       |
+| [FtkhWEQpGASLvvKfAv](blurls/FtkhWEQpGASLvvKfAv.json) | Kid Cudi - Day 'N' Nite (Preview)                                             |
 | [nOREGzPlkaULcxClcO](blurls/nOREGzPlkaULcxClcO.json) | KT Tunstall - Suddenly I See                                                  |
 | [zrdluIrPYziTpscLKt](blurls/zrdluIrPYziTpscLKt.json) | KT Tunstall - Suddenly I See (Preview)                                        |
 | [VUTlcqnUOQrEkESaxv](blurls/VUTlcqnUOQrEkESaxv.json) | Lady Gaga - Applause                                                          |
@@ -421,6 +433,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [YFbENNUpVeqiyyGEbm](blurls/YFbENNUpVeqiyyGEbm.json) | PSY - Gangnam Style (Preview)                                                 |
 | [vBlsDPnZYHiPYzAbID](blurls/vBlsDPnZYHiPYzAbID.json) | Queens of the Stone Age - Go With The Flow                                    |
 | [vfjKbIGlrZKEtKdwUH](blurls/vfjKbIGlrZKEtKdwUH.json) | Queens of the Stone Age - Go With The Flow (Preview)                          |
+| [oCsruCvQobDHwSCPpp](blurls/oCsruCvQobDHwSCPpp.json) | Rae Sremmurd ft. Gucci Mane - Black Beatles                                   |
+| [bbvUftZXjFdfdzjYbL](blurls/bbvUftZXjFdfdzjYbL.json) | Rae Sremmurd ft. Gucci Mane - Black Beatles (Preview)                         |
 | [SNTRQojMzKHZfooiXD](blurls/SNTRQojMzKHZfooiXD.json) | Rage Against The Machine - Bulls On Parade                                    |
 | [WBJtKbvssMbUTJBSxJ](blurls/WBJtKbvssMbUTJBSxJ.json) | Rage Against The Machine - Bulls On Parade (Preview)                          |
 | [EbRuFltOuaXxgLcWBc](blurls/EbRuFltOuaXxgLcWBc.json) | Rage Against The Machine - Killing In The Name                                |

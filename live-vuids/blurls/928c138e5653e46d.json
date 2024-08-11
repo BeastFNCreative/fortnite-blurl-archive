@@ -1,0 +1,13 @@
+{
+    "playlists": [
+        {
+            "type": "main",
+            "language": "en",
+            "url": "https://fortnitewc-ep.akamaized.net/cmaf/live/2025998/a5aae383-3cff-4f7e-928c-138e5653e46d/928c138e5653e46d/master.m3u8"
+        }
+    ],
+    "type": "live",
+    "limits": "Dev=Android*,TotalPhysMem=3500,Res=648|Dev=Android*,Res=368|Res=720",
+    "ucp": "av",
+    "sharelock": true
+}

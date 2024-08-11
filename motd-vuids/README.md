@@ -10,6 +10,8 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [JPIsbdgfMUyPQSGRpq](blurls/JPIsbdgfMUyPQSGRpq.json) | Absolute Doom (Chapter 5 Season 4) : Trailer |
+| [blPyqZHcmXrlTPagjD](blurls/blPyqZHcmXrlTPagjD.json) | Disney Horizons Live from D23 in Fortnite (MOTD Background) |
 | [nheSRKKtYAbbNWgeYd](blurls/nheSRKKtYAbbNWgeYd.json) | Fortnite x Fall Guys Trailer |
 | [RoldFVNSAzQTmbUQHL](blurls/RoldFVNSAzQTmbUQHL.json) | Mine Icon Series Emote |
 | [YzyNLfaTJAFSwrfukX](blurls/YzyNLfaTJAFSwrfukX.json) | Tesla Cyber Truck Cinematic Trailer |
