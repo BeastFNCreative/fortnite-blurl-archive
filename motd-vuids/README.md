@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [nEMdpnjfhHWDgxAjcv](blurls/nEMdpnjfhHWDgxAjcv.json) | Moff Gideon & IG-11 Mini-Clip (MOTD Background) |
 | [JPIsbdgfMUyPQSGRpq](blurls/JPIsbdgfMUyPQSGRpq.json) | Absolute Doom (Chapter 5 Season 4) : Trailer |
 | [blPyqZHcmXrlTPagjD](blurls/blPyqZHcmXrlTPagjD.json) | Disney Horizons Live from D23 in Fortnite (MOTD Background) |
 | [nheSRKKtYAbbNWgeYd](blurls/nheSRKKtYAbbNWgeYd.json) | Fortnite x Fall Guys Trailer |
