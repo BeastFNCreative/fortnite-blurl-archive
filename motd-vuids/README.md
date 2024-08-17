@@ -10,6 +10,10 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [QPDqBQKjvnyoeNPTnF](blurls/QPDqBQKjvnyoeNPTnF.json) | Fortnite Mobile returns! |
+| [lEuEUUZXGebeNRqGGc](blurls/lEuEUUZXGebeNRqGGc.json) | Katalina Outfit Showcase (MOTD Background) |
+| [rMojZUzfphYUwZOhEu](blurls/rMojZUzfphYUwZOhEu.json) | OKI DOKI Icon Series Emote (MOTD Background) |
+| [KApusxnVmEPGGJItKN](blurls/KApusxnVmEPGGJItKN.json) | Fortnite Festival Season 5 feat. Karol G (MOTD Background) |
 | [CxJpXWjdZGmxcVodcP](blurls/CxJpXWjdZGmxcVodcP.json) | Feel It Icon Series Emote (MOTD Background) |
 | [nEMdpnjfhHWDgxAjcv](blurls/nEMdpnjfhHWDgxAjcv.json) | Moff Gideon & IG-11 Mini-Clip (MOTD Background) |
 | [JPIsbdgfMUyPQSGRpq](blurls/JPIsbdgfMUyPQSGRpq.json) | Absolute Doom (Chapter 5 Season 4) : Trailer |

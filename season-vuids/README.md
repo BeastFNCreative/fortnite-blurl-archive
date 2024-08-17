@@ -61,3 +61,5 @@ Seasonal Trailer Video Content, found in either the Career Tab or First Time Sta
 | [JcilVzAZTaeegZPLPe](blurls/JcilVzAZTaeegZPLPe.json) | Chapter 5 Season 3 : Ecosystem Trailer |
 | [MoZNINSiJZlyZDoyPd](blurls/MoZNINSiJZlyZDoyPd.json) | Chapter 5 Season 3 : Season Trailer |
 | [VRrCtBawNVaoUdcldh](blurls/VRrCtBawNVaoUdcldh.json) | Chapter 5 Season 3 : Ecosystem Trailer (Reload Update) |
+| [JHPJrZNiZovAqPettj](blurls/JHPJrZNiZovAqPettj.json) | Chapter 5 Season 3 : Season Trailer |
+| [UgBDwofJAGJNFcaDCM](blurls/UgBDwofJAGJNFcaDCM.json) | Chapter 5 Season 3 : Ecosystem Trailer |

@@ -16,6 +16,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [plyrQeWOeFHAPibQiO](blurls/plyrQeWOeFHAPibQiO.json) | 5 Seconds Of Summer - Youngblood (Preview)                                    |
 | [RLIOuvGprzElBniPKM](blurls/RLIOuvGprzElBniPKM.json) | A Tribe Called Quest ft. Leaders Of The New School - Scenario                 |
 | [HfsUCLQbmgYRRSbywT](blurls/HfsUCLQbmgYRRSbywT.json) | A Tribe Called Quest ft. Leaders Of The New School - Scenario (Preview)       |
+| [UEedyIHDWPfpePftct](blurls/UEedyIHDWPfpePftct.json) | Afrojack ft. Eva Simmons - Take Over Control                                  |
+| [idAGGdscssAxHNkJEU](blurls/idAGGdscssAxHNkJEU.json) | Afrojack ft. Eva Simmons - Take Over Control (Preview)                        |
 | [LOAsiQdsDkBSGbDbTt](blurls/LOAsiQdsDkBSGbDbTt.json) | Alice In Chains - Would?                                                      |
 | [qKfGoYaOyJLoHomeiX](blurls/qKfGoYaOyJLoHomeiX.json) | Alice In Chains - Would? (Preview)                                            |
 | [LINpKUDVhCDeNueSky](blurls/LINpKUDVhCDeNueSky.json) | ATB, Topic, A7S - Your Love (9pm)                                             |
@@ -32,10 +34,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [FIJePHjrHhoMYTKjYR](blurls/FIJePHjrHhoMYTKjYR.json) | Ariana Grande - yes, and? (Preview)                                           |
 | [okKQtOiizMPqJwyAOG](blurls/okKQtOiizMPqJwyAOG.json) | Ariana Grande ft. Nicki Minaj - Side To Side                                  |
 | [ypOgGLXwEOVFFAwUuh](blurls/ypOgGLXwEOVFFAwUuh.json) | Ariana Grande ft. Nicki Minaj - Side To Side (Preview)                        |
+| [xtlFBDabRyWekDgfCf](blurls/xtlFBDabRyWekDgfCf.json) | Ava Max - My Oh My                                                            |
+| [WRSNjziEtYLjaMBZnT](blurls/WRSNjziEtYLjaMBZnT.json) | Ava Max - My Oh My (Preview)                                                  |
 | [YxEWNqJlxhqgRGSQuK](blurls/YxEWNqJlxhqgRGSQuK.json) | Avenged Sevenfold - Hail To The King                                          |
 | [RxkAXHDBleHmweVvKC](blurls/RxkAXHDBleHmweVvKC.json) | Avenged Sevenfold - Hail To The King (Preview)                                |
 | [sxsgSMMWvyIFNXevPF](blurls/sxsgSMMWvyIFNXevPF.json) | Avicii - Hey Brother                                                          |
 | [FEVUjsuIPIDEexwGoj](blurls/FEVUjsuIPIDEexwGoj.json) | Avicii - Hey Brother (Preview)                                                |
+| [nhQDCgGgowwiPHYBBY](blurls/nhQDCgGgowwiPHYBBY.json) | Avicii - The Nights                                                           |
+| [UDuGarftazmOFVcSly](blurls/UDuGarftazmOFVcSly.json) | Avicii - The Nights (Preview)                                                 |
 | [tNwsdCwzOdrkJLqMkn](blurls/tNwsdCwzOdrkJLqMkn.json) | Bad Bunny - Tití Me Preguntó                                                  |
 | [uTkMcPCKIYFLYzlrfZ](blurls/uTkMcPCKIYFLYzlrfZ.json) | Bad Bunny - Tití Me Preguntó (Preview)                                        |
 | [KjereopOoXsOPYLGvI](blurls/KjereopOoXsOPYLGvI.json) | Bad Bunny - Tití Me Preguntó (v1)                                             |
@@ -136,16 +142,24 @@ Jam Track Audio Data from Fortnite Festival.
 | [pwVkSDxdTLgDpqCoaL](blurls/pwVkSDxdTLgDpqCoaL.json) | Epic Games - Fire and Steel (Preview)                                         |
 | [ggOVvBIigmrYidAdlU](blurls/ggOVvBIigmrYidAdlU.json) | Epic Games - Flickering Flame                                                 |
 | [mObSAekLEUiiRlVjgC](blurls/mObSAekLEUiiRlVjgC.json) | Epic Games - Flickering Flame (Preview)                                       |
+| [RSTSRRJrDkDujujGre](blurls/RSTSRRJrDkDujujGre.json) | Epic Games - For Latveria                                                     |
+| [RGWGwPpcpiqJpLxumO](blurls/RGWGwPpcpiqJpLxumO.json) | Epic Games - For Latveria (Preview)                                           |
+| [wPKsremuldllEHfNEY](blurls/wPKsremuldllEHfNEY.json) | Epic Games - Gwenpool's Multiverse                                            |
+| [MLCorqMCJJjQeZNdJo](blurls/MLCorqMCJJjQeZNdJo.json) | Epic Games - Gwenpool's Multiverse (Preview)                                  |
 | [zIVFyCkOQcadroQWNg](blurls/zIVFyCkOQcadroQWNg.json) | Epic Games - I'm A Cat                                                        |
 | [HfXqZkMPfRZERxDZlB](blurls/HfXqZkMPfRZERxDZlB.json) | Epic Games - I'm A Cat (Preview)                                              |
 | [UkHTxLZRfIiyGoZjob](blurls/UkHTxLZRfIiyGoZjob.json) | Epic Games - Inferno Island (Molten Mix)                                      |
 | [SmoyMxQWvSaWABGqSs](blurls/SmoyMxQWvSaWABGqSs.json) | Epic Games - Inferno Island (Molten Mix) (Preview)                            |
+| [uHMGQtxiZxKwPlxgQK](blurls/uHMGQtxiZxKwPlxgQK.json) | Epic Games - Keep Poppin                                                      |
+| [QlvbRUhBYaJGujAjjD](blurls/QlvbRUhBYaJGujAjjD.json) | Epic Games - Keep Poppin (Preview)                                            |
 | [xRbqgFdHlAIUsFwPTd](blurls/xRbqgFdHlAIUsFwPTd.json) | Epic Games - Lord of the Wasteland                                            |
 | [IArpfprNbSxpuWPMTA](blurls/IArpfprNbSxpuWPMTA.json) | Epic Games - Lord of the Wasteland (Preview)                                  |
 | [NhgMSQhsxpRqIbobUo](blurls/NhgMSQhsxpRqIbobUo.json) | Epic Games - Make It Known                                                    |
 | [gStMBDmPZqdJwujxvT](blurls/gStMBDmPZqdJwujxvT.json) | Epic Games - Make It Known (Preview)                                          |
 | [SvPTbHiaOIspktUaWF](blurls/SvPTbHiaOIspktUaWF.json) | Epic Games - OG (Future Remix)                                                |
 | [ummqUqCSFUWeQfzTvs](blurls/ummqUqCSFUWeQfzTvs.json) | Epic Games - OG (Future Remix) (Preview)                                      |
+| [wrebppzwHiFJbopmoo](blurls/wrebppzwHiFJbopmoo.json) | Epic Games - Orbital Overload                                                 |
+| [DqpBcakapXwqQwhige](blurls/DqpBcakapXwqQwhige.json) | Epic Games - Orbital Overload (Preview)                                       |
 | [hVjVGjHwdXdwBRRBqO](blurls/hVjVGjHwdXdwBRRBqO.json) | Epic Games - Pea Like Me                                                      |
 | [NmpEimoCXOVNkRwZqk](blurls/NmpEimoCXOVNkRwZqk.json) | Epic Games - Pea Like Me (Preview)                                            |
 | [cPolNLrCmxJBVTmIUd](blurls/cPolNLrCmxJBVTmIUd.json) | Epic Games - S.O.M.P.                                                         |
@@ -172,6 +186,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [LjVfzBLBaBIQRRcmJX](blurls/LjVfzBLBaBIQRRcmJX.json) | Epic Games - Take Me Higher (Preview)                                         |
 | [zZXvTbypMIqofbLaJN](blurls/zZXvTbypMIqofbLaJN.json) | Epic Games - Take Me Higher (v1)                                              |
 | [irAAWbZgcfCylAIaYF](blurls/irAAWbZgcfCylAIaYF.json) | Epic Games - Take Me Higher (v1) (Preview)                                    |
+| [bPovUmaWedbOJSlYFD](blurls/bPovUmaWedbOJSlYFD.json) | Epic Games - The Claw                                                         |
+| [GJWmoRGfVWtgzOGWnF](blurls/GJWmoRGfVWtgzOGWnF.json) | Epic Games - The Claw (Preview)                                               |
 | [DuUVxGRztgxPIObnSa](blurls/DuUVxGRztgxPIObnSa.json) | Epic Games - The Hunting Ground                                               |
 | [JXmRdPnKKATjMzTriN](blurls/JXmRdPnKKATjMzTriN.json) | Epic Games - The Hunting Ground (Preview)                                     |
 | [CREtGvWUTYbZlLtHGY](blurls/CREtGvWUTYbZlLtHGY.json) | Epic Games - The Night Porter                                                 |
@@ -182,6 +198,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [BbuukWlBviFgHgjeXS](blurls/BbuukWlBviFgHgjeXS.json) | Epic Games - Return of the Tiger (Preview)                                    |
 | [hwrgbMGArHSkLSwbDw](blurls/hwrgbMGArHSkLSwbDw.json) | Epic Games - Run It                                                           |
 | [vCsBrGbbqpbvGkiKjq](blurls/vCsBrGbbqpbvGkiKjq.json) | Epic Games - Run It (Preview)                                                 |
+| [vIEWDSEWwlAzjxLBOu](blurls/vIEWDSEWwlAzjxLBOu.json) | Epic Games - Way Too Fast                                                     |
+| [HcMKiDFnjuZwANctFE](blurls/HcMKiDFnjuZwANctFE.json) | Epic Games - Way Too Fast (Preview)                                           |
 | [FysLFXQNAHkWedXMjG](blurls/FysLFXQNAHkWedXMjG.json) | Epic Games - Winterfest Wish                                                  |
 | [IVpxBpwjSCdfHrKCAH](blurls/IVpxBpwjSCdfHrKCAH.json) | Epic Games - Winterfest Wish (Preview)                                        |
 | [ADVHilMkRFqgVYNodu](blurls/ADVHilMkRFqgVYNodu.json) | Epic Games - You Don't Know Me                                                |
@@ -260,12 +278,20 @@ Jam Track Audio Data from Fortnite Festival.
 | [tccfoxUXzLfwXYdzEk](blurls/tccfoxUXzLfwXYdzEk.json) | Jonas Brothers - Sucker (Preview)                                             |
 | [ExyKoSEXKXzxaCARtv](blurls/ExyKoSEXKXzxaCARtv.json) | Juice WRLD - Lucid Dreams                                                     |
 | [vmHRfNYrCrrJmCxXbI](blurls/vmHRfNYrCrrJmCxXbI.json) | Juice WRLD - Lucid Dreams (Preview)                                           |
-| [WVLkcCPXlFLRAgRzAU](blurls/WVLkcCPXlFLRAgRzAU.json) | Juice WRLD w/ Marshmello - Come & Go                                          |
-| [yXywvsouffAkaGwQLk](blurls/yXywvsouffAkaGwQLk.json) | Juice WRLD w/ Marshmello - Come & Go (Preview)                                |
+| [iBlBEQOJAIZmjKDVnQ](blurls/iBlBEQOJAIZmjKDVnQ.json) | Juice WRLD w/ Marshmello - Come & Go                                          |
+| [xSoXKeWwLrKxidEyNy](blurls/xSoXKeWwLrKxidEyNy.json) | Juice WRLD w/ Marshmello - Come & Go (Preview)                                |
+| [WVLkcCPXlFLRAgRzAU](blurls/WVLkcCPXlFLRAgRzAU.json) | Juice WRLD w/ Marshmello - Come & Go (v1)                                     |
+| [yXywvsouffAkaGwQLk](blurls/yXywvsouffAkaGwQLk.json) | Juice WRLD w/ Marshmello - Come & Go (v1) (Preview)                           |
 | [JpzfgzGVPrXmERHAGn](blurls/JpzfgzGVPrXmERHAGn.json) | Justin Timberlake - Can't Stop The Feeling!                                   |
 | [rzYIOsqHGaPTmYiHfu](blurls/rzYIOsqHGaPTmYiHfu.json) | Justin Timberlake - Can't Stop The Feeling! (Preview)                         |
 | [DsbiBwgXxjDMzjNHLO](blurls/DsbiBwgXxjDMzjNHLO.json) | Kansas - Carry on Wayward Son                                                 |
 | [EhQGiOYdhbkADxIaNY](blurls/EhQGiOYdhbkADxIaNY.json) | Kansas - Carry on Wayward Son (Preview)                                       |
+| [YQgLzPmiCgAqgpUGKU](blurls/YQgLzPmiCgAqgpUGKU.json) | Karol G - OKI DOKI                                                            |
+| [EBzVVjjKXhPsxcSnzn](blurls/EBzVVjjKXhPsxcSnzn.json) | Karol G - OKI DOKI (Preview)                                                  |
+| [diaVaMaNqVtKSZfxoy](blurls/diaVaMaNqVtKSZfxoy.json) | Karol G, Ovy On The Drums - CAIRO                                             |
+| [GVYARWGOqTipyfVTrI](blurls/GVYARWGOqTipyfVTrI.json) | Karol G, Ovy On The Drums - CAIRO (Preview)                                   |
+| [bpOGHQBVZrdYKagVId](blurls/bpOGHQBVZrdYKagVId.json) | Karol G ft. Peso Pluma - QLONA                                                |
+| [OoyBVBVHpxhSlDxmHm](blurls/OoyBVBVHpxhSlDxmHm.json) | Karol G ft. Peso Pluma - QLONA (Preview)                                      |
 | [YJuJITYtGSdfDcXGNp](blurls/YJuJITYtGSdfDcXGNp.json) | Katy Perry - Firework                                                         |
 | [EsavPhYoXQtFgqOHoe](blurls/EsavPhYoXQtFgqOHoe.json) | Katy Perry - Firework (Preview)                                               |
 | [TPApdjhCVZKhNzIyYX](blurls/TPApdjhCVZKhNzIyYX.json) | Kelly Clarkson - Stronger (What Doesn't Kill You)                             |

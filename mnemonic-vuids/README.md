@@ -34,6 +34,7 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [bxjliYBuPmtkOttZEu](blurls/bxjliYBuPmtkOttZEu.json) | playlist_juno : LEGO Fortnite (Mechanical Mayhem) |
 | [JwCGPTNphEQftuekrL](blurls/JwCGPTNphEQftuekrL.json) | playlist_juno : LEGO Fortnite (Star Wars Update) |
 | [TDdNPRsfUUaiKzTOMi](blurls/TDdNPRsfUUaiKzTOMi.json) | playlist_pilgrimbattlestage : Festival Battle Stage |
+| [jTkmULCqHEITYkbSPC](blurls/jTkmULCqHEITYkbSPC.json) | playlist_pilgrimbattlestage : Festival Battle Stage (Karol G Season) |
 | [HtLUWyhMKefRGsTxlE](blurls/HtLUWyhMKefRGsTxlE.json) | playlist_pilgrimquickplay : Festival Main Stage |
 | [phKkVMFeiaJhLHyGHa](blurls/phKkVMFeiaJhLHyGHa.json) | playlist_pilgrimquickplay : Festival Main Stage (Extra VUID) |
 | [ZCnFXMOqRWXfNuYTmr](blurls/ZCnFXMOqRWXfNuYTmr.json) | playlist_pilgrimquickplay : Festival Main Stage (Star Wars Update) |
@@ -47,6 +48,7 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [tMxxShcqdutMflWvpG](blurls/tMxxShcqdutMflWvpG.json) | set_br_playlists : Battle Royale (v2) |
 | [CWJQKLvQwXgtEHMOio](blurls/CWJQKLvQwXgtEHMOio.json) | set_br_playlists : Myths and Mortals |
 | [iYrWMWYEnnantjNdRv](blurls/iYrWMWYEnnantjNdRv.json) | set_br_playlists : Wrecked |
+| [dPKIUpCZmqpWiVlvsB](blurls/dPKIUpCZmqpWiVlvsB.json) | set_br_playlists : Absolute Doom |
 | [nBXWuBNMdScHeYtCnP](blurls/nBXWuBNMdScHeYtCnP.json) | set_delmar_mrs_ranked : Rocket Racing |
 | [qpdchKarjFnwpdEnYj](blurls/qpdchKarjFnwpdEnYj.json) | set_delmar_mrs_ranked : Rocket Racing (Extra VUID) |
 | [zmDptnMNGqUEdlBwTv](blurls/zmDptnMNGqUEdlBwTv.json) | set_delmar_mrs_ranked : Rocket Racing (Star Wars Update) |
@@ -54,5 +56,6 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [abxnGhUwXcjPrymobq](blurls/abxnGhUwXcjPrymobq.json) | set_nobuild_playlists : Myths and Mortals |
 | [gnEAizFWiuyqzUeEeL](blurls/gnEAizFWiuyqzUeEeL.json) | set_nobuild_playlists : Myths and Mortals (Star Wars Update) |
 | [NmHbNVlXvXnjavJGTV](blurls/NmHbNVlXvXnjavJGTV.json) | set_nobuild_playlists : Wrecked |
+| [JXjAOXDFfYTmPVpZVW](blurls/JXjAOXDFfYTmPVpZVW.json) | set_nobuild_playlists : Absolute Doom |
 | [KLHeAwpnfyWJzsHggq](blurls/KLHeAwpnfyWJzsHggq.json) | set_nobuild_playlists : Zero Build - Battle Royale |
 | [VTfsLUcDGhrnzHppNB](blurls/VTfsLUcDGhrnzHppNB.json) | set_nobuild_playlists : Zero Build - Battle Royale (v1) |
