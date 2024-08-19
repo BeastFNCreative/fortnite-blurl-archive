@@ -10,6 +10,8 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [aygtfiihWxOfAzkxms](blurls/aygtfiihWxOfAzkxms.json) | Independence Icon Series Emote (MOTD Background) |
+| [dJLTVguTxdMpVVIszY](blurls/dJLTVguTxdMpVVIszY.json) | Katalina LEGO Outfit Showcase (MOTD Background) |
 | [QPDqBQKjvnyoeNPTnF](blurls/QPDqBQKjvnyoeNPTnF.json) | Fortnite Mobile returns! |
 | [lEuEUUZXGebeNRqGGc](blurls/lEuEUUZXGebeNRqGGc.json) | Katalina Outfit Showcase (MOTD Background) |
 | [rMojZUzfphYUwZOhEu](blurls/rMojZUzfphYUwZOhEu.json) | OKI DOKI Icon Series Emote (MOTD Background) |
