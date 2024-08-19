@@ -15,6 +15,7 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [8WOS7JultH2n65OhZP](blurls/8WOS7JultH2n65OhZP.json) | Bouncing Llama Placeholder with Movie Qoute Subtitles                                                |
 | [TSrJAuydirPcYVVmcD](blurls/TSrJAuydirPcYVVmcD.json) | Chapter 3 Season 3 : Jungle Environment Music                                                        |
 | [uMgMeHviftMSnWav](blurls/uMgMeHviftMSnWav.json)     | Creative Video Player Base ID                                                                        |
+| [zAOXxUEBfGxQVdKNQF](blurls/zAOXxUEBfGxQVdKNQF.json) | Fortnite Shop Website Mock VUID                                                                      |
 | [FzbNYKBlDjrcLdkjFL](blurls/FzbNYKBlDjrcLdkjFL.json) | Fracture In-Game Event Video - Chapter 4 Season 1 Cinematic Trailer                                  |
 | [tMgCjTGIUkGbVNhROZ](blurls/tMgCjTGIUkGbVNhROZ.json) | Fracture In-Game Event Video - Flashback to Blastoff & The End In-Game Events                        |
 | [PvTNCWljMWcBUBlows](blurls/PvTNCWljMWcBUBlows.json) | Fracture In-Game Event Video - Flashback to Butterfly Event & Kevin's Birth In-Game Events           |
