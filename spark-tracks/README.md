@@ -262,13 +262,16 @@ Jam Track Audio Data from Fortnite Festival.
 | [rVojFSsmfeMlyxaqye](blurls/rVojFSsmfeMlyxaqye.json) | Haddaway - What Is Love                                                       |
 | [UZepUKAXBQJAEDSchu](blurls/UZepUKAXBQJAEDSchu.json) | Haddaway - What Is Love (Preview)                                             |
 | [ZYZjHisfyyGZcmaFTs](blurls/ZYZjHisfyyGZcmaFTs.json) | Hozier - Too Sweet                                                            |
-| [rZObpKxOjuQPIRoqWz](blurls/rZObpKxOjuQPIRoqWz.json) | Hozier - Too Sweet (Preview)                                                  | 
+| [rZObpKxOjuQPIRoqWz](blurls/rZObpKxOjuQPIRoqWz.json) | Hozier - Too Sweet (Preview)                                                  |
 | [QwcSJqzFBWJtZQLapy](blurls/QwcSJqzFBWJtZQLapy.json) | Imagine Dragons - Believer                                                    |
 | [oIuiDZqtIGZxyvUgAW](blurls/oIuiDZqtIGZxyvUgAW.json) | Imagine Dragons - Believer (Preview)                                          |
 | [mYaCNBepLpSevVisYP](blurls/mYaCNBepLpSevVisYP.json) | Imagine Dragons - Eyes Closed                                                 |
 | [riqhfgKUkPzkyWnVTo](blurls/riqhfgKUkPzkyWnVTo.json) | Imagine Dragons - Eyes Closed (Preview)                                       |
 | [XZUUuItQfREbtEpCTE](blurls/XZUUuItQfREbtEpCTE.json) | Imagine Dragons - Thunder                                                     |
 | [KTfnyyIvbxiWBFKKjM](blurls/KTfnyyIvbxiWBFKKjM.json) | Imagine Dragons - Thunder (Preview)                                           |
+| [ELWnwsucPRykeRZVJx](blurls/ELWnwsucPRykeRZVJx.json) | Iyaz - Replay                                                                 |
+| [ntKYzewoUuiuEchIsR](blurls/ntKYzewoUuiuEchIsR.json) | Iyaz - Replay (Preview)                                                       |
+| [hGXDTMrAWzpRHKkpeq](blurls/hGXDTMrAWzpRHKkpeq.json) | Iyaz - Replay (Stereo Track)                                                  |
 | [MxadvEnoHUMbnbbktP](blurls/MxadvEnoHUMbnbbktP.json) | J. Balvin & Willy William - Mi Gente                                          |
 | [NBYVvNMXujQZcEUELl](blurls/NBYVvNMXujQZcEUELl.json) | J. Balvin & Willy William - Mi Gente (Preview)                                |
 | [wCsAMcXJNzrqYncpai](blurls/wCsAMcXJNzrqYncpai.json) | Jack Harlow - Lovin On Me                                                     |
@@ -303,9 +306,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [diaVaMaNqVtKSZfxoy](blurls/diaVaMaNqVtKSZfxoy.json) | Karol G, Ovy On The Drums - CAIRO                                             |
 | [GVYARWGOqTipyfVTrI](blurls/GVYARWGOqTipyfVTrI.json) | Karol G, Ovy On The Drums - CAIRO (Preview)                                   |
 | [TsGNVfIrRngiFAtUvh](blurls/TsGNVfIrRngiFAtUvh.json) | Karol G, Ovy On The Drums - CAIRO (Stereo Track)                              |
+| [tRMmuofnXVhEXCyDDU](blurls/tRMmuofnXVhEXCyDDU.json) | Karol G ft. Nicki Minaj - Tusa                                                |
+| [wrwSupJbUthxQvcDZe](blurls/wrwSupJbUthxQvcDZe.json) | Karol G ft. Nicki Minaj - Tusa (Preview)                                      |
 | [bpOGHQBVZrdYKagVId](blurls/bpOGHQBVZrdYKagVId.json) | Karol G ft. Peso Pluma - QLONA                                                |
 | [OoyBVBVHpxhSlDxmHm](blurls/OoyBVBVHpxhSlDxmHm.json) | Karol G ft. Peso Pluma - QLONA (Preview)                                      |
 | [uByNPLOimvNUPypDpE](blurls/uByNPLOimvNUPypDpE.json) | Karol G ft. Peso Pluma - QLONA (Stereo Track)                                 |
+| [tLxWTaUoeeGfnJYGir](blurls/tLxWTaUoeeGfnJYGir.json) | Karol G ft. Tiësto - PROVENZA (REMIX)                                         |
+| [PNkpywffXbqRiJBHTc](blurls/PNkpywffXbqRiJBHTc.json) | Karol G ft. Tiësto - PROVENZA (REMIX) (Preview)                               |
+| [tvAaAVjbgHrTvustLC](blurls/tvAaAVjbgHrTvustLC.json) | Karol G ft. Tiësto - PROVENZA (REMIX) (Stereo Track)                          |
 | [YJuJITYtGSdfDcXGNp](blurls/YJuJITYtGSdfDcXGNp.json) | Katy Perry - Firework                                                         |
 | [EsavPhYoXQtFgqOHoe](blurls/EsavPhYoXQtFgqOHoe.json) | Katy Perry - Firework (Preview)                                               |
 | [TPApdjhCVZKhNzIyYX](blurls/TPApdjhCVZKhNzIyYX.json) | Kelly Clarkson - Stronger (What Doesn't Kill You)                             |
@@ -442,6 +450,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [SLRbNGUPyygZhQdnhS](blurls/SLRbNGUPyygZhQdnhS.json) | NLE Choppa ft. Roddy Ricch - Walk Em Down (Preview)                           |
 | [dorCiiRycRlvnwkZuZ](blurls/dorCiiRycRlvnwkZuZ.json) | No Doubt - Just A Girl                                                        |
 | [btZZlILuGsZcPEFzMM](blurls/btZZlILuGsZcPEFzMM.json) | No Doubt - Just A Girl (Preview)                                              |
+| [cwrGKAJqOfBBOmtHIL](blurls/cwrGKAJqOfBBOmtHIL.json) | Noah Kahan - Stick Season                                                     |
+| [XMDiPLrPyMZVSqmRLK](blurls/XMDiPLrPyMZVSqmRLK.json) | Noah Kahan - Stick Season (Preview)                                           |
+| [OoLooJsHVXeeUKQNVQ](blurls/OoLooJsHVXeeUKQNVQ.json) | Noah Kahan - Stick Season (Stereo Track)                                      |
 | [bptdzIoxcqLWGsIoJA](blurls/bptdzIoxcqLWGsIoJA.json) | Olivia Rodrigo - get him back!                                                |
 | [cPXAnKPSQXOZsDbmNC](blurls/cPXAnKPSQXOZsDbmNC.json) | Olivia Rodrigo - get him back! (Preview)                                      |
 | [iGDzixqlczsvBNJeee](blurls/iGDzixqlczsvBNJeee.json) | Olivia Rodrigo - good 4 u                                                     |
@@ -458,7 +469,7 @@ Jam Track Audio Data from Fortnite Festival.
 | [zUfWsNOdizEYECvaNv](blurls/zUfWsNOdizEYECvaNv.json) | Paramore - Misery Business (Preview)                                          |
 | [QeWVWyrbFhcQfaHYUq](blurls/QeWVWyrbFhcQfaHYUq.json) | Pat Benatar - Heartbreaker                                                    |
 | [YXdJwGrgvgTgntrdbA](blurls/YXdJwGrgvgTgntrdbA.json) | Pat Benatar - Heartbreaker (Preview)                                          |
-| [AcwNQMsKhZcKBFnLuz](blurls/AcwNQMsKhZcKBFnLuz.json) | PinkPantheress & Ice Spice - Boy's A Liar Pt. 2                               | 
+| [AcwNQMsKhZcKBFnLuz](blurls/AcwNQMsKhZcKBFnLuz.json) | PinkPantheress & Ice Spice - Boy's A Liar Pt. 2                               |
 | [YSGggxkkTahheWiDwQ](blurls/YSGggxkkTahheWiDwQ.json) | PinkPantheress & Ice Spice - Boy's A Liar Pt. 2 (Preview)                     |
 | [FrezyhXJavYKCskTpx](blurls/FrezyhXJavYKCskTpx.json) | Pitbull ft. Ne-Yo, Afrojack & Nayer - Give Me Everything                      |
 | [lMLklRtOTdtsVKcFNA](blurls/lMLklRtOTdtsVKcFNA.json) | Pitbull ft. Ne-Yo, Afrojack & Nayer - Give Me Everything (Preview)            |
@@ -491,6 +502,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [VKMEWQtHvGGdgqfMzN](blurls/VKMEWQtHvGGdgqfMzN.json) | Rob Base & DJ EZ Rock - It Takes Two (Preview)                                |
 | [cJVRTkYtthHQfCYUCy](blurls/cJVRTkYtthHQfCYUCy.json) | Rob Zombie - Dragula                                                          |
 | [RjYNsdjgoDFYxNDoup](blurls/RjYNsdjgoDFYxNDoup.json) | Rob Zombie - Dragula (Preview)                                                |
+| [ntiRhUcHsIVgnZTyac](blurls/ntiRhUcHsIVgnZTyac.json) | Sabrina Carpenter - Espresso                                                  |
+| [YyBQAtskBwiGDDKUar](blurls/YyBQAtskBwiGDDKUar.json) | Sabrina Carpenter - Espresso (Preview)                                        |
+| [OaEhBqnHwYumLdnLpL](blurls/OaEhBqnHwYumLdnLpL.json) | Sabrina Carpenter - Espresso (Stereo Track)                                   |
 | [JuhxsaNyDRNqHoQulM](blurls/JuhxsaNyDRNqHoQulM.json) | SAINt JHN - Roses (Imanbek Remix)                                             |
 | [VJbKowiQsUTRfybpUD](blurls/VJbKowiQsUTRfybpUD.json) | SAINt JHN - Roses (Imanbek Remix) (Preview)                                   |
 | [mNqpqBDFUEflqmkNcH](blurls/mNqpqBDFUEflqmkNcH.json) | Sean Paul - Gimme The Light                                                   |
