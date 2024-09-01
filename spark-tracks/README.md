@@ -119,6 +119,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [aFsJFbGuxihIUHcETd](blurls/aFsJFbGuxihIUHcETd.json) | Doja Cat ft. SZA - Kiss Me More (Preview)                                     |
 | [bvOFCPuFQkBFCrTTMD](blurls/bvOFCPuFQkBFCrTTMD.json) | Don Toliver - Bandit                                                          |
 | [NPFfzRorFmayRVbTwL](blurls/NPFfzRorFmayRVbTwL.json) | Don Toliver - Bandit (Preview)                                                |
+| [oliHUgEIZCaumIBUDr](blurls/oliHUgEIZCaumIBUDr.json) | DRAM ft. Lil Yachty - Broccoli                                                |
+| [EwShCuWGHHGqjphHKK](blurls/EwShCuWGHHGqjphHKK.json) | DRAM ft. Lil Yachty - Broccoli (Preview)                                      |
+| [YKOUBEMDVIFYEYCNzQ](blurls/YKOUBEMDVIFYEYCNzQ.json) | DRAM ft. Lil Yachty - Broccoli (Stereo Track)                                 |
 | [WRKyljCDBpRoyYtjWe](blurls/WRKyljCDBpRoyYtjWe.json) | Ed Sheeran - Shivers                                                          |
 | [DPArzxivXSQMGpUAKl](blurls/DPArzxivXSQMGpUAKl.json) | Ed Sheeran - Shivers (Preview)                                                |
 | [rFVnhHkGeIWkYTeMef](blurls/rFVnhHkGeIWkYTeMef.json) | Elton John & Britney Spears - Hold Me Closer                                  |
@@ -365,6 +368,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [SNVLBWTIHwFiCeRnUF](blurls/SNVLBWTIHwFiCeRnUF.json) | Lil Uzi Vert - XO Tour Llif3  (Preview)                                       |
 | [bMjVhlNERaRzxPzoHv](blurls/bMjVhlNERaRzxPzoHv.json) | Lil Uzi Vert ft. Oh Wonder - The Way Life Goes                                |
 | [nZNkFqssQWYuhyaYhY](blurls/nZNkFqssQWYuhyaYhY.json) | Lil Uzi Vert ft. Oh Wonder - The Way Life Goes (Preview)                      |
+| [fRJmuBxHXeTWKSNSry](blurls/fRJmuBxHXeTWKSNSry.json) | Linkin Park - In The End                                                      |
+| [kFWzUEWHrXPTkXkbRA](blurls/kFWzUEWHrXPTkXkbRA.json) | Linkin Park - In The End (Preview)                                            |
+| [elEypabQeoaPfIZbCK](blurls/elEypabQeoaPfIZbCK.json) | Linkin Park - In The End (Stereo Track)                                       |
 | [ovoFZlSqdtoBtXBxdW](blurls/ovoFZlSqdtoBtXBxdW.json) | Linkin Park - Numb                                                            |
 | [cGiGEljlaNGZADvZEO](blurls/cGiGEljlaNGZADvZEO.json) | Linkin Park - Numb (Preview)                                                  |
 | [qMIdhudepxvLGaNwfP](blurls/qMIdhudepxvLGaNwfP.json) | LMFAO - Sexy And I Know It                                                    |
@@ -484,6 +490,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [uwOZpwtBVMwqQzfvNf](blurls/uwOZpwtBVMwqQzfvNf.json) | Post Malone ft. Morgan Wallen - I Had Some Help (Preview)                     |
 | [FNXNEPYqgZJwUeZWCs](blurls/FNXNEPYqgZJwUeZWCs.json) | PSY - Gangnam Style                                                           |
 | [YFbENNUpVeqiyyGEbm](blurls/YFbENNUpVeqiyyGEbm.json) | PSY - Gangnam Style (Preview)                                                 |
+| [FgGxNsqdbSqPYlxHHi](blurls/FgGxNsqdbSqPYlxHHi.json) | Quavo and Lenny Kravitz - Fly                                                 |
+| [LjtRTvJnIcSNwSofhA](blurls/LjtRTvJnIcSNwSofhA.json) | Quavo and Lenny Kravitz - Fly (Preview)                                       |
 | [vBlsDPnZYHiPYzAbID](blurls/vBlsDPnZYHiPYzAbID.json) | Queens of the Stone Age - Go With The Flow                                    |
 | [vfjKbIGlrZKEtKdwUH](blurls/vfjKbIGlrZKEtKdwUH.json) | Queens of the Stone Age - Go With The Flow (Preview)                          |
 | [oCsruCvQobDHwSCPpp](blurls/oCsruCvQobDHwSCPpp.json) | Rae Sremmurd ft. Gucci Mane - Black Beatles                                   |
@@ -514,6 +522,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [FxvqxjnvmZFyOVanYZ](blurls/FxvqxjnvmZFyOVanYZ.json) | Selena Gomez - Single Soon (Preview)                                          |
 | [HgzUnQokynDsohQDiJ](blurls/HgzUnQokynDsohQDiJ.json) | Selena Gomez w/Marshmello - Wolves                                            |
 | [FHGXRAqAHhGGHteYZE](blurls/FHGXRAqAHhGGHteYZE.json) | Selena Gomez w/Marshmello - Wolves (Preview)                                  |
+| [DQXpeSWzGMaeakTiOK](blurls/DQXpeSWzGMaeakTiOK.json) | Shakira - Whenever, Wherever                                                  |
+| [SDpqHzqpaIOKsXJUGa](blurls/SDpqHzqpaIOKsXJUGa.json) | Shakira - Whenever, Wherever (Preview)                                        |
+| [qmfTSftDXdUvScolio](blurls/qmfTSftDXdUvScolio.json) | Shakira - Whenever, Wherever (Stereo Track)                                   |
 | [ytgNlkXOBSYxNWCaeR](blurls/ytgNlkXOBSYxNWCaeR.json) | Shawn Mendes - Stitches                                                       |
 | [dSfUlfmAsRSlcVhKZR](blurls/dSfUlfmAsRSlcVhKZR.json) | Shawn Mendes - Stitches (Preview)                                             |
 | [EzgqlCwNWAwANRDMaa](blurls/EzgqlCwNWAwANRDMaa.json) | Sia ft. Sean Paul - Cheap Thrills                                             |
