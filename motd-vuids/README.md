@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [AJrjTxUJfGIrHqfKjZ](blurls/AJrjTxUJfGIrHqfKjZ.json) | Line Dancin' Icon Series Emote |
 | [RhdXIWjblsNSbPqIEt](blurls/RhdXIWjblsNSbPqIEt.json) | VicBlends Icon Series Emote (MOTD Background) |
 | [aygtfiihWxOfAzkxms](blurls/aygtfiihWxOfAzkxms.json) | Independence Icon Series Emote (MOTD Background) |
 | [dJLTVguTxdMpVVIszY](blurls/dJLTVguTxdMpVVIszY.json) | Katalina LEGO Outfit Showcase (MOTD Background) |

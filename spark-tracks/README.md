@@ -21,6 +21,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [yBtxVzCbsFuxPIlAYw](blurls/yBtxVzCbsFuxPIlAYw.json) | Afrojack ft. Eva Simmons - Take Over Control (Stereo Track)                   |
 | [LOAsiQdsDkBSGbDbTt](blurls/LOAsiQdsDkBSGbDbTt.json) | Alice In Chains - Would?                                                      |
 | [qKfGoYaOyJLoHomeiX](blurls/qKfGoYaOyJLoHomeiX.json) | Alice In Chains - Would? (Preview)                                            |
+| [sTisfaRshGmTTHlvPD](blurls/sTisfaRshGmTTHlvPD.json) | Alice Deejay - Better Off Alone                                               |
+| [GyagcMfbomWJwpdQcL](blurls/GyagcMfbomWJwpdQcL.json) | Alice Deejay - Better Off Alone (Preview)                                     |
+| [VmiSSfLyByYaFlqdDl](blurls/VmiSSfLyByYaFlqdDl.json) | Alice Deejay - Better Off Alone (Stereo Track)                                |
 | [LINpKUDVhCDeNueSky](blurls/LINpKUDVhCDeNueSky.json) | ATB, Topic, A7S - Your Love (9pm)                                             |
 | [pWamLhSDzUNwWzYLtd](blurls/pWamLhSDzUNwWzYLtd.json) | ATB, Topic, A7S - Your Love (9pm) (Preview)                                   |
 | [qwJYDgZuhwIMaGZhUz](blurls/qwJYDgZuhwIMaGZhUz.json) | Aqua - Barbie Girl                                                            |
@@ -98,6 +101,12 @@ Jam Track Audio Data from Fortnite Festival.
 | [YaPIWAxyCzYGKUOgyg](blurls/YaPIWAxyCzYGKUOgyg.json) | Cage The Elephant - Ain't No Rest For The Wicked (Stereo Track)               |
 | [XGDjMunlsORZzUwgiz](blurls/XGDjMunlsORZzUwgiz.json) | Carly Rae Jepsen - Call Me Maybe                                              |
 | [oGHaoBdNdtrRIvgWwe](blurls/oGHaoBdNdtrRIvgWwe.json) | Carly Rae Jepsen - Call Me Maybe (Preview)                                    |
+| [xgbCMULeIZAiEbICRJ](blurls/xgbCMULeIZAiEbICRJ.json) | Chappell Roan - HOT TO GO!                                                    |
+| [WQrUTmkFMrudAkLBLr](blurls/WQrUTmkFMrudAkLBLr.json) | Chappell Roan - HOT TO GO! (Preview)                                          |
+| [CcFUmDbsjutAOImCEj](blurls/CcFUmDbsjutAOImCEj.json) | Chappell Roan - HOT TO GO! (Stereo Track)                                     |
+| [LXJxIlDvCtXtKKoFoa](blurls/LXJxIlDvCtXtKKoFoa.json) | Charli xcx - Apple                                                            |
+| [OpJdqLQwZAzDQBQduA](blurls/OpJdqLQwZAzDQBQduA.json) | Charli xcx - Apple (Preview)                                                  |
+| [zKoBJLNWXtvVZauKuh](blurls/zKoBJLNWXtvVZauKuh.json) | Charli xcx - Apple (Stereo Track)                                             |
 | [YWSZWKXdPcJdCgXheg](blurls/YWSZWKXdPcJdCgXheg.json) | Darude - Sandstorm                                                            |
 | [fFiWFfKnAjyjncUHLI](blurls/fFiWFfKnAjyjncUHLI.json) | Darude - Sandstorm (Preview)                                                  |
 | [OogMSBWhzMhQdtJole](blurls/OogMSBWhzMhQdtJole.json) | Desiigner - Panda                                                             |
@@ -130,6 +139,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [xzGWhFrUlsQXgZiPSz](blurls/xzGWhFrUlsQXgZiPSz.json) | Epic Games - 8-Bit Beat (Preview)                                             |
 | [wEQdWEUuAfOPOcOzvU](blurls/wEQdWEUuAfOPOcOzvU.json) | Epic Games - Best Buds                                                        |
 | [LnKXyVnlaYCChIxKKJ](blurls/LnKXyVnlaYCChIxKKJ.json) | Epic Games - Best Buds  (Preview)                                             |
+| [izLGhiBGUzActWpdvN](blurls/izLGhiBGUzActWpdvN.json) | Epic Games - Beyond the Flame                                                 |
+| [MmvxBMuTgdjhghLtQJ](blurls/MmvxBMuTgdjhghLtQJ.json) | Epic Games - Beyond the Flame (Preview)                                       |
+| [raMoGyWqcVLxzUiXdd](blurls/raMoGyWqcVLxzUiXdd.json) | Epic Games - Beyond the Flame (Stereo Track)                                  |
 | [ZCKNHQfzFDwxhuoQcX](blurls/ZCKNHQfzFDwxhuoQcX.json) | Epic Games - Bloom                                                            |
 | [BzJXrdsEXRrfAzEnjv](blurls/BzJXrdsEXRrfAzEnjv.json) | Epic Games - Bloom  (Preview)                                                 |
 | [gKwdiNZThCnzqhIxjy](blurls/gKwdiNZThCnzqhIxjy.json) | Epic Games - Bouncin' Back                                                    |
@@ -158,6 +170,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [ZmPUbWZvvZIDHHYUVU](blurls/ZmPUbWZvvZIDHHYUVU.json) | Epic Games - Gwenpool's Multiverse (Stereo Track)                             |
 | [zIVFyCkOQcadroQWNg](blurls/zIVFyCkOQcadroQWNg.json) | Epic Games - I'm A Cat                                                        |
 | [HfXqZkMPfRZERxDZlB](blurls/HfXqZkMPfRZERxDZlB.json) | Epic Games - I'm A Cat (Preview)                                              |
+| [nKlhbVXjfPpIGtoeFd](blurls/nKlhbVXjfPpIGtoeFd.json) | Epic Games - I'm a Winner                                                     |
+| [CtZujYMJgpoTaeFuec](blurls/CtZujYMJgpoTaeFuec.json) | Epic Games - I'm a Winner (Preview)                                           |
+| [ZqfDKdkoNHmHgWJmCY](blurls/ZqfDKdkoNHmHgWJmCY.json) | Epic Games - I'm a Winner (Stereo Track)                                      |
 | [UkHTxLZRfIiyGoZjob](blurls/UkHTxLZRfIiyGoZjob.json) | Epic Games - Inferno Island (Molten Mix)                                      |
 | [SmoyMxQWvSaWABGqSs](blurls/SmoyMxQWvSaWABGqSs.json) | Epic Games - Inferno Island (Molten Mix) (Preview)                            |
 | [uHMGQtxiZxKwPlxgQK](blurls/uHMGQtxiZxKwPlxgQK.json) | Epic Games - Keep Poppin                                                      |
@@ -301,6 +316,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [JHnLuvgBDrmYQvTjUW](blurls/JHnLuvgBDrmYQvTjUW.json) | Juice WRLD w/ Marshmello - Come & Go (Stereo Track)                           |
 | [WVLkcCPXlFLRAgRzAU](blurls/WVLkcCPXlFLRAgRzAU.json) | Juice WRLD w/ Marshmello - Come & Go (v1)                                     |
 | [yXywvsouffAkaGwQLk](blurls/yXywvsouffAkaGwQLk.json) | Juice WRLD w/ Marshmello - Come & Go (v1) (Preview)                           |
+| [WQTOEbZqLgcUXjxSJe](blurls/WQTOEbZqLgcUXjxSJe.json) | Justin Bieber - What Do You Mean?                                             |
+| [yUGilBpuIHxmJOSZXn](blurls/yUGilBpuIHxmJOSZXn.json) | Justin Bieber - What Do You Mean? (Preview)                                   |
+| [mDVebarfEkqukmWWYL](blurls/mDVebarfEkqukmWWYL.json) | Justin Bieber - What Do You Mean? (Stereo Track)                              |
 | [JpzfgzGVPrXmERHAGn](blurls/JpzfgzGVPrXmERHAGn.json) | Justin Timberlake - Can't Stop The Feeling!                                   |
 | [rzYIOsqHGaPTmYiHfu](blurls/rzYIOsqHGaPTmYiHfu.json) | Justin Timberlake - Can't Stop The Feeling! (Preview)                         |
 | [DsbiBwgXxjDMzjNHLO](blurls/DsbiBwgXxjDMzjNHLO.json) | Kansas - Carry on Wayward Son                                                 |
@@ -551,6 +569,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [SNgkCjifyzSXREvCRA](blurls/SNgkCjifyzSXREvCRA.json) | Taking Back Sunday - MakeDamnSure (Preview)                                   |
 | [LzKrWMfTRNAdAQBhDL](blurls/LzKrWMfTRNAdAQBhDL.json) | The All-American Rejects - Dirty Little Secret                                |
 | [SYOAJSHtalCDBjDAzR](blurls/SYOAJSHtalCDBjDAzR.json) | The All-American Rejects - Dirty Little Secret (Preview)                      |
+| [cJVVNGxqYgmBRNQZRp](blurls/cJVVNGxqYgmBRNQZRp.json) | The Chainsmokers ft. Daya - Don't Let Me Down                                 |
+| [mmbEyoOqbVGQDdPERn](blurls/mmbEyoOqbVGQDdPERn.json) | The Chainsmokers ft. Daya - Don't Let Me Down (Preview)                       |
+| [XSKCfalZtrXtMDabMh](blurls/XSKCfalZtrXtMDabMh.json) | The Chainsmokers ft. Daya - Don't Let Me Down (Stereo Track)                  |
 | [dBsAKLACZwMImWXUem](blurls/dBsAKLACZwMImWXUem.json) | The Chainsmokers ft. Halsey - Closer                                          |
 | [oqNvlONiJOBXooDJFk](blurls/oqNvlONiJOBXooDJFk.json) | The Chainsmokers ft. Halsey - Closer (Preview)                                |
 | [mbeIGXNmiVskWcWFeT](blurls/mbeIGXNmiVskWcWFeT.json) | The Cranberries - Zombie                                                      |
