@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [UStREwsMbSKsbXeMcq](blurls/UStREwsMbSKsbXeMcq.json) | What You Want Icon Series Emote |
 | [AJrjTxUJfGIrHqfKjZ](blurls/AJrjTxUJfGIrHqfKjZ.json) | Line Dancin' Icon Series Emote |
 | [RhdXIWjblsNSbPqIEt](blurls/RhdXIWjblsNSbPqIEt.json) | VicBlends Icon Series Emote (MOTD Background) |
 | [aygtfiihWxOfAzkxms](blurls/aygtfiihWxOfAzkxms.json) | Independence Icon Series Emote (MOTD Background) |
