@@ -8,6 +8,7 @@ Live Stream Content found across Fortnite.
 
 | VUID                                                 | Description                                              |
 | :--------------------------------------------------- | :-------------------------                               |
+| [mkCsVJwBOunMrSDa](blurls/mkCsVJwBOunMrSDa.json)     | Rocket League World Championship                         |
 | [928c138e5653e46d](blurls/928c138e5653e46d.json)     | Disney D23 Stream                                        |
 | [3T588QAOZtVC1sTnsI](blurls/3T588QAOZtVC1sTnsI.json) | Party Royale Kaskade Concert (2nd Screen) (LIVE Version) |
 | [6P0z2s6KOtaOqoB0zz](blurls/6P0z2s6KOtaOqoB0zz.json) | Rocket League Live Tournament                            |

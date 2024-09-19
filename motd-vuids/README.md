@@ -10,6 +10,8 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [jOtaxikqpLgNRLfJpi](blurls/jOtaxikqpLgNRLfJpi.json) | Re:Imagine London UEFN Map Promo Trailer |
+| [hRdOYBgWRWPdbaYvDN](blurls/hRdOYBgWRWPdbaYvDN.json) | LEGO Fortnite Lost Isles Update Trailer |
 | [UStREwsMbSKsbXeMcq](blurls/UStREwsMbSKsbXeMcq.json) | What You Want Icon Series Emote |
 | [AJrjTxUJfGIrHqfKjZ](blurls/AJrjTxUJfGIrHqfKjZ.json) | Line Dancin' Icon Series Emote |
 | [RhdXIWjblsNSbPqIEt](blurls/RhdXIWjblsNSbPqIEt.json) | VicBlends Icon Series Emote (MOTD Background) |
