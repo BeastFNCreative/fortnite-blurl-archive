@@ -28,7 +28,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [idAGGdscssAxHNkJEU](blurls/idAGGdscssAxHNkJEU.json) | Afrojack ft. Eva Simmons - Take Over Control (Preview)                        |
 | [yBtxVzCbsFuxPIlAYw](blurls/yBtxVzCbsFuxPIlAYw.json) | Afrojack ft. Eva Simmons - Take Over Control (Stereo Track)                   |
 | [LOAsiQdsDkBSGbDbTt](blurls/LOAsiQdsDkBSGbDbTt.json) | Alice In Chains - Would?                                                      |
+| [zjIvnHqDazvcjwbaNv](blurls/zjIvnHqDazvcjwbaNv.json) | Alice In Chains - Would? (Instrumental)                                       |
 | [qKfGoYaOyJLoHomeiX](blurls/qKfGoYaOyJLoHomeiX.json) | Alice In Chains - Would? (Preview)                                            |
+| [GAQTaJZwkhexYZgNuo](blurls/GAQTaJZwkhexYZgNuo.json) | Alice In Chains - Would? (Stereo Track)                                       |
 | [sTisfaRshGmTTHlvPD](blurls/sTisfaRshGmTTHlvPD.json) | Alice Deejay - Better Off Alone                                               |
 | [GyagcMfbomWJwpdQcL](blurls/GyagcMfbomWJwpdQcL.json) | Alice Deejay - Better Off Alone (Preview)                                     |
 | [VmiSSfLyByYaFlqdDl](blurls/VmiSSfLyByYaFlqdDl.json) | Alice Deejay - Better Off Alone (Stereo Track)                                |
@@ -161,7 +163,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [lBkonWnHrAFuWPRpFk](blurls/lBkonWnHrAFuWPRpFk.json) | Bruno Mars - 24K Magic (Preview)                                              |
 | [LCSMDEvawNvfzLMTBO](blurls/LCSMDEvawNvfzLMTBO.json) | Bruno Mars - 24K Magic (Stereo Track)                                         |
 | [RORkOQigQzXzLZHrzd](blurls/RORkOQigQzXzLZHrzd.json) | BTS - Butter                                                                  |
+| [TmRJlWmalMFNYkfAhv](blurls/TmRJlWmalMFNYkfAhv.json) | BTS - Butter (Instrumental)                                                   |
 | [JaLLMqvYtmBSoIVowo](blurls/JaLLMqvYtmBSoIVowo.json) | BTS - Butter (Preview)                                                        |
+| [wVcTbbjAcZIWjkHVlA](blurls/wVcTbbjAcZIWjkHVlA.json) | BTS - Butter (Stereo Track)                                                   |
 | [fXdDtaCJWpitsNZMNR](blurls/fXdDtaCJWpitsNZMNR.json) | BTS  - Dynamite                                                               |
 | [SYabwuUrGfXiUsTsNi](blurls/SYabwuUrGfXiUsTsNi.json) | BTS  - Dynamite (Instrumental)                                                |
 | [hNyRLPYmWTQboMFGCn](blurls/hNyRLPYmWTQboMFGCn.json) | BTS  - Dynamite (Preview)                                                     |
@@ -376,7 +380,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [hwrgbMGArHSkLSwbDw](blurls/hwrgbMGArHSkLSwbDw.json) | Epic Games - Run It                                                           |
 | [vCsBrGbbqpbvGkiKjq](blurls/vCsBrGbbqpbvGkiKjq.json) | Epic Games - Run It (Preview)                                                 |
 | [vIEWDSEWwlAzjxLBOu](blurls/vIEWDSEWwlAzjxLBOu.json) | Epic Games - Way Too Fast                                                     |
+| [PancuuYbVjaBkxuxcc](blurls/PancuuYbVjaBkxuxcc.json) | Epic Games - Way Too Fast (Instrumental)                                      |
 | [HcMKiDFnjuZwANctFE](blurls/HcMKiDFnjuZwANctFE.json) | Epic Games - Way Too Fast (Preview)                                           |
+| [HyluaaNJyYhJnbLYsR](blurls/HyluaaNJyYhJnbLYsR.json) | Epic Games - Way Too Fast (Stereo Track)                                      |
 | [FysLFXQNAHkWedXMjG](blurls/FysLFXQNAHkWedXMjG.json) | Epic Games - Winterfest Wish                                                  |
 | [sHrmWcVDHgUvFuyJWx](blurls/sHrmWcVDHgUvFuyJWx.json) | Epic Games - Winterfest Wish (Instrumental)                                   |
 | [IVpxBpwjSCdfHrKCAH](blurls/IVpxBpwjSCdfHrKCAH.json) | Epic Games - Winterfest Wish (Preview)                                        |
@@ -394,7 +400,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [JlZgpuVyUmKvcJYCxD](blurls/JlZgpuVyUmKvcJYCxD.json) | Eslabon Armado, Peso Pluma  - Ella Baila Sola (Preview)                       |
 | [PuHjmeFSSyrdMtAYyo](blurls/PuHjmeFSSyrdMtAYyo.json) | Eslabon Armado, Peso Pluma  - Ella Baila Sola (Stereo Track)                  |
 | [IaPcrdhZXGIqQrdwWZ](blurls/IaPcrdhZXGIqQrdwWZ.json) | Europe - The Final Countdown                                                  |
+| [pubbSMQDsSlpifppyJ](blurls/pubbSMQDsSlpifppyJ.json) | Europe - The Final Countdown (Instrumental)                                   |
 | [wUtPKuydDDEmnbwzUn](blurls/wUtPKuydDDEmnbwzUn.json) | Europe - The Final Countdown (Preview)                                        |
+| [VcqITPyzqSgfJEGVbX](blurls/VcqITPyzqSgfJEGVbX.json) | Europe - The Final Countdown (Stereo Track)                                   |
 | [cvVkdoJeFeXXCUhVfn](blurls/cvVkdoJeFeXXCUhVfn.json) | Evanescence - Bring Me To Life                                                |
 | [dJLSBVGsdCvEZRwUaq](blurls/dJLSBVGsdCvEZRwUaq.json) | Evanescence - Bring Me To Life (Instrumental)                                 |
 | [owXQzomvTwwigludHw](blurls/owXQzomvTwwigludHw.json) | Evanescence - Bring Me To Life (Preview)                                      |
@@ -444,7 +452,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [UBBcpvZjeQNAnePULY](blurls/UBBcpvZjeQNAnePULY.json) | Green Day - Boulevard of Broken Dreams (Preview)                              |
 | [qEvhzFQdNXIczTQVee](blurls/qEvhzFQdNXIczTQVee.json) | Green Day - Boulevard of Broken Dreams (Stereo Track)                         |
 | [qfZRWifLuRrtpivRWl](blurls/qfZRWifLuRrtpivRWl.json) | Green Day - Holiday                                                           |
+| [hdCfDoaIwGdGvbgwdS](blurls/hdCfDoaIwGdGvbgwdS.json) | Green Day - Holiday (Instrumental)                                            |
 | [EveKFDtgkbOUwIhzmA](blurls/EveKFDtgkbOUwIhzmA.json) | Green Day - Holiday (Preview)                                                 |
+| [cPwFxsYXSkdDzZqmbL](blurls/cPwFxsYXSkdDzZqmbL.json) | Green Day - Holiday (Stereo Track)                                            |
 | [gQDsXwYMBaPypmQITA](blurls/gQDsXwYMBaPypmQITA.json) | Green Day - Welcome to Paradise                                               |
 | [mRLgIVvCsqQcvTCaQE](blurls/mRLgIVvCsqQcvTCaQE.json) | Green Day - Welcome to Paradise (Instrumental)                                |
 | [XVbsYEVxUnnmZjoaam](blurls/XVbsYEVxUnnmZjoaam.json) | Green Day - Welcome to Paradise (Preview)                                     |
@@ -461,9 +471,13 @@ Jam Track Audio Data from Fortnite Festival.
 | [mpZwoZDhSGTUubzQRf](blurls/mpZwoZDhSGTUubzQRf.json) | Guns N' Roses - Paradise City (Preview)                                       |
 | [FSsYwvfWFUtmRFiABK](blurls/FSsYwvfWFUtmRFiABK.json) | Guns N' Roses - Paradise City (Stereo Track)                                  |
 | [byQKfwmOljgQJTPdab](blurls/byQKfwmOljgQJTPdab.json) | Guns N' Roses  - Sweet Child O' Mine                                          |
+| [PzuVWyrvHFrTFCIBQk](blurls/PzuVWyrvHFrTFCIBQk.json) | Guns N' Roses  - Sweet Child O' Mine (Instrumental)                           |
 | [kLDJvvjYKffGSZVaiU](blurls/kLDJvvjYKffGSZVaiU.json) | Guns N' Roses  - Sweet Child O' Mine (Preview)                                |
+| [LDOvayymMQTYnJXzJw](blurls/LDOvayymMQTYnJXzJw.json) | Guns N' Roses  - Sweet Child O' Mine (Stereo Track)                           |
 | [lxTjdDTrjIcdtsqzpS](blurls/lxTjdDTrjIcdtsqzpS.json) | Guns N' Roses - Welcome To The Jungle                                         |
+| [eVwMzNjwLgvXMEHSiA](blurls/eVwMzNjwLgvXMEHSiA.json) | Guns N' Roses - Welcome To The Jungle (Instrumental)                          |
 | [WrpimpYEDLJJAHJjnA](blurls/WrpimpYEDLJJAHJjnA.json) | Guns N' Roses - Welcome To The Jungle (Preview)                               |
+| [hQqVFeLhCxYFTrtOpK](blurls/hQqVFeLhCxYFTrtOpK.json) | Guns N' Roses - Welcome To The Jungle (Stereo Track)                          |
 | [KbhlfnGyOcbjiFwaIt](blurls/KbhlfnGyOcbjiFwaIt.json) | Gwen Stefani - Hollaback Girl                                                 |
 | [xlSczTCQArEyOQLfDU](blurls/xlSczTCQArEyOQLfDU.json) | Gwen Stefani - Hollaback Girl (Instrumental)                                  |
 | [kXZEBfgAcSWxYXEYPv](blurls/kXZEBfgAcSWxYXEYPv.json) | Gwen Stefani - Hollaback Girl (Preview)                                       |
@@ -546,12 +560,16 @@ Jam Track Audio Data from Fortnite Festival.
 | [EhQGiOYdhbkADxIaNY](blurls/EhQGiOYdhbkADxIaNY.json) | Kansas - Carry on Wayward Son (Preview)                                       |
 | [XAbaqkzbArXcDTnvLR](blurls/XAbaqkzbArXcDTnvLR.json) | Kansas - Carry on Wayward Son (Stereo Track)                                  |
 | [YQgLzPmiCgAqgpUGKU](blurls/YQgLzPmiCgAqgpUGKU.json) | Karol G - OKI DOKI                                                            |
+| [kpjVfaAYajSWscOtpw](blurls/kpjVfaAYajSWscOtpw.json) | Karol G - OKI DOKI (Instrumental)                                             |
 | [EBzVVjjKXhPsxcSnzn](blurls/EBzVVjjKXhPsxcSnzn.json) | Karol G - OKI DOKI (Preview)                                                  |
+| [quFvanClEkhGtykbeF](blurls/quFvanClEkhGtykbeF.json) | Karol G - OKI DOKI (Stereo Track)                                             |
 | [diaVaMaNqVtKSZfxoy](blurls/diaVaMaNqVtKSZfxoy.json) | Karol G, Ovy On The Drums - CAIRO                                             |
 | [GVYARWGOqTipyfVTrI](blurls/GVYARWGOqTipyfVTrI.json) | Karol G, Ovy On The Drums - CAIRO (Preview)                                   |
 | [TsGNVfIrRngiFAtUvh](blurls/TsGNVfIrRngiFAtUvh.json) | Karol G, Ovy On The Drums - CAIRO (Stereo Track)                              |
 | [tRMmuofnXVhEXCyDDU](blurls/tRMmuofnXVhEXCyDDU.json) | Karol G ft. Nicki Minaj - Tusa                                                |
+| [tHewXCYUBJHpNukzro](blurls/tHewXCYUBJHpNukzro.json) | Karol G ft. Nicki Minaj - Tusa (Instrumental)                                 |
 | [wrwSupJbUthxQvcDZe](blurls/wrwSupJbUthxQvcDZe.json) | Karol G ft. Nicki Minaj - Tusa (Preview)                                      |
+| [POsSUlSStkjCIPCFMs](blurls/POsSUlSStkjCIPCFMs.json) | Karol G ft. Nicki Minaj - Tusa (Stereo Track)                                 |
 | [bpOGHQBVZrdYKagVId](blurls/bpOGHQBVZrdYKagVId.json) | Karol G ft. Peso Pluma - QLONA                                                |
 | [OoyBVBVHpxhSlDxmHm](blurls/OoyBVBVHpxhSlDxmHm.json) | Karol G ft. Peso Pluma - QLONA (Preview)                                      |
 | [uByNPLOimvNUPypDpE](blurls/uByNPLOimvNUPypDpE.json) | Karol G ft. Peso Pluma - QLONA (Stereo Track)                                 |
@@ -672,7 +690,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [hHivsrkRnmicZXtbEU](blurls/hHivsrkRnmicZXtbEU.json) | Mark Ronson ft. Bruno Mars - Uptown Funk (Preview)                            |
 | [ItXIuliyBNdBicHLbZ](blurls/ItXIuliyBNdBicHLbZ.json) | Mark Ronson ft. Bruno Mars - Uptown Funk (Stereo Track)                       |
 | [UOUmIjfRcZZIDERmwM](blurls/UOUmIjfRcZZIDERmwM.json) | Maroon 5 - Maps                                                               |
+| [wwHhnTdmwtlbnfsrzJ](blurls/wwHhnTdmwtlbnfsrzJ.json) | Maroon 5 - Maps (Instrumental)                                                |
 | [cuAreqkhIjmfycXzhA](blurls/cuAreqkhIjmfycXzhA.json) | Maroon 5 - Maps (Preview)                                                     |
+| [lzXQwfWlnqjcyzlfHv](blurls/lzXQwfWlnqjcyzlfHv.json) | Maroon 5 - Maps (Stereo Track)                                                |
 | [jcBequaEgqHcYiSHSd](blurls/jcBequaEgqHcYiSHSd.json) | Maroon 5 ft. Christina Aguilera - Moves Like Jagger                           |
 | [HTVMqyiOVycZnXGBeq](blurls/HTVMqyiOVycZnXGBeq.json) | Maroon 5 ft. Christina Aguilera - Moves Like Jagger (Instrumental)            |
 | [RCdQrLVlrsqCHIUURx](blurls/RCdQrLVlrsqCHIUURx.json) | Maroon 5 ft. Christina Aguilera - Moves Like Jagger (Preview)                 |
@@ -690,13 +710,17 @@ Jam Track Audio Data from Fortnite Festival.
 | [pYJCnjqDOqmMOeIPFq](blurls/pYJCnjqDOqmMOeIPFq.json) | Meghan Trainor - Me Too (Preview)                                             |
 | [vuFNzRcexgZGyJzZmU](blurls/vuFNzRcexgZGyJzZmU.json) | Meghan Trainor - Me Too (Stereo Track)                                        |
 | [NelnICKyBKmgiTHCwp](blurls/NelnICKyBKmgiTHCwp.json) | Metallica - Battery                                                           |
+| [YhElYdfWEWAfvvhNWE](blurls/YhElYdfWEWAfvvhNWE.json) | Metallica - Battery (Instrumental)                                            |
 | [BmXsiufJgbMTCuIThh](blurls/BmXsiufJgbMTCuIThh.json) | Metallica - Battery (Preview)                                                 |
+| [AGcpUzdntDvccRgqOk](blurls/AGcpUzdntDvccRgqOk.json) | Metallica - Battery (Stereo Track)                                            |
 | [BWeqxqIAWCHdsiImhb](blurls/BWeqxqIAWCHdsiImhb.json) | Metallica - Enter Sandman                                                     |
 | [KUTqmpjDLrJnewkCQo](blurls/KUTqmpjDLrJnewkCQo.json) | Metallica - Enter Sandman (Instrumental)                                      |
 | [TfCkUHwHjGwpIgefDC](blurls/TfCkUHwHjGwpIgefDC.json) | Metallica - Enter Sandman (Preview)                                           |
 | [DjcmSRDmnlMzpXlcar](blurls/DjcmSRDmnlMzpXlcar.json) | Metallica - Enter Sandman (Stereo Track)                                      |
 | [zprIUWluSSmlQehIaP](blurls/zprIUWluSSmlQehIaP.json) | Metallica - Fade to Black                                                     |
+| [PVIqqLyYYdtQFcUzAS](blurls/PVIqqLyYYdtQFcUzAS.json) | Metallica - Fade to Black (Instrumental)                                      |
 | [ORTHSfEJUxcVkTrWrA](blurls/ORTHSfEJUxcVkTrWrA.json) | Metallica - Fade to Black (Preview)                                           |
+| [yDOQvBBArkUaiGIpwA](blurls/yDOQvBBArkUaiGIpwA.json) | Metallica - Fade to Black (Stereo Track)                                      |
 | [fsyYeUEekJdeWTHHGv](blurls/fsyYeUEekJdeWTHHGv.json) | Metallica - For Whom The Bell Tolls                                           |
 | [iSQhOJvWkXCxKgkrGx](blurls/iSQhOJvWkXCxKgkrGx.json) | Metallica - For Whom The Bell Tolls (Preview)                                 |
 | [ZYdDAVZKqgujbvYrVV](blurls/ZYdDAVZKqgujbvYrVV.json) | Metallica - Fuel                                                              |
@@ -724,7 +748,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [aONGNeWsjTLUWPVULO](blurls/aONGNeWsjTLUWPVULO.json) | Metallica - Ride the Lightning (Preview)                                      |
 | [ENirFZzfceFmHkSBkp](blurls/ENirFZzfceFmHkSBkp.json) | Metallica - Ride the Lightning (Stereo Track)                                 |
 | [JcnlDNfcqaWUcdiqNj](blurls/JcnlDNfcqaWUcdiqNj.json) | Metallica - Sad But True                                                      |
+| [NrVodxgvorkcNiSYUD](blurls/NrVodxgvorkcNiSYUD.json) | Metallica - Sad But True (Instrumental)                                       |
 | [UGpUkmLKQSbOwXMzPr](blurls/UGpUkmLKQSbOwXMzPr.json) | Metallica - Sad But True (Preview)                                            |
+| [PFEmFHWwAJyTVXhEre](blurls/PFEmFHWwAJyTVXhEre.json) | Metallica - Sad But True (Stereo Track)                                       |
 | [uUvPLHKvpsEupIaopO](blurls/uUvPLHKvpsEupIaopO.json) | Metallica - Seek & Destroy                                                    |
 | [LBhuxkZYaEYKVhZLRb](blurls/LBhuxkZYaEYKVhZLRb.json) | Metallica - Seek & Destroy (Instrumental)                                     |
 | [QCaIZkXiwrnbgMCfqT](blurls/QCaIZkXiwrnbgMCfqT.json) | Metallica - Seek & Destroy (Preview)                                          |
@@ -774,7 +800,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [IWdHVthmtpcMZrYXfN](blurls/IWdHVthmtpcMZrYXfN.json) | Nelly ft. City Spud - Ride Wit Me (Preview)                                   |
 | [LiqryOXiSbZBZetMhj](blurls/LiqryOXiSbZBZetMhj.json) | Nelly ft. City Spud - Ride Wit Me (Stereo Track)                              |
 | [iDOKLTUTYDWoPDQkGr](blurls/iDOKLTUTYDWoPDQkGr.json) | NF - Let You Down                                                             |
+| [HliJGdkIbOwEoTQCJf](blurls/HliJGdkIbOwEoTQCJf.json) | NF - Let You Down (Instrumental)                                              |
 | [bclLEyvHzTlynEKzPb](blurls/bclLEyvHzTlynEKzPb.json) | NF - Let You Down (Preview)                                                   |
+| [XZzAHyXoSCTbfXHerF](blurls/XZzAHyXoSCTbfXHerF.json) | NF - Let You Down (Stereo Track)                                              |
 | [YolvkrBomHFUlpdGSz](blurls/YolvkrBomHFUlpdGSz.json) | NF - The Search                                                               |
 | [ckmLIpnenbdybYNhlq](blurls/ckmLIpnenbdybYNhlq.json) | NF - The Search (Preview)                                                     |
 | [gcJkTGABhxeREWakDS](blurls/gcJkTGABhxeREWakDS.json) | NickEh30 - Never Back Down                                                    |
@@ -802,7 +830,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [TXlZYRIdDRwxMsaVqp](blurls/TXlZYRIdDRwxMsaVqp.json) | Nirvana - Breed (Preview)                                                     |
 | [ZuQnAhVYcmnHvMbeaA](blurls/ZuQnAhVYcmnHvMbeaA.json) | Nirvana - Breed (Stereo Track)                                                |
 | [IBMKKZzxVhcQcvquJR](blurls/IBMKKZzxVhcQcvquJR.json) | NLE Choppa ft. Roddy Ricch - Walk Em Down                                     |
+| [XCDjmLYmDqACaTmpJF](blurls/XCDjmLYmDqACaTmpJF.json) | NLE Choppa ft. Roddy Ricch - Walk Em Down (Instrumental)                      |
 | [SLRbNGUPyygZhQdnhS](blurls/SLRbNGUPyygZhQdnhS.json) | NLE Choppa ft. Roddy Ricch - Walk Em Down (Preview)                           |
+| [NTgDwvgljJLGPertyn](blurls/NTgDwvgljJLGPertyn.json) | NLE Choppa ft. Roddy Ricch - Walk Em Down (Stereo Track)                      |
 | [dorCiiRycRlvnwkZuZ](blurls/dorCiiRycRlvnwkZuZ.json) | No Doubt - Just A Girl                                                        |
 | [zOrrKwurnoATVRuHkd](blurls/zOrrKwurnoATVRuHkd.json) | No Doubt - Just A Girl (Instrumental)                                         |
 | [btZZlILuGsZcPEFzMM](blurls/btZZlILuGsZcPEFzMM.json) | No Doubt - Just A Girl (Preview)                                              |
@@ -871,7 +901,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [YFbENNUpVeqiyyGEbm](blurls/YFbENNUpVeqiyyGEbm.json) | PSY - Gangnam Style (Preview)                                                 |
 | [JkZIlOnkkTqwomaVyI](blurls/JkZIlOnkkTqwomaVyI.json) | PSY - Gangnam Style (Stereo Track)                                            |
 | [FgGxNsqdbSqPYlxHHi](blurls/FgGxNsqdbSqPYlxHHi.json) | Quavo and Lenny Kravitz - Fly                                                 |
+| [EqqIjfWkMpQPmyQTwp](blurls/EqqIjfWkMpQPmyQTwp.json) | Quavo and Lenny Kravitz - Fly (Instrumental)                                  |
 | [LjtRTvJnIcSNwSofhA](blurls/LjtRTvJnIcSNwSofhA.json) | Quavo and Lenny Kravitz - Fly (Preview)                                       |
+| [ETkyvcYJCkDxGFPHlc](blurls/ETkyvcYJCkDxGFPHlc.json) | Quavo and Lenny Kravitz - Fly (Stereo Track)                                  |
 | [vBlsDPnZYHiPYzAbID](blurls/vBlsDPnZYHiPYzAbID.json) | Queens of the Stone Age - Go With The Flow                                    |
 | [vfjKbIGlrZKEtKdwUH](blurls/vfjKbIGlrZKEtKdwUH.json) | Queens of the Stone Age - Go With The Flow (Preview)                          |
 | [RXUJHPzfaWLHYWcRRA](blurls/RXUJHPzfaWLHYWcRRA.json) | Queens of the Stone Age - Go With The Flow (v2)                               |
@@ -950,7 +982,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [eWkigBnOQxgWuhbQQQ](blurls/eWkigBnOQxgWuhbQQQ.json) | Slipknot - Before I Forget (Preview)                                          |
 | [wTUROghyheQMUaVpSj](blurls/wTUROghyheQMUaVpSj.json) | Slipknot - Before I Forget (Stereo Track)                                     |
 | [DbJQEftuJdZClxxqOp](blurls/DbJQEftuJdZClxxqOp.json) | Slipknot - Unsainted                                                          |
+| [WgNdMucFPdWJvdwVPC](blurls/WgNdMucFPdWJvdwVPC.json) | Slipknot - Unsainted (Instrumental)                                           |
 | [aVlrOLiKBxgWYyWShs](blurls/aVlrOLiKBxgWYyWShs.json) | Slipknot - Unsainted (Preview)                                                |
+| [PbHCaXqkYmnlVcHmjr](blurls/PbHCaXqkYmnlVcHmjr.json) | Slipknot - Unsainted (Stereo Track)                                           |
 | [cCTLWzqDboIkMWyOTd](blurls/cCTLWzqDboIkMWyOTd.json) | Soundgarden - Black Hole Sun                                                  |
 | [uKknoqsuFPLESHJjUh](blurls/uKknoqsuFPLESHJjUh.json) | Soundgarden - Black Hole Sun (Instrumental)                                   |
 | [nExtkgFrPFhLiJOuuq](blurls/nExtkgFrPFhLiJOuuq.json) | Soundgarden - Black Hole Sun (Preview)                                        |
@@ -1040,7 +1074,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [yYYGxrAeIDehFIbYAa](blurls/yYYGxrAeIDehFIbYAa.json) | The White Stripes - Seven Nation Army (Preview)                               |
 | [OVrrcAAsJGAMEZIdFn](blurls/OVrrcAAsJGAMEZIdFn.json) | The White Stripes - Seven Nation Army (Stereo Track)                          |
 | [kpBIsfpIOSFfCoqjEf](blurls/kpBIsfpIOSFfCoqjEf.json) | Thin Lizzy - The Boys Are Back In Town                                        |
+| [fDkrLhAUpUqOBgflvb](blurls/fDkrLhAUpUqOBgflvb.json) | Thin Lizzy - The Boys Are Back In Town (Instrumental)                         |
 | [paLyNYAexJRirsLPZG](blurls/paLyNYAexJRirsLPZG.json) | Thin Lizzy - The Boys Are Back In Town (Preview)                              |
+| [HpmrsHrEoAjHgEXiPC](blurls/HpmrsHrEoAjHgEXiPC.json) | Thin Lizzy - The Boys Are Back In Town (Stereo Track)                         |
 | [GmNbxrUhiubcLZOMkS](blurls/GmNbxrUhiubcLZOMkS.json) | Twenty One Pilots - Heathens                                                  |
 | [QWMfdPAqZeIrrfmFUS](blurls/QWMfdPAqZeIrrfmFUS.json) | Twenty One Pilots - Heathens (Instrumental)                                   |
 | [dNxJTUbMqnkSMIcnai](blurls/dNxJTUbMqnkSMIcnai.json) | Twenty One Pilots - Heathens (Preview)                                        |
