@@ -162,6 +162,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [FxxrIepCSnbycVczsX](blurls/FxxrIepCSnbycVczsX.json) | Blur - Song 2 (Instrumental)                                                  |
 | [ADhPmaOkPTCpSrIcMG](blurls/ADhPmaOkPTCpSrIcMG.json) | Blur - Song 2 (Preview)                                                       |
 | [HrIHmXVhppHDRVxGyP](blurls/HrIHmXVhppHDRVxGyP.json) | Blur - Song 2 (Stereo Track)                                                  |
+| [raBJcKgoZgwOXyizTk](blurls/raBJcKgoZgwOXyizTk.json) | Britney Spears - Toxic                                                        |
+| [zoVvFhZEpEvtZcojVK](blurls/zoVvFhZEpEvtZcojVK.json) | Britney Spears - Toxic (Instrumental)                                         |
+| [LLgXLibszcpRhUEnag](blurls/LLgXLibszcpRhUEnag.json) | Britney Spears - Toxic (Preview)                                              |
+| [ZhSJwcRETJWKsBkveG](blurls/ZhSJwcRETJWKsBkveG.json) | Britney Spears - Toxic (Stereo Track)                                         |
 | [jThSsVpxhHxxfAJtMB](blurls/jThSsVpxhHxxfAJtMB.json) | Bruno Mars - 24K Magic                                                        |
 | [IfwGXXxCnYhmrFKJsL](blurls/IfwGXXxCnYhmrFKJsL.json) | Bruno Mars - 24K Magic (Instrumental)                                         |
 | [lBkonWnHrAFuWPRpFk](blurls/lBkonWnHrAFuWPRpFk.json) | Bruno Mars - 24K Magic (Preview)                                              |
@@ -190,6 +194,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [uWklWfGaXpKiQMYBBR](blurls/uWklWfGaXpKiQMYBBR.json) | Charli xcx - Apple (Instrumental)                                             |
 | [OpJdqLQwZAzDQBQduA](blurls/OpJdqLQwZAzDQBQduA.json) | Charli xcx - Apple (Preview)                                                  |
 | [zKoBJLNWXtvVZauKuh](blurls/zKoBJLNWXtvVZauKuh.json) | Charli xcx - Apple (Stereo Track)                                             |
+| [OEiTSmmKUgLMsNIUPe](blurls/OEiTSmmKUgLMsNIUPe.json) | Christina Aguilera - Fighter                                                  |
+| [EgVnhltaUcRebwaZnz](blurls/EgVnhltaUcRebwaZnz.json) | Christina Aguilera - Fighter (Instrumental)                                   |
+| [ryJcuKzZySzWvUqbPt](blurls/ryJcuKzZySzWvUqbPt.json) | Christina Aguilera - Fighter (Preview)                                        |
+| [MVyiqgRwOvzgwkxCGA](blurls/MVyiqgRwOvzgwkxCGA.json) | Christina Aguilera - Fighter (Stereo Track)                                   |
 | [YWSZWKXdPcJdCgXheg](blurls/YWSZWKXdPcJdCgXheg.json) | Darude - Sandstorm                                                            |
 | [WixdzaEYcZFljoeibH](blurls/WixdzaEYcZFljoeibH.json) | Darude - Sandstorm (Instrumental)                                             |
 | [fFiWFfKnAjyjncUHLI](blurls/fFiWFfKnAjyjncUHLI.json) | Darude - Sandstorm (Preview)                                                  |
@@ -280,7 +288,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [uXyzxlhWHahCpVhomG](blurls/uXyzxlhWHahCpVhomG.json) | Epic Games - Dreamer (Preview)                                                |
 | [rsmpJpmfitpXHTkOgM](blurls/rsmpJpmfitpXHTkOgM.json) | Epic Games - Dreamer (Stereo Track)                                           |
 | [reelRePfWVUMJpUNUr](blurls/reelRePfWVUMJpUNUr.json) | Epic Games - Everybody Falls (Chill Mix)                                      |
+| [rsXSSFxMXPLDVLmtQQ](blurls/rsXSSFxMXPLDVLmtQQ.json) | Epic Games - Everybody Falls (Chill Mix) (Instrumental)                       |
 | [hapqGYlqGsAIXLoAEe](blurls/hapqGYlqGsAIXLoAEe.json) | Epic Games - Everybody Falls (Chill Mix) (Preview)                            |
+| [CRYrFlfppDwcdBXzOp](blurls/CRYrFlfppDwcdBXzOp.json) | Epic Games - Everybody Falls (Chill Mix) (Stereo Track)                       |
 | [AGTCTgnGzQPlUyqVcT](blurls/AGTCTgnGzQPlUyqVcT.json) | Epic Games - Find the Fury                                                    |
 | [qGtXYzHiQqBZrUXTNs](blurls/qGtXYzHiQqBZrUXTNs.json) | Epic Games - Find the Fury (Instrumental)                                     |
 | [ZeimxqDjkNaKOetpDq](blurls/ZeimxqDjkNaKOetpDq.json) | Epic Games - Find the Fury (Preview)                                          |
@@ -308,7 +318,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [CtZujYMJgpoTaeFuec](blurls/CtZujYMJgpoTaeFuec.json) | Epic Games - I'm a Winner (Preview)                                           |
 | [ZqfDKdkoNHmHgWJmCY](blurls/ZqfDKdkoNHmHgWJmCY.json) | Epic Games - I'm a Winner (Stereo Track)                                      |
 | [UkHTxLZRfIiyGoZjob](blurls/UkHTxLZRfIiyGoZjob.json) | Epic Games - Inferno Island (Molten Mix)                                      |
+| [vHGURAbYAhjpEsfBTr](blurls/vHGURAbYAhjpEsfBTr.json) | Epic Games - Inferno Island (Molten Mix) (Instrumental)                       |
 | [SmoyMxQWvSaWABGqSs](blurls/SmoyMxQWvSaWABGqSs.json) | Epic Games - Inferno Island (Molten Mix) (Preview)                            |
+| [nMzKlFDALeWbNUubiI](blurls/nMzKlFDALeWbNUubiI.json) | Epic Games - Inferno Island (Molten Mix) (Stereo Track)                       |
 | [uHMGQtxiZxKwPlxgQK](blurls/uHMGQtxiZxKwPlxgQK.json) | Epic Games - Keep Poppin                                                      |
 | [ZCWzODsZEOfVYNxckY](blurls/ZCWzODsZEOfVYNxckY.json) | Epic Games - Keep Poppin (Instrumental)                                       |
 | [QlvbRUhBYaJGujAjjD](blurls/QlvbRUhBYaJGujAjjD.json) | Epic Games - Keep Poppin (Preview)                                            |
@@ -398,7 +410,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [BbuukWlBviFgHgjeXS](blurls/BbuukWlBviFgHgjeXS.json) | Epic Games - Return of the Tiger (Preview)                                    |
 | [UcDLoFnqSFcYNNxfXO](blurls/UcDLoFnqSFcYNNxfXO.json) | Epic Games - Return of the Tiger (Stereo Track)                               |
 | [hwrgbMGArHSkLSwbDw](blurls/hwrgbMGArHSkLSwbDw.json) | Epic Games - Run It                                                           |
+| [ZsKUhFRKmMBezZKMwJ](blurls/ZsKUhFRKmMBezZKMwJ.json) | Epic Games - Run It (Instrumental)                                            |
 | [vCsBrGbbqpbvGkiKjq](blurls/vCsBrGbbqpbvGkiKjq.json) | Epic Games - Run It (Preview)                                                 |
+| [JpAaOTOOnqmdnYeHty](blurls/JpAaOTOOnqmdnYeHty.json) | Epic Games - Run It (Stereo Track)                                            |
 | [vIEWDSEWwlAzjxLBOu](blurls/vIEWDSEWwlAzjxLBOu.json) | Epic Games - Way Too Fast                                                     |
 | [PancuuYbVjaBkxuxcc](blurls/PancuuYbVjaBkxuxcc.json) | Epic Games - Way Too Fast (Instrumental)                                      |
 | [HcMKiDFnjuZwANctFE](blurls/HcMKiDFnjuZwANctFE.json) | Epic Games - Way Too Fast (Preview)                                           |
@@ -580,6 +594,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [CqQpXjvZIeOMRqKNXI](blurls/CqQpXjvZIeOMRqKNXI.json) | Justin Timberlake - Can't Stop The Feeling! (Instrumental)                    |
 | [rzYIOsqHGaPTmYiHfu](blurls/rzYIOsqHGaPTmYiHfu.json) | Justin Timberlake - Can't Stop The Feeling! (Preview)                         |
 | [FDiazdSbJHHKRiqtWw](blurls/FDiazdSbJHHKRiqtWw.json) | Justin Timberlake - Can't Stop The Feeling! (Stereo Track)                    |
+| [AHDSCUIafESOpAIccg](blurls/AHDSCUIafESOpAIccg.json) | Justin Timberlake ft. Timbaland - SexyBack                                    |
+| [WEWYqUankvTApMQwTb](blurls/WEWYqUankvTApMQwTb.json) | Justin Timberlake ft. Timbaland - SexyBack (Instrumental)                     |
+| [ddYFxShesAwwChvwRB](blurls/ddYFxShesAwwChvwRB.json) | Justin Timberlake ft. Timbaland - SexyBack (Preview)                          |
+| [DKPLWzyhImXPCePMTs](blurls/DKPLWzyhImXPCePMTs.json) | Justin Timberlake ft. Timbaland - SexyBack (Stereo Track)                     |
 | [DsbiBwgXxjDMzjNHLO](blurls/DsbiBwgXxjDMzjNHLO.json) | Kansas - Carry on Wayward Son                                                 |
 | [GrMGfBYRfqVAeepXTo](blurls/GrMGfBYRfqVAeepXTo.json) | Kansas - Carry on Wayward Son (Instrumental)                                  |
 | [EhQGiOYdhbkADxIaNY](blurls/EhQGiOYdhbkADxIaNY.json) | Kansas - Carry on Wayward Son (Preview)                                       |
@@ -752,7 +770,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [ORTHSfEJUxcVkTrWrA](blurls/ORTHSfEJUxcVkTrWrA.json) | Metallica - Fade to Black (Preview)                                           |
 | [yDOQvBBArkUaiGIpwA](blurls/yDOQvBBArkUaiGIpwA.json) | Metallica - Fade to Black (Stereo Track)                                      |
 | [fsyYeUEekJdeWTHHGv](blurls/fsyYeUEekJdeWTHHGv.json) | Metallica - For Whom The Bell Tolls                                           |
+| [BdKZXtitfJxdVKxCQG](blurls/BdKZXtitfJxdVKxCQG.json) | Metallica - For Whom The Bell Tolls (Instrumental)                            |
 | [iSQhOJvWkXCxKgkrGx](blurls/iSQhOJvWkXCxKgkrGx.json) | Metallica - For Whom The Bell Tolls (Preview)                                 |
+| [CkzWWYksTHwNfwtMwZ](blurls/CkzWWYksTHwNfwtMwZ.json) | Metallica - For Whom The Bell Tolls (Stereo Track)                            |
 | [ZYdDAVZKqgujbvYrVV](blurls/ZYdDAVZKqgujbvYrVV.json) | Metallica - Fuel                                                              |
 | [PwipuyXGKbiWwJYILx](blurls/PwipuyXGKbiWwJYILx.json) | Metallica - Fuel (Instrumental)                                               |
 | [AZuMTfNywNhJuivsGZ](blurls/AZuMTfNywNhJuivsGZ.json) | Metallica - Fuel (Preview)                                                    |
@@ -834,7 +854,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [bclLEyvHzTlynEKzPb](blurls/bclLEyvHzTlynEKzPb.json) | NF - Let You Down (Preview)                                                   |
 | [XZzAHyXoSCTbfXHerF](blurls/XZzAHyXoSCTbfXHerF.json) | NF - Let You Down (Stereo Track)                                              |
 | [YolvkrBomHFUlpdGSz](blurls/YolvkrBomHFUlpdGSz.json) | NF - The Search                                                               |
+| [tcyhdEgUGkhqBSnPpP](blurls/tcyhdEgUGkhqBSnPpP.json) | NF - The Search (Instrumental)                                                |
 | [ckmLIpnenbdybYNhlq](blurls/ckmLIpnenbdybYNhlq.json) | NF - The Search (Preview)                                                     |
+| [kwQYtZwhYQSGpDyTbj](blurls/kwQYtZwhYQSGpDyTbj.json) | NF - The Search (Stereo Track)                                                |
 | [gcJkTGABhxeREWakDS](blurls/gcJkTGABhxeREWakDS.json) | NickEh30 - Never Back Down                                                    |
 | [JQpkFnFXKwwdzQSYNA](blurls/JQpkFnFXKwwdzQSYNA.json) | NickEh30 - Never Back Down (Instrumental)                                     |
 | [rAKHvrlursjMZvhBJh](blurls/rAKHvrlursjMZvhBJh.json) | NickEh30 - Never Back Down (Preview)                                          |

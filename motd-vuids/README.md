@@ -9,7 +9,9 @@ MOTD Video Content from PRM Service or FortniteContent.
 ## Content
 
 | VUID | Description                |
-| :-------- | :------------------------- |
+| :-------- | :------------------------- | 
+| [VpuPQANAYFHcGnEtBp](blurls/VpuPQANAYFHcGnEtBp.json) | Ranked Reload Felicia Skin Trailer |
+| [BFfhQLdZaftoQMFxRU](blurls/BFfhQLdZaftoQMFxRU.json) | Bye Bye Bye Icon Series Emote |
 | [jOtaxikqpLgNRLfJpi](blurls/jOtaxikqpLgNRLfJpi.json) | Re:Imagine London UEFN Map Promo Trailer |
 | [hRdOYBgWRWPdbaYvDN](blurls/hRdOYBgWRWPdbaYvDN.json) | LEGO Fortnite Lost Isles Update Trailer |
 | [UStREwsMbSKsbXeMcq](blurls/UStREwsMbSKsbXeMcq.json) | What You Want Icon Series Emote |
