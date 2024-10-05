@@ -1065,10 +1065,17 @@ Jam Track Audio Data from Fortnite Festival.
 | [XwyOuuKRncVqLSYpah](blurls/XwyOuuKRncVqLSYpah.json) | System Of A Down - Toxicity (Instrumental)                                    |
 | [ggVTPwPQKHiSkCTZWC](blurls/ggVTPwPQKHiSkCTZWC.json) | System Of A Down - Toxicity (Preview)                                         |
 | [wrRJfLfANpriCzeuJm](blurls/wrRJfLfANpriCzeuJm.json) | System Of A Down - Toxicity (Stereo Track)                                    |
+| [evmJVFprsyRHtqnjno](blurls/evmJVFprsyRHtqnjno.json) | Taio Cruz - Dynamite                                                          |
+| [aaZwqeRiPwacYorFpT](blurls/aaZwqeRiPwacYorFpT.json) | Taio Cruz - Dynamite (Instrumental)                                           |
+| [iRDnZzIJpFtvwNoGDc](blurls/iRDnZzIJpFtvwNoGDc.json) | Taio Cruz - Dynamite (Preview)                                                |
+| [SQwRBhxTaVVprXDcKC](blurls/SQwRBhxTaVVprXDcKC.json) | Taio Cruz - Dynamite (Stereo Track)                                           |
 | [JTUazgeAknaesOgxnb](blurls/JTUazgeAknaesOgxnb.json) | Taking Back Sunday - MakeDamnSure                                             |
 | [qzRBmXBufTHckAKlef](blurls/qzRBmXBufTHckAKlef.json) | Taking Back Sunday - MakeDamnSure (Instrumental)                              |
 | [SNgkCjifyzSXREvCRA](blurls/SNgkCjifyzSXREvCRA.json) | Taking Back Sunday - MakeDamnSure (Preview)                                   |
 | [qBGXgXnbnrOGVCjiPd](blurls/qBGXgXnbnrOGVCjiPd.json) | Taking Back Sunday - MakeDamnSure (Stereo Track)                              |
+| [YAphfeNssQhhKmjyxV](blurls/YAphfeNssQhhKmjyxV.json) | Technotronic - Pump Up The Jam                                                |
+| [jOQWnaeipxAOCrQghs](blurls/jOQWnaeipxAOCrQghs.json) | Technotronic - Pump Up The Jam (Preview)                                      |
+| [IulVuRgstnpuSwIelF](blurls/IulVuRgstnpuSwIelF.json) | Technotronic - Pump Up The Jam (Stereo Track)                                 |
 | [LzKrWMfTRNAdAQBhDL](blurls/LzKrWMfTRNAdAQBhDL.json) | The All-American Rejects - Dirty Little Secret                                |
 | [xseHHRBEPzgcKmOscY](blurls/xseHHRBEPzgcKmOscY.json) | The All-American Rejects - Dirty Little Secret (Instrumental)                 |
 | [SYOAJSHtalCDBjDAzR](blurls/SYOAJSHtalCDBjDAzR.json) | The All-American Rejects - Dirty Little Secret (Preview)                      |
@@ -1137,6 +1144,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [fDkrLhAUpUqOBgflvb](blurls/fDkrLhAUpUqOBgflvb.json) | Thin Lizzy - The Boys Are Back In Town (Instrumental)                         |
 | [paLyNYAexJRirsLPZG](blurls/paLyNYAexJRirsLPZG.json) | Thin Lizzy - The Boys Are Back In Town (Preview)                              |
 | [HpmrsHrEoAjHgEXiPC](blurls/HpmrsHrEoAjHgEXiPC.json) | Thin Lizzy - The Boys Are Back In Town (Stereo Track)                         |
+| [WIeRwnsJIlFqHlLWgO](blurls/WIeRwnsJIlFqHlLWgO.json) | Tiësto - The Business                                                         |
+| [tquFPvQqGivLpmHyun](blurls/tquFPvQqGivLpmHyun.json) | Tiësto - The Business (Preview)                                               |
+| [YbsvQfjGUQBQLinfVo](blurls/YbsvQfjGUQBQLinfVo.json) | Tiësto - The Business (Stereo Track)                                          |
 | [GmNbxrUhiubcLZOMkS](blurls/GmNbxrUhiubcLZOMkS.json) | Twenty One Pilots - Heathens                                                  |
 | [QWMfdPAqZeIrrfmFUS](blurls/QWMfdPAqZeIrrfmFUS.json) | Twenty One Pilots - Heathens (Instrumental)                                   |
 | [dNxJTUbMqnkSMIcnai](blurls/dNxJTUbMqnkSMIcnai.json) | Twenty One Pilots - Heathens (Preview)                                        |
