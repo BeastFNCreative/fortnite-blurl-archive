@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [iBWPeToxjiBOicSsMm](blurls/iBWPeToxjiBOicSsMm.json) | Fast & Furious : Nissan Skyline Car (MOTD Background) |
 | [kDWHJTqTVkWSquAZRY](blurls/kDWHJTqTVkWSquAZRY.json) | Shaq Shimmy Icon Series Emote (MOTD Background) |
 | [TaPtoiCnZVnxLCbnxT](blurls/TaPtoiCnZVnxLCbnxT.json) | Fight Doom Cinematic (MOTD Background) |
 | [VpuPQANAYFHcGnEtBp](blurls/VpuPQANAYFHcGnEtBp.json) | Ranked Reload Felicia Skin Trailer |
