@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [kDWHJTqTVkWSquAZRY](blurls/kDWHJTqTVkWSquAZRY.json) | Shaq Shimmy Icon Series Emote (MOTD Background) |
 | [TaPtoiCnZVnxLCbnxT](blurls/TaPtoiCnZVnxLCbnxT.json) | Fight Doom Cinematic (MOTD Background) |
 | [VpuPQANAYFHcGnEtBp](blurls/VpuPQANAYFHcGnEtBp.json) | Ranked Reload Felicia Skin Trailer |
 | [BFfhQLdZaftoQMFxRU](blurls/BFfhQLdZaftoQMFxRU.json) | Bye Bye Bye Icon Series Emote |
