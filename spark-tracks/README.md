@@ -333,6 +333,8 @@ Jam Track Audio Data from Fortnite Festival.
 | [FJpWWDtrSBClRpMCpa](blurls/FJpWWDtrSBClRpMCpa.json) | Epic Games - Make It Known (Instrumental)                                     |
 | [gStMBDmPZqdJwujxvT](blurls/gStMBDmPZqdJwujxvT.json) | Epic Games - Make It Known (Preview)                                          |
 | [MqfmlqPKxVaMdENkhR](blurls/MqfmlqPKxVaMdENkhR.json) | Epic Games - Make It Known (Stereo Track)                                     |
+| [HtwZTlsOspKIQPWAdL](blurls/HtwZTlsOspKIQPWAdL.json) | Epic Games - Ocean Breeze Beats                                               |
+| [YKLpazgeAxBCoKksNs](blurls/YKLpazgeAxBCoKksNs.json) | Epic Games - Ocean Breeze Beats (Preview)                                     |
 | [SvPTbHiaOIspktUaWF](blurls/SvPTbHiaOIspktUaWF.json) | Epic Games - OG (Future Remix)                                                |
 | [CxfTAkJDFDRENYtuqb](blurls/CxfTAkJDFDRENYtuqb.json) | Epic Games - OG (Future Remix) (Instrumental)                                 |
 | [ummqUqCSFUWeQfzTvs](blurls/ummqUqCSFUWeQfzTvs.json) | Epic Games - OG (Future Remix) (Preview)                                      |
