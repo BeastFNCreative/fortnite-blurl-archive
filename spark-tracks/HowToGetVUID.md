@@ -2,7 +2,7 @@
 
 1. GET Request to [CMS - spark-tracks](https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/spark-tracks)
 2. Go into any songs JSON Data and look for `qi` (Depending on if used in code, you might have to unpack the JSON Data)
-3. Inside the `qi` tag, you have to look for the sub tags: `sid` (songId), `pid` (previewId), `stereoId` (stereoSongId)
+3. Inside the `qi` tag, you have to look for the sub tags: `sid` (songId), `pid` (previewId), `stereoId` (stereoSongId), `instrumentalId` (instrumentalTrackId)
 4. You're gonna use the UUID there to GET Request to [cdn.qstv.on.epicgames.com/UUID](https://cdn.qstv.on.epicgames.com/817406b8-7dc6-4122-92e6-65bc307f78cb) (replace UUID with your UUID)
 5. Inside the response will be a `metadata` tag, go into that and then go into the `baseUrls` key
 6. You will be provided with links to the asset on the streaming service, if you just want the VUID, you have to isolate it
