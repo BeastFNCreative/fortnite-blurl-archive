@@ -424,3 +424,4 @@ MOTD Video Content from PRM Service or FortniteContent.
 | [VORSeYnVLDJNGFFlrh](blurls/VORSeYnVLDJNGFFlrh.json) | McLaren 765LT Showcase |
 | [sTukXSoQdCkImSKCnj](blurls/sTukXSoQdCkImSKCnj.json) | TMNT Collaboration Cinematic Trailer |
 | [yquiCqtpseIkIAuIGH](blurls/yquiCqtpseIkIAuIGH.json) | TMNT Collaboration Gameplay Trailer |
+| [jScODamrlNxhiyGFoA](blurls/jScODamrlNxhiyGFoA.json) | Fortnite Mares 2024 Gameplay Trailer (`Acorn_GameplayTrailer`) |
