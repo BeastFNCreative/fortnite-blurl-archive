@@ -329,6 +329,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [gRLKTnnyGUHjaWmEHv](blurls/gRLKTnnyGUHjaWmEHv.json) | Epic Games - Inferno Island (Instrumental)                                    |
 | [vjXQbNQQwlZNIWzaxz](blurls/vjXQbNQQwlZNIWzaxz.json) | Epic Games - Inferno Island (Preview)                                         |
 | [LdVSGiOuUaSEScVxdy](blurls/LdVSGiOuUaSEScVxdy.json) | Epic Games - Inferno Island (Stereo Track)                                    |
+| [HJmSKyiJjNwMcNeHKW](blurls/HJmSKyiJjNwMcNeHKW.json) | Epic Games - Inferno Island (v2)                                              |
+| [BpUpqIAUDcSWlHLdQy](blurls/BpUpqIAUDcSWlHLdQy.json) | Epic Games - Inferno Island (v2) (Instrumental)                               |
+| [vtIJeqkZYuJVuLPcre](blurls/vtIJeqkZYuJVuLPcre.json) | Epic Games - Inferno Island (v2) (Preview)                                    |
+| [NZamOtiNpVZeNXQMhk](blurls/NZamOtiNpVZeNXQMhk.json) | Epic Games - Inferno Island (v2) (Stereo Track)                               |
 | [UkHTxLZRfIiyGoZjob](blurls/UkHTxLZRfIiyGoZjob.json) | Epic Games - Inferno Island (Molten Mix)                                      |
 | [vHGURAbYAhjpEsfBTr](blurls/vHGURAbYAhjpEsfBTr.json) | Epic Games - Inferno Island (Molten Mix) (Instrumental)                       |
 | [SmoyMxQWvSaWABGqSs](blurls/SmoyMxQWvSaWABGqSs.json) | Epic Games - Inferno Island (Molten Mix) (Preview)                            |
