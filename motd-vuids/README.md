@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [tnzvFpXDWpZpqxSBRq](blurls/tnzvFpXDWpZpqxSBRq.json) | Caffeinated Icon Series Emote |
 | [quCmjHkHbzXrEwLeaU](blurls/quCmjHkHbzXrEwLeaU.json) | Fortnitemares 2024 Teaser |
 | [iBWPeToxjiBOicSsMm](blurls/iBWPeToxjiBOicSsMm.json) | Fast & Furious : Nissan Skyline Car (MOTD Background) |
 | [kDWHJTqTVkWSquAZRY](blurls/kDWHJTqTVkWSquAZRY.json) | Shaq Shimmy Icon Series Emote (MOTD Background) |

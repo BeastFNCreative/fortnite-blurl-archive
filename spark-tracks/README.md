@@ -74,6 +74,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [HAVUeTRFvsoBFCqFPf](blurls/HAVUeTRFvsoBFCqFPf.json) | Avenged Sevenfold - Hail To The King (Instrumental)                           |
 | [RxkAXHDBleHmweVvKC](blurls/RxkAXHDBleHmweVvKC.json) | Avenged Sevenfold - Hail To The King (Preview)                                |
 | [MnucqPZTmeHdAiFinC](blurls/MnucqPZTmeHdAiFinC.json) | Avenged Sevenfold - Hail To The King (Stereo Track)                           |
+| [xrAacyAlzFxEKsdsMr](blurls/xrAacyAlzFxEKsdsMr.json) | Avenged Sevenfold - Nightmare                                                 |
+| [UfGrINDbBINODbvMkp](blurls/UfGrINDbBINODbvMkp.json) | Avenged Sevenfold - Nightmare (Instrumental)                                  |
+| [WGDnNtzvhkkolJSclg](blurls/WGDnNtzvhkkolJSclg.json) | Avenged Sevenfold - Nightmare (Preview)                                       |
+| [BvFzPuDZrzGYQXCdFO](blurls/BvFzPuDZrzGYQXCdFO.json) | Avenged Sevenfold - Nightmare (Stereo Track)                                  |
 | [sxsgSMMWvyIFNXevPF](blurls/sxsgSMMWvyIFNXevPF.json) | Avicii - Hey Brother                                                          |
 | [EKdIKKOCJoOSsoCqLm](blurls/EKdIKKOCJoOSsoCqLm.json) | Avicii - Hey Brother (Instrumental)                                           |
 | [FEVUjsuIPIDEexwGoj](blurls/FEVUjsuIPIDEexwGoj.json) | Avicii - Hey Brother (Preview)                                                |
@@ -214,6 +218,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [squfNsNggbLRzWyDFn](blurls/squfNsNggbLRzWyDFn.json) | Disturbed - Down with the Sickness (Instrumental)                             |
 | [xbOGowCBNjszsGpjNX](blurls/xbOGowCBNjszsGpjNX.json) | Disturbed - Down with the Sickness (Preview)                                  |
 | [mshzYJBoESRSyvGSQv](blurls/mshzYJBoESRSyvGSQv.json) | Disturbed - Down with the Sickness (Stereo Track)                             |
+| [OZxlBFrgrIuvvXJgnp](blurls/OZxlBFrgrIuvvXJgnp.json) | Disturbed - The Sound of Silence                                              |
+| [FdKapogVcFPucYomOy](blurls/FdKapogVcFPucYomOy.json) | Disturbed - The Sound of Silence (Instrumental)                               |
+| [rcUuAmMjRKBNWpKurI](blurls/rcUuAmMjRKBNWpKurI.json) | Disturbed - The Sound of Silence (Preview)                                    |
+| [fVQNSjuGMygRKHPFiE](blurls/fVQNSjuGMygRKHPFiE.json) | Disturbed - The Sound of Silence (Stereo Track)                               |
 | [dNzhpYzOCoQbchHjPi](blurls/dNzhpYzOCoQbchHjPi.json) | DMX - X Gon' Give It To Ya                                                    |
 | [MgWCTsTMhUKLmlVyCR](blurls/MgWCTsTMhUKLmlVyCR.json) | DMX - X Gon' Give It To Ya (Instrumental)                                     |
 | [NkLaeMUkINfhzwRlwg](blurls/NkLaeMUkINfhzwRlwg.json) | DMX - X Gon' Give It To Ya (Preview)                                          |
@@ -877,6 +885,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [uGOItbvHIpDvrDmFqw](blurls/uGOItbvHIpDvrDmFqw.json) | Muse - Hysteria (v2) (Preview)                                                |
 | [bxKZPnjPbkUhaVtjJF](blurls/bxKZPnjPbkUhaVtjJF.json) | Muse - Hysteria (v2) (Instrumental)                                           |
 | [csBQrSFnZdoXuyPDcG](blurls/csBQrSFnZdoXuyPDcG.json) | Muse - Hysteria (v2) (Stereo Track)                                           |
+| [KffdXyVKeDSASheTlZ](blurls/KffdXyVKeDSASheTlZ.json) | My Chemical Romance - I'm Not Okay (I Promise)                                |
+| [cWxjrlHaIcLgkiNtaB](blurls/cWxjrlHaIcLgkiNtaB.json) | My Chemical Romance - I'm Not Okay (I Promise) (Preview)                      |
+| [GiJjujeTKvbZkXohPQ](blurls/GiJjujeTKvbZkXohPQ.json) | My Chemical Romance - I'm Not Okay (I Promise) (Instrumental)                 |
+| [pyQfhYhbxmpaOVqwZP](blurls/pyQfhYhbxmpaOVqwZP.json) | My Chemical Romance - I'm Not Okay (I Promise) (Stereo Track)                 |
 | [lVbXhTnpHAwjodfxyF](blurls/lVbXhTnpHAwjodfxyF.json) | Nelly ft. City Spud - Ride Wit Me                                             |
 | [VOFbjcGVwqrwSXCLWh](blurls/VOFbjcGVwqrwSXCLWh.json) | Nelly ft. City Spud - Ride Wit Me (Instrumental)                              |
 | [IWdHVthmtpcMZrYXfN](blurls/IWdHVthmtpcMZrYXfN.json) | Nelly ft. City Spud - Ride Wit Me (Preview)                                   |
@@ -1037,6 +1049,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [QXkvdxhVFMShzdnDsG](blurls/QXkvdxhVFMShzdnDsG.json) | Sabrina Carpenter - Espresso (Instrumental)                                   |
 | [YyBQAtskBwiGDDKUar](blurls/YyBQAtskBwiGDDKUar.json) | Sabrina Carpenter - Espresso (Preview)                                        |
 | [OaEhBqnHwYumLdnLpL](blurls/OaEhBqnHwYumLdnLpL.json) | Sabrina Carpenter - Espresso (Stereo Track)                                   |
+| [XpssvSgJZMnwYXiaaT](blurls/XpssvSgJZMnwYXiaaT.json) | Sabrina Carpenter - Feather                                                   |
+| [YrSNLIrjPcWKVqVUpL](blurls/YrSNLIrjPcWKVqVUpL.json) | Sabrina Carpenter - Feather (Instrumental)                                    |
+| [vrntObOOmrbZZpWwFG](blurls/vrntObOOmrbZZpWwFG.json) | Sabrina Carpenter - Feather (Preview)                                         |
+| [cLNHxPxghtuPZQYsUS](blurls/cLNHxPxghtuPZQYsUS.json) | Sabrina Carpenter - Feather (Stereo Track)                                    |
 | [JuhxsaNyDRNqHoQulM](blurls/JuhxsaNyDRNqHoQulM.json) | SAINt JHN - Roses (Imanbek Remix)                                             |
 | [NOMryrsBgGeWYCDxmD](blurls/NOMryrsBgGeWYCDxmD.json) | SAINt JHN - Roses (Imanbek Remix) (Instrumental)                              |
 | [VJbKowiQsUTRfybpUD](blurls/VJbKowiQsUTRfybpUD.json) | SAINt JHN - Roses (Imanbek Remix) (Preview)                                   |
@@ -1141,6 +1157,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [PITopPPUmxvuFXBMpt](blurls/PITopPPUmxvuFXBMpt.json) | The Killers - Mr. Brightside (Instrumental)                                   |
 | [KGRprRNLfuTkgjehoV](blurls/KGRprRNLfuTkgjehoV.json) | The Killers - Mr. Brightside (Preview)                                        |
 | [dlcoiMYksOhAvkicAG](blurls/dlcoiMYksOhAvkicAG.json) | The Killers - Mr. Brightside (Stereo Track)                                   |
+| [qUAmRUEdWBPvRLlYzK](blurls/qUAmRUEdWBPvRLlYzK.json) | The Killers - Somebody Told Me                                                |
+| [jAgubsZbhHDzkeTpAb](blurls/jAgubsZbhHDzkeTpAb.json) | The Killers - Somebody Told Me (Instrumental)                                 |
+| [hCxMpjlyeZrkMwAfqP](blurls/hCxMpjlyeZrkMwAfqP.json) | The Killers - Somebody Told Me (Preview)                                      |
+| [gLOuskyrkTpoefTsed](blurls/gLOuskyrkTpoefTsed.json) | The Killers - Somebody Told Me (Stereo Track)                                 |
 | [PMyNjiOjmEsRkUqxNu](blurls/PMyNjiOjmEsRkUqxNu.json) | The Notorious B.I.G. - Big Poppa                                              |
 | [eeUwZMWeDVjSKgeBsF](blurls/eeUwZMWeDVjSKgeBsF.json) | The Notorious B.I.G. - Big Poppa (Instrumental)                               |
 | [uUGUePbJxnBmoWNqCO](blurls/uUGUePbJxnBmoWNqCO.json) | The Notorious B.I.G. - Big Poppa (Preview)                                    |
