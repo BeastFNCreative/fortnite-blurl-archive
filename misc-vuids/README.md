@@ -71,5 +71,6 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [mBtYElgTOAKPOgLsaF](blurls/mBtYElgTOAKPOgLsaF.json) | The Kid LAROI's Wild Dreams Concert Picture-in-Picture                                               |
 | [LIaqRFAiLiMPgOZuKX](blurls/LIaqRFAiLiMPgOZuKX.json) | The Kid LAROI's Wild Dreams Concert Picture-in-Picture (Alt)                                         |
 | [HFgsZtdWinSuoPQXxV](blurls/HFgsZtdWinSuoPQXxV.json) | The Weeknd - Popular (ft. Madonna & Playboi Carti) Music Video Premiere                              |
+| [kRQErvFysrszMCKhsI](blurls/kRQErvFysrszMCKhsI.json) | Unknown Jam Track                                                                                    |
 | [fvKQKSJTnXkwLNruwQ](blurls/fvKQKSJTnXkwLNruwQ.json) | Unused Most Wanted Poster Video                                                                      |
 | [LwftzrskCAwXgBKFzw](blurls/LwftzrskCAwXgBKFzw.json) | Zen Legacy Set Fortnite Crew Trailer                                                                 |
