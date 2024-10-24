@@ -10,6 +10,7 @@ Radio Stations used In-Game when inside Vehicles.
 | :-------- | :------------------------- |
 | [BXrDueZkosvNvxtx](blurls/BXrDueZkosvNvxtx.json) | Beat Box |
 | [SesARghrQNsflAozoD](blurls/SesARghrQNsflAozoD.json) | Beat Box (v2) |
+| [SesARghrQNsflAozoD](blurls/gjqlfLXmalyNaDhzvK.json) | Beat Box (v3) |
 | [saeOLZXrNKpBEPGRBQ](blurls/saeOLZXrNKpBEPGRBQ.json) | Icon Radio |
 | [WQaQbnGzaPXXMHGQXt](blurls/WQaQbnGzaPXXMHGQXt.json) | Icon Radio (v2) |
 | [uaPoQwpGCgjrbKpoYZ](blurls/uaPoQwpGCgjrbKpoYZ.json) | Icon Radio (v3) |
@@ -19,6 +20,7 @@ Radio Stations used In-Game when inside Vehicles.
 | [eZNBMIWJJYicfdCKcx](blurls/eZNBMIWJJYicfdCKcx.json) | Mysterious Transmission (v4) |
 | [DGeVaWdcXtfpbAaP](blurls/DGeVaWdcXtfpbAaP.json) | Party Royale |
 | [QWGQAynCdixzoLIdJl](blurls/QWGQAynCdixzoLIdJl.json) | Party Royale (v2) |
+| [atWiPWwdlzXohpNhzD](blurls/atWiPWwdlzXohpNhzD.json) | Party Royale (v3) |
 | [PcQCHxHkBsmjSneR](blurls/PcQCHxHkBsmjSneR.json) | Power Play |
 | [dWkLynOluUUuCAPJHA](blurls/dWkLynOluUUuCAPJHA.json) | Power Play (v2) |
 | [ixWkbUWHJfzaZVePXJ](blurls/ixWkbUWHJfzaZVePXJ.json) | Power Play (v3) |
@@ -26,6 +28,7 @@ Radio Stations used In-Game when inside Vehicles.
 | [AxraiOXbAdcOPnthxV](blurls/AxraiOXbAdcOPnthxV.json) | Radio Underground (v2) |
 | [GEviYjIhzVVzJufW](blurls/GEviYjIhzVVzJufW.json) | Radio Yonder |
 | [liZWCXyJDbxNMHWlyk](blurls/liZWCXyJDbxNMHWlyk.json) | Radio Yonder (v2) |
+| [liZWCXyJDbxNMHWlyk](blurls/utHgQidSxmOzBNWSRs.json) | Radio Yonder (v3) |
 | [hgsuJcchvKuaEzzijr](blurls/hgsuJcchvKuaEzzijr.json) | Rock & Royale |
 | [rdWxjjhVHWyqWozyMU](blurls/rdWxjjhVHWyqWozyMU.json) | Rock & Royale (v2) |
 | [eaIPyhOJafbnZUIYnZ](blurls/eaIPyhOJafbnZUIYnZ.json) | Rock & Royale (v3) |

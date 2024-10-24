@@ -53,6 +53,7 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [LJmAefawOpFKUPquHC](blurls/LJmAefawOpFKUPquHC.json) | Media Streaming Radio Licensed VUID V2                                                               |
 | [BxaWeBLSwwKrhQwdjI](blurls/BxaWeBLSwwKrhQwdjI.json) | Media Streaming Radio Licensed VUID V3                                                               |
 | [tjHPEaquSYGZxvcBYd](blurls/tjHPEaquSYGZxvcBYd.json) | Media Streaming Radio Licensed VUID V4                                                               |
+| [CUqlgMzVwJNKmnqFXA](blurls/CUqlgMzVwJNKmnqFXA.json) | Media Streaming Radio Licensed & Unlicensed VUID                                                     |
 | [KfxUyvIlltgRDBYwcO](blurls/KfxUyvIlltgRDBYwcO.json) | Media Streaming Radio Unlicensed VUID                                                                |
 | [MYPiLEMnlcEoZidMuU](blurls/MYPiLEMnlcEoZidMuU.json) | Media Streaming Radio Unlicensed VUID V2                                                             |
 | [PTLmbduIlPXGQSyQgF](blurls/PTLmbduIlPXGQSyQgF.json) | Media Streaming Radio Unlicensed VUID V3                                                             |

@@ -744,6 +744,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [NHMyhxjmePAWyINCJv](blurls/NHMyhxjmePAWyINCJv.json) | Lil Mosey - Blueberry Faygo (Instrumental)                                    |
 | [GvdBWjGeWjvYKqLbXq](blurls/GvdBWjGeWjvYKqLbXq.json) | Lil Mosey - Blueberry Faygo (Preview)                                         |
 | [DmCsiYtFsJGjEbsWKV](blurls/DmCsiYtFsJGjEbsWKV.json) | Lil Mosey - Blueberry Faygo (Stereo Track)                                    |
+| [TFsusyHdPHVVufWVYn](blurls/TFsusyHdPHVVufWVYn.json) | Lil Nas X - MONTERO (Call Me By Your Name)                                    |
+| [EfKagEqVOVLyBJljKY](blurls/EfKagEqVOVLyBJljKY.json) | Lil Nas X - MONTERO (Call Me By Your Name) (Instrumental)                     |
+| [xEIxLyoGdWlFcGwuKa](blurls/xEIxLyoGdWlFcGwuKa.json) | Lil Nas X - MONTERO (Call Me By Your Name) (Preview)                          |
+| [hoxkpjgWfutAHfjeJo](blurls/hoxkpjgWfutAHfjeJo.json) | Lil Nas X - MONTERO (Call Me By Your Name) (Stereo Track)                     |
 | [nNcDyfisUVhLYpRVpw](blurls/nNcDyfisUVhLYpRVpw.json) | Lil Nas X ft. Jack Harlow - Industry Baby                                     |
 | [ZzdveBTMVSejUSDGnS](blurls/ZzdveBTMVSejUSDGnS.json) | Lil Uzi Vert - XO Tour Llif3                                                  |
 | [gEttfXkmnxFOAMhscg](blurls/gEttfXkmnxFOAMhscg.json) | Lil Uzi Vert - XO Tour Llif3  (Instrumental)                                  |
@@ -769,6 +773,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [NAuiSZDhyfIcaFXplb](blurls/NAuiSZDhyfIcaFXplb.json) | LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem (Instrumental)        |
 | [nxLJFcAiIPllRRssqw](blurls/nxLJFcAiIPllRRssqw.json) | LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem (Preview)             |
 | [VcqjTSvoCzTPGqwsHA](blurls/VcqjTSvoCzTPGqwsHA.json) | LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem (Stereo Track)        |
+| [gDofNgEaNcRbYRAoDg](blurls/gDofNgEaNcRbYRAoDg.json) | Mac Miller, Empire of the Sun - The Spins                                     |
+| [yXfTuqDAFLEOHpmFEw](blurls/yXfTuqDAFLEOHpmFEw.json) | Mac Miller, Empire of the Sun - The Spins (Instrumental)                      |
+| [IyfniPLEhdPjtwsATm](blurls/IyfniPLEhdPjtwsATm.json) | Mac Miller, Empire of the Sun - The Spins (Preview)                           |
+| [xonmXmYVdukHdXhqZf](blurls/xonmXmYVdukHdXhqZf.json) | Mac Miller, Empire of the Sun - The Spins (Stereo Track)                      |
 | [owLJvubTiZDBPasCSy](blurls/owLJvubTiZDBPasCSy.json) | Måneskin - Beggin'                                                            |
 | [GkLEvrFHCtYozZxCfi](blurls/GkLEvrFHCtYozZxCfi.json) | Måneskin - Beggin' (Instrumental)                                             |
 | [mkwbfIZyeQEvIYUPvt](blurls/mkwbfIZyeQEvIYUPvt.json) | Måneskin - Beggin' (Preview)                                                  |
@@ -889,6 +897,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [cWxjrlHaIcLgkiNtaB](blurls/cWxjrlHaIcLgkiNtaB.json) | My Chemical Romance - I'm Not Okay (I Promise) (Preview)                      |
 | [GiJjujeTKvbZkXohPQ](blurls/GiJjujeTKvbZkXohPQ.json) | My Chemical Romance - I'm Not Okay (I Promise) (Instrumental)                 |
 | [pyQfhYhbxmpaOVqwZP](blurls/pyQfhYhbxmpaOVqwZP.json) | My Chemical Romance - I'm Not Okay (I Promise) (Stereo Track)                 |
+| [DgJFJYwFXnESILRuqI](blurls/DgJFJYwFXnESILRuqI.json) | Myles Smith - Stargazing                                                      |
+| [KPRygHiWoZEPoMkNBQ](blurls/KPRygHiWoZEPoMkNBQ.json) | Myles Smith - Stargazing (Instrumental)                                       |
+| [mGnMXfTjosLJEraQRZ](blurls/mGnMXfTjosLJEraQRZ.json) | Myles Smith - Stargazing (Preview)                                            |
+| [WsJEXNZITMsXMgodsq](blurls/WsJEXNZITMsXMgodsq.json) | Myles Smith - Stargazing (Stereo Track)                                       |
 | [lVbXhTnpHAwjodfxyF](blurls/lVbXhTnpHAwjodfxyF.json) | Nelly ft. City Spud - Ride Wit Me                                             |
 | [VOFbjcGVwqrwSXCLWh](blurls/VOFbjcGVwqrwSXCLWh.json) | Nelly ft. City Spud - Ride Wit Me (Instrumental)                              |
 | [IWdHVthmtpcMZrYXfN](blurls/IWdHVthmtpcMZrYXfN.json) | Nelly ft. City Spud - Ride Wit Me (Preview)                                   |
@@ -1057,6 +1069,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [NOMryrsBgGeWYCDxmD](blurls/NOMryrsBgGeWYCDxmD.json) | SAINt JHN - Roses (Imanbek Remix) (Instrumental)                              |
 | [VJbKowiQsUTRfybpUD](blurls/VJbKowiQsUTRfybpUD.json) | SAINt JHN - Roses (Imanbek Remix) (Preview)                                   |
 | [KyZLrnUyLnSgdDCDAA](blurls/KyZLrnUyLnSgdDCDAA.json) | SAINt JHN - Roses (Imanbek Remix) (Stereo Track)                              |
+| [uPAOVctItSCwvOvzCH](blurls/uPAOVctItSCwvOvzCH.json) | Sam Smith w/ Kim Petras - Unholy                                              |
+| [dwJUVAsUOlcUyQKJSZ](blurls/dwJUVAsUOlcUyQKJSZ.json) | Sam Smith w/ Kim Petras - Unholy (Instrumental)                               |
+| [tlgoNvZRdFSlHRawfl](blurls/tlgoNvZRdFSlHRawfl.json) | Sam Smith w/ Kim Petras - Unholy (Preview)                                    |
+| [OssWFXRzahlZXCFJgv](blurls/OssWFXRzahlZXCFJgv.json) | Sam Smith w/ Kim Petras - Unholy (Stereo Track)                               |
 | [mNqpqBDFUEflqmkNcH](blurls/mNqpqBDFUEflqmkNcH.json) | Sean Paul - Gimme The Light                                                   |
 | [IUXlDtNrxVeAPoslQx](blurls/IUXlDtNrxVeAPoslQx.json) | Sean Paul - Gimme The Light (Instrumental)                                    |
 | [zjjBipTuuHFeFYZOEi](blurls/zjjBipTuuHFeFYZOEi.json) | Sean Paul - Gimme The Light (Preview)                                         |
