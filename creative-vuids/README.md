@@ -19,10 +19,13 @@ Creative / UEFN Video's used for Partner Projects.
 | [JEQayIQUhXNTxkDv](blurls/JEQayIQUhXNTxkDv.json)     | Base Video Player : Toon Takeover                                                                       |
 | [ZkMdkEaMsvaigyAwhu](blurls/ZkMdkEaMsvaigyAwhu.json) | Cabbie Crash Course : Explanation Video                                                                 |
 | [PdbDBmggypydzOfHrY](blurls/PdbDBmggypydzOfHrY.json) | Coachella Island : Background Video                                                                     |
+| [BwojaxTkKvOqIFSwvl](blurls/BwojaxTkKvOqIFSwvl.json) | Coldplay Tycoon : Coldplay ft. Jon Hopkins - MOON MUSIC                                                 |
+| [neMUkXfGwaKXkyknhm](blurls/neMUkXfGwaKXkyknhm.json) | Coldplay Tycoon : Coldplay ft. Ayra Starr - GOOD FEELINGS                                               |
+| [SQWfggueYdXmcKQInT](blurls/SQWfggueYdXmcKQInT.json) | Coldplay Tycoon : Coldplay Interview & Music                                                            |
 | [GxqEptVmqmwsxDotFb](blurls/GxqEptVmqmwsxDotFb.json) | Creative Hub : Short Nite is back! Trailer                                                              |
 | [rtIViGjKoUItLlUYQo](blurls/rtIViGjKoUItLlUYQo.json) | Creative Map : Red Carpet Video                                                                         |
 | [PquAsDvtwBLechiqSC](blurls/PquAsDvtwBLechiqSC.json) | Disney Horizons Live from D23 : WIP Pre Show Video                                                      |
-| [zqPQfrhYJqxxrDlekn](blurls/zqPQfrhYJqxxrDlekn.json) | Disney Horizons Live from D23 : Full Presentation                                                      |
+| [zqPQfrhYJqxxrDlekn](blurls/zqPQfrhYJqxxrDlekn.json) | Disney Horizons Live from D23 : Full Presentation                                                       |
 | [PiEXYykwqLMxBFOHjd](blurls/PiEXYykwqLMxBFOHjd.json) | Dragon Ball Super : Episode 9 Video                                                                     |
 | [OtbCrvPwgTtDUjxWHw](blurls/OtbCrvPwgTtDUjxWHw.json) | Dragon Ball Super : Episode 10 Video                                                                    |
 | [EXBHhCfpFrmCntPfqZ](blurls/EXBHhCfpFrmCntPfqZ.json) | Dragon Ball Super : Episode 11 Video                                                                    |
@@ -169,33 +172,33 @@ Creative / UEFN Video's used for Partner Projects.
 | [nYVHsEdgBEvValewEO](blurls/nYVHsEdgBEvValewEO.json) | Short Nite is back! : Undiscovered                                                                      |
 | [FejNRQgGViGhYnLTgX](blurls/FejNRQgGViGhYnLTgX.json) | Short Nite is back! : Waaber Waaber                                                                     |
 | [cwQmpHaSBHfAAKlPpY](blurls/cwQmpHaSBHfAAKlPpY.json) | Short Nite is back! : Wildebeest                                                                        |
-| [NRrRVfQyjegLDPkGnz](blurls/NRrRVfQyjegLDPkGnz.json) | ShortniteMares : Combined Video |
-| [VsOymoYYgfRgmNhRxP](blurls/VsOymoYYgfRgmNhRxP.json) | ShortniteMares : Gilded Guy Secret Theater Video |
-| [XdueugAEYpBqcCFx](blurls/XdueugAEYpBqcCFx.json)     | ShortniteMares : Placeholder Video |
-| [KHxmyygadoQXXBBGjs](blurls/KHxmyygadoQXXBBGjs.json) | ShortniteMares : Single Video - Alma |
-| [cdIdntdpzCCoYfQPVm](blurls/cdIdntdpzCCoYfQPVm.json) | ShortniteMares : Single Video - But Milk Is Important |
-| [SumipiOizUYeikBKDM](blurls/SumipiOizUYeikBKDM.json) | ShortniteMares : Single Video - INN |
-| [LXwcXvbltetkrStmcV](blurls/LXwcXvbltetkrStmcV.json) | ShortniteMares : Single Video - Mon Ami Qui Brille Dans La Nuit |
-| [XOqizjBqvAXuhRhHcU](blurls/XOqizjBqvAXuhRhHcU.json) | ShortniteMares : Single Video - Nightmare In The Morning |
-| [gNSawxAxiknUCifOXH](blurls/gNSawxAxiknUCifOXH.json) | ShortniteMares : Single Video - The Eye |
-| [HIiyDaSPdOBdrucNEY](blurls/HIiyDaSPdOBdrucNEY.json) | ShortniteMares : Single Video - We Will Be Monsters |
-| [qxnEiPxcuGRdqSowmH](blurls/qxnEiPxcuGRdqSowmH.json) | Soundwave Series ft. Aya Nakamura : Concert Video |
-| [bPkvNChZJQYBgWlg](blurls/bPkvNChZJQYBgWlg.json)     | Soundwave Series ft. Emicida : Concert Video |
-| [QJFFoePMqaivybXTUl](blurls/QJFFoePMqaivybXTUl.json) | Soundwave Series ft. Gen Hoshino : Concert Video |
-| [vhisythriRTdSRAS](blurls/vhisythriRTdSRAS.json)     | Soundwave Series ft. Mohamed Hamaki : Concert Video |
-| [pQOXVbyjdgOhjGEv](blurls/pQOXVbyjdgOhjGEv.json)     | Soundwave Series ft. Tones And I : Concert Video |
-| [aDDflTSeaCzkOuUNZL](blurls/aDDflTSeaCzkOuUNZL.json) | SypherPK : Stories from the Battle Bus Video |
-| [yfJEDWIKnOokIIitxh](blurls/yfJEDWIKnOokIIitxh.json) | The Kid LAROI's Wild Dreams : Concert Video |
-| [HarviIxLVSrGGqVrZl](blurls/HarviIxLVSrGGqVrZl.json) | The Kid LAROI's Wild Dreams Afterparty : Background Video |
-| [WwbmiMLdPkQnKYDE](blurls/WwbmiMLdPkQnKYDE.json)     | The March Through Time : Speech Video |
-| [KabraIjTXGIYHqHO](blurls/KabraIjTXGIYHqHO.json)     | The O2 : Llama-tron Video |
-| [TKnMjLfoFHgpenVg](blurls/TKnMjLfoFHgpenVg.json)     | The O2 : Spy Within Trailer |
-| [BrPEzSGrXVuddBCg](blurls/BrPEzSGrXVuddBCg.json)     | Timberland Parkour Trails : Explanation Video |
-| [EdEFWZJTNnscNmTYYT](blurls/EdEFWZJTNnscNmTYYT.json) | Tonight At The Rock : Explanation Video |
-| [HBvDtULjPyteyPsd](blurls/HBvDtULjPyteyPsd.json)     | TPK's Evil Curse : Story Video |
-| [kBVxrqDpKeUYXHjh](blurls/kBVxrqDpKeUYXHjh.json)     | TPK's Nightfair : Explanation Video |
-| [fvLyOzvZbhwjsvuMhX](blurls/fvLyOzvZbhwjsvuMhX.json) | TPK's Nightfair : Showcase Video |
-| [dzfoAlGLwfwOCbPMUj](blurls/dzfoAlGLwfwOCbPMUj.json) | We Will Be Monsters : Event Video |
+| [NRrRVfQyjegLDPkGnz](blurls/NRrRVfQyjegLDPkGnz.json) | ShortniteMares : Combined Video                                                                         |
+| [VsOymoYYgfRgmNhRxP](blurls/VsOymoYYgfRgmNhRxP.json) | ShortniteMares : Gilded Guy Secret Theater Video                                                        |
+| [XdueugAEYpBqcCFx](blurls/XdueugAEYpBqcCFx.json)     | ShortniteMares : Placeholder Video                                                                      |
+| [KHxmyygadoQXXBBGjs](blurls/KHxmyygadoQXXBBGjs.json) | ShortniteMares : Single Video - Alma                                                                    |
+| [cdIdntdpzCCoYfQPVm](blurls/cdIdntdpzCCoYfQPVm.json) | ShortniteMares : Single Video - But Milk Is Important                                                   |
+| [SumipiOizUYeikBKDM](blurls/SumipiOizUYeikBKDM.json) | ShortniteMares : Single Video - INN                                                                     |
+| [LXwcXvbltetkrStmcV](blurls/LXwcXvbltetkrStmcV.json) | ShortniteMares : Single Video - Mon Ami Qui Brille Dans La Nuit                                         |
+| [XOqizjBqvAXuhRhHcU](blurls/XOqizjBqvAXuhRhHcU.json) | ShortniteMares : Single Video - Nightmare In The Morning                                                |
+| [gNSawxAxiknUCifOXH](blurls/gNSawxAxiknUCifOXH.json) | ShortniteMares : Single Video - The Eye                                                                 |
+| [HIiyDaSPdOBdrucNEY](blurls/HIiyDaSPdOBdrucNEY.json) | ShortniteMares : Single Video - We Will Be Monsters                                                     |
+| [qxnEiPxcuGRdqSowmH](blurls/qxnEiPxcuGRdqSowmH.json) | Soundwave Series ft. Aya Nakamura : Concert Video                                                       |
+| [bPkvNChZJQYBgWlg](blurls/bPkvNChZJQYBgWlg.json)     | Soundwave Series ft. Emicida : Concert Video                                                            |
+| [QJFFoePMqaivybXTUl](blurls/QJFFoePMqaivybXTUl.json) | Soundwave Series ft. Gen Hoshino : Concert Video                                                        |
+| [vhisythriRTdSRAS](blurls/vhisythriRTdSRAS.json)     | Soundwave Series ft. Mohamed Hamaki : Concert Video                                                     |
+| [pQOXVbyjdgOhjGEv](blurls/pQOXVbyjdgOhjGEv.json)     | Soundwave Series ft. Tones And I : Concert Video                                                        |
+| [aDDflTSeaCzkOuUNZL](blurls/aDDflTSeaCzkOuUNZL.json) | SypherPK : Stories from the Battle Bus Video                                                            |
+| [yfJEDWIKnOokIIitxh](blurls/yfJEDWIKnOokIIitxh.json) | The Kid LAROI's Wild Dreams : Concert Video                                                             |
+| [HarviIxLVSrGGqVrZl](blurls/HarviIxLVSrGGqVrZl.json) | The Kid LAROI's Wild Dreams Afterparty : Background Video                                               |
+| [WwbmiMLdPkQnKYDE](blurls/WwbmiMLdPkQnKYDE.json)     | The March Through Time : Speech Video                                                                   |
+| [KabraIjTXGIYHqHO](blurls/KabraIjTXGIYHqHO.json)     | The O2 : Llama-tron Video                                                                               |
+| [TKnMjLfoFHgpenVg](blurls/TKnMjLfoFHgpenVg.json)     | The O2 : Spy Within Trailer                                                                             |
+| [BrPEzSGrXVuddBCg](blurls/BrPEzSGrXVuddBCg.json)     | Timberland Parkour Trails : Explanation Video                                                           |
+| [EdEFWZJTNnscNmTYYT](blurls/EdEFWZJTNnscNmTYYT.json) | Tonight At The Rock : Explanation Video                                                                 |
+| [HBvDtULjPyteyPsd](blurls/HBvDtULjPyteyPsd.json)     | TPK's Evil Curse : Story Video                                                                          |
+| [kBVxrqDpKeUYXHjh](blurls/kBVxrqDpKeUYXHjh.json)     | TPK's Nightfair : Explanation Video                                                                     |
+| [fvLyOzvZbhwjsvuMhX](blurls/fvLyOzvZbhwjsvuMhX.json) | TPK's Nightfair : Showcase Video                                                                        |
+| [dzfoAlGLwfwOCbPMUj](blurls/dzfoAlGLwfwOCbPMUj.json) | We Will Be Monsters : Event Video                                                                       |
 
 
 
