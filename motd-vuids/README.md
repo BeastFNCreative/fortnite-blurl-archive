@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [WtbhFNoyFRrNxncHEG](blurls/WtbhFNoyFRrNxncHEG.json) | Mystery of the Monolith LEGO Map Riddle |
 | [pFrRMPQKQyZPBzbLPl](blurls/pFrRMPQKQyZPBzbLPl.json) | Marvel McLaren Senna Bundle Trailer |
 | [tnzvFpXDWpZpqxSBRq](blurls/tnzvFpXDWpZpqxSBRq.json) | Caffeinated Icon Series Emote |
 | [quCmjHkHbzXrEwLeaU](blurls/quCmjHkHbzXrEwLeaU.json) | Fortnitemares 2024 Teaser |
