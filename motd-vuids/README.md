@@ -10,6 +10,8 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [DUtdSXMWzUpalptwbu](blurls/DUtdSXMWzUpalptwbu.json) | Reload Desert Map Trailer |
+| [VKGnqKNOQZUgDSKzdj](blurls/VKGnqKNOQZUgDSKzdj.json) | Snoop's Walk Icon Series Emote |
 | [djcbbEWHVjgxwnUbgl](blurls/djcbbEWHVjgxwnUbgl.json) | Fortnite Remix Trailer |
 | [WtbhFNoyFRrNxncHEG](blurls/WtbhFNoyFRrNxncHEG.json) | Mystery of the Monolith LEGO Map Riddle |
 | [pFrRMPQKQyZPBzbLPl](blurls/pFrRMPQKQyZPBzbLPl.json) | Marvel McLaren Senna Bundle Trailer |

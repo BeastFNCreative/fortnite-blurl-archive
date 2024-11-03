@@ -4,39 +4,27 @@ The biggest Epic Games VUID archive for Fortnite
 - Only contains VUIDs published by Epic Games (doesn't include Discover)
 
 ## Credits
-- BeastFNCreative (Owner)
 
-- GRUmbaWasHere (Owner)
-
-- Venitex (Contributor)
-
-- FossilSouthie (Contributor)
-
-- LeleDerGrasshalm (Contributor)
-
-- Luwwani (Contributor)
-
-- YLS-Dev (Contributor)
-
-- Boomer Bob (Contributor)
-
-- DrewsDoggo (Contributor)
-
-- fazfoxy (Contributor)
-
-- Fortnite-API \ Officer (Contributor)
-
-- Junction (Contributor)
-
-- Lucas7Yoshi (Contributor)
-
-- This Nils (Contributor)
-
-- SpushFNBR (Contributor)
-
-- ShiinaBR (Contributor)
-
-- HYPEX (Contributor)
+| Name                                                 | Role                                                 |
+| :--------------------------------------------------- | :--------------------------------------------------- |
+| BeastFNCreative                                      | Owner                                                |
+| GRUmbaWasHere                                        | Owner                                                |
+| Venitex                                              | Contributor                                          |
+| FossilSouthie                                        | Contributor                                          |
+| LeleDerGrasshalm                                     | Contributor                                          |
+| Luwwani                                              | Contributor                                          |
+| YLS-Dev                                              | Contributor                                          |
+| Boomer Bob                                           | Contributor                                          |
+| DrewsDoggo                                           | Contributor                                          |
+| fazfoxy                                              | Contributor                                          |
+| Fortnite-API \ Officer                               | Contributor                                          |
+| Junction                                             | Contributor                                          |
+| Lucas7Yoshi                                          | Contributor                                          |
+| This Nils                                            | Contributor                                          |
+| SpushFNBR                                            | Contributor                                          |
+| ShiinaBR                                             | Contributor                                          |
+| HYPEX                                                | Contributor                                          |
+| Deutsche Alman/Alemán sein Vater                     | Contributor                                          |
 
 ## Missing VUIDs
 
