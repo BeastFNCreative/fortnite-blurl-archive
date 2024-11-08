@@ -39,6 +39,7 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [HtLUWyhMKefRGsTxlE](blurls/HtLUWyhMKefRGsTxlE.json) | playlist_pilgrimquickplay : Festival Main Stage |
 | [phKkVMFeiaJhLHyGHa](blurls/phKkVMFeiaJhLHyGHa.json) | playlist_pilgrimquickplay : Festival Main Stage (Extra VUID) |
 | [ZCnFXMOqRWXfNuYTmr](blurls/ZCnFXMOqRWXfNuYTmr.json) | playlist_pilgrimquickplay : Festival Main Stage (Star Wars Update) |
+| [TmspZBuurWGUxdzbkg](blurls/TmspZBuurWGUxdzbkg.json) | playlist_pilgrimquickplay : Festival Main Stage (Snoop Dogg Season) |
 | [pOQbjpyNSnZNptoned](blurls/pOQbjpyNSnZNptoned.json) | playlist_playgroundv2 : Creative |
 | [QljBuQXFYaplYHblAR](blurls/QljBuQXFYaplYHblAR.json) | playlist_respawn_24_alt : Team Rumble (v1) |
 | [EmSIVIsQevEAdtLiZq](blurls/EmSIVIsQevEAdtLiZq.json) | set_arena_playlists : Arena Modes |
@@ -50,6 +51,7 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [CWJQKLvQwXgtEHMOio](blurls/CWJQKLvQwXgtEHMOio.json) | set_br_playlists : Myths and Mortals |
 | [iYrWMWYEnnantjNdRv](blurls/iYrWMWYEnnantjNdRv.json) | set_br_playlists : Wrecked |
 | [dPKIUpCZmqpWiVlvsB](blurls/dPKIUpCZmqpWiVlvsB.json) | set_br_playlists : Absolute Doom |
+| [uoSoczauoTiSArNIHL](blurls/uoSoczauoTiSArNIHL.json) | set_br_playlists : Remix: Chapter 2 |
 | [nBXWuBNMdScHeYtCnP](blurls/nBXWuBNMdScHeYtCnP.json) | set_delmar_mrs_ranked : Rocket Racing |
 | [qpdchKarjFnwpdEnYj](blurls/qpdchKarjFnwpdEnYj.json) | set_delmar_mrs_ranked : Rocket Racing (Extra VUID) |
 | [zmDptnMNGqUEdlBwTv](blurls/zmDptnMNGqUEdlBwTv.json) | set_delmar_mrs_ranked : Rocket Racing (Star Wars Update) |

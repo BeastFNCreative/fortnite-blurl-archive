@@ -469,6 +469,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [pAXyekKkXSzYriDirv](blurls/pAXyekKkXSzYriDirv.json) | Epic Games - Turn Up (Instrumental)                                           |
 | [uuSqqSOJRYoyfLOqmE](blurls/uuSqqSOJRYoyfLOqmE.json) | Epic Games - Turn Up (Preview)                                                |
 | [yTAltEYBnExKwHdExR](blurls/yTAltEYBnExKwHdExR.json) | Epic Games - Turn Up (Stereo Track)                                           |
+| [VmevnfFoKNAWGUMToV](blurls/VmevnfFoKNAWGUMToV.json) | Epic Games - Turn Up (v2)                                                     |
+| [UeEVjwBspijZMrBkDH](blurls/UeEVjwBspijZMrBkDH.json) | Epic Games - Turn Up (v2) (Instrumental)                                      |
+| [vmbpfSlXdAVYMhyORV](blurls/vmbpfSlXdAVYMhyORV.json) | Epic Games - Turn Up (v2) (Preview)                                           |
+| [wUObAuPXEiDELRDElx](blurls/wUObAuPXEiDELRDElx.json) | Epic Games - Turn Up (v2) (Stereo Track)                                      |
 | [vIEWDSEWwlAzjxLBOu](blurls/vIEWDSEWwlAzjxLBOu.json) | Epic Games - Way Too Fast                                                     |
 | [PancuuYbVjaBkxuxcc](blurls/PancuuYbVjaBkxuxcc.json) | Epic Games - Way Too Fast (Instrumental)                                      |
 | [HcMKiDFnjuZwANctFE](blurls/HcMKiDFnjuZwANctFE.json) | Epic Games - Way Too Fast (Preview)                                           |
@@ -785,6 +789,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [xEIxLyoGdWlFcGwuKa](blurls/xEIxLyoGdWlFcGwuKa.json) | Lil Nas X - MONTERO (Call Me By Your Name) (Preview)                          |
 | [hoxkpjgWfutAHfjeJo](blurls/hoxkpjgWfutAHfjeJo.json) | Lil Nas X - MONTERO (Call Me By Your Name) (Stereo Track)                     |
 | [nNcDyfisUVhLYpRVpw](blurls/nNcDyfisUVhLYpRVpw.json) | Lil Nas X ft. Jack Harlow - Industry Baby                                     |
+| [AaMLoRjNszRKhETiBB](blurls/AaMLoRjNszRKhETiBB.json) | Lil Nas X ft. Jack Harlow - Industry Baby (v2)                                |
+| [FKvkWMyXgpkhPheMYl](blurls/FKvkWMyXgpkhPheMYl.json) | Lil Nas X ft. Jack Harlow - Industry Baby (v2) (Instrumental)                 |
+| [QCNsfNvuswgqWXcIPI](blurls/QCNsfNvuswgqWXcIPI.json) | Lil Nas X ft. Jack Harlow - Industry Baby (v2) (Preview)                      |
+| [aTWaleSohrSdYBbyon](blurls/aTWaleSohrSdYBbyon.json) | Lil Nas X ft. Jack Harlow - Industry Baby (v2) (Stereo Track)                 |
 | [ZzdveBTMVSejUSDGnS](blurls/ZzdveBTMVSejUSDGnS.json) | Lil Uzi Vert - XO Tour Llif3                                                  |
 | [gEttfXkmnxFOAMhscg](blurls/gEttfXkmnxFOAMhscg.json) | Lil Uzi Vert - XO Tour Llif3  (Instrumental)                                  |
 | [SNVLBWTIHwFiCeRnUF](blurls/SNVLBWTIHwFiCeRnUF.json) | Lil Uzi Vert - XO Tour Llif3  (Preview)                                       |
@@ -965,6 +973,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [GORcGyTyntuVpJEZXg](blurls/GORcGyTyntuVpJEZXg.json) | Nicki Minaj - Starships (Instrumental)                                        |
 | [jEVtqlgDKkFLeszFxK](blurls/jEVtqlgDKkFLeszFxK.json) | Nicki Minaj - Starships (Preview)                                             |
 | [YSwPXiFbArtORiOdYH](blurls/YSwPXiFbArtORiOdYH.json) | Nicki Minaj - Starships (Stereo Track)                                        |
+| [RCULwaVILutRxjohAQ](blurls/RCULwaVILutRxjohAQ.json) | Nicki Minaj - Super Bass                                                      |
+| [aECeuhUDrdZsZjjpie](blurls/aECeuhUDrdZsZjjpie.json) | Nicki Minaj - Super Bass (Instrumental)                                       |
+| [NlnmwkbJIKLPRWSbki](blurls/NlnmwkbJIKLPRWSbki.json) | Nicki Minaj - Super Bass (Preview)                                            |
+| [kPqlnCmKVsvYoReQdP](blurls/kPqlnCmKVsvYoReQdP.json) | Nicki Minaj - Super Bass (Stereo Track)                                       |
 | [ACTspeMIfwTviqNDtz](blurls/ACTspeMIfwTviqNDtz.json) | Nine Inch Nails - Less Than                                                   |
 | [MTJEFdhBUcyEjgJFXZ](blurls/MTJEFdhBUcyEjgJFXZ.json) | Nine Inch Nails - Less Than (Instrumental)                                    |
 | [IXOdGhEscJAMpIqgbm](blurls/IXOdGhEscJAMpIqgbm.json) | Nine Inch Nails - Less Than (Preview)                                         |
@@ -1037,6 +1049,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [EtoZBhWjtKtbsNtKdF](blurls/EtoZBhWjtKtbsNtKdF.json) | Pitbull ft. Ne-Yo, Afrojack & Nayer - Give Me Everything (Instrumental)       |
 | [lMLklRtOTdtsVKcFNA](blurls/lMLklRtOTdtsVKcFNA.json) | Pitbull ft. Ne-Yo, Afrojack & Nayer - Give Me Everything (Preview)            |
 | [USTHcAIEptsTqViVHW](blurls/USTHcAIEptsTqViVHW.json) | Pitbull ft. Ne-Yo, Afrojack & Nayer - Give Me Everything (Stereo Track)       |
+| [jlZTAQjWUQtGPjQxni](blurls/jlZTAQjWUQtGPjQxni.json) | Pop Smoke w/ Lil Baby & DaBaby - For The Night                                |
+| [tOysCIuBPsARtVrlAp](blurls/tOysCIuBPsARtVrlAp.json) | Pop Smoke w/ Lil Baby & DaBaby - For The Night (Instrumental)                 |
+| [oWbkpGHwyZTLqlCqYR](blurls/oWbkpGHwyZTLqlCqYR.json) | Pop Smoke w/ Lil Baby & DaBaby - For The Night (Preview)                      |
+| [subZlzoylkXZEnefcO](blurls/subZlzoylkXZEnefcO.json) | Pop Smoke w/ Lil Baby & DaBaby - For The Night (Stereo Track)                 |
 | [DENVGWeeUtiPZuFSiD](blurls/DENVGWeeUtiPZuFSiD.json) | Portugal. The Man - Feel It Still                                             |
 | [JNdZTwHgnqRrpHuxzg](blurls/JNdZTwHgnqRrpHuxzg.json) | Portugal. The Man - Feel It Still (Instrumental)                              |
 | [MjLyyEACnNSwCxjtdy](blurls/MjLyyEACnNSwCxjtdy.json) | Portugal. The Man - Feel It Still (Preview)                                   |
@@ -1101,6 +1117,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [VnqsUQloulrHpfbJoD](blurls/VnqsUQloulrHpfbJoD.json) | Rob Zombie - Dragula (Instrumental)                                           |
 | [RjYNsdjgoDFYxNDoup](blurls/RjYNsdjgoDFYxNDoup.json) | Rob Zombie - Dragula (Preview)                                                |
 | [YIJEFhJWOOyFqSYPgj](blurls/YIJEFhJWOOyFqSYPgj.json) | Rob Zombie - Dragula (Stereo Track)                                           |
+| [zRuAkTKuinUIYSyKKb](blurls/zRuAkTKuinUIYSyKKb.json) | Run DMC ft. Aerosmith - Walk This Way                                         |
+| [HZJFlKhEgcuRsxhQaM](blurls/HZJFlKhEgcuRsxhQaM.json) | Run DMC ft. Aerosmith - Walk This Way (Instrumental)                          |
+| [UwZswHuPBrlYKTWdDl](blurls/UwZswHuPBrlYKTWdDl.json) | Run DMC ft. Aerosmith - Walk This Way (Preview)                               |
+| [AhPqingzvbXqguJfYs](blurls/AhPqingzvbXqguJfYs.json) | Run DMC ft. Aerosmith - Walk This Way (Stereo Track)                          |
 | [ntiRhUcHsIVgnZTyac](blurls/ntiRhUcHsIVgnZTyac.json) | Sabrina Carpenter - Espresso                                                  |
 | [QXkvdxhVFMShzdnDsG](blurls/QXkvdxhVFMShzdnDsG.json) | Sabrina Carpenter - Espresso (Instrumental)                                   |
 | [YyBQAtskBwiGDDKUar](blurls/YyBQAtskBwiGDDKUar.json) | Sabrina Carpenter - Espresso (Preview)                                        |
@@ -1297,6 +1317,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [SAFMOHEJHQeXiCzPJr](blurls/SAFMOHEJHQeXiCzPJr.json) | Twenty One Pilots - Stressed Out (Instrumental)                               |
 | [EkEbhkZVQXOOFjTaaZ](blurls/EkEbhkZVQXOOFjTaaZ.json) | Twenty One Pilots - Stressed Out (Preview)                                    |
 | [dHUaJHMyiBXRwbuGpW](blurls/dHUaJHMyiBXRwbuGpW.json) | Twenty One Pilots - Stressed Out (Stereo Track)                               |
+| [OMrgOpYYzxYAZZaYJn](blurls/OMrgOpYYzxYAZZaYJn.json) | Tommy Richman - MILLION DOLLAR BABY                                           |
+| [HyGGlidtIfNeFuXoag](blurls/HyGGlidtIfNeFuXoag.json) | Tommy Richman - MILLION DOLLAR BABY (Instrumental)                            |
+| [plfmfQJhwsHRewVlqi](blurls/plfmfQJhwsHRewVlqi.json) | Tommy Richman - MILLION DOLLAR BABY (Preview)                                 |
+| [prCZVDYjDhDpsQNXeL](blurls/prCZVDYjDhDpsQNXeL.json) | Tommy Richman - MILLION DOLLAR BABY (Stereo Track)                            |
 | [latjtpHkeCFuqgcaHo](blurls/latjtpHkeCFuqgcaHo.json) | Topic w/ A7S - Breaking Me                                                    |
 | [ETtVEiyvhmcDJQjkBb](blurls/ETtVEiyvhmcDJQjkBb.json) | Topic w/ A7S - Breaking Me (Instrumental)                                     |
 | [zyzKCncxihJKEIjDZk](blurls/zyzKCncxihJKEIjDZk.json) | Topic w/ A7S - Breaking Me (Preview)                                          |
