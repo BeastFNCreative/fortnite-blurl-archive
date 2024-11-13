@@ -65,6 +65,7 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [NAMfVPLLYJqykofrFu](blurls/NAMfVPLLYJqykofrFu.json) | Rift Tour Tab Background                                                                             |
 | [nKaFcQbEhacuiRdfFD](blurls/nKaFcQbEhacuiRdfFD.json) | Rocket Racing First-Time Launch Video                                                                |
 | [jdowniYVhDGgZLYhgm](blurls/jdowniYVhDGgZLYhgm.json) | Remix The Prelude: Pre-Event Music                                                                   |
+| [XXCKxHvovCXUnzJkZY](blurls/XXCKxHvovCXUnzJkZY.json) | Remix The Prelude: Full Event Replay at Risky                                                        |
 | [qpvkhEDcVqkgDwKteF](blurls/qpvkhEDcVqkgDwKteF.json) | Remix The Prelude: Remix Combined Trailer                                                            |
 | [shortnite_combined](blurls/shortnite_combined.json) | Short Nite is back! : Combined Version                                                               |
 | [UFDxtqZPQKgaoloDlR](blurls/UFDxtqZPQKgaoloDlR.json) | Soundwave Series ft. Aya Nakamura Picture-in-Picture                                                 |
