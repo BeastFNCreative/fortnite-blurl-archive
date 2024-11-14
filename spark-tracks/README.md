@@ -226,6 +226,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [FdKapogVcFPucYomOy](blurls/FdKapogVcFPucYomOy.json) | Disturbed - The Sound of Silence (Instrumental)                               |
 | [rcUuAmMjRKBNWpKurI](blurls/rcUuAmMjRKBNWpKurI.json) | Disturbed - The Sound of Silence (Preview)                                    |
 | [fVQNSjuGMygRKHPFiE](blurls/fVQNSjuGMygRKHPFiE.json) | Disturbed - The Sound of Silence (Stereo Track)                               |
+| [atRMHBYCRsZefOeowH](blurls/atRMHBYCRsZefOeowH.json) | DJ Khaled ft. T-Pain, Ludacris, Snoop Dogg & Rick Ross - All I Do Is Win      |
+| [UUfAcWZVRZxlnZigwr](blurls/UUfAcWZVRZxlnZigwr.json) | DJ Khaled ft. T-Pain, Ludacris, Snoop Dogg & Rick Ross - All I Do Is Win (Instrumental) |
+| [nqBefBtckrSkCqXMUl](blurls/nqBefBtckrSkCqXMUl.json) | DJ Khaled ft. T-Pain, Ludacris, Snoop Dogg & Rick Ross - All I Do Is Win (Preview) |
+| [iIDbnjhbkekCCsGUbi](blurls/iIDbnjhbkekCCsGUbi.json) | DJ Khaled ft. T-Pain, Ludacris, Snoop Dogg & Rick Ross - All I Do Is Win (Stereo Track) |
 | [dNzhpYzOCoQbchHjPi](blurls/dNzhpYzOCoQbchHjPi.json) | DMX - X Gon' Give It To Ya                                                    |
 | [MgWCTsTMhUKLmlVyCR](blurls/MgWCTsTMhUKLmlVyCR.json) | DMX - X Gon' Give It To Ya (Instrumental)                                     |
 | [NkLaeMUkINfhzwRlwg](blurls/NkLaeMUkINfhzwRlwg.json) | DMX - X Gon' Give It To Ya (Preview)                                          |
@@ -525,6 +529,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [lIBhUqgsqbQcHabdxp](blurls/lIBhUqgsqbQcHabdxp.json) | Far East Movement ft. The Cataracs & DEV - Like A G6 (Instrumental)           |
 | [WSUhSFJUohzHULIhmH](blurls/WSUhSFJUohzHULIhmH.json) | Far East Movement ft. The Cataracs & DEV - Like A G6 (Preview)                |
 | [OfaOVzVgIonQyfRLGj](blurls/OfaOVzVgIonQyfRLGj.json) | Far East Movement ft. The Cataracs & DEV - Like A G6 (Stereo Track)           |
+| [VKGITyvFHyqOKRWRRZ](blurls/VKGITyvFHyqOKRWRRZ.json) | Flo Rida, Kesha - Right Round                                                 |
+| [cazmtiDcJVYwUtbGYO](blurls/cazmtiDcJVYwUtbGYO.json) | Flo Rida, Kesha - Right Round (Instrumental)                                  |
+| [rygXvFKckXCdunKDyz](blurls/rygXvFKckXCdunKDyz.json) | Flo Rida, Kesha - Right Round (Preview)                                       |
+| [JTQbXPVWIIZsXnCLdR](blurls/JTQbXPVWIIZsXnCLdR.json) | Flo Rida, Kesha - Right Round (Stereo Track)                                  |
 | [NDlUSLHGLxJUcnKHRN](blurls/NDlUSLHGLxJUcnKHRN.json) | Flock No B - Flock No Pilgrim                                                 |
 | [mWjTugiKTqwMWrrGbw](blurls/mWjTugiKTqwMWrrGbw.json) | Florence + The Machine - Dog Days Are Over                                    |
 | [MZnIlagpQkjalAHQjK](blurls/MZnIlagpQkjalAHQjK.json) | Florence + The Machine - Dog Days Are Over (Preview)                          |
@@ -602,6 +610,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [mkzpzDAdZHUWFMmLDZ](blurls/mkzpzDAdZHUWFMmLDZ.json) | Hozier - Too Sweet (Instrumental)                                             |
 | [rZObpKxOjuQPIRoqWz](blurls/rZObpKxOjuQPIRoqWz.json) | Hozier - Too Sweet (Preview)                                                  |
 | [OKPLmRcmsyfPNNkYNi](blurls/OKPLmRcmsyfPNNkYNi.json) | Hozier - Too Sweet (Stereo Track)                                             |
+| [JvDqagZevmZlBRwufX](blurls/JvDqagZevmZlBRwufX.json) | Ice Spice - In Ha Mood                                                        |
+| [dimqnRyDbGgMGekbDX](blurls/dimqnRyDbGgMGekbDX.json) | Ice Spice - In Ha Mood (Instrumental)                                         |
+| [gQqOfFZGSUTVKXUIJj](blurls/gQqOfFZGSUTVKXUIJj.json) | Ice Spice - In Ha Mood (Preview)                                              |
+| [pRSeaQkEAknnBxcPXH](blurls/pRSeaQkEAknnBxcPXH.json) | Ice Spice - In Ha Mood (Stereo Track)                                         |
+| [FyeqLtEPfJnbUmsIWc](blurls/FyeqLtEPfJnbUmsIWc.json) | Ice Spice ft. Travis Scott - Oh Shhh...                                       |
+| [SDsLdIexIvbgIgeuNg](blurls/SDsLdIexIvbgIgeuNg.json) | Ice Spice ft. Travis Scott - Oh Shhh... (Instrumental)                        |
+| [WONVlPvkGheNONbuxp](blurls/WONVlPvkGheNONbuxp.json) | Ice Spice ft. Travis Scott - Oh Shhh... (Preview)                             |
+| [phNAIsnnlnNfrPwNYD](blurls/phNAIsnnlnNfrPwNYD.json) | Ice Spice ft. Travis Scott - Oh Shhh... (Stereo Track)                        |
 | [QwcSJqzFBWJtZQLapy](blurls/QwcSJqzFBWJtZQLapy.json) | Imagine Dragons - Believer                                                    |
 | [lnabeJwCdakQWbyFJV](blurls/lnabeJwCdakQWbyFJV.json) | Imagine Dragons - Believer (Instrumental)                                     |
 | [oIuiDZqtIGZxyvUgAW](blurls/oIuiDZqtIGZxyvUgAW.json) | Imagine Dragons - Believer (Preview)                                          |
@@ -1229,6 +1245,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [HnTGxddGusUcDZZPxb](blurls/HnTGxddGusUcDZZPxb.json) | Technotronic - Pump Up The Jam (Instrumental)                                 |
 | [jOQWnaeipxAOCrQghs](blurls/jOQWnaeipxAOCrQghs.json) | Technotronic - Pump Up The Jam (Preview)                                      |
 | [IulVuRgstnpuSwIelF](blurls/IulVuRgstnpuSwIelF.json) | Technotronic - Pump Up The Jam (Stereo Track)                                 |
+| [ZMvmydQYMcSLsYbHLh](blurls/ZMvmydQYMcSLsYbHLh.json) | Terror Squad ft. Remy & Fat Joe - Lean Back                                   |
+| [DOUAPaRHFuNBiQSZMM](blurls/DOUAPaRHFuNBiQSZMM.json) | Terror Squad ft. Remy & Fat Joe - Lean Back (Instrumental)                    |
+| [AhCYPZsRHwzeKhPqxm](blurls/AhCYPZsRHwzeKhPqxm.json) | Terror Squad ft. Remy & Fat Joe - Lean Back (Preview)                         |
+| [GkgJFvJKgkbKltjnLx](blurls/GkgJFvJKgkbKltjnLx.json) | Terror Squad ft. Remy & Fat Joe - Lean Back (Stereo Track)                    |
 | [LzKrWMfTRNAdAQBhDL](blurls/LzKrWMfTRNAdAQBhDL.json) | The All-American Rejects - Dirty Little Secret                                |
 | [xseHHRBEPzgcKmOscY](blurls/xseHHRBEPzgcKmOscY.json) | The All-American Rejects - Dirty Little Secret (Instrumental)                 |
 | [SYOAJSHtalCDBjDAzR](blurls/SYOAJSHtalCDBjDAzR.json) | The All-American Rejects - Dirty Little Secret (Preview)                      |
