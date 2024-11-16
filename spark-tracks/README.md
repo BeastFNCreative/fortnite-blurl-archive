@@ -230,6 +230,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [UUfAcWZVRZxlnZigwr](blurls/UUfAcWZVRZxlnZigwr.json) | DJ Khaled ft. T-Pain, Ludacris, Snoop Dogg & Rick Ross - All I Do Is Win (Instrumental) |
 | [nqBefBtckrSkCqXMUl](blurls/nqBefBtckrSkCqXMUl.json) | DJ Khaled ft. T-Pain, Ludacris, Snoop Dogg & Rick Ross - All I Do Is Win (Preview) |
 | [iIDbnjhbkekCCsGUbi](blurls/iIDbnjhbkekCCsGUbi.json) | DJ Khaled ft. T-Pain, Ludacris, Snoop Dogg & Rick Ross - All I Do Is Win (Stereo Track) |
+| [GHDlNXBmFoRSIZLvZo](blurls/GHDlNXBmFoRSIZLvZo.json) | DJ Khaled ft. T-Pain, Ludacris, Snoop Dogg & Rick Ross - All I Do Is Win (v2) |
+| [BzsbODFpjGZfVDaNeK](blurls/BzsbODFpjGZfVDaNeK.json) | DJ Khaled ft. T-Pain, Ludacris, Snoop Dogg & Rick Ross - All I Do Is Win (v2) (Instrumental) |
+| [nxfNbHQnojbGQEDnTy](blurls/nxfNbHQnojbGQEDnTy.json) | DJ Khaled ft. T-Pain, Ludacris, Snoop Dogg & Rick Ross - All I Do Is Win (v2) (Preview) |
+| [LwXepZVtAYJyOdSQMW](blurls/LwXepZVtAYJyOdSQMW.json) | DJ Khaled ft. T-Pain, Ludacris, Snoop Dogg & Rick Ross - All I Do Is Win (v2) (Stereo Track) |
 | [dNzhpYzOCoQbchHjPi](blurls/dNzhpYzOCoQbchHjPi.json) | DMX - X Gon' Give It To Ya                                                    |
 | [MgWCTsTMhUKLmlVyCR](blurls/MgWCTsTMhUKLmlVyCR.json) | DMX - X Gon' Give It To Ya (Instrumental)                                     |
 | [NkLaeMUkINfhzwRlwg](blurls/NkLaeMUkINfhzwRlwg.json) | DMX - X Gon' Give It To Ya (Preview)                                          |
