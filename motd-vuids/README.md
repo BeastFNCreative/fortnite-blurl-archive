@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [iyuCdrnaOhbqVyOTBR](blurls/iyuCdrnaOhbqVyOTBR.json) | Nuthin' But A G Thang Icon Series Emote |
 | [FBTPFzBJSjXoubHtdt](blurls/FBTPFzBJSjXoubHtdt.json) | California Love Icon Series Emote |
 | [DUtdSXMWzUpalptwbu](blurls/DUtdSXMWzUpalptwbu.json) | Reload Desert Map Trailer |
 | [VKGnqKNOQZUgDSKzdj](blurls/VKGnqKNOQZUgDSKzdj.json) | Snoop's Walk Icon Series Emote |
