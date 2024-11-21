@@ -104,6 +104,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [eYAtjAiljtRPHrajnV](blurls/eYAtjAiljtRPHrajnV.json) | Beastie Boys - Sabotage (Instrumental)                                        |
 | [RzxRNvXXdHBxiPFlRg](blurls/RzxRNvXXdHBxiPFlRg.json) | Beastie Boys - Sabotage (Preview)                                             |
 | [MAlRudoTHTIzpBuSiq](blurls/MAlRudoTHTIzpBuSiq.json) | Beastie Boys - Sabotage (Stereo Track)                                        |
+| [PmfHtCvLhMNzXLJZIg](blurls/PmfHtCvLhMNzXLJZIg.json) | Benson Boone - Beautiful Things                                               |
+| [ecbJRGMAiRexLWNQDH](blurls/ecbJRGMAiRexLWNQDH.json) | Benson Boone - Beautiful Things (Instrumental)                                |
+| [mDiLKRHssqONSeZoAn](blurls/mDiLKRHssqONSeZoAn.json) | Benson Boone - Beautiful Things (Preview)                                     |
+| [kkLzUUgTukKYNVdwPe](blurls/kkLzUUgTukKYNVdwPe.json) | Benson Boone - Beautiful Things (Stereo Track)                                |
 | [PxZKeZngmCyBMuvUiW](blurls/PxZKeZngmCyBMuvUiW.json) | Bell Biv DeVoe - Poison                                                       |
 | [TIewKJiAqkeXzFhXFu](blurls/TIewKJiAqkeXzFhXFu.json) | Bell Biv DeVoe - Poison (Instrumental)                                        |
 | [EeaSoyOgNJLpyZfRyI](blurls/EeaSoyOgNJLpyZfRyI.json) | Bell Biv DeVoe - Poison (Preview)                                             |
@@ -533,6 +537,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [lIBhUqgsqbQcHabdxp](blurls/lIBhUqgsqbQcHabdxp.json) | Far East Movement ft. The Cataracs & DEV - Like A G6 (Instrumental)           |
 | [WSUhSFJUohzHULIhmH](blurls/WSUhSFJUohzHULIhmH.json) | Far East Movement ft. The Cataracs & DEV - Like A G6 (Preview)                |
 | [OfaOVzVgIonQyfRLGj](blurls/OfaOVzVgIonQyfRLGj.json) | Far East Movement ft. The Cataracs & DEV - Like A G6 (Stereo Track)           |
+| [jicmdvoEmoRmYzQJCX](blurls/jicmdvoEmoRmYzQJCX.json) | Flo Rida - My House                                                           |
+| [GxcYeydZRPNCceAOnr](blurls/GxcYeydZRPNCceAOnr.json) | Flo Rida - My House (Instrumental)                                            |
+| [FdxmHFUqyXxnWXTvKy](blurls/FdxmHFUqyXxnWXTvKy.json) | Flo Rida - My House (Preview)                                                 |
+| [bRsWkWtGikBqgORBSO](blurls/bRsWkWtGikBqgORBSO.json) | Flo Rida - My House (Stereo Track)                                            |
 | [VKGITyvFHyqOKRWRRZ](blurls/VKGITyvFHyqOKRWRRZ.json) | Flo Rida, Kesha - Right Round                                                 |
 | [cazmtiDcJVYwUtbGYO](blurls/cazmtiDcJVYwUtbGYO.json) | Flo Rida, Kesha - Right Round (Instrumental)                                  |
 | [rygXvFKckXCdunKDyz](blurls/rygXvFKckXCdunKDyz.json) | Flo Rida, Kesha - Right Round (Preview)                                       |
@@ -672,6 +680,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [aAqtRTMWCmgBdoWKgW](blurls/aAqtRTMWCmgBdoWKgW.json) | Jonas Brothers - Sucker (Instrumental)                                        |
 | [tccfoxUXzLfwXYdzEk](blurls/tccfoxUXzLfwXYdzEk.json) | Jonas Brothers - Sucker (Preview)                                             |
 | [xkZQbOGgLJYbqIzsHm](blurls/xkZQbOGgLJYbqIzsHm.json) | Jonas Brothers - Sucker (Stereo Track)                                        |
+| [XMsfaApxjKDqYuIewX](blurls/XMsfaApxjKDqYuIewX.json) | Juice WRLD - Armed And Dangerous                                              |
+| [TUMpQEhrcYCKyWQoob](blurls/TUMpQEhrcYCKyWQoob.json) | Juice WRLD - Armed And Dangerous (Instrumental)                               |
+| [ZBtSwCsbfeZDLMSbaB](blurls/ZBtSwCsbfeZDLMSbaB.json) | Juice WRLD - Armed And Dangerous (Preview)                                    |
+| [feLqaLswmndluowjtw](blurls/feLqaLswmndluowjtw.json) | Juice WRLD - Armed And Dangerous (Stereo Track)                               |
 | [ExyKoSEXKXzxaCARtv](blurls/ExyKoSEXKXzxaCARtv.json) | Juice WRLD - Lucid Dreams                                                     |
 | [OfzquJZfStnMfLUaQl](blurls/OfzquJZfStnMfLUaQl.json) | Juice WRLD - Lucid Dreams (Instrumental)                                      |
 | [vmHRfNYrCrrJmCxXbI](blurls/vmHRfNYrCrrJmCxXbI.json) | Juice WRLD - Lucid Dreams (Preview)                                           |
@@ -680,6 +692,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [lFvgbIHummqdogxESU](blurls/lFvgbIHummqdogxESU.json) | Juice WRLD - Robbery (Instrumental)                                           |
 | [dmWamntHVnOJKYopQK](blurls/dmWamntHVnOJKYopQK.json) | Juice WRLD - Robbery (Preview)                                                |
 | [QWFOkQjPcaHjcWDGus](blurls/QWFOkQjPcaHjcWDGus.json) | Juice WRLD - Robbery (Stereo Track)                                           |
+| [QrLrJCZtUvslytVTeU](blurls/QrLrJCZtUvslytVTeU.json) | Juice WRLD - Wishing Well                                                     |
+| [nxNLQpqZWBnPAuXeof](blurls/nxNLQpqZWBnPAuXeof.json) | Juice WRLD - Wishing Well (Instrumental)                                      |
+| [jXHslbheGQgRsNDHQJ](blurls/jXHslbheGQgRsNDHQJ.json) | Juice WRLD - Wishing Well (Preview)                                           |
+| [judXfSgsqNKTTPgaNa](blurls/judXfSgsqNKTTPgaNa.json) | Juice WRLD - Wishing Well (Stereo Track)                                      |
 | [WVLkcCPXlFLRAgRzAU](blurls/WVLkcCPXlFLRAgRzAU.json) | Juice WRLD w/ Marshmello - Come & Go                                          |
 | [yXywvsouffAkaGwQLk](blurls/yXywvsouffAkaGwQLk.json) | Juice WRLD w/ Marshmello - Come & Go (Preview)                                |
 | [iBlBEQOJAIZmjKDVnQ](blurls/iBlBEQOJAIZmjKDVnQ.json) | Juice WRLD w/ Marshmello - Come & Go (v2)                                     |
