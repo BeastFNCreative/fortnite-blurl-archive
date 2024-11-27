@@ -8,6 +8,10 @@ Jam Track Audio Data from Fortnite Festival.
 
 | VUID                                                 | Description                                                                   |
 | :--------------------------------------------------- | :---------------------------------------------------------------------------- |
+| [EISboyGiGpjhrbvZfX](blurls/EISboyGiGpjhrbvZfX.json) | 2Pac ft. Big Syke - All Eyez On Me                                            |
+| [gozFjruSeHokkjkbSN](blurls/gozFjruSeHokkjkbSN.json) | 2Pac ft. Big Syke - All Eyez On Me (Instrumental)                             |
+| [CLsXpLtnkTtINNkEhl](blurls/CLsXpLtnkTtINNkEhl.json) | 2Pac ft. Big Syke - All Eyez On Me (Preview)                                  |
+| [lIpkZhzvPfMwgRQZQP](blurls/lIpkZhzvPfMwgRQZQP.json) | 2Pac ft. Big Syke - All Eyez On Me (Stereo Track)                             |
 | [GpNFoziIXTqzLpJqye](blurls/GpNFoziIXTqzLpJqye.json) | 2Pac ft. Talent - Changes                                                     |
 | [TlfTlKazfcrAkVkVLV](blurls/TlfTlKazfcrAkVkVLV.json) | 2Pac ft. Talent - Changes (Instrumental)                                      |
 | [xmatzFYiLBuEGwwtxe](blurls/xmatzFYiLBuEGwwtxe.json) | 2Pac ft. Talent - Changes (Preview)                                           |
@@ -86,6 +90,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [mvJTsXgzJpjGcUxGds](blurls/mvJTsXgzJpjGcUxGds.json) | Avicii - The Nights (Instrumental)                                            |
 | [UDuGarftazmOFVcSly](blurls/UDuGarftazmOFVcSly.json) | Avicii - The Nights (Preview)                                                 |
 | [APZvQzbCZrhGVWZEuN](blurls/APZvQzbCZrhGVWZEuN.json) | Avicii - The Nights (Stereo Track)                                            |
+| [eOqTtrWuqkrMoihXbt](blurls/eOqTtrWuqkrMoihXbt.json) | Backstreet Boys - Everybody (Backstreet's Back)                               |
+| [qxhMCNtUbGiMkFUMgR](blurls/qxhMCNtUbGiMkFUMgR.json) | Backstreet Boys - Everybody (Backstreet's Back) (Instrumental)                |
+| [sGYXOBLHdOgWnXTTxM](blurls/sGYXOBLHdOgWnXTTxM.json) | Backstreet Boys - Everybody (Backstreet's Back) (Preview)                     |
+| [PZYUZeyyEIbbIcntxn](blurls/PZYUZeyyEIbbIcntxn.json) | Backstreet Boys - Everybody (Backstreet's Back) (Stereo Track)                |
 | [KjereopOoXsOPYLGvI](blurls/KjereopOoXsOPYLGvI.json) | Bad Bunny - Tití Me Preguntó                                                  |
 | [DujLMclKUZFRWQHmWl](blurls/DujLMclKUZFRWQHmWl.json) | Bad Bunny - Tití Me Preguntó (Preview)                                        |
 | [tNwsdCwzOdrkJLqMkn](blurls/tNwsdCwzOdrkJLqMkn.json) | Bad Bunny - Tití Me Preguntó (v2)                                             |
@@ -541,6 +549,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [GxcYeydZRPNCceAOnr](blurls/GxcYeydZRPNCceAOnr.json) | Flo Rida - My House (Instrumental)                                            |
 | [FdxmHFUqyXxnWXTvKy](blurls/FdxmHFUqyXxnWXTvKy.json) | Flo Rida - My House (Preview)                                                 |
 | [bRsWkWtGikBqgORBSO](blurls/bRsWkWtGikBqgORBSO.json) | Flo Rida - My House (Stereo Track)                                            |
+| [PTGdvrnOKLQqSSHwZp](blurls/PTGdvrnOKLQqSSHwZp.json) | Flo Rida ft. Sia - Wild Ones                                                  |
+| [fZWVSXsrLdoGsiYLCD](blurls/fZWVSXsrLdoGsiYLCD.json) | Flo Rida ft. Sia - Wild Ones (Instrumental)                                   |
+| [pwGaObLSgvMnzoPycE](blurls/pwGaObLSgvMnzoPycE.json) | Flo Rida ft. Sia - Wild Ones (Preview)                                        |
+| [tKKHnCFDKjLLrUeWAV](blurls/tKKHnCFDKjLLrUeWAV.json) | Flo Rida ft. Sia - Wild Ones (Stereo Track)                                   |
 | [VKGITyvFHyqOKRWRRZ](blurls/VKGITyvFHyqOKRWRRZ.json) | Flo Rida, Kesha - Right Round                                                 |
 | [cazmtiDcJVYwUtbGYO](blurls/cazmtiDcJVYwUtbGYO.json) | Flo Rida, Kesha - Right Round (Instrumental)                                  |
 | [rygXvFKckXCdunKDyz](blurls/rygXvFKckXCdunKDyz.json) | Flo Rida, Kesha - Right Round (Preview)                                       |
@@ -684,6 +696,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [TUMpQEhrcYCKyWQoob](blurls/TUMpQEhrcYCKyWQoob.json) | Juice WRLD - Armed And Dangerous (Instrumental)                               |
 | [ZBtSwCsbfeZDLMSbaB](blurls/ZBtSwCsbfeZDLMSbaB.json) | Juice WRLD - Armed And Dangerous (Preview)                                    |
 | [feLqaLswmndluowjtw](blurls/feLqaLswmndluowjtw.json) | Juice WRLD - Armed And Dangerous (Stereo Track)                               |
+| [VkXtyPYGrDyuONbVhc](blurls/VkXtyPYGrDyuONbVhc.json) | Juice WRLD - Lean Wit Me                                                      |
+| [vpGtcZDXfKkKEdnbTf](blurls/vpGtcZDXfKkKEdnbTf.json) | Juice WRLD - Lean Wit Me (Instrumental)                                       |
+| [mzdvkRqAqYcGoGmIQW](blurls/mzdvkRqAqYcGoGmIQW.json) | Juice WRLD - Lean Wit Me (Preview)                                            |
+| [MvRHXMmWKLjZszWYjq](blurls/MvRHXMmWKLjZszWYjq.json) | Juice WRLD - Lean Wit Me (Stereo Track)                                       |
 | [ExyKoSEXKXzxaCARtv](blurls/ExyKoSEXKXzxaCARtv.json) | Juice WRLD - Lucid Dreams                                                     |
 | [OfzquJZfStnMfLUaQl](blurls/OfzquJZfStnMfLUaQl.json) | Juice WRLD - Lucid Dreams (Instrumental)                                      |
 | [vmHRfNYrCrrJmCxXbI](blurls/vmHRfNYrCrrJmCxXbI.json) | Juice WRLD - Lucid Dreams (Preview)                                           |
@@ -1005,6 +1021,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [JQpkFnFXKwwdzQSYNA](blurls/JQpkFnFXKwwdzQSYNA.json) | NickEh30 - Never Back Down (Instrumental)                                     |
 | [rAKHvrlursjMZvhBJh](blurls/rAKHvrlursjMZvhBJh.json) | NickEh30 - Never Back Down (Preview)                                          |
 | [fDCHHvAFyKBcXqvIXw](blurls/fDCHHvAFyKBcXqvIXw.json) | NickEh30 - Never Back Down (Stereo Track)                                     |
+| [zLCUTNokVuzCXCbnNk](blurls/zLCUTNokVuzCXCbnNk.json) | Nicki Minaj - FTCU                                                            |
+| [UzQPmuagVhzUyaFsKK](blurls/UzQPmuagVhzUyaFsKK.json) | Nicki Minaj - FTCU (Instrumental)                                             |
+| [vmhuuBPxdaNKouQFRY](blurls/vmhuuBPxdaNKouQFRY.json) | Nicki Minaj - FTCU (Preview)                                                  |
+| [BUSrGbKcQmOsOZlBAQ](blurls/BUSrGbKcQmOsOZlBAQ.json) | Nicki Minaj - FTCU (Stereo Track)                                             |
 | [NKYnNKqZMYSlccqGkU](blurls/NKYnNKqZMYSlccqGkU.json) | Nicki Minaj - Starships                                                       |
 | [GORcGyTyntuVpJEZXg](blurls/GORcGyTyntuVpJEZXg.json) | Nicki Minaj - Starships (Instrumental)                                        |
 | [jEVtqlgDKkFLeszFxK](blurls/jEVtqlgDKkFLeszFxK.json) | Nicki Minaj - Starships (Preview)                                             |
@@ -1057,6 +1077,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [ZdSeNuFLRUxmXRthMe](blurls/ZdSeNuFLRUxmXRthMe.json) | OneRepublic - Counting Stars (Instrumental)                                   |
 | [trFSPMmSuyiVaBMVfN](blurls/trFSPMmSuyiVaBMVfN.json) | OneRepublic - Counting Stars (Preview)                                        |
 | [JADkxviCegtcRcjshe](blurls/JADkxviCegtcRcjshe.json) | OneRepublic - Counting Stars (Stereo Track)                                   |
+| [JMTUfAlgEvduqnSbxl](blurls/JMTUfAlgEvduqnSbxl.json) | Outkast - Hey Ya!                                                             |
+| [XJtYAtRxpfYzwmLyKC](blurls/XJtYAtRxpfYzwmLyKC.json) | Outkast - Hey Ya! (Instrumental)                                              |
+| [GqaLhMxftUndEdlWRG](blurls/GqaLhMxftUndEdlWRG.json) | Outkast - Hey Ya! (Preview)                                                   |
+| [THHsTcEIhMPqdKZxcM](blurls/THHsTcEIhMPqdKZxcM.json) | Outkast - Hey Ya! (Stereo Track)                                              |
 | [aKCpBJfDAMofyKgNaF](blurls/aKCpBJfDAMofyKgNaF.json) | P!nk - So What                                                                |
 | [VVQYmrqOasgqpfavSX](blurls/VVQYmrqOasgqpfavSX.json) | P!nk - So What (Instrumental)                                                 |
 | [RHoPodddhErJGKVBEJ](blurls/RHoPodddhErJGKVBEJ.json) | P!nk - So What (Preview)                                                      |
