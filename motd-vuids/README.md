@@ -10,6 +10,8 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [YIXTZNFEfPyuqGptEZ](blurls/YIXTZNFEfPyuqGptEZ.json) | Fortnite Chapter 6 Season 1 Cinematic Trailer |
+| [dRxtpiITifxuvmYNUI](blurls/dRxtpiITifxuvmYNUI.json) | Fortnite Chapter 6 Season 1 Gameplay Trailer |
 | [XEWGogFbWZydkpIMON](blurls/XEWGogFbWZydkpIMON.json) | Rap Monster Icon Series Emote |
 | [iyuCdrnaOhbqVyOTBR](blurls/iyuCdrnaOhbqVyOTBR.json) | Nuthin' But A G Thang Icon Series Emote |
 | [FBTPFzBJSjXoubHtdt](blurls/FBTPFzBJSjXoubHtdt.json) | California Love Icon Series Emote |
