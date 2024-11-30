@@ -64,6 +64,10 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [yZCScFFPeBHXNMtusu](blurls/yZCScFFPeBHXNMtusu.json) | Picture-in-Picture Bouncing Llama Placeholder                                                        |
 | [NAMfVPLLYJqykofrFu](blurls/NAMfVPLLYJqykofrFu.json) | Rift Tour Tab Background                                                                             |
 | [nKaFcQbEhacuiRdfFD](blurls/nKaFcQbEhacuiRdfFD.json) | Rocket Racing First-Time Launch Video                                                                |
+| [deeISHbvjKgGAlVdXT](blurls/deeISHbvjKgGAlVdXT.json) | Remix The Finale: Juice WRLD - Empty Out Your Pockets Fortnite Music Video                           |
+| [pDmoDzaiZjQEOLcYkG](blurls/pDmoDzaiZjQEOLcYkG.json) | Remix The Finale: Juice WRLD - Empty Out Your Pockets Fortnite Music Video (Alt)                     |
+| [VFdTkuFfIhZqPeueYE](blurls/VFdTkuFfIhZqPeueYE.json) | Remix The Finale: Fortnite OG Teaser                                                                 |
+| [ZbTxUNYqgPAowNRqUP](blurls/ZbTxUNYqgPAowNRqUP.json) | Remix The Finale: Chapter 6 Season 1 Teaser                                                          |
 | [jdowniYVhDGgZLYhgm](blurls/jdowniYVhDGgZLYhgm.json) | Remix The Prelude: Pre-Event Music                                                                   |
 | [XXCKxHvovCXUnzJkZY](blurls/XXCKxHvovCXUnzJkZY.json) | Remix The Prelude: Full Event Replay at Risky                                                        |
 | [qpvkhEDcVqkgDwKteF](blurls/qpvkhEDcVqkgDwKteF.json) | Remix The Prelude: Remix Combined Trailer                                                            |
