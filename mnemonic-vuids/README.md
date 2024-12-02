@@ -52,6 +52,7 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [iYrWMWYEnnantjNdRv](blurls/iYrWMWYEnnantjNdRv.json) | set_br_playlists : Wrecked |
 | [dPKIUpCZmqpWiVlvsB](blurls/dPKIUpCZmqpWiVlvsB.json) | set_br_playlists : Absolute Doom |
 | [uoSoczauoTiSArNIHL](blurls/uoSoczauoTiSArNIHL.json) | set_br_playlists : Remix: Chapter 2 |
+| [BPmqJrpZmlEdIOGook](blurls/BPmqJrpZmlEdIOGook.json) | set_br_playlists : Hunters |
 | [nBXWuBNMdScHeYtCnP](blurls/nBXWuBNMdScHeYtCnP.json) | set_delmar_mrs_ranked : Rocket Racing |
 | [qpdchKarjFnwpdEnYj](blurls/qpdchKarjFnwpdEnYj.json) | set_delmar_mrs_ranked : Rocket Racing (Extra VUID) |
 | [zmDptnMNGqUEdlBwTv](blurls/zmDptnMNGqUEdlBwTv.json) | set_delmar_mrs_ranked : Rocket Racing (Star Wars Update) |
@@ -60,5 +61,6 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [gnEAizFWiuyqzUeEeL](blurls/gnEAizFWiuyqzUeEeL.json) | set_nobuild_playlists : Myths and Mortals (Star Wars Update) |
 | [NmHbNVlXvXnjavJGTV](blurls/NmHbNVlXvXnjavJGTV.json) | set_nobuild_playlists : Wrecked |
 | [JXjAOXDFfYTmPVpZVW](blurls/JXjAOXDFfYTmPVpZVW.json) | set_nobuild_playlists : Absolute Doom |
+| [mrhasYehRLdjYGMdmL](blurls/mrhasYehRLdjYGMdmL.json) | set_nobuild_playlists : Hunters |
 | [KLHeAwpnfyWJzsHggq](blurls/KLHeAwpnfyWJzsHggq.json) | set_nobuild_playlists : Zero Build - Battle Royale |
 | [VTfsLUcDGhrnzHppNB](blurls/VTfsLUcDGhrnzHppNB.json) | set_nobuild_playlists : Zero Build - Battle Royale (v1) |

@@ -28,6 +28,7 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [tKbnGIrZCgaLsywukE](blurls/tKbnGIrZCgaLsywukE.json) | Fracture In-Game Event Video - W.I.P Cinematic Part 2                                                |
 | [CjVNEhZXAuhxosqXtk](blurls/CjVNEhZXAuhxosqXtk.json) | Fracture In-Game Event Video - W.I.P Cinematic Part 3                                                |
 | [LBDBeUuVQFMlqfkmhi](blurls/LBDBeUuVQFMlqfkmhi.json) | Fracture In-Game Event Video - W.I.P Cinematic Part 4                                                |
+| [JoGhGIKTuDbICqHCrm](blurls/JoGhGIKTuDbICqHCrm.json) | Fortnite OG: Season Launch Trailer Placeholder                                                       |
 | [KJDUvxyRKLzyLGxQhG](blurls/KJDUvxyRKLzyLGxQhG.json) | Free Guy Quest Accepted Video - Get Hit by a moving vehicle                                          |
 | [TCqizesJBstbMpQvEI](blurls/TCqizesJBstbMpQvEI.json) | Free Guy Quest Accepted Video - Place coins around the map                                           |
 | [DnwOLUSrzEMnNgmrCP](blurls/DnwOLUSrzEMnNgmrCP.json) | Free Guy Quest Accepted Video - Reboot or revive teammates, or interact with campfires               |

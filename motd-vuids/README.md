@@ -10,6 +10,8 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [mFSuuDfdgJnplCWZGP](blurls/mFSuuDfdgJnplCWZGP.json) | Get H.O.T Icon Series Emote |
+| [uqfxbVamKSilRIVoqg](blurls/uqfxbVamKSilRIVoqg.json) | Fortnite Crew: Every Single Pass, Every Single Time Trailer |
 | [YIXTZNFEfPyuqGptEZ](blurls/YIXTZNFEfPyuqGptEZ.json) | Fortnite Chapter 6 Season 1 Cinematic Trailer |
 | [dRxtpiITifxuvmYNUI](blurls/dRxtpiITifxuvmYNUI.json) | Fortnite Chapter 6 Season 1 Gameplay Trailer |
 | [XEWGogFbWZydkpIMON](blurls/XEWGogFbWZydkpIMON.json) | Rap Monster Icon Series Emote |

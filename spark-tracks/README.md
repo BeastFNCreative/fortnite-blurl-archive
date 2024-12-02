@@ -313,12 +313,20 @@ Jam Track Audio Data from Fortnite Festival.
 | [WMlwprRLVHpNPgmjpi](blurls/WMlwprRLVHpNPgmjpi.json) | Epic Games - Brace for Chaos (Instrumental)                                   |
 | [UVaPRcwdihUdxhhCia](blurls/UVaPRcwdihUdxhhCia.json) | Epic Games - Brace for Chaos (Preview)                                        |
 | [LmkyoVJOIOARuEBjiQ](blurls/LmkyoVJOIOARuEBjiQ.json) | Epic Games - Brace for Chaos (Stereo Track)                                   |
+| [CCUXEbwdHnvamxHuCz](blurls/CCUXEbwdHnvamxHuCz.json) | Epic Games - Break The Curse                                                  |
+| [UZiOyqRKIvlWRonmYp](blurls/UZiOyqRKIvlWRonmYp.json) | Epic Games - Break The Curse (Instrumental)                                   |
+| [XQavkiaPZZboCJnQGS](blurls/XQavkiaPZZboCJnQGS.json) | Epic Games - Break The Curse (Preview)                                        |
+| [yNXVkhAUsNcXekvKBc](blurls/yNXVkhAUsNcXekvKBc.json) | Epic Games - Break The Curse (Stereo Track)                                   |
 | [AqzJOZzkSxbofUdkMB](blurls/AqzJOZzkSxbofUdkMB.json) | Epic Games - Butter Barn Hoedown                                              |
 | [ibdfdERRkeiDoCnFPM](blurls/ibdfdERRkeiDoCnFPM.json) | Epic Games - Butter Barn Hoedown (Preview)                                    |
 | [JXTHTqaQusWrIqTwWo](blurls/JXTHTqaQusWrIqTwWo.json) | Epic Games - Butter Barn Hoedown (v2)                                         |
 | [suDoxMnpzEUzMhEZwv](blurls/suDoxMnpzEUzMhEZwv.json) | Epic Games - Butter Barn Hoedown (v2) (Instrumental)                          |
 | [LvAUtAEuWsMjWFDfIn](blurls/LvAUtAEuWsMjWFDfIn.json) | Epic Games - Butter Barn Hoedown (v2) (Preview)                               |
 | [LfxYFIoCqQVegTLNNP](blurls/LfxYFIoCqQVegTLNNP.json) | Epic Games - Butter Barn Hoedown (v2) (Stereo Track)                          |
+| [INaqVmFDwAnzhgrGpt](blurls/INaqVmFDwAnzhgrGpt.json) | Epic Games - Cat's Prowl                                                      |
+| [VFVNggmwZHCrzYOWvq](blurls/VFVNggmwZHCrzYOWvq.json) | Epic Games - Cat's Prowl (Instrumental)                                       |
+| [SKlfcEzXavypePAhtS](blurls/SKlfcEzXavypePAhtS.json) | Epic Games - Cat's Prowl (Preview)                                            |
+| [YTAYKrcfcNAqcIKoRV](blurls/YTAYKrcfcNAqcIKoRV.json) | Epic Games - Cat's Prowl (Stereo Track)                                       |
 | [pZVXXRWfCuHijYNagg](blurls/pZVXXRWfCuHijYNagg.json) | Epic Games - Change                                                           |
 | [SPnQfuBbHFSaGNUFyg](blurls/SPnQfuBbHFSaGNUFyg.json) | Epic Games - Change (Instrumental)                                            |
 | [GGlGfkVHYNrJMjdmnJ](blurls/GGlGfkVHYNrJMjdmnJ.json) | Epic Games - Change (Preview)                                                 |
@@ -389,6 +397,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [FJpWWDtrSBClRpMCpa](blurls/FJpWWDtrSBClRpMCpa.json) | Epic Games - Make It Known (Instrumental)                                     |
 | [gStMBDmPZqdJwujxvT](blurls/gStMBDmPZqdJwujxvT.json) | Epic Games - Make It Known (Preview)                                          |
 | [MqfmlqPKxVaMdENkhR](blurls/MqfmlqPKxVaMdENkhR.json) | Epic Games - Make It Known (Stereo Track)                                     |
+| [agSOqVXrGnSUWfrVhk](blurls/agSOqVXrGnSUWfrVhk.json) | Epic Games - Night Rose's Song                                                |
+| [xorIMJCzucASiMrmyd](blurls/xorIMJCzucASiMrmyd.json) | Epic Games - Night Rose's Song (Instrumental)                                 |
+| [kduNkcCDhyWVEgmODw](blurls/kduNkcCDhyWVEgmODw.json) | Epic Games - Night Rose's Song (Preview)                                      |
+| [ORWaLUsRyUGvaTmkKd](blurls/ORWaLUsRyUGvaTmkKd.json) | Epic Games - Night Rose's Song (Stereo Track)                                 |
 | [XgPgpmyAgqAEnKBADO](blurls/XgPgpmyAgqAEnKBADO.json) | Epic Games - Nightmare's Choice                                               |
 | [FqprjRPvMPayirntjf](blurls/FqprjRPvMPayirntjf.json) | Epic Games - Nightmare's Choice (Instrumental)                                |
 | [PjmnQLtyYrryYMyDvC](blurls/PjmnQLtyYrryYMyDvC.json) | Epic Games - Nightmare's Choice (Preview)                                     |
@@ -696,6 +708,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [TUMpQEhrcYCKyWQoob](blurls/TUMpQEhrcYCKyWQoob.json) | Juice WRLD - Armed And Dangerous (Instrumental)                               |
 | [ZBtSwCsbfeZDLMSbaB](blurls/ZBtSwCsbfeZDLMSbaB.json) | Juice WRLD - Armed And Dangerous (Preview)                                    |
 | [feLqaLswmndluowjtw](blurls/feLqaLswmndluowjtw.json) | Juice WRLD - Armed And Dangerous (Stereo Track)                               |
+| [yIcPnlkvGFlstTIhQR](blurls/yIcPnlkvGFlstTIhQR.json) | Juice WRLD - Barbarian                                                        |
+| [EBUUCSQeUkWkoaLzcx](blurls/EBUUCSQeUkWkoaLzcx.json) | Juice WRLD - Barbarian (Instrumental)                                         |
+| [XeGzqYWbRwlPTgxBZk](blurls/XeGzqYWbRwlPTgxBZk.json) | Juice WRLD - Barbarian (Preview)                                              |
+| [otGCxTMhXqkAJtwuOu](blurls/otGCxTMhXqkAJtwuOu.json) | Juice WRLD - Barbarian (Stereo Track)                                         |
+| [qxqgIdLUHELQDDnunL](blurls/qxqgIdLUHELQDDnunL.json) | Juice WRLD - Empty Out Your Pockets                                           |
+| [kYdNrjaGdSIjQDDDNK](blurls/kYdNrjaGdSIjQDDDNK.json) | Juice WRLD - Empty Out Your Pockets (Instrumental)                            |
+| [QDwkcXGkqUVvAjSmIu](blurls/QDwkcXGkqUVvAjSmIu.json) | Juice WRLD - Empty Out Your Pockets (Preview)                                 |
+| [AGCjKtaDceEcVAYroO](blurls/AGCjKtaDceEcVAYroO.json) | Juice WRLD - Empty Out Your Pockets (Stereo Track)                            |
 | [VkXtyPYGrDyuONbVhc](blurls/VkXtyPYGrDyuONbVhc.json) | Juice WRLD - Lean Wit Me                                                      |
 | [vpGtcZDXfKkKEdnbTf](blurls/vpGtcZDXfKkKEdnbTf.json) | Juice WRLD - Lean Wit Me (Instrumental)                                       |
 | [mzdvkRqAqYcGoGmIQW](blurls/mzdvkRqAqYcGoGmIQW.json) | Juice WRLD - Lean Wit Me (Preview)                                            |
