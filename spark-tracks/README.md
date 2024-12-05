@@ -28,6 +28,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [prhIYSzNoiKKMVCluM](blurls/prhIYSzNoiKKMVCluM.json) | A Tribe Called Quest ft. Leaders Of The New School - Scenario (Instrumental)  |
 | [HfsUCLQbmgYRRSbywT](blurls/HfsUCLQbmgYRRSbywT.json) | A Tribe Called Quest ft. Leaders Of The New School - Scenario (Preview)       |
 | [uBHbBFknmtYJDuNlje](blurls/uBHbBFknmtYJDuNlje.json) | A Tribe Called Quest ft. Leaders Of The New School - Scenario (Stereo Track)  |
+| [NwgcLRKXFZMFYtMKkW](blurls/NwgcLRKXFZMFYtMKkW.json) | a-ha - Take On Me                                                             |
+| [ThHPFgMwJRBwbBTlHJ](blurls/ThHPFgMwJRBwbBTlHJ.json) | a-ha - Take On Me (Instrumental)                                              |
+| [VmEkvwdeIRFTUuNhum](blurls/VmEkvwdeIRFTUuNhum.json) | a-ha - Take On Me (Preview)                                                   |
+| [OJBkkumkQFQiuMHLyZ](blurls/OJBkkumkQFQiuMHLyZ.json) | a-ha - Take On Me (Stereo Track)                                              |
 | [UEedyIHDWPfpePftct](blurls/UEedyIHDWPfpePftct.json) | Afrojack ft. Eva Simmons - Take Over Control                                  |
 | [rxTaEvaamJyzzveaXa](blurls/rxTaEvaamJyzzveaXa.json) | Afrojack ft. Eva Simmons - Take Over Control (Instrumental)                   |
 | [idAGGdscssAxHNkJEU](blurls/idAGGdscssAxHNkJEU.json) | Afrojack ft. Eva Simmons - Take Over Control (Preview)                        |
@@ -666,6 +670,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [gURHPygdRktqRSDvGK](blurls/gURHPygdRktqRSDvGK.json) | Imagine Dragons - Thunder (Instrumental)                                      |
 | [KTfnyyIvbxiWBFKKjM](blurls/KTfnyyIvbxiWBFKKjM.json) | Imagine Dragons - Thunder (Preview)                                           |
 | [WjoITXANwdRXUOpCkl](blurls/WjoITXANwdRXUOpCkl.json) | Imagine Dragons - Thunder (Stereo Track)                                      |
+| [LpPGUYnUlvSZqjbmOe](blurls/LpPGUYnUlvSZqjbmOe.json) | imase - NIGHT DANCER                                                          |
+| [RznFLTapWqMVKWEWqi](blurls/RznFLTapWqMVKWEWqi.json) | imase - NIGHT DANCER (Instrumental)                                           |
+| [sxSEbfyJPFMwHzmugH](blurls/sxSEbfyJPFMwHzmugH.json) | imase - NIGHT DANCER (Preview)                                                |
+| [LbefwxZEbXcwMCPMGJ](blurls/LbefwxZEbXcwMCPMGJ.json) | imase - NIGHT DANCER (Stereo Track)                                           |
 | [ELWnwsucPRykeRZVJx](blurls/ELWnwsucPRykeRZVJx.json) | Iyaz - Replay                                                                 |
 | [ntKYzewoUuiuEchIsR](blurls/ntKYzewoUuiuEchIsR.json) | Iyaz - Replay (Preview)                                                       |
 | [hGXDTMrAWzpRHKkpeq](blurls/hGXDTMrAWzpRHKkpeq.json) | Iyaz - Replay (Stereo Track)                                                  |
@@ -684,6 +692,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [mQNyeHGUcPGbELHwbQ](blurls/mQNyeHGUcPGbELHwbQ.json) | Jack Harlow - WHATS POPPIN (v2) (Instrumental)                                |
 | [rPToQPfrpyrLLoUSAh](blurls/rPToQPfrpyrLLoUSAh.json) | Jack Harlow - WHATS POPPIN (v2) (Preview)                                     |
 | [ShMpZdyhQdpsRrZyBl](blurls/ShMpZdyhQdpsRrZyBl.json) | Jack Harlow - WHATS POPPIN (v2) (Stereo Track)                                |
+| [DmRcRfKjEBjhoKrtgu](blurls/DmRcRfKjEBjhoKrtgu.json) | Jessie J, Nicki Minaj, Ariana Grande - Bang Bang                              |
+| [YROckYDFJPEBSnGSPh](blurls/YROckYDFJPEBSnGSPh.json) | Jessie J, Nicki Minaj, Ariana Grande - Bang Bang (Instrumental)               |
+| [UTndDajmAdVzanENIN](blurls/UTndDajmAdVzanENIN.json) | Jessie J, Nicki Minaj, Ariana Grande - Bang Bang (Preview)                    |
+| [lVBNnjMtTxrWAaLAwr](blurls/lVBNnjMtTxrWAaLAwr.json) | Jessie J, Nicki Minaj, Ariana Grande - Bang Bang (Stereo Track)               |
 | [UByosFTMsePZbNRTzD](blurls/UByosFTMsePZbNRTzD.json) | JID ft. 21 Savage & Baby Tate - Surround Sound                                |
 | [XyCEcvwKVZKPrnukVX](blurls/XyCEcvwKVZKPrnukVX.json) | JID ft. 21 Savage & Baby Tate - Surround Sound (Instrumental)                 |
 | [ObIXGlDubbRhxJAsnz](blurls/ObIXGlDubbRhxJAsnz.json) | JID ft. 21 Savage & Baby Tate - Surround Sound (Preview)                      |
@@ -738,6 +750,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [DqzCvNMmVhpOYBnXAV](blurls/DqzCvNMmVhpOYBnXAV.json) | Juice WRLD w/ Marshmello - Come & Go (v2) (Instrumental)                      |
 | [xSoXKeWwLrKxidEyNy](blurls/xSoXKeWwLrKxidEyNy.json) | Juice WRLD w/ Marshmello - Come & Go (v2) (Preview)                           |
 | [JHnLuvgBDrmYQvTjUW](blurls/JHnLuvgBDrmYQvTjUW.json) | Juice WRLD w/ Marshmello - Come & Go (v2) (Stereo Track)                      |
+| [fIonXqXxmMPaBsWqjq](blurls/fIonXqXxmMPaBsWqjq.json) | Justin Bieber - Ghost                                                         |
+| [MiHyDkMcTzMnTdbtqL](blurls/MiHyDkMcTzMnTdbtqL.json) | Justin Bieber - Ghost (Instrumental)                                          |
+| [KQqCAfZeSCtZEIrfsr](blurls/KQqCAfZeSCtZEIrfsr.json) | Justin Bieber - Ghost (Preview)                                               |
+| [JxQPWWImyaOMqUBzfL](blurls/JxQPWWImyaOMqUBzfL.json) | Justin Bieber - Ghost (Stereo Track)                                          |
 | [WQTOEbZqLgcUXjxSJe](blurls/WQTOEbZqLgcUXjxSJe.json) | Justin Bieber - What Do You Mean?                                             |
 | [tdNCAFjIMmDJXZwout](blurls/tdNCAFjIMmDJXZwout.json) | Justin Bieber - What Do You Mean? (Instrumental)                              |
 | [yUGilBpuIHxmJOSZXn](blurls/yUGilBpuIHxmJOSZXn.json) | Justin Bieber - What Do You Mean? (Preview)                                   |
@@ -1457,6 +1473,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [MKLZfdFzdgsLPfcMug](blurls/MKLZfdFzdgsLPfcMug.json) | WitchGang - Timeless (Instrumental)                                           |
 | [fVALLXBdAuxUVUnnQj](blurls/fVALLXBdAuxUVUnnQj.json) | WitchGang - Timeless (Preview)                                                |
 | [jajuWfhvZYqBQntYwg](blurls/jajuWfhvZYqBQntYwg.json) | WitchGang - Timeless (Stereo Track)                                           |
+| [hgogyBihEeYEaiiUvl](blurls/hgogyBihEeYEaiiUvl.json) | YOASOBI - The Brave                                                           |
+| [sMVZmzhBkzkgsEUDom](blurls/sMVZmzhBkzkgsEUDom.json) | YOASOBI - The Brave (Instrumental)                                            |
+| [ruVRYPnYAgTxWhZZLa](blurls/ruVRYPnYAgTxWhZZLa.json) | YOASOBI - The Brave (Preview)                                                 |
+| [ZYFvOphljIwlOjslsK](blurls/ZYFvOphljIwlOjslsK.json) | YOASOBI - The Brave (Stereo Track)                                            |
 | [gniXTOGIdaDCiapOYk](blurls/gniXTOGIdaDCiapOYk.json) | Young MC - Bust A Move                                                        |
 | [thBAvopnUAPCosUdrg](blurls/thBAvopnUAPCosUdrg.json) | Young MC - Bust A Move (Instrumental)                                         |
 | [OAuUHCQATAKKHDWgcz](blurls/OAuUHCQATAKKHDWgcz.json) | Young MC - Bust A Move (Preview)                                              |
