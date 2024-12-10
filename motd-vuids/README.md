@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [YXlIHPnRsHNvYuuWLj](blurls/YXlIHPnRsHNvYuuWLj.json) | Fortnite Ballistic Cinematic Teaser |
 | [XBagLrkfSbXKxRHdiO](blurls/XBagLrkfSbXKxRHdiO.json) | Fortnite OG Chapter 1 Season 1 Gameplay Trailer |
 | [xRmDwyLjtWCMEEAGRz](blurls/xRmDwyLjtWCMEEAGRz.json) | The Viper Icon Series Emote |
 | [VzAxJVlzEQjvMesspx](blurls/VzAxJVlzEQjvMesspx.json) | Fortnite Passes Trailer |
