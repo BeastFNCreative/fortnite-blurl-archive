@@ -49,6 +49,7 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [feNiKDhLUpOfdPglne](blurls/feNiKDhLUpOfdPglne.json) | Free Guy Quest Post-Quest Video 3                                                                    |
 | [nUggtoihncEjZGhmTt](blurls/nUggtoihncEjZGhmTt.json) | Free Guy Quest Post-Quest Video 4                                                                    |
 | [MDGivPFDqtjHhqjTqE](blurls/MDGivPFDqtjHhqjTqE.json) | Free Guy Quest Post-Quest Video 5                                                                    |
+| [FADKHHfVQCgeZnyTJp](blurls/FADKHHfVQCgeZnyTJp.json) | LEGO Fortnite Odyssey: Storm King Update                                                             |
 | [qFVNDPSJXMhynlmgcr](blurls/qFVNDPSJXMhynlmgcr.json) | MEGA City Environment Music                                                                          |
 | [ElXyXuuBVqxWSdHChR](blurls/ElXyXuuBVqxWSdHChR.json) | Media Streaming Radio Licensed VUID                                                                  |
 | [LJmAefawOpFKUPquHC](blurls/LJmAefawOpFKUPquHC.json) | Media Streaming Radio Licensed VUID V2                                                               |
@@ -80,6 +81,7 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [mBtYElgTOAKPOgLsaF](blurls/mBtYElgTOAKPOgLsaF.json) | The Kid LAROI's Wild Dreams Concert Picture-in-Picture                                               |
 | [LIaqRFAiLiMPgOZuKX](blurls/LIaqRFAiLiMPgOZuKX.json) | The Kid LAROI's Wild Dreams Concert Picture-in-Picture (Alt)                                         |
 | [HFgsZtdWinSuoPQXxV](blurls/HFgsZtdWinSuoPQXxV.json) | The Weeknd - Popular (ft. Madonna & Playboi Carti) Music Video Premiere                              |
+| [uFzYgecHmrijEqcCAZ](blurls/uFzYgecHmrijEqcCAZ.json) | Unknown (No Blast-URL yet)                                                                           |
 | [kRQErvFysrszMCKhsI](blurls/kRQErvFysrszMCKhsI.json) | Unknown Jam Track                                                                                    |
 | [fvKQKSJTnXkwLNruwQ](blurls/fvKQKSJTnXkwLNruwQ.json) | Unused Most Wanted Poster Video                                                                      |
 | [LwftzrskCAwXgBKFzw](blurls/LwftzrskCAwXgBKFzw.json) | Zen Legacy Set Fortnite Crew Trailer                                                                 |

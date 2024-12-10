@@ -34,6 +34,7 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [bxjliYBuPmtkOttZEu](blurls/bxjliYBuPmtkOttZEu.json) | playlist_juno : LEGO Fortnite (Mechanical Mayhem) |
 | [JwCGPTNphEQftuekrL](blurls/JwCGPTNphEQftuekrL.json) | playlist_juno : LEGO Fortnite (Star Wars Update) |
 | [ReDWCmoCSzCKbyzpGm](blurls/ReDWCmoCSzCKbyzpGm.json) | playlist_juno : LEGO Fortnite (Lost Isles Update) |
+| [SoyslAKqhmmPwOkWcl](blurls/SoyslAKqhmmPwOkWcl.json) | playlist_juno : LEGO Fortnite Odyssey (Storm Chasers Update) |
 | [TDdNPRsfUUaiKzTOMi](blurls/TDdNPRsfUUaiKzTOMi.json) | playlist_pilgrimbattlestage : Festival Battle Stage |
 | [jTkmULCqHEITYkbSPC](blurls/jTkmULCqHEITYkbSPC.json) | playlist_pilgrimbattlestage : Festival Battle Stage (Karol G Season) |
 | [HtLUWyhMKefRGsTxlE](blurls/HtLUWyhMKefRGsTxlE.json) | playlist_pilgrimquickplay : Festival Main Stage |
@@ -56,6 +57,7 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [nBXWuBNMdScHeYtCnP](blurls/nBXWuBNMdScHeYtCnP.json) | set_delmar_mrs_ranked : Rocket Racing |
 | [qpdchKarjFnwpdEnYj](blurls/qpdchKarjFnwpdEnYj.json) | set_delmar_mrs_ranked : Rocket Racing (Extra VUID) |
 | [zmDptnMNGqUEdlBwTv](blurls/zmDptnMNGqUEdlBwTv.json) | set_delmar_mrs_ranked : Rocket Racing (Star Wars Update) |
+| [qXaZdMSokWKCZguVyg](blurls/qXaZdMSokWKCZguVyg.json) | set_figment_playlists : Fortnite OG CH1S1 |
 | [VeMCQpJEuQxYyUQGeB](blurls/VeMCQpJEuQxYyUQGeB.json) | set_imposters_playlists : Impostors |
 | [abxnGhUwXcjPrymobq](blurls/abxnGhUwXcjPrymobq.json) | set_nobuild_playlists : Myths and Mortals |
 | [gnEAizFWiuyqzUeEeL](blurls/gnEAizFWiuyqzUeEeL.json) | set_nobuild_playlists : Myths and Mortals (Star Wars Update) |
