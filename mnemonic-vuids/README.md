@@ -43,6 +43,10 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [TmspZBuurWGUxdzbkg](blurls/TmspZBuurWGUxdzbkg.json) | playlist_pilgrimquickplay : Festival Main Stage (Snoop Dogg Season) |
 | [pOQbjpyNSnZNptoned](blurls/pOQbjpyNSnZNptoned.json) | playlist_playgroundv2 : Creative |
 | [QljBuQXFYaplYHblAR](blurls/QljBuQXFYaplYHblAR.json) | playlist_respawn_24_alt : Team Rumble (v1) |
+| [WHmwwZAdipOxCMotML](blurls/WHmwwZAdipOxCMotML.json) | playlist_sprout : LEGO Fortnite: Brick Life |
+| [QJehWpCvFetVhkVXxL](blurls/QJehWpCvFetVhkVXxL.json) | playlist_sprout : LEGO Fortnite: Brick Life (v2 No Blast-URL Yet) |
+| [JRpuHevWxwGuIgSYUM](blurls/JRpuHevWxwGuIgSYUM.json) | playlist_sprout : LEGO Fortnite: Brick Life (v3) |
+| [uVJvAWDZbUUVoWbwum](blurls/uVJvAWDZbUUVoWbwum.json) | playlist_sprout : LEGO Fortnite: Brick Life (v4 No Blast-URL Yet) |
 | [EmSIVIsQevEAdtLiZq](blurls/EmSIVIsQevEAdtLiZq.json) | set_arena_playlists : Arena Modes |
 | [XcoOakTVCLfjUdhgrS](blurls/XcoOakTVCLfjUdhgrS.json) | set_blastberry_nobuild_playlists : Reload - Zero Build |
 | [eMXrklniVQMEoVSpsE](blurls/eMXrklniVQMEoVSpsE.json) | set_blastberry_playlists : Reload |

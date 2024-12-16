@@ -136,6 +136,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [JOGrRyhhyekJHbrFbX](blurls/JOGrRyhhyekJHbrFbX.json) | Billie Eilish - bad guy (Instrumental)                                        |
 | [GeyOyokliHUGnVUMfZ](blurls/GeyOyokliHUGnVUMfZ.json) | Billie Eilish - bad guy (Preview)                                             |
 | [BdhrODSYkVWuDXxkWj](blurls/BdhrODSYkVWuDXxkWj.json) | Billie Eilish - bad guy (Stereo Track)                                        |
+| [SJARTuDdsagOSTZSrU](blurls/SJARTuDdsagOSTZSrU.json) | Billie Eilish - BIRDS OF A FEATHER                                            |
+| [CFTWyPJlwLFYJXSuDK](blurls/CFTWyPJlwLFYJXSuDK.json) | Billie Eilish - BIRDS OF A FEATHER (Instrumental)                             |
+| [VnqKRMcAyJhDFuBdio](blurls/VnqKRMcAyJhDFuBdio.json) | Billie Eilish - BIRDS OF A FEATHER (Preview)                                  |
+| [pQqQVxiInYnMYfdUVj](blurls/pQqQVxiInYnMYfdUVj.json) | Billie Eilish - BIRDS OF A FEATHER (Stereo Track)                             |
 | [AwQLNCHbLrSaNcykhj](blurls/AwQLNCHbLrSaNcykhj.json) | Billie Eilish - bury a friend                                                 |
 | [sMhnVxcMNBQecKgsti](blurls/sMhnVxcMNBQecKgsti.json) | Billie Eilish - bury a friend (Instrumental)                                  |
 | [ikxwyFXwnsmxdGRHSZ](blurls/ikxwyFXwnsmxdGRHSZ.json) | Billie Eilish - bury a friend (Preview)                                       |
@@ -838,6 +842,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [eikRXnUEsKcqqeqJuS](blurls/eikRXnUEsKcqqeqJuS.json) | Lady Gaga - Born This Way (Instrumental)                                      |
 | [ErVOmoDIybmXSxbYPa](blurls/ErVOmoDIybmXSxbYPa.json) | Lady Gaga - Born This Way (Preview)                                           |
 | [gKgFiRqBwowFanNEGl](blurls/gKgFiRqBwowFanNEGl.json) | Lady Gaga - Born This Way (Stereo Track)                                      |
+| [rPEfVfWMOOQYJeNajT](blurls/rPEfVfWMOOQYJeNajT.json) | Lady Gaga - Disease                                                           |
+| [BZfsbCCKhbHZLDcUiM](blurls/BZfsbCCKhbHZLDcUiM.json) | Lady Gaga - Disease (Instrumental)                                            |
+| [ACueamOuUvxTMglIez](blurls/ACueamOuUvxTMglIez.json) | Lady Gaga - Disease (Preview)                                                 |
+| [puFOrdGvCenfIGdirh](blurls/puFOrdGvCenfIGdirh.json) | Lady Gaga - Disease (Stereo Track)                                            |
 | [LaIOnwYjsIhBfmgSwQ](blurls/LaIOnwYjsIhBfmgSwQ.json) | Lady Gaga - Poker Face                                                        |
 | [MVgwckidrZVHAyFAUH](blurls/MVgwckidrZVHAyFAUH.json) | Lady Gaga - Poker Face (Preview)                                              |
 | [DSaSnwVQCdWHexngGi](blurls/DSaSnwVQCdWHexngGi.json) | Lady Gaga - Poker Face (v2)                                                   |
@@ -1377,6 +1385,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [DadWyvSiSCdgStblqd](blurls/DadWyvSiSCdgStblqd.json) | The Weeknd - Can't Feel My Face (Instrumental)                                |
 | [UWtUKkezfwWmclqCaz](blurls/UWtUKkezfwWmclqCaz.json) | The Weeknd - Can't Feel My Face (Preview)                                     |
 | [dQirjrTbEewTiFhCUi](blurls/dQirjrTbEewTiFhCUi.json) | The Weeknd - Can't Feel My Face (Stereo Track)                                |
+| [pzxrEOkJWWtMHqrGdl](blurls/pzxrEOkJWWtMHqrGdl.json) | The Weeknd - Dancing in the Flames                                            |
+| [fJAARPjGnHHSAvSvja](blurls/fJAARPjGnHHSAvSvja.json) | The Weeknd - Dancing in the Flames (Instrumental)                             |
+| [uhZGYIptPahHBybpRr](blurls/uhZGYIptPahHBybpRr.json) | The Weeknd - Dancing in the Flames (Preview)                                  |
+| [eTFCSUDkFFwtyGmiTu](blurls/eTFCSUDkFFwtyGmiTu.json) | The Weeknd - Dancing in the Flames (Stereo Track)                             |
 | [FGhqpenLsvpPPfwhpH](blurls/FGhqpenLsvpPPfwhpH.json) | The Weeknd - Save Your Tears                                                  |
 | [yMVbEFOkhwbkwhzJxp](blurls/yMVbEFOkhwbkwhzJxp.json) | The Weeknd - Save Your Tears (Instrumental)                                   |
 | [qnSxTVSfGHljNPcJyc](blurls/qnSxTVSfGHljNPcJyc.json) | The Weeknd - Save Your Tears (Preview)                                        |

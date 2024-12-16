@@ -10,7 +10,12 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
-| [TrqipzsADOVSlqvecC](blurls/TrqipzsADOVSlqvecC.json) | LEGO Fortnite Storm King Update Trailer (No Blast-URL for now) |
+| [jUqvyjdbLcLSYvKrpM](blurls/jUqvyjdbLcLSYvKrpM.json) | Winterfest Fire Place Loop (MOTD) |
+| [mbVyIGvYdFkDDVKNcE](blurls/mbVyIGvYdFkDDVKNcE.json) | Bratty Icon Series Emote |
+| [xbhEvVytbhbBFYIqCM](blurls/xbhEvVytbhbBFYIqCM.json) | Griddy Icon Series Emote (MOTD Background) |
+| [uVJvAWDZbUUVoWbwum](blurls/uVJvAWDZbUUVoWbwum.json) | LEGO Fortnite: Brick Life Trailer |
+| [QtFxDWAyPiywMbncJq](blurls/QtFxDWAyPiywMbncJq.json) | Fortnite Ballistic Trailer |
+| [TrqipzsADOVSlqvecC](blurls/TrqipzsADOVSlqvecC.json) | LEGO Fortnite Storm King Update Trailer (No Blast-URL for now) | 
 | [YXlIHPnRsHNvYuuWLj](blurls/YXlIHPnRsHNvYuuWLj.json) | Fortnite Ballistic Cinematic Teaser |
 | [XBagLrkfSbXKxRHdiO](blurls/XBagLrkfSbXKxRHdiO.json) | Fortnite OG Chapter 1 Season 1 Gameplay Trailer |
 | [xRmDwyLjtWCMEEAGRz](blurls/xRmDwyLjtWCMEEAGRz.json) | The Viper Icon Series Emote |
