@@ -194,6 +194,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [FxxrIepCSnbycVczsX](blurls/FxxrIepCSnbycVczsX.json) | Blur - Song 2 (Instrumental)                                                  |
 | [ADhPmaOkPTCpSrIcMG](blurls/ADhPmaOkPTCpSrIcMG.json) | Blur - Song 2 (Preview)                                                       |
 | [HrIHmXVhppHDRVxGyP](blurls/HrIHmXVhppHDRVxGyP.json) | Blur - Song 2 (Stereo Track)                                                  |
+| [DRhVKJJsfHEcgSDuVW](blurls/DRhVKJJsfHEcgSDuVW.json) | Breaking Benjamin - The Diary Of Jane                                         |
+| [HmezoBDQiReoDWCCto](blurls/HmezoBDQiReoDWCCto.json) | Breaking Benjamin - The Diary Of Jane (Instrumental)                          |
+| [vUqJYOQhqXBbzXPHuS](blurls/vUqJYOQhqXBbzXPHuS.json) | Breaking Benjamin - The Diary Of Jane (Preview)                               |
+| [zqDCRAjAkZVHiqaCPK](blurls/zqDCRAjAkZVHiqaCPK.json) | Breaking Benjamin - The Diary Of Jane (Stereo Track)                          |
 | [raBJcKgoZgwOXyizTk](blurls/raBJcKgoZgwOXyizTk.json) | Britney Spears - Toxic                                                        |
 | [zoVvFhZEpEvtZcojVK](blurls/zoVvFhZEpEvtZcojVK.json) | Britney Spears - Toxic (Instrumental)                                         |
 | [LLgXLibszcpRhUEnag](blurls/LLgXLibszcpRhUEnag.json) | Britney Spears - Toxic (Preview)                                              |
@@ -1149,6 +1153,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [gbqkZqVavsSPnVSmGf](blurls/gbqkZqVavsSPnVSmGf.json) | PinkPantheress & Ice Spice - Boy's A Liar Pt. 2 (Instrumental)                |
 | [YSGggxkkTahheWiDwQ](blurls/YSGggxkkTahheWiDwQ.json) | PinkPantheress & Ice Spice - Boy's A Liar Pt. 2 (Preview)                     |
 | [MsOCmbtxCWiZoaTPzU](blurls/MsOCmbtxCWiZoaTPzU.json) | PinkPantheress & Ice Spice - Boy's A Liar Pt. 2 (Stereo Track)                |
+| [gHvJrFMpXcZPaoiCux](blurls/gHvJrFMpXcZPaoiCux.json) | Pitbull ft. John Ryan - Fireball                                              |
+| [ptmIXxsXeDPrRvbBRq](blurls/ptmIXxsXeDPrRvbBRq.json) | Pitbull ft. John Ryan - Fireball  (Instrumental)                              |
+| [zJjSAczTAPMOQmTIZR](blurls/zJjSAczTAPMOQmTIZR.json) | Pitbull ft. John Ryan - Fireball  (Preview)                                   |
+| [ylVbBOUGWEAOMFnAqM](blurls/ylVbBOUGWEAOMFnAqM.json) | Pitbull ft. John Ryan - Fireball  (Stereo Track)                              |
 | [FrezyhXJavYKCskTpx](blurls/FrezyhXJavYKCskTpx.json) | Pitbull ft. Ne-Yo, Afrojack & Nayer - Give Me Everything                      |
 | [EtoZBhWjtKtbsNtKdF](blurls/EtoZBhWjtKtbsNtKdF.json) | Pitbull ft. Ne-Yo, Afrojack & Nayer - Give Me Everything (Instrumental)       |
 | [lMLklRtOTdtsVKcFNA](blurls/lMLklRtOTdtsVKcFNA.json) | Pitbull ft. Ne-Yo, Afrojack & Nayer - Give Me Everything (Preview)            |
@@ -1241,6 +1249,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [dwJUVAsUOlcUyQKJSZ](blurls/dwJUVAsUOlcUyQKJSZ.json) | Sam Smith w/ Kim Petras - Unholy (Instrumental)                               |
 | [tlgoNvZRdFSlHRawfl](blurls/tlgoNvZRdFSlHRawfl.json) | Sam Smith w/ Kim Petras - Unholy (Preview)                                    |
 | [OssWFXRzahlZXCFJgv](blurls/OssWFXRzahlZXCFJgv.json) | Sam Smith w/ Kim Petras - Unholy (Stereo Track)                               |
+| [yXIaDxPqamKbNUezIH](blurls/yXIaDxPqamKbNUezIH.json) | Sean Paul - Get Busy                                                          |
+| [eOrFVVTELjbsrRgECA](blurls/eOrFVVTELjbsrRgECA.json) | Sean Paul - Get Busy (Instrumental)                                           |
+| [jRGDJghrkMqvCHCjhb](blurls/jRGDJghrkMqvCHCjhb.json) | Sean Paul - Get Busy (Preview)                                                |
+| [WhUdsDabwXiZJXfsmD](blurls/WhUdsDabwXiZJXfsmD.json) | Sean Paul - Get Busy (Stereo Track)                                           |
 | [mNqpqBDFUEflqmkNcH](blurls/mNqpqBDFUEflqmkNcH.json) | Sean Paul - Gimme The Light                                                   |
 | [IUXlDtNrxVeAPoslQx](blurls/IUXlDtNrxVeAPoslQx.json) | Sean Paul - Gimme The Light (Instrumental)                                    |
 | [zjjBipTuuHFeFYZOEi](blurls/zjjBipTuuHFeFYZOEi.json) | Sean Paul - Gimme The Light (Preview)                                         |
@@ -1257,6 +1269,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [dXhUCpoCmgcToBLpAT](blurls/dXhUCpoCmgcToBLpAT.json) | Shakira - Whenever, Wherever (Instrumental)                                   |
 | [SDpqHzqpaIOKsXJUGa](blurls/SDpqHzqpaIOKsXJUGa.json) | Shakira - Whenever, Wherever (Preview)                                        |
 | [qmfTSftDXdUvScolio](blurls/qmfTSftDXdUvScolio.json) | Shakira - Whenever, Wherever (Stereo Track)                                   |
+| [phJFPBoxCKUdwXqJTY](blurls/phJFPBoxCKUdwXqJTY.json) | Shakira ft. Wyclef Jean - Hips Don't Lie                                      |
+| [aMTkEFOnkABcLKaJAn](blurls/aMTkEFOnkABcLKaJAn.json) | Shakira ft. Wyclef Jean - Hips Don't Lie (Instrumental)                       |
+| [krNeiZpzggecJwRfNG](blurls/krNeiZpzggecJwRfNG.json) | Shakira ft. Wyclef Jean - Hips Don't Lie (Preview)                            |
+| [pHAIKnrQktOpLNjVwm](blurls/pHAIKnrQktOpLNjVwm.json) | Shakira ft. Wyclef Jean - Hips Don't Lie (Stereo Track)                       |
 | [ytgNlkXOBSYxNWCaeR](blurls/ytgNlkXOBSYxNWCaeR.json) | Shawn Mendes - Stitches                                                       |
 | [waEOGMsucIdkGPRKAz](blurls/waEOGMsucIdkGPRKAz.json) | Shawn Mendes - Stitches (Instrumental)                                        |
 | [dSfUlfmAsRSlcVhKZR](blurls/dSfUlfmAsRSlcVhKZR.json) | Shawn Mendes - Stitches (Preview)                                             |
@@ -1437,6 +1453,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [ETtVEiyvhmcDJQjkBb](blurls/ETtVEiyvhmcDJQjkBb.json) | Topic w/ A7S - Breaking Me (Instrumental)                                     |
 | [zyzKCncxihJKEIjDZk](blurls/zyzKCncxihJKEIjDZk.json) | Topic w/ A7S - Breaking Me (Preview)                                          |
 | [fNRwAthbaKYAxVZgxx](blurls/fNRwAthbaKYAxVZgxx.json) | Topic w/ A7S - Breaking Me (Stereo Track)                                     |
+| [tnAwAKrmtcKOZIpQAx](blurls/tnAwAKrmtcKOZIpQAx.json) | Toto - Africa                                                                 |
+| [yFfHUqQTvbeQvqsehL](blurls/yFfHUqQTvbeQvqsehL.json) | Toto - Africa (Instrumental)                                                  |
+| [aEodzIcGlOISJIXotN](blurls/aEodzIcGlOISJIXotN.json) | Toto - Africa (Preview)                                                       |
+| [zgvEIpqhImaHnbXfQs](blurls/zgvEIpqhImaHnbXfQs.json) | Toto - Africa (Stereo Track)                                                  |
 | [njMVLvDKgEItxBgmTP](blurls/njMVLvDKgEItxBgmTP.json) | U2 - Beautiful Day                                                            |
 | [gvwaTrZgpDEfUlKvqZ](blurls/gvwaTrZgpDEfUlKvqZ.json) | U2 - Beautiful Day (Instrumental)                                             |
 | [OiPuShmtSSKvJSEWmE](blurls/OiPuShmtSSKvJSEWmE.json) | U2 - Beautiful Day (Preview)                                                  |
