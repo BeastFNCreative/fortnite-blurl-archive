@@ -445,6 +445,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [ZsKUhFRKmMBezZKMwJ](blurls/ZsKUhFRKmMBezZKMwJ.json) | Epic Games - Run It (Instrumental)                                            |
 | [vCsBrGbbqpbvGkiKjq](blurls/vCsBrGbbqpbvGkiKjq.json) | Epic Games - Run It (Preview)                                                 |
 | [JpAaOTOOnqmdnYeHty](blurls/JpAaOTOOnqmdnYeHty.json) | Epic Games - Run It (Stereo Track)                                            |
+| [SoiGkGgIMJJUgGUpjZ](blurls/SoiGkGgIMJJUgGUpjZ.json) | Epic Games - Run It Up                                                        |
+| [JkvTEdaQzckobVOPtz](blurls/JkvTEdaQzckobVOPtz.json) | Epic Games - Run It Up (Instrumental)                                         |
+| [eaKGqpyBEGuNfnUbOU](blurls/eaKGqpyBEGuNfnUbOU.json) | Epic Games - Run It Up (Preview)                                              |
+| [hmyWEukXhanwKnfoVP](blurls/hmyWEukXhanwKnfoVP.json) | Epic Games - Run It Up (Stereo Track)                                         |
 | [cPolNLrCmxJBVTmIUd](blurls/cPolNLrCmxJBVTmIUd.json) | Epic Games - S.O.M.P.                                                         |
 | [kQdlPOScGIUOZDMxVm](blurls/kQdlPOScGIUOZDMxVm.json) | Epic Games - S.O.M.P. (Instrumental)                                          |
 | [SvlYPCRZOuvNdVBOQj](blurls/SvlYPCRZOuvNdVBOQj.json) | Epic Games - S.O.M.P. (Preview)                                               |
@@ -929,6 +933,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [GkLEvrFHCtYozZxCfi](blurls/GkLEvrFHCtYozZxCfi.json) | Måneskin - Beggin' (Instrumental)                                             |
 | [mkwbfIZyeQEvIYUPvt](blurls/mkwbfIZyeQEvIYUPvt.json) | Måneskin - Beggin' (Preview)                                                  |
 | [ItcoLvyHIWJMRzeuxB](blurls/ItcoLvyHIWJMRzeuxB.json) | Måneskin - Beggin' (Stereo Track)                                             |
+| [rDetMXkXibRkpaxvwJ](blurls/rDetMXkXibRkpaxvwJ.json) | Mariah Carey - All I Want For Christmas Is You                                |
+| [GfAfdplFXLPjaKayxb](blurls/GfAfdplFXLPjaKayxb.json) | Mariah Carey - All I Want For Christmas Is You (Instrumental)                 |
+| [mqBecdUiOLefKLcFNp](blurls/mqBecdUiOLefKLcFNp.json) | Mariah Carey - All I Want For Christmas Is You (Preview)                      |
+| [UOEixeDwEOZNqCnwPI](blurls/UOEixeDwEOZNqCnwPI.json) | Mariah Carey - All I Want For Christmas Is You (Stereo Track)                 |
 | [JSSfPDTCwsFcTopvjD](blurls/JSSfPDTCwsFcTopvjD.json) | Mark Ronson ft. Bruno Mars - Uptown Funk                                      |
 | [wFJlbUQduGgpBZFlcq](blurls/wFJlbUQduGgpBZFlcq.json) | Mark Ronson ft. Bruno Mars - Uptown Funk (Instrumental)                       |
 | [hHivsrkRnmicZXtbEU](blurls/hHivsrkRnmicZXtbEU.json) | Mark Ronson ft. Bruno Mars - Uptown Funk (Preview)                            |

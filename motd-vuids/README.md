@@ -10,6 +10,8 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [ZyQRxucGRbYYbZOjsD](blurls/ZyQRxucGRbYYbZOjsD.json) | Winterfest Cinematic Trailer |
+| [lYmYhioTzFDFgyrrLP](blurls/lYmYhioTzFDFgyrrLP.json) | Fortnite OG XP Shop Return |
 | [jUqvyjdbLcLSYvKrpM](blurls/jUqvyjdbLcLSYvKrpM.json) | Winterfest Fire Place Loop (MOTD) |
 | [mbVyIGvYdFkDDVKNcE](blurls/mbVyIGvYdFkDDVKNcE.json) | Bratty Icon Series Emote |
 | [xbhEvVytbhbBFYIqCM](blurls/xbhEvVytbhbBFYIqCM.json) | Griddy Icon Series Emote (MOTD Background) |
