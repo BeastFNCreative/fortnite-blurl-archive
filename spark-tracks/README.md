@@ -20,6 +20,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [TCHLRLYbTwQWiPaKkm](blurls/TCHLRLYbTwQWiPaKkm.json) | 24kGoldn ft. iann dior - Mood (Instrumental)                                  |
 | [AECvkpYDfjztWoqKNX](blurls/AECvkpYDfjztWoqKNX.json) | 24kGoldn ft. iann dior - Mood (Preview)                                       |
 | [qCRopJbnFQGWBdUsxS](blurls/qCRopJbnFQGWBdUsxS.json) | 24kGoldn ft. iann dior - Mood (Stereo Track)                                  |
+| [GyRJKbxlcuOzSilrQv](blurls/GyRJKbxlcuOzSilrQv.json) | 3 Doors Down - Kryptonite                                                     |
+| [AJrfyxmMJYmhabqFdC](blurls/AJrfyxmMJYmhabqFdC.json) | 3 Doors Down - Kryptonite (Preview)                                           |
+| [CrgmmloSVPeNJGxDQk](blurls/CrgmmloSVPeNJGxDQk.json) | 3 Doors Down - Kryptonite (Stereo Track)                                      |
 | [WQpCEpPpQJHyGBkzJw](blurls/WQpCEpPpQJHyGBkzJw.json) | 5 Seconds Of Summer - Youngblood                                              |
 | [HEyNfFxDUEMjMkJIty](blurls/HEyNfFxDUEMjMkJIty.json) | 5 Seconds Of Summer - Youngblood (Instrumental)                               |
 | [plyrQeWOeFHAPibQiO](blurls/plyrQeWOeFHAPibQiO.json) | 5 Seconds Of Summer - Youngblood (Preview)                                    |
@@ -234,6 +237,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [EgVnhltaUcRebwaZnz](blurls/EgVnhltaUcRebwaZnz.json) | Christina Aguilera - Fighter (Instrumental)                                   |
 | [ryJcuKzZySzWvUqbPt](blurls/ryJcuKzZySzWvUqbPt.json) | Christina Aguilera - Fighter (Preview)                                        |
 | [MVyiqgRwOvzgwkxCGA](blurls/MVyiqgRwOvzgwkxCGA.json) | Christina Aguilera - Fighter (Stereo Track)                                   |
+| [iZdullRzbPvgfPPnyZ](blurls/iZdullRzbPvgfPPnyZ.json) | Chumbawamba - Tubthumping                                                     |
+| [PLdwgtQVcwLGTvgmEO](blurls/PLdwgtQVcwLGTvgmEO.json) | Chumbawamba - Tubthumping (Instrumental)                                      |
+| [vsuUmkYmrjTGkBRYfW](blurls/vsuUmkYmrjTGkBRYfW.json) | Chumbawamba - Tubthumping (Preview)                                           |
+| [KDVxtLjRTPNwBjzhpj](blurls/KDVxtLjRTPNwBjzhpj.json) | Chumbawamba - Tubthumping (Stereo Track)                                      |
 | [YWSZWKXdPcJdCgXheg](blurls/YWSZWKXdPcJdCgXheg.json) | Darude - Sandstorm                                                            |
 | [WixdzaEYcZFljoeibH](blurls/WixdzaEYcZFljoeibH.json) | Darude - Sandstorm (Instrumental)                                             |
 | [fFiWFfKnAjyjncUHLI](blurls/fFiWFfKnAjyjncUHLI.json) | Darude - Sandstorm (Preview)                                                  |
@@ -565,10 +572,21 @@ Jam Track Audio Data from Fortnite Festival.
 | [dJLSBVGsdCvEZRwUaq](blurls/dJLSBVGsdCvEZRwUaq.json) | Evanescence - Bring Me To Life (Instrumental)                                 |
 | [owXQzomvTwwigludHw](blurls/owXQzomvTwwigludHw.json) | Evanescence - Bring Me To Life (Preview)                                      |
 | [NrvljgmWfWQIIsfaap](blurls/NrvljgmWfWQIIsfaap.json) | Evanescence - Bring Me To Life (Stereo Track)                                 |
+| [BamvXkHVSRFTFeRXQe](blurls/BamvXkHVSRFTFeRXQe.json) | Fall Out Boy - Centuries                                                      |
+| [DmOPirabphXKrqJQxK](blurls/DmOPirabphXKrqJQxK.json) | Fall Out Boy - Centuries (Instrumental)                                       |
+| [NtmjGKweZFSBUSejsJ](blurls/NtmjGKweZFSBUSejsJ.json) | Fall Out Boy - Centuries (Preview)                                            |
+| [KZRRvzMhXrGTkAPTMG](blurls/KZRRvzMhXrGTkAPTMG.json) | Fall Out Boy - Centuries (Stereo Track)                                       |
 | [FEeVYNTEBnLAzfDdLJ](blurls/FEeVYNTEBnLAzfDdLJ.json) | Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up)           |
 | [yzTpyTLUNfoPfZDNur](blurls/yzTpyTLUNfoPfZDNur.json) | Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up) (Instrumental) |
 | [GDBzQCdOUJEpXwEqql](blurls/GDBzQCdOUJEpXwEqql.json) | Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up) (Preview) |
 | [TxVOAajYtLcCbCMFCc](blurls/TxVOAajYtLcCbCMFCc.json) | Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up) (Stereo Track) |
+| [FoQrFfIFLWNfWjZyLT](blurls/FoQrFfIFLWNfWjZyLT.json) | Fall Out Boy - Sugar, We're Goin Down                                         |
+| [UruVkiyVRNuCfeTtIy](blurls/UruVkiyVRNuCfeTtIy.json) | Fall Out Boy - Sugar, We're Goin Down (Instrumental)                          |
+| [zZYxotxaxTixpNtzwu](blurls/zZYxotxaxTixpNtzwu.json) | Fall Out Boy - Sugar, We're Goin Down (Preview)                               |
+| [cMhrtQSjBbqCbpynWQ](blurls/cMhrtQSjBbqCbpynWQ.json) | Fall Out Boy - Sugar, We're Goin Down (Stereo Track)                          |
+| [IelroqUzmkpYWkPDGZ](blurls/IelroqUzmkpYWkPDGZ.json) | Fall Out Boy - This Ain't A Scene, It's An Arms Race                          |
+| [pKBkTzWCWQHejBouaa](blurls/pKBkTzWCWQHejBouaa.json) | Fall Out Boy - This Ain't A Scene, It's An Arms Race (Preview)                |
+| [gxXjXdAhsnQeYDKDoe](blurls/gxXjXdAhsnQeYDKDoe.json) | Fall Out Boy - This Ain't A Scene, It's An Arms Race (Stereo Track)           |
 | [XpHWHLEsVfsDiIlSri](blurls/XpHWHLEsVfsDiIlSri.json) | Far East Movement ft. The Cataracs & DEV - Like A G6                          |
 | [lIBhUqgsqbQcHabdxp](blurls/lIBhUqgsqbQcHabdxp.json) | Far East Movement ft. The Cataracs & DEV - Like A G6 (Instrumental)           |
 | [WSUhSFJUohzHULIhmH](blurls/WSUhSFJUohzHULIhmH.json) | Far East Movement ft. The Cataracs & DEV - Like A G6 (Preview)                |
@@ -674,10 +692,21 @@ Jam Track Audio Data from Fortnite Festival.
 | [lnabeJwCdakQWbyFJV](blurls/lnabeJwCdakQWbyFJV.json) | Imagine Dragons - Believer (Instrumental)                                     |
 | [oIuiDZqtIGZxyvUgAW](blurls/oIuiDZqtIGZxyvUgAW.json) | Imagine Dragons - Believer (Preview)                                          |
 | [RxgnAYUVidNMpwiSIE](blurls/RxgnAYUVidNMpwiSIE.json) | Imagine Dragons - Believer (Stereo Track)                                     |
+| [cPFikCVCHTzuRFQxPe](blurls/cPFikCVCHTzuRFQxPe.json) | Imagine Dragons - Bones                                                       |
+| [nepQXPEnQKBiAMPitF](blurls/nepQXPEnQKBiAMPitF.json) | Imagine Dragons - Bones (Instrumental)                                        |
+| [rSvYSiJxjFenfmrsGn](blurls/rSvYSiJxjFenfmrsGn.json) | Imagine Dragons - Bones (Preview)                                             |
+| [dorzPXurbgxWHADakY](blurls/dorzPXurbgxWHADakY.json) | Imagine Dragons - Bones (Stereo Track)                                        |
+| [nuabyEMWoLFmUGvUCe](blurls/nuabyEMWoLFmUGvUCe.json) | Imagine Dragons - Demons                                                      |
+| [gaAMvkduGJmZMiqUik](blurls/gaAMvkduGJmZMiqUik.json) | Imagine Dragons - Demons (Instrumental)                                       |
+| [ubjVhgcZAhHGLxLiWK](blurls/ubjVhgcZAhHGLxLiWK.json) | Imagine Dragons - Demons (Preview)                                            |
+| [QXseMBWbQBquXajOEW](blurls/QXseMBWbQBquXajOEW.json) | Imagine Dragons - Demons (Stereo Track)                                       |
 | [mYaCNBepLpSevVisYP](blurls/mYaCNBepLpSevVisYP.json) | Imagine Dragons - Eyes Closed                                                 |
 | [orCRfzVMZkrvKsHmXs](blurls/orCRfzVMZkrvKsHmXs.json) | Imagine Dragons - Eyes Closed (Instrumental)                                  |
 | [riqhfgKUkPzkyWnVTo](blurls/riqhfgKUkPzkyWnVTo.json) | Imagine Dragons - Eyes Closed (Preview)                                       |
 | [HmmEQnVivLDhVTqzNu](blurls/HmmEQnVivLDhVTqzNu.json) | Imagine Dragons - Eyes Closed (Stereo Track)                                  |
+| [xbpSzTxBTyLNcQCAIb](blurls/xbpSzTxBTyLNcQCAIb.json) | Imagine Dragons - Radioactive                                                 |
+| [BilOdkpYfMLLhOwRTr](blurls/BilOdkpYfMLLhOwRTr.json) | Imagine Dragons - Radioactive (Preview)                                       |
+| [iVKIZStwLWqMFvDpcR](blurls/iVKIZStwLWqMFvDpcR.json) | Imagine Dragons - Radioactive (Stereo Track)                                  |
 | [XZUUuItQfREbtEpCTE](blurls/XZUUuItQfREbtEpCTE.json) | Imagine Dragons - Thunder                                                     |
 | [gURHPygdRktqRSDvGK](blurls/gURHPygdRktqRSDvGK.json) | Imagine Dragons - Thunder (Instrumental)                                      |
 | [KTfnyyIvbxiWBFKKjM](blurls/KTfnyyIvbxiWBFKKjM.json) | Imagine Dragons - Thunder (Preview)                                           |
@@ -1337,6 +1366,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [oUwsGbOdWXRtaUdFCX](blurls/oUwsGbOdWXRtaUdFCX.json) | Sublime - What I Got (Instrumental)                                           |
 | [AWEjWsNKZbPAIrMgon](blurls/AWEjWsNKZbPAIrMgon.json) | Sublime - What I Got (Preview)                                                |
 | [HquiDODlYujGIOcATy](blurls/HquiDODlYujGIOcATy.json) | Sublime - What I Got (Stereo Track)                                           |
+| [TwIZLbyPMeZmyBVALt](blurls/TwIZLbyPMeZmyBVALt.json) | Sum 41 - Fat Lip                                                              |
+| [qAiYWmYrmElkeEUgZS](blurls/qAiYWmYrmElkeEUgZS.json) | Sum 41 - Fat Lip (Instrumental)                                               |
+| [GyGXIVgukrlANJYXKu](blurls/GyGXIVgukrlANJYXKu.json) | Sum 41 - Fat Lip (Preview)                                                    |
+| [uMuViohHLPpUDesmWB](blurls/uMuViohHLPpUDesmWB.json) | Sum 41 - Fat Lip (Stereo Track)                                               |
 | [HwqWjyIrdXvdeApMnQ](blurls/HwqWjyIrdXvdeApMnQ.json) | Swedish House Mafia ft. John Martin - Don't You Worry Child                   |
 | [TMnHHVMUCSwcQFhsnq](blurls/TMnHHVMUCSwcQFhsnq.json) | Swedish House Mafia ft. John Martin - Don't You Worry Child (Instrumental)    |
 | [rmmbIzCyVNeSugaLjG](blurls/rmmbIzCyVNeSugaLjG.json) | Swedish House Mafia ft. John Martin - Don't You Worry Child (Preview)         |
@@ -1365,6 +1398,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [xseHHRBEPzgcKmOscY](blurls/xseHHRBEPzgcKmOscY.json) | The All-American Rejects - Dirty Little Secret (Instrumental)                 |
 | [SYOAJSHtalCDBjDAzR](blurls/SYOAJSHtalCDBjDAzR.json) | The All-American Rejects - Dirty Little Secret (Preview)                      |
 | [LyEMOXlJUoyWXmKrzp](blurls/LyEMOXlJUoyWXmKrzp.json) | The All-American Rejects - Dirty Little Secret (Stereo Track)                 |
+| [NubBwvjadqiYAuixbK](blurls/NubBwvjadqiYAuixbK.json) | The Black Keys - Lonely Boy                                                   |
+| [FyTpVWvtQnmsBtrUxe](blurls/FyTpVWvtQnmsBtrUxe.json) | The Black Keys - Lonely Boy (Instrumental)                                    |
+| [EREOVbyFivLpzDiaoY](blurls/EREOVbyFivLpzDiaoY.json) | The Black Keys - Lonely Boy (Preview)                                         |
+| [oAfjqDgJpgyuzKoepY](blurls/oAfjqDgJpgyuzKoepY.json) | The Black Keys - Lonely Boy (Stereo Track)                                    |
 | [cJVVNGxqYgmBRNQZRp](blurls/cJVVNGxqYgmBRNQZRp.json) | The Chainsmokers ft. Daya - Don't Let Me Down                                 |
 | [SZKFfKKNKKaxNedhFM](blurls/SZKFfKKNKKaxNedhFM.json) | The Chainsmokers ft. Daya - Don't Let Me Down (Instrumental)                  |
 | [mmbEyoOqbVGQDdPERn](blurls/mmbEyoOqbVGQDdPERn.json) | The Chainsmokers ft. Daya - Don't Let Me Down (Preview)                       |

@@ -1,0 +1,13 @@
+{
+    "playlists": [
+        {
+            "type": "main",
+            "language": "en",
+            "url": "https://pilgrim.qstv.on.epicgames.com/vsuUmkYmrjTGkBRYfW/1b54665e-48cb-4594-ac8f-025d534e68e4/1b54665e-48cb-4594-ac8f-025d534e68e4/main.mpd",
+            "data": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd\" profiles=\"urn:mpeg:dash:profile:isoff-live:2011\" type=\"static\" mediaPresentationDuration=\"PT30.213S\" maxSegmentDuration=\"PT2.000S\" minBufferTime=\"PT4.106S\">\n  <BaseURL>https://pilgrim.qstv.on.epicgames.com/vsuUmkYmrjTGkBRYfW/1b54665e-48cb-4594-ac8f-025d534e68e4/</BaseURL>\n  <ProgramInformation></ProgramInformation>\n  <Period id=\"0\" start=\"PT0S\">\n    <AdaptationSet id=\"0\" contentType=\"audio\" startWithSAP=\"1\" segmentAlignment=\"true\" bitstreamSwitching=\"true\">\n      <Representation id=\"0\" audioSamplingRate=\"48000\" bandwidth=\"128000\" mimeType=\"audio/mp4\" codecs=\"mp4a.40.2\">\n        <SegmentTemplate duration=\"2000000\" timescale=\"1000000\" initialization=\"init_$RepresentationID$.mp4\" media=\"segment_$RepresentationID$_$Number$.m4s\" startNumber=\"1\"></SegmentTemplate>\n        <AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\"></AudioChannelConfiguration>\n      </Representation>\n    </AdaptationSet>\n  </Period>\n</MPD>"
+        }
+    ],
+    "type": "vod",
+    "ucp": "a",
+    "audioonly": true
+}
