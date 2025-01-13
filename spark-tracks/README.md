@@ -831,6 +831,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [NNoSIvsQqtzVgmfRbq](blurls/NNoSIvsQqtzVgmfRbq.json) | Karol G ft. Tiësto - PROVENZA (REMIX) (Instrumental)                          |
 | [PNkpywffXbqRiJBHTc](blurls/PNkpywffXbqRiJBHTc.json) | Karol G ft. Tiësto - PROVENZA (REMIX) (Preview)                               |
 | [tvAaAVjbgHrTvustLC](blurls/tvAaAVjbgHrTvustLC.json) | Karol G ft. Tiësto - PROVENZA (REMIX) (Stereo Track)                          |
+| [KLRrdoNbAJJgPrEtMv](blurls/KLRrdoNbAJJgPrEtMv.json) | Kat DeLuna ft. Elephant Man - Whine Up                                        |
+| [XmGQorFKuFsNBzeOEr](blurls/XmGQorFKuFsNBzeOEr.json) | Kat DeLuna ft. Elephant Man - Whine Up (Instrumental)                         |
+| [nbFLQskzhYFzAntWrw](blurls/nbFLQskzhYFzAntWrw.json) | Kat DeLuna ft. Elephant Man - Whine Up (Preview)                              |
+| [pHnizVqKXaBFhrzxDa](blurls/pHnizVqKXaBFhrzxDa.json) | Kat DeLuna ft. Elephant Man - Whine Up (Stereo Track)                         |
 | [YJuJITYtGSdfDcXGNp](blurls/YJuJITYtGSdfDcXGNp.json) | Katy Perry - Firework                                                         |
 | [dpmxoVRApWfzsrNUbs](blurls/dpmxoVRApWfzsrNUbs.json) | Katy Perry - Firework (Instrumental)                                          |
 | [EsavPhYoXQtFgqOHoe](blurls/EsavPhYoXQtFgqOHoe.json) | Katy Perry - Firework (Preview)                                               |
@@ -954,6 +958,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [NAuiSZDhyfIcaFXplb](blurls/NAuiSZDhyfIcaFXplb.json) | LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem (Instrumental)        |
 | [nxLJFcAiIPllRRssqw](blurls/nxLJFcAiIPllRRssqw.json) | LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem (Preview)             |
 | [VcqjTSvoCzTPGqwsHA](blurls/VcqjTSvoCzTPGqwsHA.json) | LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem (Stereo Track)        |
+| [YnJKPtmvhxVtXdxDtz](blurls/YnJKPtmvhxVtXdxDtz.json) | Lou Bega - Mambo No. 5 (A Little Bit of...)                                   |
+| [RUErGLTisvTCUwHLbj](blurls/RUErGLTisvTCUwHLbj.json) | Lou Bega - Mambo No. 5 (A Little Bit of...) (Instrumental)                    |
+| [QMKjnlkcpjKJxIZImH](blurls/QMKjnlkcpjKJxIZImH.json) | Lou Bega - Mambo No. 5 (A Little Bit of...) (Preview)                         |
+| [dTtHTHQxAaFeBsVOao](blurls/dTtHTHQxAaFeBsVOao.json) | Lou Bega - Mambo No. 5 (A Little Bit of...) (Stereo Track)                    |
 | [gDofNgEaNcRbYRAoDg](blurls/gDofNgEaNcRbYRAoDg.json) | Mac Miller, Empire of the Sun - The Spins                                     |
 | [yXfTuqDAFLEOHpmFEw](blurls/yXfTuqDAFLEOHpmFEw.json) | Mac Miller, Empire of the Sun - The Spins (Instrumental)                      |
 | [IyfniPLEhdPjtwsATm](blurls/IyfniPLEhdPjtwsATm.json) | Mac Miller, Empire of the Sun - The Spins (Preview)                           |
@@ -1252,6 +1260,18 @@ Jam Track Audio Data from Fortnite Festival.
 | [QPVjyfdkAVDbydOQGT](blurls/QPVjyfdkAVDbydOQGT.json) | Rancid - Ruby Soho (Instrumental)                                             |
 | [NiRfmyLvywArMrUXIU](blurls/NiRfmyLvywArMrUXIU.json) | Rancid - Ruby Soho (Preview)                                                  |
 | [DyzZJnygCqLJdXtWhZ](blurls/DyzZJnygCqLJdXtWhZ.json) | Rancid - Ruby Soho (Stereo Track)                                             |
+| [jeeftwiijevOAHxNrM](blurls/jeeftwiijevOAHxNrM.json) | Red Hot Chili Peppers - Californication                                       |
+| [LRDWAXIFXhzuYGXmVF](blurls/LRDWAXIFXhzuYGXmVF.json) | Red Hot Chili Peppers - Californication (Instrumental)                        |
+| [MubjeuaaDkhFeJYSpY](blurls/MubjeuaaDkhFeJYSpY.json) | Red Hot Chili Peppers - Californication (Preview)                             |
+| [erFPOFhxzXzikcQdAq](blurls/erFPOFhxzXzikcQdAq.json) | Red Hot Chili Peppers - Californication (Stereo Track)                        |
+| [pWCHAaDYxwxLejOyvd](blurls/pWCHAaDYxwxLejOyvd.json) | Red Hot Chili Peppers - Give It Away                                          |
+| [fGZCzfcfDDpPOCEsmC](blurls/fGZCzfcfDDpPOCEsmC.json) | Red Hot Chili Peppers - Give It Away (Instrumental)                           |
+| [XoyWpcPJzgFUSAZdSK](blurls/XoyWpcPJzgFUSAZdSK.json) | Red Hot Chili Peppers - Give It Away (Preview)                                |
+| [IzFRtxUpuLdkePbJgq](blurls/IzFRtxUpuLdkePbJgq.json) | Red Hot Chili Peppers - Give It Away (Stereo Track)                           |
+| [GIpWBujboQkUuAUyAL](blurls/GIpWBujboQkUuAUyAL.json) | Red Hot Chili Peppers - Snow (Hey Oh)                                         |
+| [hTAoTSmzYYzXfaCwEQ](blurls/hTAoTSmzYYzXfaCwEQ.json) | Red Hot Chili Peppers - Snow (Hey Oh) (Instrumental)                          |
+| [bzDTEqShpPSDqUSEAh](blurls/bzDTEqShpPSDqUSEAh.json) | Red Hot Chili Peppers - Snow (Hey Oh) (Preview)                               |
+| [aXemuDCIRmwSXYtLKO](blurls/aXemuDCIRmwSXYtLKO.json) | Red Hot Chili Peppers - Snow (Hey Oh) (Stereo Track)                          |
 | [NNQBQJkGHqdmvcBwYG](blurls/NNQBQJkGHqdmvcBwYG.json) | Rick James - Super Freak                                                      |
 | [cTQpqksRbwVmHDOSqc](blurls/cTQpqksRbwVmHDOSqc.json) | Rick James - Super Freak (Instrumental)                                       |
 | [hoflzQQnraYuWHrzdQ](blurls/hoflzQQnraYuWHrzdQ.json) | Rick James - Super Freak (Preview)                                            |
