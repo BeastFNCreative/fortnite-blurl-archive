@@ -10,6 +10,9 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [sWcjTJIludwuXHGSoP](blurls/sWcjTJIludwuXHGSoP.json) | Illusive Icon Series Emote |
+| [vGBbDEbClhuWqscGrx](blurls/vGBbDEbClhuWqscGrx.json) | Godzilla In-Game Event Trailer |
+| [cKWLmjoTMJreehwTwo](blurls/cKWLmjoTMJreehwTwo.json) | Mechagodzilla Trailer |
 | [YTiCMOqUxBPPAGjayl](blurls/YTiCMOqUxBPPAGjayl.json) | To The Moon Icon Series Emote |
 | [cGQhYwHabCfftyVteI](blurls/cGQhYwHabCfftyVteI.json) | Lambo Urus Trailer (MOTD Background) |
 | [ZyQRxucGRbYYbZOjsD](blurls/ZyQRxucGRbYYbZOjsD.json) | Winterfest Cinematic Trailer |
