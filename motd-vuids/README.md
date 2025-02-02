@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [ZteiMiXsOfvTzoKLSy](blurls/ZteiMiXsOfvTzoKLSy.json) | Fortnite OG Chapter 1 Season 2 Gameplay Trailer |
 | [sWcjTJIludwuXHGSoP](blurls/sWcjTJIludwuXHGSoP.json) | Illusive Icon Series Emote |
 | [vGBbDEbClhuWqscGrx](blurls/vGBbDEbClhuWqscGrx.json) | Godzilla In-Game Event Trailer |
 | [cKWLmjoTMJreehwTwo](blurls/cKWLmjoTMJreehwTwo.json) | Mechagodzilla Trailer |
