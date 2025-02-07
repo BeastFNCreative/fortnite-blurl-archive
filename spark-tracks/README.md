@@ -1162,6 +1162,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [VOFbjcGVwqrwSXCLWh](blurls/VOFbjcGVwqrwSXCLWh.json) | Nelly ft. City Spud - Ride Wit Me (Instrumental)                              |
 | [IWdHVthmtpcMZrYXfN](blurls/IWdHVthmtpcMZrYXfN.json) | Nelly ft. City Spud - Ride Wit Me (Preview)                                   |
 | [LiqryOXiSbZBZetMhj](blurls/LiqryOXiSbZBZetMhj.json) | Nelly ft. City Spud - Ride Wit Me (Stereo Track)                              |
+| [eeZDgVHEQodpQPVBqb](blurls/eeZDgVHEQodpQPVBqb.json) | Ne-Yo - Closer                                                                |
+| [nITUUTEwWljasoRuib](blurls/nITUUTEwWljasoRuib.json) | Ne-Yo - Closer (Instrumental)                                                 |
+| [rnYFJqWufBshVStUBk](blurls/rnYFJqWufBshVStUBk.json) | Ne-Yo - Closer (Preview)                                                      |
+| [OWONyIJKwFaCTPSymz](blurls/OWONyIJKwFaCTPSymz.json) | Ne-Yo - Closer (Stereo Track)                                                 |
 | [iDOKLTUTYDWoPDQkGr](blurls/iDOKLTUTYDWoPDQkGr.json) | NF - Let You Down                                                             |
 | [HliJGdkIbOwEoTQCJf](blurls/HliJGdkIbOwEoTQCJf.json) | NF - Let You Down (Instrumental)                                              |
 | [bclLEyvHzTlynEKzPb](blurls/bclLEyvHzTlynEKzPb.json) | NF - Let You Down (Preview)                                                   |
@@ -1590,6 +1594,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [xnrDLaEDpLQixwljPP](blurls/xnrDLaEDpLQixwljPP.json) | Twenty One Pilots - Next Semester (Instrumental)                              |
 | [hRATldJYrnVKTjGxNU](blurls/hRATldJYrnVKTjGxNU.json) | Twenty One Pilots - Next Semester (Preview)                                   |
 | [wQiHsMOGJUwxLqQYeX](blurls/wQiHsMOGJUwxLqQYeX.json) | Twenty One Pilots - Next Semester (Stereo Track)                              |
+| [FVVVvtZPqhSnwJSwuH](blurls/FVVVvtZPqhSnwJSwuH.json) | Twenty One Pilots - Overcompensate                                            |
+| [ZDgXvTYJwQLpFHqkBR](blurls/ZDgXvTYJwQLpFHqkBR.json) | Twenty One Pilots - Overcompensate (Instrumental)                             |
+| [xftVcYfNJuuUtEqBtR](blurls/xftVcYfNJuuUtEqBtR.json) | Twenty One Pilots - Overcompensate (Preview)                                  |
+| [UnbMllKWRfdmTejBsp](blurls/UnbMllKWRfdmTejBsp.json) | Twenty One Pilots - Overcompensate (Stereo Track)                             |
 | [YSciafFVdpQjnHgdZH](blurls/YSciafFVdpQjnHgdZH.json) | Twenty One Pilots - Stressed Out                                              |
 | [SAFMOHEJHQeXiCzPJr](blurls/SAFMOHEJHQeXiCzPJr.json) | Twenty One Pilots - Stressed Out (Instrumental)                               |
 | [EkEbhkZVQXOOFjTaaZ](blurls/EkEbhkZVQXOOFjTaaZ.json) | Twenty One Pilots - Stressed Out (Preview)                                    |
@@ -1654,10 +1662,18 @@ Jam Track Audio Data from Fortnite Festival.
 | [MKLZfdFzdgsLPfcMug](blurls/MKLZfdFzdgsLPfcMug.json) | WitchGang - Timeless (Instrumental)                                           |
 | [fVALLXBdAuxUVUnnQj](blurls/fVALLXBdAuxUVUnnQj.json) | WitchGang - Timeless (Preview)                                                |
 | [jajuWfhvZYqBQntYwg](blurls/jajuWfhvZYqBQntYwg.json) | WitchGang - Timeless (Stereo Track)                                           |
+| [PTaGoIOnXYRgqnuefv](blurls/PTaGoIOnXYRgqnuefv.json) | YOASOBI - IDOL                                                                |
+| [VSxxxZkzDAHWvKnQzP](blurls/VSxxxZkzDAHWvKnQzP.json) | YOASOBI - IDOL (Instrumental)                                                 |
+| [xvttqIkOqXpHKSXTmx](blurls/xvttqIkOqXpHKSXTmx.json) | YOASOBI - IDOL (Preview)                                                      |
+| [OokBqbfUMLvnkShNNL](blurls/OokBqbfUMLvnkShNNL.json) | YOASOBI - IDOL (Stereo Track)                                                 |
 | [hgogyBihEeYEaiiUvl](blurls/hgogyBihEeYEaiiUvl.json) | YOASOBI - The Brave                                                           |
 | [sMVZmzhBkzkgsEUDom](blurls/sMVZmzhBkzkgsEUDom.json) | YOASOBI - The Brave (Instrumental)                                            |
 | [ruVRYPnYAgTxWhZZLa](blurls/ruVRYPnYAgTxWhZZLa.json) | YOASOBI - The Brave (Preview)                                                 |
 | [ZYFvOphljIwlOjslsK](blurls/ZYFvOphljIwlOjslsK.json) | YOASOBI - The Brave (Stereo Track)                                            |
+| [WzTJFAcEDExJLiSQdH](blurls/WzTJFAcEDExJLiSQdH.json) | YOASOBI - Yoru Ni Kakeru                                                      |
+| [bBCyqyCSFrStdgycSm](blurls/bBCyqyCSFrStdgycSm.json) | YOASOBI - Yoru Ni Kakeru (Instrumental)                                       |
+| [YxBMJxIeEwMnbxVRUi](blurls/YxBMJxIeEwMnbxVRUi.json) | YOASOBI - Yoru Ni Kakeru (Preview)                                            |
+| [RSvVEOFjfQBuvrArTE](blurls/RSvVEOFjfQBuvrArTE.json) | YOASOBI - Yoru Ni Kakeru (Stereo Track)                                       |
 | [gniXTOGIdaDCiapOYk](blurls/gniXTOGIdaDCiapOYk.json) | Young MC - Bust A Move                                                        |
 | [thBAvopnUAPCosUdrg](blurls/thBAvopnUAPCosUdrg.json) | Young MC - Bust A Move (Instrumental)                                         |
 | [OAuUHCQATAKKHDWgcz](blurls/OAuUHCQATAKKHDWgcz.json) | Young MC - Bust A Move (Preview)                                              |
