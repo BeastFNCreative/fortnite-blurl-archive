@@ -265,6 +265,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [PLdwgtQVcwLGTvgmEO](blurls/PLdwgtQVcwLGTvgmEO.json) | Chumbawamba - Tubthumping (Instrumental)                                      |
 | [vsuUmkYmrjTGkBRYfW](blurls/vsuUmkYmrjTGkBRYfW.json) | Chumbawamba - Tubthumping (Preview)                                           |
 | [KDVxtLjRTPNwBjzhpj](blurls/KDVxtLjRTPNwBjzhpj.json) | Chumbawamba - Tubthumping (Stereo Track)                                      |
+| [yAxIXbBVdlzwOTICFV](blurls/yAxIXbBVdlzwOTICFV.json) | Creepy Nuts - Bling-Bang-Bang-Born                                            |
+| [RoJsQabrWSBhlSkSqs](blurls/RoJsQabrWSBhlSkSqs.json) | Creepy Nuts - Bling-Bang-Bang-Born (Instrumental)                             |
+| [juUhACkkngqRSikIJc](blurls/juUhACkkngqRSikIJc.json) | Creepy Nuts - Bling-Bang-Bang-Born (Preview)                                  |
+| [LAbFDFZjLBHVqHQYTf](blurls/LAbFDFZjLBHVqHQYTf.json) | Creepy Nuts - Bling-Bang-Bang-Born (Stereo Track)                             |
 | [xfJaMGiYIIOldwJMbf](blurls/xfJaMGiYIIOldwJMbf.json) | Cypress Hill - Insane in the Brain                                            |
 | [JKvhcyFjUTItpZROqk](blurls/JKvhcyFjUTItpZROqk.json) | Cypress Hill - Insane in the Brain (Instrumental)                             |
 | [orTszyfogenKFSDtyh](blurls/orTszyfogenKFSDtyh.json) | Cypress Hill - Insane in the Brain (Preview)                                  |
@@ -1250,6 +1254,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [TbImspiBJWSvOzjhNw](blurls/TbImspiBJWSvOzjhNw.json) | Panic! At The Disco - I Write Sins Not Tragedies (Instrumental)               |
 | [zFYiQHvXXdvTAizOtg](blurls/zFYiQHvXXdvTAizOtg.json) | Panic! At The Disco - I Write Sins Not Tragedies (Preview)                    |
 | [DGrzHQuOCTAYiqmLtO](blurls/DGrzHQuOCTAYiqmLtO.json) | Panic! At The Disco - I Write Sins Not Tragedies (Stereo Track)               |
+| [oAppDYMxjkXnQWZfam](blurls/oAppDYMxjkXnQWZfam.json) | Papa Roach - Last Resort (2020)                                               |
+| [UhhNWaYajQRCKiVWjW](blurls/UhhNWaYajQRCKiVWjW.json) | Papa Roach - Last Resort (2020) (Instrumental)                                |
+| [bqQrpJzrTXVVTfJlVD](blurls/bqQrpJzrTXVVTfJlVD.json) | Papa Roach - Last Resort (2020) (Preview)                                     |
+| [JUJjZFHurFpsEWRgmd](blurls/JUJjZFHurFpsEWRgmd.json) | Papa Roach - Last Resort (2020) (Stereo Track)                                |
 | [QsmbQZmAHCwMwGUzni](blurls/QsmbQZmAHCwMwGUzni.json) | Paramore - Misery Business                                                    |
 | [zJrGAXOaQXgOMflUXe](blurls/zJrGAXOaQXgOMflUXe.json) | Paramore - Misery Business (Instrumental)                                     |
 | [zUfWsNOdizEYECvaNv](blurls/zUfWsNOdizEYECvaNv.json) | Paramore - Misery Business (Preview)                                          |
@@ -1490,6 +1498,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [HnTGxddGusUcDZZPxb](blurls/HnTGxddGusUcDZZPxb.json) | Technotronic - Pump Up The Jam (Instrumental)                                 |
 | [jOQWnaeipxAOCrQghs](blurls/jOQWnaeipxAOCrQghs.json) | Technotronic - Pump Up The Jam (Preview)                                      |
 | [IulVuRgstnpuSwIelF](blurls/IulVuRgstnpuSwIelF.json) | Technotronic - Pump Up The Jam (Stereo Track)                                 |
+| [vSTxpDzHBEjtcjyhEq](blurls/vSTxpDzHBEjtcjyhEq.json) | Teddy Swims - Lose Control                                                    |
+| [GUrEmUcEOaEpcFztXM](blurls/GUrEmUcEOaEpcFztXM.json) | Teddy Swims - Lose Control (Instrumental)                                     |
+| [ikVSwXWDfwQvpwVpCy](blurls/ikVSwXWDfwQvpwVpCy.json) | Teddy Swims - Lose Control (Preview)                                          |
+| [RfecUytbNKjwZrsDzu](blurls/RfecUytbNKjwZrsDzu.json) | Teddy Swims - Lose Control (Stereo Track)                                     |
 | [ZMvmydQYMcSLsYbHLh](blurls/ZMvmydQYMcSLsYbHLh.json) | Terror Squad ft. Remy & Fat Joe - Lean Back                                   |
 | [DOUAPaRHFuNBiQSZMM](blurls/DOUAPaRHFuNBiQSZMM.json) | Terror Squad ft. Remy & Fat Joe - Lean Back (Instrumental)                    |
 | [AhCYPZsRHwzeKhPqxm](blurls/AhCYPZsRHwzeKhPqxm.json) | Terror Squad ft. Remy & Fat Joe - Lean Back (Preview)                         |

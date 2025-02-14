@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [VwqdyUSTSVmslTeYJr](blurls/VwqdyUSTSVmslTeYJr.json) | Fortnite Chapter 6 Season 2: Lawless Teaser |
 | [WrjxcXpJSYajgAyeNK](blurls/WrjxcXpJSYajgAyeNK.json) | Adidas Kicks Showcase |
 | [SPbmIoHLwcaxUqTsGN](blurls/SPbmIoHLwcaxUqTsGN.json) | Jujutsu Kaisen Villans Wave Trailer |
 | [ZteiMiXsOfvTzoKLSy](blurls/ZteiMiXsOfvTzoKLSy.json) | Fortnite OG Chapter 1 Season 2 Gameplay Trailer |
