@@ -13,6 +13,7 @@ Party Royale Content, Ranges from Concerts to Events, Placeholder Videos and mor
 | [8to71P40TQY4092T78](blurls/8to71P40TQY4092T78.json) | Afterlife Party ft. J Balvin Concert |
 | [62jd3y6JQ6542zf7Hd](blurls/62jd3y6JQ6542zf7Hd.json) | Kaskade with Llama-Rama Concert |
 | [9owIOIoBm9HiD97pS7](blurls/9owIOIoBm9HiD97pS7.json) | Kaskade with Llama-Rama Concert (2nd Screen) |
+| [OmFHtOIBZWebEVAA](blurls/OmFHtOIBZWebEVAA.json) | Kenshi Yonezu at Party Royale |
 | [fTpbbVJbTHfGrFnH](blurls/fTpbbVJbTHfGrFnH.json) | Main Stage Video |
 | [RlKfAdzUCOFtqJAz](blurls/RlKfAdzUCOFtqJAz.json) | Missing PIP Video |
 | [mGuaFIZiaIljkbGUAo](blurls/mGuaFIZiaIljkbGUAo.json) | Short Nite 2: WebGen Event |
