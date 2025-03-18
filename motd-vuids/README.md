@@ -12,6 +12,11 @@ MOTD Video Content from PRM Service or FortniteContent.
 | :-------- | :------------------------- |
 | [mEJpRxjtnMuNGPlFiN](blurls/mEJpRxjtnMuNGPlFiN.json) | Tomb Raider Jeep Car (MOTD Background) |
 | [lMhaXfFGGxvzlTzQTC](blurls/lMhaXfFGGxvzlTzQTC.json) | Invincible Dupli-Kate Clip |
+| [cotoPnDgpTrTKwSIXC](blurls/cotoPnDgpTrTKwSIXC.json) | The Getaway Trailer |
+| [FrAEpcLKjwRFgUKmwh](blurls/FrAEpcLKjwRFgUKmwh.json) | Fortnite Dogs Skin Release Cinematic |
+| [TjshbVjCUOGpilToGs](blurls/TjshbVjCUOGpilToGs.json) | Cowboy Bepop Trailer |
+| [BDixfAqPEkmjnaQlQm](blurls/BDixfAqPEkmjnaQlQm.json) | Fortnite Music Moments Promo |
+| [BofIDOUBlRJUaLVeHG](blurls/BofIDOUBlRJUaLVeHG.json) | Fortnite Chapter 6 Season 2: Lawless Trailer |
 | [VwqdyUSTSVmslTeYJr](blurls/VwqdyUSTSVmslTeYJr.json) | Fortnite Chapter 6 Season 2: Lawless Teaser |
 | [WrjxcXpJSYajgAyeNK](blurls/WrjxcXpJSYajgAyeNK.json) | Adidas Kicks Showcase |
 | [SPbmIoHLwcaxUqTsGN](blurls/SPbmIoHLwcaxUqTsGN.json) | Jujutsu Kaisen Villans Wave Trailer |

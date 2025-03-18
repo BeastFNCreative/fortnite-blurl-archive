@@ -68,5 +68,4 @@ Seasonal Trailer Video Content, found in either the Career Tab or First Time Sta
 | [nWeikOzaFoeLIbfxzZ](blurls/nWeikOzaFoeLIbfxzZ.json) | Chapter 6 Season 1 : Season Trailer |
 | [ztkdcLEglWnsJfncHP](blurls/ztkdcLEglWnsJfncHP.json) | Chapter 6 Season 1 : Ecosystem Trailer |
 | [nZiCPbiuoAEEVEiemw](blurls/nZiCPbiuoAEEVEiemw.json) | Chapter 6 Season 1 : Ecosystem Trailer (S2 Fortnite OG) |
-| [BofIDOUBlRJUaLVeHG](blurls/BofIDOUBlRJUaLVeHG.json) | Chapter 6 Season 2 : Season Trailer |
 | [ccdDKmHzAZwXLANEbD](blurls/ccdDKmHzAZwXLANEbD.json) | Chapter 6 Season 2 : Ecosystem Trailer |
