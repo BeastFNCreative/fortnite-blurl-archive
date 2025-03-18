@@ -955,6 +955,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [dpmxoVRApWfzsrNUbs](blurls/dpmxoVRApWfzsrNUbs.json) | Katy Perry - Firework (Instrumental)                                          |
 | [EsavPhYoXQtFgqOHoe](blurls/EsavPhYoXQtFgqOHoe.json) | Katy Perry - Firework (Preview)                                               |
 | [FPhyYPkDlFkXnfFGDi](blurls/FPhyYPkDlFkXnfFGDi.json) | Katy Perry - Firework (Stereo Track)                                          |
+| [IaQLiozxKDjCxXocom](blurls/IaQLiozxKDjCxXocom.json) | Katy Perry - Roar                                                             |
+| [steENKgoyvOVWOgRkI](blurls/steENKgoyvOVWOgRkI.json) | Katy Perry - Roar (Instrumental)                                              |
+| [BmPHsczqokcpgkfiNu](blurls/BmPHsczqokcpgkfiNu.json) | Katy Perry - Roar (Preview)                                                   |
+| [xwqYkAsnwAriRheKZq](blurls/xwqYkAsnwAriRheKZq.json) | Katy Perry - Roar (Stereo Track)                                              |
 | [TPApdjhCVZKhNzIyYX](blurls/TPApdjhCVZKhNzIyYX.json) | Kelly Clarkson - Stronger (What Doesn't Kill You)                             |
 | [pLwdQGEDMRoqrqfdvZ](blurls/pLwdQGEDMRoqrqfdvZ.json) | Kelly Clarkson - Stronger (What Doesn't Kill You) (Instrumental)              |
 | [IkpIuUfnWoRzCoTNux](blurls/IkpIuUfnWoRzCoTNux.json) | Kelly Clarkson - Stronger (What Doesn't Kill You) (Preview)                   |
@@ -1310,10 +1314,18 @@ Jam Track Audio Data from Fortnite Festival.
 | [UhhNWaYajQRCKiVWjW](blurls/UhhNWaYajQRCKiVWjW.json) | Papa Roach - Last Resort (2020) (Instrumental)                                |
 | [bqQrpJzrTXVVTfJlVD](blurls/bqQrpJzrTXVVTfJlVD.json) | Papa Roach - Last Resort (2020) (Preview)                                     |
 | [JUJjZFHurFpsEWRgmd](blurls/JUJjZFHurFpsEWRgmd.json) | Papa Roach - Last Resort (2020) (Stereo Track)                                |
+| [CpZomDrmyyMYuhTKlr](blurls/CpZomDrmyyMYuhTKlr.json) | Paramore - Ain't It Fun                                                       |
+| [XzlbSsryheJFNQdAKI](blurls/XzlbSsryheJFNQdAKI.json) | Paramore - Ain't It Fun (Instrumental)                                        |
+| [ypXlDPpIDTplOEDuXB](blurls/ypXlDPpIDTplOEDuXB.json) | Paramore - Ain't It Fun (Preview)                                             |
+| [lNKRgSEludhXCaQjqE](blurls/lNKRgSEludhXCaQjqE.json) | Paramore - Ain't It Fun (Stereo Track)                                        |
 | [QsmbQZmAHCwMwGUzni](blurls/QsmbQZmAHCwMwGUzni.json) | Paramore - Misery Business                                                    |
 | [zJrGAXOaQXgOMflUXe](blurls/zJrGAXOaQXgOMflUXe.json) | Paramore - Misery Business (Instrumental)                                     |
 | [zUfWsNOdizEYECvaNv](blurls/zUfWsNOdizEYECvaNv.json) | Paramore - Misery Business (Preview)                                          |
 | [tKEtWezcycijTsFtmE](blurls/tKEtWezcycijTsFtmE.json) | Paramore - Misery Business (Stereo Track)                                     |
+| [MbpFnfLkttUskcQayG](blurls/MbpFnfLkttUskcQayG.json) | Paramore - Still Into You                                                     |
+| [AcVaSochbHWDkTsSIb](blurls/AcVaSochbHWDkTsSIb.json) | Paramore - Still Into You (Instrumental)                                      |
+| [ymqniyPgUYIjvbuJNm](blurls/ymqniyPgUYIjvbuJNm.json) | Paramore - Still Into You (Preview)                                           |
+| [LZyoJzmnKoDWVDRZCH](blurls/LZyoJzmnKoDWVDRZCH.json) | Paramore - Still Into You (Stereo Track)                                      |
 | [QeWVWyrbFhcQfaHYUq](blurls/QeWVWyrbFhcQfaHYUq.json) | Pat Benatar - Heartbreaker                                                    |
 | [tXPlDYxYkWXeBQVEdi](blurls/tXPlDYxYkWXeBQVEdi.json) | Pat Benatar - Heartbreaker (Instrumental)                                     |
 | [YXdJwGrgvgTgntrdbA](blurls/YXdJwGrgvgTgntrdbA.json) | Pat Benatar - Heartbreaker (Preview)                                          |
