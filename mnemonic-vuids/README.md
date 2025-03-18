@@ -47,6 +47,7 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [QJehWpCvFetVhkVXxL](blurls/QJehWpCvFetVhkVXxL.json) | playlist_sprout : LEGO Fortnite: Brick Life (v2 No Blast-URL Yet) |
 | [JRpuHevWxwGuIgSYUM](blurls/JRpuHevWxwGuIgSYUM.json) | playlist_sprout : LEGO Fortnite: Brick Life (v3) |
 | [uVJvAWDZbUUVoWbwum](blurls/uVJvAWDZbUUVoWbwum.json) | playlist_sprout : LEGO Fortnite: Brick Life (v4 No Blast-URL Yet) |
+| [mubogXpcJORpBdNBtw](blurls/mubogXpcJORpBdNBtw.json) | playlist_sprout : LEGO Fortnite: Brick Life (v5) |
 | [EmSIVIsQevEAdtLiZq](blurls/EmSIVIsQevEAdtLiZq.json) | set_arena_playlists : Arena Modes |
 | [XcoOakTVCLfjUdhgrS](blurls/XcoOakTVCLfjUdhgrS.json) | set_blastberry_nobuild_playlists : Reload - Zero Build |
 | [eMXrklniVQMEoVSpsE](blurls/eMXrklniVQMEoVSpsE.json) | set_blastberry_playlists : Reload |
@@ -58,6 +59,7 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [dPKIUpCZmqpWiVlvsB](blurls/dPKIUpCZmqpWiVlvsB.json) | set_br_playlists : Absolute Doom |
 | [uoSoczauoTiSArNIHL](blurls/uoSoczauoTiSArNIHL.json) | set_br_playlists : Remix: Chapter 2 |
 | [BPmqJrpZmlEdIOGook](blurls/BPmqJrpZmlEdIOGook.json) | set_br_playlists : Hunters |
+| [JCmxkliEBcmTdsGMqJ](blurls/JCmxkliEBcmTdsGMqJ.json) | set_br_playlists : Lawless |
 | [nBXWuBNMdScHeYtCnP](blurls/nBXWuBNMdScHeYtCnP.json) | set_delmar_mrs_ranked : Rocket Racing |
 | [qpdchKarjFnwpdEnYj](blurls/qpdchKarjFnwpdEnYj.json) | set_delmar_mrs_ranked : Rocket Racing (Extra VUID) |
 | [zmDptnMNGqUEdlBwTv](blurls/zmDptnMNGqUEdlBwTv.json) | set_delmar_mrs_ranked : Rocket Racing (Star Wars Update) |
@@ -68,5 +70,6 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [NmHbNVlXvXnjavJGTV](blurls/NmHbNVlXvXnjavJGTV.json) | set_nobuild_playlists : Wrecked |
 | [JXjAOXDFfYTmPVpZVW](blurls/JXjAOXDFfYTmPVpZVW.json) | set_nobuild_playlists : Absolute Doom |
 | [mrhasYehRLdjYGMdmL](blurls/mrhasYehRLdjYGMdmL.json) | set_nobuild_playlists : Hunters |
+| [NqvoWIJjfUlNsSCkwP](blurls/NqvoWIJjfUlNsSCkwP.json) | set_nobuild_playlists : Lawless |
 | [KLHeAwpnfyWJzsHggq](blurls/KLHeAwpnfyWJzsHggq.json) | set_nobuild_playlists : Zero Build - Battle Royale |
 | [VTfsLUcDGhrnzHppNB](blurls/VTfsLUcDGhrnzHppNB.json) | set_nobuild_playlists : Zero Build - Battle Royale (v1) |

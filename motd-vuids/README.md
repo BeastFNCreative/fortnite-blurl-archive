@@ -10,6 +10,8 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [mEJpRxjtnMuNGPlFiN](blurls/mEJpRxjtnMuNGPlFiN.json) | Tomb Raider Jeep Car (MOTD Background) |
+| [lMhaXfFGGxvzlTzQTC](blurls/lMhaXfFGGxvzlTzQTC.json) | Invincible Dupli-Kate Clip |
 | [VwqdyUSTSVmslTeYJr](blurls/VwqdyUSTSVmslTeYJr.json) | Fortnite Chapter 6 Season 2: Lawless Teaser |
 | [WrjxcXpJSYajgAyeNK](blurls/WrjxcXpJSYajgAyeNK.json) | Adidas Kicks Showcase |
 | [SPbmIoHLwcaxUqTsGN](blurls/SPbmIoHLwcaxUqTsGN.json) | Jujutsu Kaisen Villans Wave Trailer |
