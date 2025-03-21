@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [mJpEWhnMxWHuXmfZhu](blurls/mJpEWhnMxWHuXmfZhu.json) | Spring Raid MOTD Clip |
 | [mEJpRxjtnMuNGPlFiN](blurls/mEJpRxjtnMuNGPlFiN.json) | Tomb Raider Jeep Car (MOTD Background) |
 | [lMhaXfFGGxvzlTzQTC](blurls/lMhaXfFGGxvzlTzQTC.json) | Invincible Dupli-Kate Clip |
 | [cotoPnDgpTrTKwSIXC](blurls/cotoPnDgpTrTKwSIXC.json) | The Getaway Trailer |
