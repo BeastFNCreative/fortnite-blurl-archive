@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [YkjnnsRlmEAXLvKWUf](blurls/YkjnnsRlmEAXLvKWUf.json) | Fortnite OG Season 3 Teaser |
 | [mJpEWhnMxWHuXmfZhu](blurls/mJpEWhnMxWHuXmfZhu.json) | Spring Raid MOTD Clip |
 | [mEJpRxjtnMuNGPlFiN](blurls/mEJpRxjtnMuNGPlFiN.json) | Tomb Raider Jeep Car (MOTD Background) |
 | [lMhaXfFGGxvzlTzQTC](blurls/lMhaXfFGGxvzlTzQTC.json) | Invincible Dupli-Kate Clip |
