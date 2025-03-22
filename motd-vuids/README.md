@@ -10,6 +10,8 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [qFUglyNGSHkKOXlWnB](blurls/qFUglyNGSHkKOXlWnB.json) | New Kicks Wave Clip Crocs |
+| [cDDoCMbsKTgKWrofjB](blurls/cDDoCMbsKTgKWrofjB.json) | Still Into You Icon Series Emote (MOTD Background) |
 | [YkjnnsRlmEAXLvKWUf](blurls/YkjnnsRlmEAXLvKWUf.json) | Fortnite OG Season 3 Teaser |
 | [mJpEWhnMxWHuXmfZhu](blurls/mJpEWhnMxWHuXmfZhu.json) | Spring Raid MOTD Clip |
 | [mEJpRxjtnMuNGPlFiN](blurls/mEJpRxjtnMuNGPlFiN.json) | Tomb Raider Jeep Car (MOTD Background) |
