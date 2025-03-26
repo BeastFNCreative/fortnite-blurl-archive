@@ -579,6 +579,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [XJEMwrWaYgZQmRxLMp](blurls/XJEMwrWaYgZQmRxLMp.json) | Epic Games - Streets Ignite (v2) (Instrumental)                               |
 | [KpZUhezmmNeGfkZrzW](blurls/KpZUhezmmNeGfkZrzW.json) | Epic Games - Streets Ignite (v2) (Preview)                                    |
 | [OrEbvEHQcWXqqygykn](blurls/OrEbvEHQcWXqqygykn.json) | Epic Games - Streets Ignite (v2) (Stereo Track)                               |
+| [eqvSfsWqeXsIipOwVE](blurls/eqvSfsWqeXsIipOwVE.json) | Epic Games - Sour 'n Sweet                                                    |
+| [XjlKmBdoPEfwLeNSGP](blurls/XjlKmBdoPEfwLeNSGP.json) | Epic Games - Sour 'n Sweet (Instrumental)                                     |
+| [ZbpjTQzDMzLDlrCocm](blurls/ZbpjTQzDMzLDlrCocm.json) | Epic Games - Sour 'n Sweet (Preview)                                          |
+| [HJdbxVOjuHpxknrUoy](blurls/HJdbxVOjuHpxknrUoy.json) | Epic Games - Sour 'n Sweet (Stereo Track)                                     |
 | [KhjBedwOBvlhUtLogG](blurls/KhjBedwOBvlhUtLogG.json) | Epic Games - Sweet Victory                                                    |
 | [DtZJjgEDdRWbOVRAeJ](blurls/DtZJjgEDdRWbOVRAeJ.json) | Epic Games - Sweet Victory (Instrumental)                                     |
 | [vLlrMxOlVLFEPMXBQR](blurls/vLlrMxOlVLFEPMXBQR.json) | Epic Games - Sweet Victory (Preview)                                          |
@@ -1058,6 +1062,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [avVAmZkheOMAIdXLco](blurls/avVAmZkheOMAIdXLco.json) | Lil Uzi Vert ft. Oh Wonder - The Way Life Goes (Instrumental)                 |
 | [nZNkFqssQWYuhyaYhY](blurls/nZNkFqssQWYuhyaYhY.json) | Lil Uzi Vert ft. Oh Wonder - The Way Life Goes (Preview)                      |
 | [PzUspSAIZBQZHnalui](blurls/PzUspSAIZBQZHnalui.json) | Lil Uzi Vert ft. Oh Wonder - The Way Life Goes (Stereo Track)                 |
+| [SplySGqJFtWdMWHuYr](blurls/SplySGqJFtWdMWHuYr.json) | Linkin Park - Faint                                                           |
+| [QcysQrpjjwTFAqlfqW](blurls/QcysQrpjjwTFAqlfqW.json) | Linkin Park - Faint (Instrumental)                                            |
+| [oJBOqPLrPlPvLoDogQ](blurls/oJBOqPLrPlPvLoDogQ.json) | Linkin Park - Faint (Preview)                                                 |
+| [PPcGZLUmjDLrhCwhwt](blurls/PPcGZLUmjDLrhCwhwt.json) | Linkin Park - Faint (Stereo Track)                                            |
 | [fRJmuBxHXeTWKSNSry](blurls/fRJmuBxHXeTWKSNSry.json) | Linkin Park - In The End                                                      |
 | [REHjNLFZlRgnpuMvyh](blurls/REHjNLFZlRgnpuMvyh.json) | Linkin Park - In The End (Instrumental)                                       |
 | [kFWzUEWHrXPTkXkbRA](blurls/kFWzUEWHrXPTkXkbRA.json) | Linkin Park - In The End (Preview)                                            |
@@ -1070,6 +1078,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [IJkMOgacInfYtAGJrW](blurls/IJkMOgacInfYtAGJrW.json) | Linkin Park - Numb (v2) (Instrumental)                                        |
 | [NjlLCvsDReLyhRCVqc](blurls/NjlLCvsDReLyhRCVqc.json) | Linkin Park - Numb (v2) (Preview)                                             |
 | [FYgQEFhgEbgTeStmKS](blurls/FYgQEFhgEbgTeStmKS.json) | Linkin Park - Numb (v2) (Stereo Track)                                        |
+| [LjhqFPldrzNZLelKcW](blurls/LjhqFPldrzNZLelKcW.json) | Linkin Park - The Emptiness Machine                                           |
+| [lJrYnXStRXphqwsfGt](blurls/lJrYnXStRXphqwsfGt.json) | Linkin Park - The Emptiness Machine (Instrumental)                            |
+| [UKcfcvkBWMYeoakJTD](blurls/UKcfcvkBWMYeoakJTD.json) | Linkin Park - The Emptiness Machine (Preview)                                 |
+| [FcwByqcfCJMotqBQwC](blurls/FcwByqcfCJMotqBQwC.json) | Linkin Park - The Emptiness Machine (Stereo Track)                            |
 | [qMIdhudepxvLGaNwfP](blurls/qMIdhudepxvLGaNwfP.json) | LMFAO - Sexy And I Know It                                                    |
 | [ndYPhDdsErfRJJJpHU](blurls/ndYPhDdsErfRJJJpHU.json) | LMFAO - Sexy And I Know It (Instrumental)                                     |
 | [UyFhhtHiaeiibGoJCI](blurls/UyFhhtHiaeiibGoJCI.json) | LMFAO - Sexy And I Know It (Preview)                                          |

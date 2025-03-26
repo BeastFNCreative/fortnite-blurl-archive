@@ -75,6 +75,8 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [XXCKxHvovCXUnzJkZY](blurls/XXCKxHvovCXUnzJkZY.json) | Remix The Prelude: Full Event Replay at Risky                                                        |
 | [qpvkhEDcVqkgDwKteF](blurls/qpvkhEDcVqkgDwKteF.json) | Remix The Prelude: Remix Combined Trailer                                                            |
 | [shortnite_combined](blurls/shortnite_combined.json) | Short Nite is back! : Combined Version                                                               |
+| [jFsphMAUYxOHgIEHsB](blurls/jFsphMAUYxOHgIEHsB.json) | Simple Edit UI Video: Console & PC                                                                   |
+| [EOauVKXdDCYoUXuDTT](blurls/EOauVKXdDCYoUXuDTT.json) | Simple Edit UI Video: Mobile                                                                         |
 | [UFDxtqZPQKgaoloDlR](blurls/UFDxtqZPQKgaoloDlR.json) | Soundwave Series ft. Aya Nakamura Picture-in-Picture                                                 |
 | [VxpNifqIRsTeBLISzp](blurls/VxpNifqIRsTeBLISzp.json) | Soundwave Series ft. Gen Hoshino Picture-in-Picture                                                  |
 | [xDsRQcMMMKqpwdMH](blurls/xDsRQcMMMKqpwdMH.json)     | Soundwave Series ft. Tones And I Picture-in-Picture                                                  |

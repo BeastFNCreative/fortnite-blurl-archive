@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [SkGqMZhcgBLKdQjoHS](blurls/SkGqMZhcgBLKdQjoHS.json) | Fortnite OG 50v50 LTM |
 | [qFUglyNGSHkKOXlWnB](blurls/qFUglyNGSHkKOXlWnB.json) | New Kicks Wave Clip Crocs |
 | [cDDoCMbsKTgKWrofjB](blurls/cDDoCMbsKTgKWrofjB.json) | Still Into You Icon Series Emote (MOTD Background) |
 | [YkjnnsRlmEAXLvKWUf](blurls/YkjnnsRlmEAXLvKWUf.json) | Fortnite OG Season 3 Teaser |
