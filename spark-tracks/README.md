@@ -1082,6 +1082,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [lJrYnXStRXphqwsfGt](blurls/lJrYnXStRXphqwsfGt.json) | Linkin Park - The Emptiness Machine (Instrumental)                            |
 | [UKcfcvkBWMYeoakJTD](blurls/UKcfcvkBWMYeoakJTD.json) | Linkin Park - The Emptiness Machine (Preview)                                 |
 | [FcwByqcfCJMotqBQwC](blurls/FcwByqcfCJMotqBQwC.json) | Linkin Park - The Emptiness Machine (Stereo Track)                            |
+| [dyPmxayQapFvbPkdVk](blurls/dyPmxayQapFvbPkdVk.json) | Linkin Park - Up From The Bottom                                              |
+| [CwFULEjkgDsuEuSBWk](blurls/CwFULEjkgDsuEuSBWk.json) | Linkin Park - Up From The Bottom (Instrumental)                               |
+| [tcIeZkTOGwQKNcNFPe](blurls/tcIeZkTOGwQKNcNFPe.json) | Linkin Park - Up From The Bottom (Preview)                                    |
+| [yUeJZyTVuOuNBaBkRO](blurls/yUeJZyTVuOuNBaBkRO.json) | Linkin Park - Up From The Bottom (Stereo Track)                               |
 | [qMIdhudepxvLGaNwfP](blurls/qMIdhudepxvLGaNwfP.json) | LMFAO - Sexy And I Know It                                                    |
 | [ndYPhDdsErfRJJJpHU](blurls/ndYPhDdsErfRJJJpHU.json) | LMFAO - Sexy And I Know It (Instrumental)                                     |
 | [UyFhhtHiaeiibGoJCI](blurls/UyFhhtHiaeiibGoJCI.json) | LMFAO - Sexy And I Know It (Preview)                                          |
