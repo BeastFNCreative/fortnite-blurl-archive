@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [ZomguCwkzeJlmxqJVj](blurls/ZomguCwkzeJlmxqJVj.json) | In The End Icon Series Emote |
 | [FnVamZkbJnUovXutCR](blurls/FnVamZkbJnUovXutCR.json) | APT Icon Series Emote |
 | [SkGqMZhcgBLKdQjoHS](blurls/SkGqMZhcgBLKdQjoHS.json) | Fortnite OG 50v50 LTM |
 | [qFUglyNGSHkKOXlWnB](blurls/qFUglyNGSHkKOXlWnB.json) | New Kicks Wave Clip Crocs |
