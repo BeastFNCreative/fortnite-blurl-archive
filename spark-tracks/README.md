@@ -297,6 +297,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [JKvhcyFjUTItpZROqk](blurls/JKvhcyFjUTItpZROqk.json) | Cypress Hill - Insane in the Brain (Instrumental)                             |
 | [orTszyfogenKFSDtyh](blurls/orTszyfogenKFSDtyh.json) | Cypress Hill - Insane in the Brain (Preview)                                  |
 | [esixLyRbCZtDdLRXvp](blurls/esixLyRbCZtDdLRXvp.json) | Cypress Hill - Insane in the Brain (Stereo Track)                             |
+| [STVcneoWDUaiDadwAE](blurls/STVcneoWDUaiDadwAE.json) | Daddy Yankee - Gasolina                                                       |
+| [omezdoQkFwtIsMcnOE](blurls/omezdoQkFwtIsMcnOE.json) | Daddy Yankee - Gasolina (Instrumental)                                        |
+| [UuxLiejgLQShfFHPZa](blurls/UuxLiejgLQShfFHPZa.json) | Daddy Yankee - Gasolina (Preview)                                             |
+| [OKKdsvZMZXDGHcShoE](blurls/OKKdsvZMZXDGHcShoE.json) | Daddy Yankee - Gasolina (Stereo Track)                                        |
 | [YWSZWKXdPcJdCgXheg](blurls/YWSZWKXdPcJdCgXheg.json) | Darude - Sandstorm                                                            |
 | [WixdzaEYcZFljoeibH](blurls/WixdzaEYcZFljoeibH.json) | Darude - Sandstorm (Instrumental)                                             |
 | [fFiWFfKnAjyjncUHLI](blurls/fFiWFfKnAjyjncUHLI.json) | Darude - Sandstorm (Preview)                                                  |
@@ -714,6 +718,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [kMgEeNzpppCmMBHjKa](blurls/kMgEeNzpppCmMBHjKa.json) | Foster The People - Pumped Up Kicks (Instrumental)                            |
 | [niJvMiKeigXuYAQfSd](blurls/niJvMiKeigXuYAQfSd.json) | Foster The People - Pumped Up Kicks (Preview)                                 |
 | [tCnteJSytBNjhruBna](blurls/tCnteJSytBNjhruBna.json) | Foster The People - Pumped Up Kicks (Stereo Track)                            |
+| [amlmiplDFgIbqMTOOO](blurls/amlmiplDFgIbqMTOOO.json) | Fountains of Wayne - Stacy's Mom                                              |
+| [heXryxxnCjSEQObdrC](blurls/heXryxxnCjSEQObdrC.json) | Fountains of Wayne - Stacy's Mom (Instrumental)                               |
+| [iIjzPWEUScoNONWUsT](blurls/iIjzPWEUScoNONWUsT.json) | Fountains of Wayne - Stacy's Mom (Preview)                                    |
+| [UPZBPrbcVvXAhEtGLM](blurls/UPZBPrbcVvXAhEtGLM.json) | Fountains of Wayne - Stacy's Mom (Stereo Track)                               |
 | [pIyOIVqGPrvtIEEFEt](blurls/pIyOIVqGPrvtIEEFEt.json) | GAYLE - abcdefu                                                               |
 | [JbuByssUzmGbuebndu](blurls/JbuByssUzmGbuebndu.json) | GAYLE - abcdefu (Instrumental)                                                |
 | [ZKOzlkbPzQFjYsGDih](blurls/ZKOzlkbPzQFjYsGDih.json) | GAYLE - abcdefu (Preview)                                                     |
@@ -1428,6 +1436,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [hTAoTSmzYYzXfaCwEQ](blurls/hTAoTSmzYYzXfaCwEQ.json) | Red Hot Chili Peppers - Snow (Hey Oh) (Instrumental)                          |
 | [bzDTEqShpPSDqUSEAh](blurls/bzDTEqShpPSDqUSEAh.json) | Red Hot Chili Peppers - Snow (Hey Oh) (Preview)                               |
 | [aXemuDCIRmwSXYtLKO](blurls/aXemuDCIRmwSXYtLKO.json) | Red Hot Chili Peppers - Snow (Hey Oh) (Stereo Track)                          |
+| [IEoFwXomxzHBXVkBNm](blurls/IEoFwXomxzHBXVkBNm.json) | Rick Astley - Never Gonna Give You Up                                         |
+| [NjmWKUQvRsmWESZuoe](blurls/NjmWKUQvRsmWESZuoe.json) | Rick Astley - Never Gonna Give You Up (Instrumental)                          |
+| [wMSRCepDocFetKxYSC](blurls/wMSRCepDocFetKxYSC.json) | Rick Astley - Never Gonna Give You Up (Preview)                               |
+| [MznNBuXBAqeFZwVGDc](blurls/MznNBuXBAqeFZwVGDc.json) | Rick Astley - Never Gonna Give You Up (Stereo Track)                          |
 | [NNQBQJkGHqdmvcBwYG](blurls/NNQBQJkGHqdmvcBwYG.json) | Rick James - Super Freak                                                      |
 | [cTQpqksRbwVmHDOSqc](blurls/cTQpqksRbwVmHDOSqc.json) | Rick James - Super Freak (Instrumental)                                       |
 | [hoflzQQnraYuWHrzdQ](blurls/hoflzQQnraYuWHrzdQ.json) | Rick James - Super Freak (Preview)                                            |

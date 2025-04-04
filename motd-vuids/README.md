@@ -10,6 +10,8 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [yXAkbTqVvRJrESRUwV](blurls/yXAkbTqVvRJrESRUwV.json) | Fortnite Twitch Drop Rewards |
+| [JpbqZEtVRGSfmEWcjG](blurls/JpbqZEtVRGSfmEWcjG.json) | Klassik Kombat Mortal Kombat Trailer |
 | [ZomguCwkzeJlmxqJVj](blurls/ZomguCwkzeJlmxqJVj.json) | In The End Icon Series Emote |
 | [FnVamZkbJnUovXutCR](blurls/FnVamZkbJnUovXutCR.json) | APT Icon Series Emote |
 | [SkGqMZhcgBLKdQjoHS](blurls/SkGqMZhcgBLKdQjoHS.json) | Fortnite OG 50v50 LTM |
