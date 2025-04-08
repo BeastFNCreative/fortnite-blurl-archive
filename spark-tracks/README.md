@@ -39,6 +39,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [rxTaEvaamJyzzveaXa](blurls/rxTaEvaamJyzzveaXa.json) | Afrojack ft. Eva Simmons - Take Over Control (Instrumental)                   |
 | [idAGGdscssAxHNkJEU](blurls/idAGGdscssAxHNkJEU.json) | Afrojack ft. Eva Simmons - Take Over Control (Preview)                        |
 | [yBtxVzCbsFuxPIlAYw](blurls/yBtxVzCbsFuxPIlAYw.json) | Afrojack ft. Eva Simmons - Take Over Control (Stereo Track)                   |
+| [OeeUBfFpikNFtxYyja](blurls/OeeUBfFpikNFtxYyja.json) | Alanis Morissette - You Oughta Know                                           |
+| [WwdrtPnuFsAdTGscVE](blurls/WwdrtPnuFsAdTGscVE.json) | Alanis Morissette - You Oughta Know (Instrumental)                            |
+| [dEGKktbkrwlEGLLZOb](blurls/dEGKktbkrwlEGLLZOb.json) | Alanis Morissette - You Oughta Know (Preview)                                 |
+| [JwlrhRSBcPyWGeSiTW](blurls/JwlrhRSBcPyWGeSiTW.json) | Alanis Morissette - You Oughta Know (Stereo Track)                            |
 | [LOAsiQdsDkBSGbDbTt](blurls/LOAsiQdsDkBSGbDbTt.json) | Alice In Chains - Would?                                                      |
 | [zjIvnHqDazvcjwbaNv](blurls/zjIvnHqDazvcjwbaNv.json) | Alice In Chains - Would? (Instrumental)                                       |
 | [qKfGoYaOyJLoHomeiX](blurls/qKfGoYaOyJLoHomeiX.json) | Alice In Chains - Would? (Preview)                                            |
@@ -381,6 +385,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [fLmqBGBUaotRSPMxeT](blurls/fLmqBGBUaotRSPMxeT.json) | Epic Games - 8-Bit Beat (Instrumental)                                        |
 | [xzGWhFrUlsQXgZiPSz](blurls/xzGWhFrUlsQXgZiPSz.json) | Epic Games - 8-Bit Beat (Preview)                                             |
 | [hcznMtQWNpvsawgjnI](blurls/hcznMtQWNpvsawgjnI.json) | Epic Games - 8-Bit Beat (Stereo Track)                                        |
+| [kamYdqjFgykuODXygz](blurls/kamYdqjFgykuODXygz.json) | Epic Games - All My People                                                    |
+| [RamTWEtdfzmHhVHWWr](blurls/RamTWEtdfzmHhVHWWr.json) | Epic Games - All My People (Instrumental)                                     |
+| [HfanFJRpHTbehjlaMm](blurls/HfanFJRpHTbehjlaMm.json) | Epic Games - All My People (Preview)                                          |
+| [WLnjjgLYmBQJWoMprn](blurls/WLnjjgLYmBQJWoMprn.json) | Epic Games - All My People (Stereo Track)                                     |
 | [wEQdWEUuAfOPOcOzvU](blurls/wEQdWEUuAfOPOcOzvU.json) | Epic Games - Best Buds                                                        |
 | [TqHjxZBDmvDsutRZxP](blurls/TqHjxZBDmvDsutRZxP.json) | Epic Games - Best Buds (Instrumental)                                         |
 | [LnKXyVnlaYCChIxKKJ](blurls/LnKXyVnlaYCChIxKKJ.json) | Epic Games - Best Buds (Preview)                                              |
@@ -609,14 +617,26 @@ Jam Track Audio Data from Fortnite Festival.
 | [lTCHeSeGIMOefWdWeD](blurls/lTCHeSeGIMOefWdWeD.json) | Epic Games - The Claw (Instrumental)                                          |
 | [GJWmoRGfVWtgzOGWnF](blurls/GJWmoRGfVWtgzOGWnF.json) | Epic Games - The Claw (Preview)                                               |
 | [oyPtyRLITXdbdrTodW](blurls/oyPtyRLITXdbdrTodW.json) | Epic Games - The Claw (Stereo Track)                                          |
+| [UmKzIRYmLqNPoyzWEL](blurls/UmKzIRYmLqNPoyzWEL.json) | Epic Games - The Future Me                                                    |
+| [XOevPcGXNztKfafxXn](blurls/XOevPcGXNztKfafxXn.json) | Epic Games - The Future Me (Instrumental)                                     |
+| [SRrPKGkzBuffDpExjm](blurls/SRrPKGkzBuffDpExjm.json) | Epic Games - The Future Me (Preview)                                          |
+| [jeLrlgvjxZIOQnAWTX](blurls/jeLrlgvjxZIOQnAWTX.json) | Epic Games - The Future Me (Stereo Track)                                     |
 | [DuUVxGRztgxPIObnSa](blurls/DuUVxGRztgxPIObnSa.json) | Epic Games - The Hunting Ground                                               |
 | [xEehipWmYvOPBbtLva](blurls/xEehipWmYvOPBbtLva.json) | Epic Games - The Hunting Ground (Instrumental)                                |
 | [JXmRdPnKKATjMzTriN](blurls/JXmRdPnKKATjMzTriN.json) | Epic Games - The Hunting Ground (Preview)                                     |
 | [skyOfwDlWsbsjQeAwf](blurls/skyOfwDlWsbsjQeAwf.json) | Epic Games - The Hunting Ground (Stereo Track)                                |
+| [UdVnnhzQkSFaPDgPxU](blurls/UdVnnhzQkSFaPDgPxU.json) | Epic Games - The Last Cavallard                                               |
+| [ZPvCTOUVkfGCXzHRML](blurls/ZPvCTOUVkfGCXzHRML.json) | Epic Games - The Last Cavallard (Instrumental)                                |
+| [CdgghmSfagtYnFPKwr](blurls/CdgghmSfagtYnFPKwr.json) | Epic Games - The Last Cavallard (Preview)                                     |
+| [cahaeaHnKfqehTNGTe](blurls/cahaeaHnKfqehTNGTe.json) | Epic Games - The Last Cavallard (Stereo Track)                                |
 | [CREtGvWUTYbZlLtHGY](blurls/CREtGvWUTYbZlLtHGY.json) | Epic Games - The Night Porter                                                 |
 | [zWbgOhjZxNkirbZPEt](blurls/zWbgOhjZxNkirbZPEt.json) | Epic Games - The Night Porter (Instrumental)                                  |
 | [QUenaJTiKiYzBSCKHA](blurls/QUenaJTiKiYzBSCKHA.json) | Epic Games - The Night Porter (Preview)                                       |
 | [edPwiochwojrTMzOgt](blurls/edPwiochwojrTMzOgt.json) | Epic Games - The Night Porter (Stereo Track)                                  |
+| [btAtdGiPPpNhPjzOlx](blurls/btAtdGiPPpNhPjzOlx.json) | Epic Games - Touch the Sun                                                    |
+| [ZmNxnDGIYgRbAMFrXX](blurls/ZmNxnDGIYgRbAMFrXX.json) | Epic Games - Touch the Sun (Instrumental)                                     |
+| [UhUeFphyWngRCpauMP](blurls/UhUeFphyWngRCpauMP.json) | Epic Games - Touch the Sun (Preview)                                          |
+| [hVrCfludsLTlLWcPAx](blurls/hVrCfludsLTlLWcPAx.json) | Epic Games - Touch the Sun (Stereo Track)                                     |
 | [yNIwEFHHCaUaxyCPCi](blurls/yNIwEFHHCaUaxyCPCi.json) | Epic Games - Tropical Heat                                                    |
 | [IsKSVxvpjaQhtuThZS](blurls/IsKSVxvpjaQhtuThZS.json) | Epic Games - Tropical Heat (Instrumental)                                     |
 | [SxFFQijvPYGkAMLkeG](blurls/SxFFQijvPYGkAMLkeG.json) | Epic Games - Tropical Heat (Preview)                                          |
@@ -971,6 +991,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [steENKgoyvOVWOgRkI](blurls/steENKgoyvOVWOgRkI.json) | Katy Perry - Roar (Instrumental)                                              |
 | [BmPHsczqokcpgkfiNu](blurls/BmPHsczqokcpgkfiNu.json) | Katy Perry - Roar (Preview)                                                   |
 | [xwqYkAsnwAriRheKZq](blurls/xwqYkAsnwAriRheKZq.json) | Katy Perry - Roar (Stereo Track)                                              |
+| [HqYBJvUcgMhudtBzbN](blurls/HqYBJvUcgMhudtBzbN.json) | Katy Perry ft. Juicy J - Dark Horse                                           |
+| [yGwfRPxyvhXPoRUSVl](blurls/yGwfRPxyvhXPoRUSVl.json) | Katy Perry ft. Juicy J - Dark Horse (Instrumental)                            |
+| [CsqjKeHwWPbPndEoqV](blurls/CsqjKeHwWPbPndEoqV.json) | Katy Perry ft. Juicy J - Dark Horse (Preview)                                 |
+| [wrOOzgjXuQkBmiMwTl](blurls/wrOOzgjXuQkBmiMwTl.json) | Katy Perry ft. Juicy J - Dark Horse (Stereo Track)                            |
 | [TPApdjhCVZKhNzIyYX](blurls/TPApdjhCVZKhNzIyYX.json) | Kelly Clarkson - Stronger (What Doesn't Kill You)                             |
 | [pLwdQGEDMRoqrqfdvZ](blurls/pLwdQGEDMRoqrqfdvZ.json) | Kelly Clarkson - Stronger (What Doesn't Kill You) (Instrumental)              |
 | [IkpIuUfnWoRzCoTNux](blurls/IkpIuUfnWoRzCoTNux.json) | Kelly Clarkson - Stronger (What Doesn't Kill You) (Preview)                   |
@@ -1474,6 +1498,22 @@ Jam Track Audio Data from Fortnite Festival.
 | [YrSNLIrjPcWKVqVUpL](blurls/YrSNLIrjPcWKVqVUpL.json) | Sabrina Carpenter - Feather (Instrumental)                                    |
 | [vrntObOOmrbZZpWwFG](blurls/vrntObOOmrbZZpWwFG.json) | Sabrina Carpenter - Feather (Preview)                                         |
 | [cLNHxPxghtuPZQYsUS](blurls/cLNHxPxghtuPZQYsUS.json) | Sabrina Carpenter - Feather (Stereo Track)                                    |
+| [HtTYtyenWZNmobszRu](blurls/HtTYtyenWZNmobszRu.json) | Sabrina Carpenter - Juno                                                      |
+| [awuDaGNdAXwCLyljsd](blurls/awuDaGNdAXwCLyljsd.json) | Sabrina Carpenter - Juno (Instrumental)                                       |
+| [aiEsMSXAxWOArhMAqi](blurls/aiEsMSXAxWOArhMAqi.json) | Sabrina Carpenter - Juno (Preview)                                            |
+| [qKEAzrKnZrgWWaSiEc](blurls/qKEAzrKnZrgWWaSiEc.json) | Sabrina Carpenter - Juno (Stereo Track)                                       |
+| [fmkfwvjtStTafGggCj](blurls/fmkfwvjtStTafGggCj.json) | Sabrina Carpenter - Nonsense                                                  |
+| [QDrGeejUGGZeZSXnFR](blurls/QDrGeejUGGZeZSXnFR.json) | Sabrina Carpenter - Nonsense (Instrumental)                                   |
+| [LhOizsOfeQASuPrBTn](blurls/LhOizsOfeQASuPrBTn.json) | Sabrina Carpenter - Nonsense (Preview)                                        |
+| [cBMQtYHdiqcOBdVLhF](blurls/cBMQtYHdiqcOBdVLhF.json) | Sabrina Carpenter - Nonsense (Stereo Track)                                   |
+| [bUkRhLJxYRrmbEgBkQ](blurls/bUkRhLJxYRrmbEgBkQ.json) | Sabrina Carpenter - Please Please Please                                      |
+| [fLheLLhRNdxvhZTGly](blurls/fLheLLhRNdxvhZTGly.json) | Sabrina Carpenter - Please Please Please (Instrumental)                       |
+| [PySfZiWcaaaGuEIWKh](blurls/PySfZiWcaaaGuEIWKh.json) | Sabrina Carpenter - Please Please Please (Preview)                            |
+| [UaOKKrMKvpWgsDdudz](blurls/UaOKKrMKvpWgsDdudz.json) | Sabrina Carpenter - Please Please Please (Stereo Track)                       |
+| [AGjyNfMPYgLWkDAocq](blurls/AGjyNfMPYgLWkDAocq.json) | Sabrina Carpenter - Taste                                                     |
+| [KSqwgdRVvqSxanBKln](blurls/KSqwgdRVvqSxanBKln.json) | Sabrina Carpenter - Taste (Instrumental)                                      |
+| [KbewCbaifXzupYuwAq](blurls/KbewCbaifXzupYuwAq.json) | Sabrina Carpenter - Taste (Preview)                                           |
+| [BsNjSUjBVwGTiJPadU](blurls/BsNjSUjBVwGTiJPadU.json) | Sabrina Carpenter - Taste (Stereo Track)                                      |
 | [JuhxsaNyDRNqHoQulM](blurls/JuhxsaNyDRNqHoQulM.json) | SAINt JHN - Roses (Imanbek Remix)                                             |
 | [NOMryrsBgGeWYCDxmD](blurls/NOMryrsBgGeWYCDxmD.json) | SAINt JHN - Roses (Imanbek Remix) (Instrumental)                              |
 | [VJbKowiQsUTRfybpUD](blurls/VJbKowiQsUTRfybpUD.json) | SAINt JHN - Roses (Imanbek Remix) (Preview)                                   |

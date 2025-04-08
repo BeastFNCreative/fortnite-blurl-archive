@@ -10,6 +10,8 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [GzukuXPpjBfriqcumi](blurls/GzukuXPpjBfriqcumi.json) | Please Please Please Icon Series Emote |
+| [bCTKwdqZLVdwaqWbgC](blurls/bCTKwdqZLVdwaqWbgC.json) | Fortnite Festival Season 7: Sabrina Carpenter Trailer |
 | [yXAkbTqVvRJrESRUwV](blurls/yXAkbTqVvRJrESRUwV.json) | Fortnite Twitch Drop Rewards |
 | [JpbqZEtVRGSfmEWcjG](blurls/JpbqZEtVRGSfmEWcjG.json) | Klassik Kombat Mortal Kombat Trailer |
 | [ZomguCwkzeJlmxqJVj](blurls/ZomguCwkzeJlmxqJVj.json) | In The End Icon Series Emote |
