@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [RojddUsTDjEItRFDYs](blurls/RojddUsTDjEItRFDYs.json) | New Woman Icon Series Emote |
 | [GzukuXPpjBfriqcumi](blurls/GzukuXPpjBfriqcumi.json) | Please Please Please Icon Series Emote |
 | [bCTKwdqZLVdwaqWbgC](blurls/bCTKwdqZLVdwaqWbgC.json) | Fortnite Festival Season 7: Sabrina Carpenter Trailer |
 | [yXAkbTqVvRJrESRUwV](blurls/yXAkbTqVvRJrESRUwV.json) | Fortnite Twitch Drop Rewards |
