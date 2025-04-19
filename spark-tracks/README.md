@@ -51,6 +51,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [ZzKFBYdYKFjbuaDOlK](blurls/ZzKFBYdYKFjbuaDOlK.json) | Alice Deejay - Better Off Alone (Instrumental)                                |
 | [GyagcMfbomWJwpdQcL](blurls/GyagcMfbomWJwpdQcL.json) | Alice Deejay - Better Off Alone (Preview)                                     |
 | [VmiSSfLyByYaFlqdDl](blurls/VmiSSfLyByYaFlqdDl.json) | Alice Deejay - Better Off Alone (Stereo Track)                                |
+| [FKlCceqrbNSgHMbxUP](blurls/FKlCceqrbNSgHMbxUP.json) | Amyl and The Sniffers - U Should Not Be Doing That                            |
+| [UTTXYNZancnKjrvIwh](blurls/UTTXYNZancnKjrvIwh.json) | Amyl and The Sniffers - U Should Not Be Doing That (Instrumental)             |
+| [OWWcsVrNnhrTwbdSLH](blurls/OWWcsVrNnhrTwbdSLH.json) | Amyl and The Sniffers - U Should Not Be Doing That (Preview)                  |
+| [VZnYyauqqnetEceHmD](blurls/VZnYyauqqnetEceHmD.json) | Amyl and The Sniffers - U Should Not Be Doing That (Stereo Track)             |
 | [yLoHYJYASHsLYQoICy](blurls/yLoHYJYASHsLYQoICy.json) | Anamanaguchi, Hatsune Miku - Miku                                             |
 | [VDKdTDIsQkcUdNBjGA](blurls/VDKdTDIsQkcUdNBjGA.json) | Anamanaguchi, Hatsune Miku - Miku (Instrumental)                              |
 | [UvmHVzrlHcfZYdYgkC](blurls/UvmHVzrlHcfZYdYgkC.json) | Anamanaguchi, Hatsune Miku - Miku (Preview)                                   |
@@ -85,6 +89,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [xmyyaAkHRBdhhOuvBR](blurls/xmyyaAkHRBdhhOuvBR.json) | Ariana Grande ft. Nicki Minaj - Side To Side (v2) (Instrumental)              |
 | [HLseaCAeXnhstZVmdg](blurls/HLseaCAeXnhstZVmdg.json) | Ariana Grande ft. Nicki Minaj - Side To Side (v2) (Preview)                   |
 | [LqKTHsjKqmsrhXKGiT](blurls/LqKTHsjKqmsrhXKGiT.json) | Ariana Grande ft. Nicki Minaj - Side To Side (v2) (Stereo Track)              |
+| [inFrzTtxUoumdLWgxe](blurls/inFrzTtxUoumdLWgxe.json) | Artemas - if u think i'm pretty                                               |
+| [mXBtEJPJSOPjvogwnI](blurls/mXBtEJPJSOPjvogwnI.json) | Artemas - if u think i'm pretty (Instrumental)                                |
+| [eeyfsfkXpvwCDTNhze](blurls/eeyfsfkXpvwCDTNhze.json) | Artemas - if u think i'm pretty (Preview)                                     |
+| [hRWOZEsQOtpuHLCeAn](blurls/hRWOZEsQOtpuHLCeAn.json) | Artemas - if u think i'm pretty (Stereo Track)                                |
 | [UcttCYBfnKtoPxmXLV](blurls/UcttCYBfnKtoPxmXLV.json) | Ashnikko ft. Hatsune Miku - Daisy 2.0                                         |
 | [PkSvWFkeSufSxLAwut](blurls/PkSvWFkeSufSxLAwut.json) | Ashnikko ft. Hatsune Miku - Daisy 2.0 (Instrumental)                          |
 | [xQFZdPdgxnjTuofDQK](blurls/xQFZdPdgxnjTuofDQK.json) | Ashnikko ft. Hatsune Miku - Daisy 2.0 (Preview)                               |
@@ -333,6 +341,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [BzsbODFpjGZfVDaNeK](blurls/BzsbODFpjGZfVDaNeK.json) | DJ Khaled ft. T-Pain, Ludacris, Snoop Dogg & Rick Ross - All I Do Is Win (v2) (Instrumental) |
 | [nxfNbHQnojbGQEDnTy](blurls/nxfNbHQnojbGQEDnTy.json) | DJ Khaled ft. T-Pain, Ludacris, Snoop Dogg & Rick Ross - All I Do Is Win (v2) (Preview) |
 | [LwXepZVtAYJyOdSQMW](blurls/LwXepZVtAYJyOdSQMW.json) | DJ Khaled ft. T-Pain, Ludacris, Snoop Dogg & Rick Ross - All I Do Is Win (v2) (Stereo Track) |
+| [WgRodjpdcSXBhcGriZ](blurls/WgRodjpdcSXBhcGriZ.json) | Djo - Basic Being Basic                                                       |
+| [SMttwgnkHwcrPYDqyW](blurls/SMttwgnkHwcrPYDqyW.json) | Djo - Basic Being Basic (Instrumental)                                        |
+| [fIyVyNyiJLQGAZTpxA](blurls/fIyVyNyiJLQGAZTpxA.json) | Djo - Basic Being Basic (Preview)                                             |
+| [VFsnoDvBlwEWsJvHrl](blurls/VFsnoDvBlwEWsJvHrl.json) | Djo - Basic Being Basic (Stereo Track)                                        |
 | [dNzhpYzOCoQbchHjPi](blurls/dNzhpYzOCoQbchHjPi.json) | DMX - X Gon' Give It To Ya                                                    |
 | [MgWCTsTMhUKLmlVyCR](blurls/MgWCTsTMhUKLmlVyCR.json) | DMX - X Gon' Give It To Ya (Instrumental)                                     |
 | [NkLaeMUkINfhzwRlwg](blurls/NkLaeMUkINfhzwRlwg.json) | DMX - X Gon' Give It To Ya (Preview)                                          |
@@ -569,6 +581,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [pBuCEyLMMJAaaRnGRE](blurls/pBuCEyLMMJAaaRnGRE.json) | Epic Games - Say It Proud (Instrumental)                                      |
 | [LHDNotvWSseZXbKrSL](blurls/LHDNotvWSseZXbKrSL.json) | Epic Games - Say It Proud (Preview)                                           |
 | [KGsforULhmpIUmXkSv](blurls/KGsforULhmpIUmXkSv.json) | Epic Games - Say It Proud (Stereo Track)                                      |
+| [GOJaNFiMRSHXeOFJkp](blurls/GOJaNFiMRSHXeOFJkp.json) | Epic Games - Show Em (What We Can Do)                                         |
+| [SszghdyDtVHZXgGRXl](blurls/SszghdyDtVHZXgGRXl.json) | Epic Games - Show Em (What We Can Do) (Instrumental)                          |
+| [RgCqIXDKoNQxLNmTTS](blurls/RgCqIXDKoNQxLNmTTS.json) | Epic Games - Show Em (What We Can Do) (Preview)                               |
+| [iPCDcVGkmuAQnuZJtl](blurls/iPCDcVGkmuAQnuZJtl.json) | Epic Games - Show Em (What We Can Do) (Stereo Track)                          |
 | [ZGSLwGYelfMLKTfvDn](blurls/ZGSLwGYelfMLKTfvDn.json) | Epic Games - Show Them Who We Are                                             |
 | [wCQJgdwIcbTBFRevlf](blurls/wCQJgdwIcbTBFRevlf.json) | Epic Games - Show Them Who We Are (Preview)                                   |
 | [vATlQurzvPwglcKfxp](blurls/vATlQurzvPwglcKfxp.json) | Epic Games - Show Them Who We Are (v2)                                        |
@@ -881,6 +897,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [YROckYDFJPEBSnGSPh](blurls/YROckYDFJPEBSnGSPh.json) | Jessie J, Nicki Minaj, Ariana Grande - Bang Bang (Instrumental)               |
 | [UTndDajmAdVzanENIN](blurls/UTndDajmAdVzanENIN.json) | Jessie J, Nicki Minaj, Ariana Grande - Bang Bang (Preview)                    |
 | [lVBNnjMtTxrWAaLAwr](blurls/lVBNnjMtTxrWAaLAwr.json) | Jessie J, Nicki Minaj, Ariana Grande - Bang Bang (Stereo Track)               |
+| [ZfQIxEGNQoSgkJtezF](blurls/ZfQIxEGNQoSgkJtezF.json) | Jessie Murph ft. Jelly Roll - Wild Ones                                       |
+| [vhkLzRatoyvGehBzix](blurls/vhkLzRatoyvGehBzix.json) | Jessie Murph ft. Jelly Roll - Wild Ones (Instrumental)                        |
+| [mCKaDJTHXfPVGkKZUn](blurls/mCKaDJTHXfPVGkKZUn.json) | Jessie Murph ft. Jelly Roll - Wild Ones (Preview)                             |
+| [NCanUDecwCfmaXCMYC](blurls/NCanUDecwCfmaXCMYC.json) | Jessie Murph ft. Jelly Roll - Wild Ones (Stereo Track)                        |
 | [UByosFTMsePZbNRTzD](blurls/UByosFTMsePZbNRTzD.json) | JID ft. 21 Savage & Baby Tate - Surround Sound                                |
 | [XyCEcvwKVZKPrnukVX](blurls/XyCEcvwKVZKPrnukVX.json) | JID ft. 21 Savage & Baby Tate - Surround Sound (Instrumental)                 |
 | [ObIXGlDubbRhxJAsnz](blurls/ObIXGlDubbRhxJAsnz.json) | JID ft. 21 Savage & Baby Tate - Surround Sound (Preview)                      |
@@ -1566,6 +1586,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [nAbWMRYIsEjbOepOTi](blurls/nAbWMRYIsEjbOepOTi.json) | Skee-Lo - I Wish (Instrumental)                                               |
 | [HsCGWpvjlDmYVUjxVa](blurls/HsCGWpvjlDmYVUjxVa.json) | Skee-Lo - I Wish (Preview)                                                    |
 | [PrAsvavlNqIgwsTQMJ](blurls/PrAsvavlNqIgwsTQMJ.json) | Skee-Lo - I Wish (Stereo Track)                                               |
+| [kfJtzunZbmUEMTSzco](blurls/kfJtzunZbmUEMTSzco.json) | Sleepy Hallow - 2055                                                          |
+| [TnfEjwcvKlVYlynPzT](blurls/TnfEjwcvKlVYlynPzT.json) | Sleepy Hallow - 2055 (Instrumental)                                           |
+| [IoqavvXeOGZZHutvVm](blurls/IoqavvXeOGZZHutvVm.json) | Sleepy Hallow - 2055 (Preview)                                                |
+| [kBWFyvjCZhixZKzHgS](blurls/kBWFyvjCZhixZKzHgS.json) | Sleepy Hallow - 2055 (Stereo Track)                                           |
 | [jqIYjdFZrEyUgNOvSf](blurls/jqIYjdFZrEyUgNOvSf.json) | Slipknot - Before I Forget                                                    |
 | [fmrqBaQmIBKtxsdmlc](blurls/fmrqBaQmIBKtxsdmlc.json) | Slipknot - Before I Forget (Instrumental)                                     |
 | [eWkigBnOQxgWuhbQQQ](blurls/eWkigBnOQxgWuhbQQQ.json) | Slipknot - Before I Forget (Preview)                                          |
@@ -1650,6 +1674,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [xseHHRBEPzgcKmOscY](blurls/xseHHRBEPzgcKmOscY.json) | The All-American Rejects - Dirty Little Secret (Instrumental)                 |
 | [SYOAJSHtalCDBjDAzR](blurls/SYOAJSHtalCDBjDAzR.json) | The All-American Rejects - Dirty Little Secret (Preview)                      |
 | [LyEMOXlJUoyWXmKrzp](blurls/LyEMOXlJUoyWXmKrzp.json) | The All-American Rejects - Dirty Little Secret (Stereo Track)                 |
+| [RscFVoPkxxsLDUgdtf](blurls/RscFVoPkxxsLDUgdtf.json) | The Beaches - Blame Brett                                                     |
+| [RbqVniRPSOeYTUoAvy](blurls/RbqVniRPSOeYTUoAvy.json) | The Beaches - Blame Brett (Instrumental)                                      |
+| [JyGVmWgduotKQwDxFj](blurls/JyGVmWgduotKQwDxFj.json) | The Beaches - Blame Brett (Preview)                                           |
+| [wLYqAThMEpLdAvpZMl](blurls/wLYqAThMEpLdAvpZMl.json) | The Beaches - Blame Brett (Stereo Track)                                      |
 | [NubBwvjadqiYAuixbK](blurls/NubBwvjadqiYAuixbK.json) | The Black Keys - Lonely Boy                                                   |
 | [FyTpVWvtQnmsBtrUxe](blurls/FyTpVWvtQnmsBtrUxe.json) | The Black Keys - Lonely Boy (Instrumental)                                    |
 | [EREOVbyFivLpzDiaoY](blurls/EREOVbyFivLpzDiaoY.json) | The Black Keys - Lonely Boy (Preview)                                         |
@@ -1678,6 +1706,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [jAgubsZbhHDzkeTpAb](blurls/jAgubsZbhHDzkeTpAb.json) | The Killers - Somebody Told Me (Instrumental)                                 |
 | [hCxMpjlyeZrkMwAfqP](blurls/hCxMpjlyeZrkMwAfqP.json) | The Killers - Somebody Told Me (Preview)                                      |
 | [gLOuskyrkTpoefTsed](blurls/gLOuskyrkTpoefTsed.json) | The Killers - Somebody Told Me (Stereo Track)                                 |
+| [esVsPaEOyFNZTIzEnQ](blurls/esVsPaEOyFNZTIzEnQ.json) | The Marías - Heavy                                                            |
+| [EqLEwXuQgSBkFKtfQY](blurls/EqLEwXuQgSBkFKtfQY.json) | The Marías - Heavy (Instrumental)                                             |
+| [SgSuvtLDEREbrgVBfU](blurls/SgSuvtLDEREbrgVBfU.json) | The Marías - Heavy (Preview)                                                  |
+| [sooCrxQqQfhCTLxrqc](blurls/sooCrxQqQfhCTLxrqc.json) | The Marías - Heavy (Stereo Track)                                             |
 | [PMyNjiOjmEsRkUqxNu](blurls/PMyNjiOjmEsRkUqxNu.json) | The Notorious B.I.G. - Big Poppa                                              |
 | [eeUwZMWeDVjSKgeBsF](blurls/eeUwZMWeDVjSKgeBsF.json) | The Notorious B.I.G. - Big Poppa (Instrumental)                               |
 | [uUGUePbJxnBmoWNqCO](blurls/uUGUePbJxnBmoWNqCO.json) | The Notorious B.I.G. - Big Poppa (Preview)                                    |
@@ -1818,6 +1850,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [MKLZfdFzdgsLPfcMug](blurls/MKLZfdFzdgsLPfcMug.json) | WitchGang - Timeless (Instrumental)                                           |
 | [fVALLXBdAuxUVUnnQj](blurls/fVALLXBdAuxUVUnnQj.json) | WitchGang - Timeless (Preview)                                                |
 | [jajuWfhvZYqBQntYwg](blurls/jajuWfhvZYqBQntYwg.json) | WitchGang - Timeless (Stereo Track)                                           |
+| [XvJeLuGayiZLdHXPVw](blurls/XvJeLuGayiZLdHXPVw.json) | Wu-Tang Clan - C.R.E.A.M. (Cash Rules Everything Around Me)                   |
+| [isUUvDrOEdVEmvJLUm](blurls/isUUvDrOEdVEmvJLUm.json) | Wu-Tang Clan - C.R.E.A.M. (Cash Rules Everything Around Me) (Instrumental)    |
+| [wyQmDgeKRPYdtIZhFX](blurls/wyQmDgeKRPYdtIZhFX.json) | Wu-Tang Clan - C.R.E.A.M. (Cash Rules Everything Around Me) (Preview)         |
+| [GvAcXQUwYEjzxMdCMX](blurls/GvAcXQUwYEjzxMdCMX.json) | Wu-Tang Clan - C.R.E.A.M. (Cash Rules Everything Around Me) (Stereo Track)    |
 | [PTaGoIOnXYRgqnuefv](blurls/PTaGoIOnXYRgqnuefv.json) | YOASOBI - IDOL                                                                |
 | [VSxxxZkzDAHWvKnQzP](blurls/VSxxxZkzDAHWvKnQzP.json) | YOASOBI - IDOL (Instrumental)                                                 |
 | [xvttqIkOqXpHKSXTmx](blurls/xvttqIkOqXpHKSXTmx.json) | YOASOBI - IDOL (Preview)                                                      |

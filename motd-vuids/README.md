@@ -10,6 +10,11 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [XridQhTBkdZyclBgPL](blurls/XridQhTBkdZyclBgPL.json) | The Undertaker WWE Collaboration Trailer |
+| [koPtirQddVkijlyUSd](blurls/koPtirQddVkijlyUSd.json) | Urn'd Respect Emote |
+| [JcraFmKUfDtSNnmznp](blurls/JcraFmKUfDtSNnmznp.json) | Elite Zadie Outfit Trailer |
+| [CeTxZtemAIkWlicBGl](blurls/CeTxZtemAIkWlicBGl.json) | Reload Slurp Rush Map Trailer |
+| [XnwdaMtciBuOfBhSjC](blurls/XnwdaMtciBuOfBhSjC.json) | Adventure Time Trailer |
 | [RojddUsTDjEItRFDYs](blurls/RojddUsTDjEItRFDYs.json) | New Woman Icon Series Emote |
 | [GzukuXPpjBfriqcumi](blurls/GzukuXPpjBfriqcumi.json) | Please Please Please Icon Series Emote |
 | [bCTKwdqZLVdwaqWbgC](blurls/bCTKwdqZLVdwaqWbgC.json) | Fortnite Festival Season 7: Sabrina Carpenter Trailer |
