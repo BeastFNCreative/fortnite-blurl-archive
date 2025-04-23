@@ -10,6 +10,8 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [rbLDPRHnQTHAiXSkby](blurls/rbLDPRHnQTHAiXSkby.json) | WOOOAAHH! Emote |
+| [sVuLUyLpuwrrTAUFjG](blurls/sVuLUyLpuwrrTAUFjG.json) | Vans (Off The Wall) Promo Clip |
 | [XridQhTBkdZyclBgPL](blurls/XridQhTBkdZyclBgPL.json) | The Undertaker WWE Collaboration Trailer |
 | [koPtirQddVkijlyUSd](blurls/koPtirQddVkijlyUSd.json) | Urn'd Respect Emote |
 | [JcraFmKUfDtSNnmznp](blurls/JcraFmKUfDtSNnmznp.json) | Elite Zadie Outfit Trailer |

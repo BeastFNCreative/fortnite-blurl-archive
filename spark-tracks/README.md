@@ -309,6 +309,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [JKvhcyFjUTItpZROqk](blurls/JKvhcyFjUTItpZROqk.json) | Cypress Hill - Insane in the Brain (Instrumental)                             |
 | [orTszyfogenKFSDtyh](blurls/orTszyfogenKFSDtyh.json) | Cypress Hill - Insane in the Brain (Preview)                                  |
 | [esixLyRbCZtDdLRXvp](blurls/esixLyRbCZtDdLRXvp.json) | Cypress Hill - Insane in the Brain (Stereo Track)                             |
+| [ilaWakIdenNgDICUUZ](blurls/ilaWakIdenNgDICUUZ.json) | d4vd - What Are You Waiting For                                               |
+| [SKkRSAgswzYKyNjkCO](blurls/SKkRSAgswzYKyNjkCO.json) | d4vd - What Are You Waiting For (Instrumental)                                |
+| [sQKOHOrYbukEFrYhtu](blurls/sQKOHOrYbukEFrYhtu.json) | d4vd - What Are You Waiting For (Preview)                                     |
+| [EmXTyboxHBFusqDokL](blurls/EmXTyboxHBFusqDokL.json) | d4vd - What Are You Waiting For (Stereo Track)                                |
 | [STVcneoWDUaiDadwAE](blurls/STVcneoWDUaiDadwAE.json) | Daddy Yankee - Gasolina                                                       |
 | [omezdoQkFwtIsMcnOE](blurls/omezdoQkFwtIsMcnOE.json) | Daddy Yankee - Gasolina (Instrumental)                                        |
 | [UuxLiejgLQShfFHPZa](blurls/UuxLiejgLQShfFHPZa.json) | Daddy Yankee - Gasolina (Preview)                                             |
@@ -885,6 +889,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [mQNyeHGUcPGbELHwbQ](blurls/mQNyeHGUcPGbELHwbQ.json) | Jack Harlow - WHATS POPPIN (v2) (Instrumental)                                |
 | [rPToQPfrpyrLLoUSAh](blurls/rPToQPfrpyrLLoUSAh.json) | Jack Harlow - WHATS POPPIN (v2) (Preview)                                     |
 | [ShMpZdyhQdpsRrZyBl](blurls/ShMpZdyhQdpsRrZyBl.json) | Jack Harlow - WHATS POPPIN (v2) (Stereo Track)                                |
+| [uXkbUTOsDtstTMpAZa](blurls/uXkbUTOsDtstTMpAZa.json) | Jelly Roll - Liar                                                             |
+| [wHFqAWLIXuQWpBrEMq](blurls/wHFqAWLIXuQWpBrEMq.json) | Jelly Roll - Liar (Instrumental)                                              |
+| [vwelqLMYeTYYBiBlCc](blurls/vwelqLMYeTYYBiBlCc.json) | Jelly Roll - Liar (Preview)                                                   |
+| [FPydnIRPdnQNqLkJJd](blurls/FPydnIRPdnQNqLkJJd.json) | Jelly Roll - Liar (Stereo Track)                                              |
 | [QefcOnDMIaKjsIlKZi](blurls/QefcOnDMIaKjsIlKZi.json) | Jennifer Lopez - Love Don't Cost A Thing                                      |
 | [MrOhNwBdqbOgExXHZX](blurls/MrOhNwBdqbOgExXHZX.json) | Jennifer Lopez - Love Don't Cost A Thing (Instrumental)                       |
 | [ePXixrvXJxcYLNuoXD](blurls/ePXixrvXJxcYLNuoXD.json) | Jennifer Lopez - Love Don't Cost A Thing (Preview)                            |
@@ -1286,6 +1294,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [KPRygHiWoZEPoMkNBQ](blurls/KPRygHiWoZEPoMkNBQ.json) | Myles Smith - Stargazing (Instrumental)                                       |
 | [mGnMXfTjosLJEraQRZ](blurls/mGnMXfTjosLJEraQRZ.json) | Myles Smith - Stargazing (Preview)                                            |
 | [WsJEXNZITMsXMgodsq](blurls/WsJEXNZITMsXMgodsq.json) | Myles Smith - Stargazing (Stereo Track)                                       |
+| [dFAenyuqTxFxSAtSoB](blurls/dFAenyuqTxFxSAtSoB.json) | Nelly - Hot In Herre                                                          |
+| [lGMERwhkBQTubqzRhs](blurls/lGMERwhkBQTubqzRhs.json) | Nelly - Hot In Herre (Instrumental)                                           |
+| [RbOhAOzZJXZxzcDJwh](blurls/RbOhAOzZJXZxzcDJwh.json) | Nelly - Hot In Herre (Preview)                                                |
+| [MPgMFeNpFOBfIQiFZV](blurls/MPgMFeNpFOBfIQiFZV.json) | Nelly - Hot In Herre (Stereo Track)                                           |
 | [lVbXhTnpHAwjodfxyF](blurls/lVbXhTnpHAwjodfxyF.json) | Nelly ft. City Spud - Ride Wit Me                                             |
 | [VOFbjcGVwqrwSXCLWh](blurls/VOFbjcGVwqrwSXCLWh.json) | Nelly ft. City Spud - Ride Wit Me (Instrumental)                              |
 | [IWdHVthmtpcMZrYXfN](blurls/IWdHVthmtpcMZrYXfN.json) | Nelly ft. City Spud - Ride Wit Me (Preview)                                   |
@@ -1562,6 +1574,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [QfYFoHQCPcmRrxDnRw](blurls/QfYFoHQCPcmRrxDnRw.json) | Selena Gomez w/ Marshmello - Wolves (Instrumental)                            |
 | [FHGXRAqAHhGGHteYZE](blurls/FHGXRAqAHhGGHteYZE.json) | Selena Gomez w/ Marshmello - Wolves (Preview)                                 |
 | [yMpeRFbhaJkgTKjVah](blurls/yMpeRFbhaJkgTKjVah.json) | Selena Gomez w/ Marshmello - Wolves (Stereo Track)                            |
+| [AuJqCePUSnCSTdtkXY](blurls/AuJqCePUSnCSTdtkXY.json) | Shaboozey - A Bar Song                                                        |
+| [YtTCRrHWGOgnmsDTmb](blurls/YtTCRrHWGOgnmsDTmb.json) | Shaboozey - A Bar Song (Instrumental)                                         |
+| [RkgEyDHmrUBZAzhjfy](blurls/RkgEyDHmrUBZAzhjfy.json) | Shaboozey - A Bar Song (Preview)                                              |
+| [ztCWiAVpZjAAopJyYU](blurls/ztCWiAVpZjAAopJyYU.json) | Shaboozey - A Bar Song (Stereo Track)                                         |
 | [DQXpeSWzGMaeakTiOK](blurls/DQXpeSWzGMaeakTiOK.json) | Shakira - Whenever, Wherever                                                  |
 | [dXhUCpoCmgcToBLpAT](blurls/dXhUCpoCmgcToBLpAT.json) | Shakira - Whenever, Wherever (Instrumental)                                   |
 | [SDpqHzqpaIOKsXJUGa](blurls/SDpqHzqpaIOKsXJUGa.json) | Shakira - Whenever, Wherever (Preview)                                        |
