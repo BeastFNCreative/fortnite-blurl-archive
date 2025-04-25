@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [eECvdrTJAsrmMDsUDB](blurls/eECvdrTJAsrmMDsUDB.json) | BIRDS OF A FEATHER Icon Series Emote |
 | [NMFdKTfWbxVpZuujEp](blurls/NMFdKTfWbxVpZuujEp.json) | Fort Ballers Bundle Cosmetic Showcase |
 | [GYnrrSXxaHOSukROSQ](blurls/GYnrrSXxaHOSukROSQ.json) | LEGO Fortnite Brick Life: Gone Fishing |
 | [qbgFUUascVbrLWRkJc](blurls/qbgFUUascVbrLWRkJc.json) | Ford Mustang Shelby GT500 Bundle |
