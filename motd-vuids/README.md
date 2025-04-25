@@ -10,6 +10,9 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [NMFdKTfWbxVpZuujEp](blurls/NMFdKTfWbxVpZuujEp.json) | Fort Ballers Bundle Cosmetic Showcase |
+| [GYnrrSXxaHOSukROSQ](blurls/GYnrrSXxaHOSukROSQ.json) | LEGO Fortnite Brick Life: Gone Fishing |
+| [qbgFUUascVbrLWRkJc](blurls/qbgFUUascVbrLWRkJc.json) | Ford Mustang Shelby GT500 Bundle |
 | [mLuHrHeovArtbdJkej](blurls/mLuHrHeovArtbdJkej.json) | TMNT Van Showcase Clip |
 | [rbLDPRHnQTHAiXSkby](blurls/rbLDPRHnQTHAiXSkby.json) | WOOOAAHH! Emote |
 | [sVuLUyLpuwrrTAUFjG](blurls/sVuLUyLpuwrrTAUFjG.json) | Vans (Off The Wall) Promo Clip |
