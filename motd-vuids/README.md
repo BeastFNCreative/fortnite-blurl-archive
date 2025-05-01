@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [aejdYnCjSaQQgxuApb](blurls/aejdYnCjSaQQgxuApb.json) | Thunderbolts Promo Clip |
 | [eQbmjEhKsZuEchoKat](blurls/eQbmjEhKsZuEchoKat.json) | A Bar Song Icon Series Emote |
 | [eECvdrTJAsrmMDsUDB](blurls/eECvdrTJAsrmMDsUDB.json) | BIRDS OF A FEATHER Icon Series Emote |
 | [NMFdKTfWbxVpZuujEp](blurls/NMFdKTfWbxVpZuujEp.json) | Fort Ballers Bundle Cosmetic Showcase |
