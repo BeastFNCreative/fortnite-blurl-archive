@@ -10,6 +10,8 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [HJcOGWZNzGHvyDCJAP](blurls/HJcOGWZNzGHvyDCJAP.json) | Galactic Battle Week 1: Imperial Takeover |
+| [ymQbvxMGAsipyjLSzc](blurls/ymQbvxMGAsipyjLSzc.json) | Chapter 6 Season 3: Galactic Battle Trailer |
 | [aejdYnCjSaQQgxuApb](blurls/aejdYnCjSaQQgxuApb.json) | Thunderbolts Promo Clip |
 | [eQbmjEhKsZuEchoKat](blurls/eQbmjEhKsZuEchoKat.json) | A Bar Song Icon Series Emote |
 | [eECvdrTJAsrmMDsUDB](blurls/eECvdrTJAsrmMDsUDB.json) | BIRDS OF A FEATHER Icon Series Emote |

@@ -191,6 +191,8 @@ Creative / UEFN Video's used for Partner Projects.
 | [QJFFoePMqaivybXTUl](blurls/QJFFoePMqaivybXTUl.json) | Soundwave Series ft. Gen Hoshino: Concert Video                                                        |
 | [vhisythriRTdSRAS](blurls/vhisythriRTdSRAS.json)     | Soundwave Series ft. Mohamed Hamaki: Concert Video                                                     |
 | [pQOXVbyjdgOhjGEv](blurls/pQOXVbyjdgOhjGEv.json)     | Soundwave Series ft. Tones And I: Concert Video                                                        |
+| [OVOSiPmHodWuNdlNXO](blurls/OVOSiPmHodWuNdlNXO.json) | Star Wars Watch Party: Tales Of The Underworld Episodes                                                |
+| [qDTDHgXVbuZdWywWov](blurls/qDTDHgXVbuZdWywWov.json) | Star Wars Watch Party: Tales Of The Underworld Trailer                                                 |
 | [aDDflTSeaCzkOuUNZL](blurls/aDDflTSeaCzkOuUNZL.json) | SypherPK: Stories from the Battle Bus Video                                                            |
 | [yfJEDWIKnOokIIitxh](blurls/yfJEDWIKnOokIIitxh.json) | The Kid LAROI's Wild Dreams: Concert Video                                                             |
 | [HarviIxLVSrGGqVrZl](blurls/HarviIxLVSrGGqVrZl.json) | The Kid LAROI's Wild Dreams Afterparty: Background Video                                               |

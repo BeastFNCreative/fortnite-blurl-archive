@@ -71,3 +71,4 @@ Seasonal Trailer Video Content, found in either the Career Tab or First Time Sta
 | [ccdDKmHzAZwXLANEbD](blurls/ccdDKmHzAZwXLANEbD.json) | Chapter 6 Season 2 : Ecosystem Trailer |
 | [dbVuXzEwTbbwSVHBSt](blurls/dbVuXzEwTbbwSVHBSt.json) | Chapter 6 Season 2 : Ecosystem Trailer (v2) |
 | [UqGbyWJfkHngmpaMxU](blurls/UqGbyWJfkHngmpaMxU.json) | Chapter 6 Season 2 : Ecosystem Trailer (Reload: Slurp Rush) |
+| [XPOlvrMQZKNeqIkGHV](blurls/XPOlvrMQZKNeqIkGHV.json) | Chapter 6 Season 3 : Ecosystem Trailer |

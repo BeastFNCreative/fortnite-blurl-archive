@@ -51,6 +51,7 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [EmSIVIsQevEAdtLiZq](blurls/EmSIVIsQevEAdtLiZq.json) | set_arena_playlists : Arena Modes |
 | [XcoOakTVCLfjUdhgrS](blurls/XcoOakTVCLfjUdhgrS.json) | set_blastberry_nobuild_playlists : Reload - Zero Build |
 | [eMXrklniVQMEoVSpsE](blurls/eMXrklniVQMEoVSpsE.json) | set_blastberry_playlists : Reload |
+| [hHeqlIEpwoDzWzEmkK](blurls/hHeqlIEpwoDzWzEmkK.json) | set_blastberry_playlists : Reload (v2) |
 | [DpfVjiXQaFTRgOaGFE](blurls/DpfVjiXQaFTRgOaGFE.json) | set_br_playlists : Battle Royale |
 | [taqdZkWyokbCyEFWld](blurls/taqdZkWyokbCyEFWld.json) | set_br_playlists : Battle Royale (v1) |
 | [tMxxShcqdutMflWvpG](blurls/tMxxShcqdutMflWvpG.json) | set_br_playlists : Battle Royale (v2) |
@@ -60,6 +61,7 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [uoSoczauoTiSArNIHL](blurls/uoSoczauoTiSArNIHL.json) | set_br_playlists : Remix: Chapter 2 |
 | [BPmqJrpZmlEdIOGook](blurls/BPmqJrpZmlEdIOGook.json) | set_br_playlists : Hunters |
 | [JCmxkliEBcmTdsGMqJ](blurls/JCmxkliEBcmTdsGMqJ.json) | set_br_playlists : Lawless |
+| [mbzBuEchtOJvCxamTR](blurls/mbzBuEchtOJvCxamTR.json) | set_br_playlists : Galactic Battle |
 | [nBXWuBNMdScHeYtCnP](blurls/nBXWuBNMdScHeYtCnP.json) | set_delmar_mrs_ranked : Rocket Racing |
 | [qpdchKarjFnwpdEnYj](blurls/qpdchKarjFnwpdEnYj.json) | set_delmar_mrs_ranked : Rocket Racing (Extra VUID) |
 | [zmDptnMNGqUEdlBwTv](blurls/zmDptnMNGqUEdlBwTv.json) | set_delmar_mrs_ranked : Rocket Racing (Star Wars Update) |

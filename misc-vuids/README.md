@@ -52,6 +52,7 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [nUggtoihncEjZGhmTt](blurls/nUggtoihncEjZGhmTt.json) | Free Guy Quest Post-Quest Video 4                                                                    |
 | [MDGivPFDqtjHhqjTqE](blurls/MDGivPFDqtjHhqjTqE.json) | Free Guy Quest Post-Quest Video 5                                                                    |
 | [ypJkSJcrKDcUHXfjYA](blurls/ypJkSJcrKDcUHXfjYA.json) | LEGO Fortnite Brick Life: Trailer Test Snippet                                                       |
+| [NpPGqpuRnpvTczuebp](blurls/NpPGqpuRnpvTczuebp.json) | LEGO Fortnite Brick Life: Login Video Galactic Battle                                                |
 | [FADKHHfVQCgeZnyTJp](blurls/FADKHHfVQCgeZnyTJp.json) | LEGO Fortnite Odyssey: Storm King Update                                                             |
 | [qFVNDPSJXMhynlmgcr](blurls/qFVNDPSJXMhynlmgcr.json) | MEGA City Environment Music                                                                          |
 | [ElXyXuuBVqxWSdHChR](blurls/ElXyXuuBVqxWSdHChR.json) | Media Streaming Radio Licensed VUID                                                                  |

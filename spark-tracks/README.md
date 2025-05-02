@@ -673,6 +673,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [PancuuYbVjaBkxuxcc](blurls/PancuuYbVjaBkxuxcc.json) | Epic Games - Way Too Fast (Instrumental)                                      |
 | [HcMKiDFnjuZwANctFE](blurls/HcMKiDFnjuZwANctFE.json) | Epic Games - Way Too Fast (Preview)                                           |
 | [HyluaaNJyYhJnbLYsR](blurls/HyluaaNJyYhJnbLYsR.json) | Epic Games - Way Too Fast (Stereo Track)                                      |
+| [mgfiexSgbOigSjdnqX](blurls/mgfiexSgbOigSjdnqX.json) | Epic Games - Where My Wookiees At?                                            |
+| [NMpgqosSJMagxZFqSF](blurls/NMpgqosSJMagxZFqSF.json) | Epic Games - Where My Wookiees At? (Instrumental)                             |
+| [NXWSERaPzGwLWljLmQ](blurls/NXWSERaPzGwLWljLmQ.json) | Epic Games - Where My Wookiees At? (Preview)                                  |
+| [rkyLvKulnWFkavCOQg](blurls/rkyLvKulnWFkavCOQg.json) | Epic Games - Where My Wookiees At? (Stereo Track)                             |
 | [FysLFXQNAHkWedXMjG](blurls/FysLFXQNAHkWedXMjG.json) | Epic Games - Winterfest Wish                                                  |
 | [sHrmWcVDHgUvFuyJWx](blurls/sHrmWcVDHgUvFuyJWx.json) | Epic Games - Winterfest Wish (Instrumental)                                   |
 | [IVpxBpwjSCdfHrKCAH](blurls/IVpxBpwjSCdfHrKCAH.json) | Epic Games - Winterfest Wish (Preview)                                        |
@@ -921,10 +925,26 @@ Jam Track Audio Data from Fortnite Festival.
 | [NjwFhKGUsiJuiBmTtC](blurls/NjwFhKGUsiJuiBmTtC.json) | John Legend - All Of Me (Tiësto's Birthday Treatment Remix) (Instrumental)    |
 | [GqlQlRHNMTHHZcGBXP](blurls/GqlQlRHNMTHHZcGBXP.json) | John Legend - All Of Me (Tiësto's Birthday Treatment Remix) (Preview)         |
 | [UYfASuRFjekhVyYvar](blurls/UYfASuRFjekhVyYvar.json) | John Legend - All Of Me (Tiësto's Birthday Treatment Remix) (Stereo Track)    |
+| [jHyEuRnGCojeYavlhX](blurls/jHyEuRnGCojeYavlhX.json) | John Williams - Chrome Dome (Fortnite Rearrangement)                          |
+| [FUIyPEcvCzqCAWcPfi](blurls/FUIyPEcvCzqCAWcPfi.json) | John Williams - Chrome Dome (Fortnite Rearrangement) (Instrumental)           |
+| [zMWrzXndgbwHlXEHBC](blurls/zMWrzXndgbwHlXEHBC.json) | John Williams - Chrome Dome (Fortnite Rearrangement) (Preview)                |
+| [SXbgUbYNWBoOnlZREn](blurls/SXbgUbYNWBoOnlZREn.json) | John Williams - Chrome Dome (Fortnite Rearrangement) (Stereo Track)           |
 | [SaHLdwBtyvNjALqkIk](blurls/SaHLdwBtyvNjALqkIk.json) | John Williams, London Symphony Orchestra - Cantina Band                       |
 | [qpuBAojMjBKauOPQvK](blurls/qpuBAojMjBKauOPQvK.json) | John Williams, London Symphony Orchestra - Cantina Band (Instrumental)        |
 | [VCHGghfZTKRBFmUbAU](blurls/VCHGghfZTKRBFmUbAU.json) | John Williams, London Symphony Orchestra - Cantina Band (Preview)             |
 | [ErWJamzOZWJztczlCU](blurls/ErWJamzOZWJztczlCU.json) | John Williams, London Symphony Orchestra - Cantina Band (Stereo Track)        |
+| [hsRHDiGGIdxvFxSxWj](blurls/hsRHDiGGIdxvFxSxWj.json) | John Williams & The London Symphony Orchestra - Lapti Nek (Jabba's Palace)    |
+| [XqTuptPLIWhoWtoSXa](blurls/XqTuptPLIWhoWtoSXa.json) | John Williams & The London Symphony Orchestra - Lapti Nek (Jabba's Palace) (Instrumental) |
+| [iOmRXUnzwiaxTJANzO](blurls/iOmRXUnzwiaxTJANzO.json) | John Williams & The London Symphony Orchestra - Lapti Nek (Jabba's Palace) (Preview) |
+| [ofpefMPHfzKrFvDpzF](blurls/ofpefMPHfzKrFvDpzF.json) | John Williams & The London Symphony Orchestra - Lapti Nek (Jabba's Palace) (Stereo Track) |
+| [cqPQbzIOBbHLWLNcad](blurls/cqPQbzIOBbHLWLNcad.json) | John Williams & The London Symphony Orchestra - Star Wars Main Title Theme/March of the Resistance (Fortnite Rearrangement) |
+| [GWjkkZfZAkKmPyUKKh](blurls/GWjkkZfZAkKmPyUKKh.json) | John Williams & The London Symphony Orchestra - Star Wars Main Title Theme/March of the Resistance (Fortnite Rearrangement) (Instrumental) |
+| [WyMXAfPtZbehrVNQaw](blurls/WyMXAfPtZbehrVNQaw.json) | John Williams & The London Symphony Orchestra - Star Wars Main Title Theme/March of the Resistance (Fortnite Rearrangement) (Preview) |
+| [cbpXyolpHAqRCjfBxq](blurls/cbpXyolpHAqRCjfBxq.json) | John Williams & The London Symphony Orchestra - Star Wars Main Title Theme/March of the Resistance (Fortnite Rearrangement) (Stereo Track) |
+| [VTUVfoivInIiKdIxdH](blurls/VTUVfoivInIiKdIxdH.json) | John Williams & The London Symphony Orchestra - The Imperial March (Darth Vader's Theme) |
+| [ARfDnjCvcdqZkbCVfj](blurls/ARfDnjCvcdqZkbCVfj.json) | John Williams & The London Symphony Orchestra - The Imperial March (Darth Vader's Theme) (Instrumental) |
+| [BMQOvlJEYXsNIUfyeF](blurls/BMQOvlJEYXsNIUfyeF.json) | John Williams & The London Symphony Orchestra - The Imperial March (Darth Vader's Theme) (Preview) |
+| [jZRzcwrNiVQtXjezTT](blurls/jZRzcwrNiVQtXjezTT.json) | John Williams & The London Symphony Orchestra - The Imperial March (Darth Vader's Theme) (Stereo Track) |
 | [ovRGmsUbItCAUfHMye](blurls/ovRGmsUbItCAUfHMye.json) | Jonas Brothers - Sucker                                                       |
 | [aAqtRTMWCmgBdoWKgW](blurls/aAqtRTMWCmgBdoWKgW.json) | Jonas Brothers - Sucker (Instrumental)                                        |
 | [tccfoxUXzLfwXYdzEk](blurls/tccfoxUXzLfwXYdzEk.json) | Jonas Brothers - Sucker (Preview)                                             |
