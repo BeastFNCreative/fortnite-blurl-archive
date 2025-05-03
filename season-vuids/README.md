@@ -9,6 +9,7 @@ Seasonal Trailer Video Content, found in either the Career Tab or First Time Sta
 | VUID | Description                |
 | :-------- | :------------------------- |
 | [EDYpcqIZVYWRrzDf](blurls/EDYpcqIZVYWRrzDf.json) | Chapter 2 Season 2 : Battle Pass Trailer |
+| [OdTpvwYUHErjIUbA](blurls/OdTpvwYUHErjIUbA.json) | Chapter 2 Season 2 : Cinematic Trailer   |
 | [KqnBrvsHnfYFXrvo](blurls/KqnBrvsHnfYFXrvo.json) | Chapter 2 Season 2 : Battle Pass Trailer & Cinematic Trailer |
 | [UTUnpSTzdAKjLyke](blurls/UTUnpSTzdAKjLyke.json) | Chapter 2 Season 3 : Cinematic Trailer |
 | [rAaKjLnEdyXhGyLh](blurls/rAaKjLnEdyXhGyLh.json) | Chapter 2 Season 3 : Battle Pass Trailer |
