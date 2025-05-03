@@ -41,6 +41,7 @@ Seasonal Trailer Video Content, found in either the Career Tab or First Time Sta
 | [SeDhOYyVUsuwAVvpKM](blurls/SeDhOYyVUsuwAVvpKM.json) | Chapter 3 Season 4 : Battle Pass Trailer |
 | [FvioBPLipuiPcewiaw](blurls/FvioBPLipuiPcewiaw.json) | Chapter 3 Season 4 : Battle Pass Trailer & Cinematic Trailer |
 | [jBrZFoohHGaOuoBEsk](blurls/jBrZFoohHGaOuoBEsk.json) | Chapter 4 Season 1 : Cinematic Trailer |
+| [zsMcEPPsNzySfShBOO](blurls/zsMcEPPsNzySfShBOO.json) | Chapter 4 Season 1 : Battle Pass Trailer |
 | [HatdWSPKzxuONaMZlT](blurls/HatdWSPKzxuONaMZlT.json) | Chapter 4 Season 1 : Battle Pass Trailer & Cinematic Trailer |
 | [OvRLQMvlwMfmUtPhcB](blurls/OvRLQMvlwMfmUtPhcB.json) | Chapter 4 Season 2 : Cinematic Trailer |
 | [OYesLdPoXsizZvtDvc](blurls/OYesLdPoXsizZvtDvc.json) | Chapter 4 Season 2 : Battle Pass Trailer |
@@ -49,7 +50,7 @@ Seasonal Trailer Video Content, found in either the Career Tab or First Time Sta
 | [yHbdMIjqOMyLscqfSd](blurls/yHbdMIjqOMyLscqfSd.json) | Chapter 4 Season 3 : Battle Pass Trailer |
 | [SZRFVVzJVHzrjbOOWa](blurls/SZRFVVzJVHzrjbOOWa.json) | Chapter 4 Season 3 : Battle Pass Trailer & Cinematic Trailer |
 | [yKDlOsNTRfMqeuuuEm](blurls/yKDlOsNTRfMqeuuuEm.json) | Chapter 4 Season 4 : Cinematic Trailer |
-| [OdUZGeZJMqUrGpjPKp](blurls/OdUZGeZJMqUrGpjPKp.json) | Chapter 4 Season 4 : Battle Pass Trailer & Cinematic Trailer |
+| [OdUZGeZJMqUrGpjPKp](blurls/OdUZGeZJMqUrGpjPKp.json) | Chapter 4 Season 4 : Battle Pass Trailer |
 | [ogHDHTBmCyrHxKJZBY](blurls/ogHDHTBmCyrHxKJZBY.json) | Chapter 4 Season 4 : Battle Pass Trailer & Cinematic Trailer (Alt) |
 | [ojgRdkSQoLaABnyvzP](blurls/ojgRdkSQoLaABnyvzP.json) | Chapter 4 Season OG : In-Game Trailer |
 | [MPnLHtfcdnqNPxXYId](blurls/MPnLHtfcdnqNPxXYId.json) | Chapter 5 Season 1 : Ecosystem Trailer |
