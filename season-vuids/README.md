@@ -27,6 +27,7 @@ Seasonal Trailer Video Content, found in either the Career Tab or First Time Sta
 | [CqdAUhajMegAaedPwV](blurls/CqdAUhajMegAaedPwV.json) | Chapter 2 Season 7 : Battle Pass Trailer |
 | [vZtbmNvkNkBabmRXIh](blurls/vZtbmNvkNkBabmRXIh.json) | Chapter 2 Season 7 : How To |
 | [pnoHsKsyUcTnFDoDQC](blurls/pnoHsKsyUcTnFDoDQC.json) | Chapter 2 Season 8 : Cinematic Trailer |
+| [TtQSMJyJKGiyecmBtt](blurls/TtQSMJyJKGiyecmBtt.json) | Chapter 2 Season 8 : Cinematic Trailer (Alt) |
 | [EzpisAWArMUlSzgzPJ](blurls/EzpisAWArMUlSzgzPJ.json) | Chapter 2 Season 8 : Battle Pass Trailer |
 | [iFddqNqYQVZsHjoBhf](blurls/iFddqNqYQVZsHjoBhf.json) | Chapter 2 Season 8 : Battle Pass Trailer (Alt) |
 | [RdUTorvKbFoLOidlXb](blurls/RdUTorvKbFoLOidlXb.json) | Chapter 2 Season 8 : Battle Pass Trailer & Cinematic Trailer |
