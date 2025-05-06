@@ -16,6 +16,7 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [TSrJAuydirPcYVVmcD](blurls/TSrJAuydirPcYVVmcD.json) | Chapter 3 Season 3 : Jungle Environment Music                                                        |
 | [uMgMeHviftMSnWav](blurls/uMgMeHviftMSnWav.json)     | Creative Video Player Base ID                                                                        |
 | [OMgvRuKGFDIczdiawa](blurls/OMgvRuKGFDIczdiawa.json) | Daigo's Spirit Realm Cinematic Reward                                                                |
+| [dFrwUcEUFxQWWKqoSW](blurls/dFrwUcEUFxQWWKqoSW.json) | Daigo's Spirit Realm Cinematic Reward (v2)                                                           |
 | [QXxvFDyRwFkQelXZlC](blurls/QXxvFDyRwFkQelXZlC.json) | Fight Doom Event Cinematic                                                                           |
 | [zAOXxUEBfGxQVdKNQF](blurls/zAOXxUEBfGxQVdKNQF.json) | Fortnite Shop Website Mock VUID                                                                      |
 | [FzbNYKBlDjrcLdkjFL](blurls/FzbNYKBlDjrcLdkjFL.json) | Fracture In-Game Event Video - Chapter 4 Season 1 Cinematic Trailer                                  |

@@ -281,6 +281,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [hkArVpVnADfgjykfHg](blurls/hkArVpVnADfgjykfHg.json) | Carly Rae Jepsen - Call Me Maybe (Instrumental)                               |
 | [oGHaoBdNdtrRIvgWwe](blurls/oGHaoBdNdtrRIvgWwe.json) | Carly Rae Jepsen - Call Me Maybe (Preview)                                    |
 | [aidAVrdenZeHBFmzoB](blurls/aidAVrdenZeHBFmzoB.json) | Carly Rae Jepsen - Call Me Maybe (Stereo Track)                               |
+| [ZIDTUwpxPlcZnCHryI](blurls/ZIDTUwpxPlcZnCHryI.json) | Chappell Roan - Good Luck, Babe!                                              |
+| [mEWTFBsylOgEpkJeYW](blurls/mEWTFBsylOgEpkJeYW.json) | Chappell Roan - Good Luck, Babe! (Instrumental)                               |
+| [lhgHxVOayaenvfwAmG](blurls/lhgHxVOayaenvfwAmG.json) | Chappell Roan - Good Luck, Babe! (Preview)                                    |
+| [oGklazLXHfDVWHIyop](blurls/oGklazLXHfDVWHIyop.json) | Chappell Roan - Good Luck, Babe! (Stereo Track)                               |
 | [xgbCMULeIZAiEbICRJ](blurls/xgbCMULeIZAiEbICRJ.json) | Chappell Roan - HOT TO GO!                                                    |
 | [pzJAIGVEDNsNCHiRbB](blurls/pzJAIGVEDNsNCHiRbB.json) | Chappell Roan - HOT TO GO! (Instrumental)                                     |
 | [WQrUTmkFMrudAkLBLr](blurls/WQrUTmkFMrudAkLBLr.json) | Chappell Roan - HOT TO GO! (Preview)                                          |
@@ -1178,6 +1182,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [RUErGLTisvTCUwHLbj](blurls/RUErGLTisvTCUwHLbj.json) | Lou Bega - Mambo No. 5 (A Little Bit of...) (Instrumental)                    |
 | [QMKjnlkcpjKJxIZImH](blurls/QMKjnlkcpjKJxIZImH.json) | Lou Bega - Mambo No. 5 (A Little Bit of...) (Preview)                         |
 | [dTtHTHQxAaFeBsVOao](blurls/dTtHTHQxAaFeBsVOao.json) | Lou Bega - Mambo No. 5 (A Little Bit of...) (Stereo Track)                    |
+| [ZKxJVYEfIdeJCqkhhF](blurls/ZKxJVYEfIdeJCqkhhF.json) | Lynyrd Skynyrd - Free Bird                                                    |
+| [HhVmsTiNRkBbwmvbzB](blurls/HhVmsTiNRkBbwmvbzB.json) | Lynyrd Skynyrd - Free Bird (Instrumental)                                     |
+| [qzgJYdDaWAiBHWtpDq](blurls/qzgJYdDaWAiBHWtpDq.json) | Lynyrd Skynyrd - Free Bird (Preview)                                          |
+| [iUmKCLLEmVuGsXeLij](blurls/iUmKCLLEmVuGsXeLij.json) | Lynyrd Skynyrd - Free Bird (Stereo Track)                                     |
 | [gDofNgEaNcRbYRAoDg](blurls/gDofNgEaNcRbYRAoDg.json) | Mac Miller, Empire of the Sun - The Spins                                     |
 | [yXfTuqDAFLEOHpmFEw](blurls/yXfTuqDAFLEOHpmFEw.json) | Mac Miller, Empire of the Sun - The Spins (Instrumental)                      |
 | [IyfniPLEhdPjtwsATm](blurls/IyfniPLEhdPjtwsATm.json) | Mac Miller, Empire of the Sun - The Spins (Preview)                           |
