@@ -10,6 +10,10 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [iNbFlzRZuCMsBEbwbA](blurls/iNbFlzRZuCMsBEbwbA.json) | Galactic Battle Week 2: The Pull of The Force |
+| [GqxoSAjqiRvlavrnxE](blurls/GqxoSAjqiRvlavrnxE.json) | Knight Rider Showcase Clip |
+| [KjFpNALdgBvqKSsRgY](blurls/KjFpNALdgBvqKSsRgY.json) | Good Luck, Babe! Icon Series Emote |
+| [MdxcFurnVndLSZZqHt](blurls/MdxcFurnVndLSZZqHt.json) | KEHLANI Icon Series Emote |
 | [CTyhcHHNOCHXGqDvFP](blurls/CTyhcHHNOCHXGqDvFP.json) | Star Wars Jam Tracks |
 | [JKkXxZIcoTRUjLcbDO](blurls/JKkXxZIcoTRUjLcbDO.json) | Big Dawg Icon Series Emote |
 | [qLoXKfuDXAInDsbYQS](blurls/qLoXKfuDXAInDsbYQS.json) | Star Wars Porsche Decals |

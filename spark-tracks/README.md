@@ -517,6 +517,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [vHGURAbYAhjpEsfBTr](blurls/vHGURAbYAhjpEsfBTr.json) | Epic Games - Inferno Island (Molten Mix) (Instrumental)                       |
 | [SmoyMxQWvSaWABGqSs](blurls/SmoyMxQWvSaWABGqSs.json) | Epic Games - Inferno Island (Molten Mix) (Preview)                            |
 | [nMzKlFDALeWbNUubiI](blurls/nMzKlFDALeWbNUubiI.json) | Epic Games - Inferno Island (Molten Mix) (Stereo Track)                       |
+| [uunKOHpQaNTlPoEAYc](blurls/uunKOHpQaNTlPoEAYc.json) | Epic Games - Infinite Hype (DJ Skee Remix)                                    |
+| [tLllEwYvMLNmdJWYrF](blurls/tLllEwYvMLNmdJWYrF.json) | Epic Games - Infinite Hype (DJ Skee Remix) (Instrumental)                     |
+| [zAujFPWRyWAYbCLKcz](blurls/zAujFPWRyWAYbCLKcz.json) | Epic Games - Infinite Hype (DJ Skee Remix) (Preview)                          |
+| [lymUixWJYopBskVFGM](blurls/lymUixWJYopBskVFGM.json) | Epic Games - Infinite Hype (DJ Skee Remix) (Stereo Track)                     |
 | [uHMGQtxiZxKwPlxgQK](blurls/uHMGQtxiZxKwPlxgQK.json) | Epic Games - Keep Poppin                                                      |
 | [ZCWzODsZEOfVYNxckY](blurls/ZCWzODsZEOfVYNxckY.json) | Epic Games - Keep Poppin (Instrumental)                                       |
 | [QlvbRUhBYaJGujAjjD](blurls/QlvbRUhBYaJGujAjjD.json) | Epic Games - Keep Poppin (Preview)                                            |
