@@ -16,6 +16,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [TlfTlKazfcrAkVkVLV](blurls/TlfTlKazfcrAkVkVLV.json) | 2Pac ft. Talent - Changes (Instrumental)                                      |
 | [xmatzFYiLBuEGwwtxe](blurls/xmatzFYiLBuEGwwtxe.json) | 2Pac ft. Talent - Changes (Preview)                                           |
 | [syYlERgHDkJjtJxQCb](blurls/syYlERgHDkJjtJxQCb.json) | 2Pac ft. Talent - Changes (Stereo Track)                                      |
+| [QBtZRHRSjchtTplrNj](blurls/QBtZRHRSjchtTplrNj.json) | 21 Savage - redrum                                                            |
+| [hHlnVrvTzJMUIzuYwS](blurls/hHlnVrvTzJMUIzuYwS.json) | 21 Savage - redrum (Instrumental)                                             |
+| [OkvlKowHUbwqGueGIN](blurls/OkvlKowHUbwqGueGIN.json) | 21 Savage - redrum (Preview)                                                  |
+| [BCNkmfAJLgkPjCGCFf](blurls/BCNkmfAJLgkPjCGCFf.json) | 21 Savage - redrum (Stereo Track)                                             |
 | [eBBboClwZXowrdoMXp](blurls/eBBboClwZXowrdoMXp.json) | 24kGoldn ft. iann dior - Mood                                                 |
 | [TCHLRLYbTwQWiPaKkm](blurls/TCHLRLYbTwQWiPaKkm.json) | 24kGoldn ft. iann dior - Mood (Instrumental)                                  |
 | [AECvkpYDfjztWoqKNX](blurls/AECvkpYDfjztWoqKNX.json) | 24kGoldn ft. iann dior - Mood (Preview)                                       |
@@ -35,6 +39,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [ThHPFgMwJRBwbBTlHJ](blurls/ThHPFgMwJRBwbBTlHJ.json) | a-ha - Take On Me (Instrumental)                                              |
 | [VmEkvwdeIRFTUuNhum](blurls/VmEkvwdeIRFTUuNhum.json) | a-ha - Take On Me (Preview)                                                   |
 | [OJBkkumkQFQiuMHLyZ](blurls/OJBkkumkQFQiuMHLyZ.json) | a-ha - Take On Me (Stereo Track)                                              |
+| [kOqATFsbbRZegVAEYR](blurls/kOqATFsbbRZegVAEYR.json) | Aerosmith - Dream On                                                          |
+| [hEZkBxjwFzFuuPmfoV](blurls/hEZkBxjwFzFuuPmfoV.json) | Aerosmith - Dream On (Instrumental)                                           |
+| [iTqmKYrQNWCpGSBJAV](blurls/iTqmKYrQNWCpGSBJAV.json) | Aerosmith - Dream On (Preview)                                                |
+| [XTfwqBwfLdNUooyxFH](blurls/XTfwqBwfLdNUooyxFH.json) | Aerosmith - Dream On (Stereo Track)                                           |
 | [UEedyIHDWPfpePftct](blurls/UEedyIHDWPfpePftct.json) | Afrojack ft. Eva Simmons - Take Over Control                                  |
 | [rxTaEvaamJyzzveaXa](blurls/rxTaEvaamJyzzveaXa.json) | Afrojack ft. Eva Simmons - Take Over Control (Instrumental)                   |
 | [idAGGdscssAxHNkJEU](blurls/idAGGdscssAxHNkJEU.json) | Afrojack ft. Eva Simmons - Take Over Control (Preview)                        |
@@ -1194,6 +1202,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [yXfTuqDAFLEOHpmFEw](blurls/yXfTuqDAFLEOHpmFEw.json) | Mac Miller, Empire of the Sun - The Spins (Instrumental)                      |
 | [IyfniPLEhdPjtwsATm](blurls/IyfniPLEhdPjtwsATm.json) | Mac Miller, Empire of the Sun - The Spins (Preview)                           |
 | [xonmXmYVdukHdXhqZf](blurls/xonmXmYVdukHdXhqZf.json) | Mac Miller, Empire of the Sun - The Spins (Stereo Track)                      |
+| [ZuYDbvefrqYbOURIFA](blurls/ZuYDbvefrqYbOURIFA.json) | Madison Beer - Make You Mine                                                  |
+| [oYYAJieSfTWOvvlxUz](blurls/oYYAJieSfTWOvvlxUz.json) | Madison Beer - Make You Mine (Instrumental)                                   |
+| [IoFVMnImtowAoekHOd](blurls/IoFVMnImtowAoekHOd.json) | Madison Beer - Make You Mine (Preview)                                        |
+| [YHSHquRbDSjmOgATxn](blurls/YHSHquRbDSjmOgATxn.json) | Madison Beer - Make You Mine (Stereo Track)                                   |
 | [owLJvubTiZDBPasCSy](blurls/owLJvubTiZDBPasCSy.json) | Måneskin - Beggin'                                                            |
 | [GkLEvrFHCtYozZxCfi](blurls/GkLEvrFHCtYozZxCfi.json) | Måneskin - Beggin' (Instrumental)                                             |
 | [mkwbfIZyeQEvIYUPvt](blurls/mkwbfIZyeQEvIYUPvt.json) | Måneskin - Beggin' (Preview)                                                  |

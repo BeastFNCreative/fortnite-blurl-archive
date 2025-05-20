@@ -10,6 +10,12 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [uefwCztaIzpDdguCnY](blurls/uefwCztaIzpDdguCnY.json) | Master Chief Gaming Legends Trailer (thanks for uploading the same vid twice...) |
+| [wLXVZGKsthVSQZaulR](blurls/wLXVZGKsthVSQZaulR.json) | TMNT Dimensions 2 Island Promo |
+| [YBpUetxsgzFFnUSuvc](blurls/YBpUetxsgzFFnUSuvc.json) | Touch Icon Series Emote |
+| [XUAtnIQXJXZZbdsvcW](blurls/XUAtnIQXJXZZbdsvcW.json) | Darth Jar Jar Promo Clip |
+| [lHhjFgTZixuEMBcROB](blurls/lHhjFgTZixuEMBcROB.json) | Ballistic Gameplay Test Ground Update |
+| [UXiEMHWMotpOvMPlhS](blurls/UXiEMHWMotpOvMPlhS.json) | General Grevious Promo Clip |
 | [iNbFlzRZuCMsBEbwbA](blurls/iNbFlzRZuCMsBEbwbA.json) | Galactic Battle Week 2: The Pull of The Force |
 | [GqxoSAjqiRvlavrnxE](blurls/GqxoSAjqiRvlavrnxE.json) | Knight Rider Showcase Clip |
 | [KjFpNALdgBvqKSsRgY](blurls/KjFpNALdgBvqKSsRgY.json) | Good Luck, Babe! Icon Series Emote |
