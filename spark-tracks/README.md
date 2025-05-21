@@ -297,6 +297,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [pzJAIGVEDNsNCHiRbB](blurls/pzJAIGVEDNsNCHiRbB.json) | Chappell Roan - HOT TO GO! (Instrumental)                                     |
 | [WQrUTmkFMrudAkLBLr](blurls/WQrUTmkFMrudAkLBLr.json) | Chappell Roan - HOT TO GO! (Preview)                                          |
 | [CcFUmDbsjutAOImCEj](blurls/CcFUmDbsjutAOImCEj.json) | Chappell Roan - HOT TO GO! (Stereo Track)                                     |
+| [HvjfzcwaQjYrUZRUIo](blurls/HvjfzcwaQjYrUZRUIo.json) | Chappell Roan - The Giver                                                     |
+| [tNmEUqPJSmGyiSOiyb](blurls/tNmEUqPJSmGyiSOiyb.json) | Chappell Roan - The Giver (Instrumental)                                      |
+| [mfPggZFHIZmRvbZrGj](blurls/mfPggZFHIZmRvbZrGj.json) | Chappell Roan - The Giver (Preview)                                           |
+| [TxPFopSjAGbgvKDgio](blurls/TxPFopSjAGbgvKDgio.json) | Chappell Roan - The Giver (Stereo Track)                                      |
 | [LXJxIlDvCtXtKKoFoa](blurls/LXJxIlDvCtXtKKoFoa.json) | Charli xcx - Apple                                                            |
 | [uWklWfGaXpKiQMYBBR](blurls/uWklWfGaXpKiQMYBBR.json) | Charli xcx - Apple (Instrumental)                                             |
 | [OpJdqLQwZAzDQBQduA](blurls/OpJdqLQwZAzDQBQduA.json) | Charli xcx - Apple (Preview)                                                  |
@@ -1782,6 +1786,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [MDXgwvEmubWzZchwNp](blurls/MDXgwvEmubWzZchwNp.json) | The Notorious B.I.G. - Notorious Thugs (Instrumental)                         |
 | [rSDEyMXJWWLLsCjSUS](blurls/rSDEyMXJWWLLsCjSUS.json) | The Notorious B.I.G. - Notorious Thugs (Preview)                              |
 | [zarDfJtKCqlrgyNElc](blurls/zarDfJtKCqlrgyNElc.json) | The Notorious B.I.G. - Notorious Thugs (Stereo Track)                         |
+| [ORnJsxhDNXyPhkceMz](blurls/ORnJsxhDNXyPhkceMz.json) | The Strokes - Someday                                                         |
+| [WTshdyInPPxajTJNUK](blurls/WTshdyInPPxajTJNUK.json) | The Strokes - Someday (Instrumental)                                          |
+| [VHMpmSIqpvMGcXWZoV](blurls/VHMpmSIqpvMGcXWZoV.json) | The Strokes - Someday (Preview)                                               |
+| [zkEcgsUGdmUzzTTKEt](blurls/zkEcgsUGdmUzzTTKEt.json) | The Strokes - Someday (Stereo Track)                                          |
 | [xcjDYSfdznOZcRQhER](blurls/xcjDYSfdznOZcRQhER.json) | The Weeknd - Blinding Lights                                                  |
 | [XHqEUituBekndQwrFZ](blurls/XHqEUituBekndQwrFZ.json) | The Weeknd - Blinding Lights (Instrumental)                                   |
 | [reRsYHcRzgjojaSKGp](blurls/reRsYHcRzgjojaSKGp.json) | The Weeknd - Blinding Lights (Preview)                                        |
