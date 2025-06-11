@@ -85,6 +85,7 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [UFDxtqZPQKgaoloDlR](blurls/UFDxtqZPQKgaoloDlR.json) | Soundwave Series ft. Aya Nakamura Picture-in-Picture                                                 |
 | [VxpNifqIRsTeBLISzp](blurls/VxpNifqIRsTeBLISzp.json) | Soundwave Series ft. Gen Hoshino Picture-in-Picture                                                  |
 | [xDsRQcMMMKqpwdMH](blurls/xDsRQcMMMKqpwdMH.json)     | Soundwave Series ft. Tones And I Picture-in-Picture                                                  |
+| [YalEgNELfqgyKbudsZ](blurls/YalEgNELfqgyKbudsZ.json) | Star Wars: Deathstar Sabotage Superman Teaser                                                        |
 | [seiVNdBqFpzAGQgf](blurls/seiVNdBqFpzAGQgf.json)     | The Devourer Of Worlds In-Game Event Post-Event Cinematic                                            |
 | [tvkTkDNBGjOayzCFys](blurls/tvkTkDNBGjOayzCFys.json) | The End (Chapter 2) - Event Cinematic                                                                |
 | [mBtYElgTOAKPOgLsaF](blurls/mBtYElgTOAKPOgLsaF.json) | The Kid LAROI's Wild Dreams Concert Picture-in-Picture                                               |

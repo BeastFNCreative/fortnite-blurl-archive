@@ -10,6 +10,14 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [oMwLHOSFUctCtqkgJT](blurls/oMwLHOSFUctCtqkgJT.json) | Chapter 6 Season 3: SUPER Cinematic Trailer |
+| [oMwLHOSFUctCtqkgJT](blurls/oMwLHOSFUctCtqkgJT.json) | TV Off Icon Series Emote |
+| [LERqljOGzkIxbTnUau](blurls/LERqljOGzkIxbTnUau.json) | Fortnite Festival Jam Stage: Dance With Sabrina Promo |
+| [RLETUyDZobVOBygRKq](blurls/RLETUyDZobVOBygRKq.json) | Party Up: Celestial Strike Trailer |
+| [ylaQqdRtStYRvRDsLQ](blurls/ylaQqdRtStYRvRDsLQ.json) | Ferrari 296GTB Car Showcase Clip |
+| [TngUMjomBhdBWTToHP](blurls/TngUMjomBhdBWTToHP.json) | Galactic Battle Week 4: Star Destroyer Bombardment |
+| [rclRKDDIszgoHkrwia](blurls/rclRKDDIszgoHkrwia.json) | Galactic Battle Week 3: Mandolorian Rising |
+| [XvEJcktmiluhXnAedv](blurls/XvEJcktmiluhXnAedv.json) | 15 Minutes Icon Series Emote |
 | [uefwCztaIzpDdguCnY](blurls/uefwCztaIzpDdguCnY.json) | Master Chief Gaming Legends Trailer (thanks for uploading the same vid twice...) |
 | [wLXVZGKsthVSQZaulR](blurls/wLXVZGKsthVSQZaulR.json) | TMNT Dimensions 2 Island Promo |
 | [YBpUetxsgzFFnUSuvc](blurls/YBpUetxsgzFFnUSuvc.json) | Touch Icon Series Emote |

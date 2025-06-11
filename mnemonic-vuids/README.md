@@ -15,6 +15,7 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [YdKtkcvQROjZcpicXX](blurls/YdKtkcvQROjZcpicXX.json) | 0227-4570-9187 : Little Bird |
 | [dQdFriXlyUSKgMqJhI](blurls/dQdFriXlyUSKgMqJhI.json) | 2601-0606-9081 : The Kid LAROI's Wild Dreams |
 | [FtvCYcMvKOulsOYCzT](blurls/FtvCYcMvKOulsOYCzT.json) | 3500-0540-0065 : Soundwave Series ft. Aya Nakamura |
+| [JpPrcvacsqGHrSzNlj](blurls/JpPrcvacsqGHrSzNlj.json) | 4030-2345-0180 : Fortnite Festival Jam Stage: Dance With Sabrina |
 | [XOBqRNoaYLOHupEgkx](blurls/XOBqRNoaYLOHupEgkx.json) | 4272-8445-5314 : Dinosaurs : A True Story |
 | [rCTbzdAEOJHOFSmDzw](blurls/rCTbzdAEOJHOFSmDzw.json) | 4294-0410-6136 : The Kid LAROI's Wild Dreams Afterparty |
 | [oxnomRTJTEwCNDzFOh](blurls/oxnomRTJTEwCNDzFOh.json) | 5112-5977-7141 : The Green Bird |
@@ -62,6 +63,7 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [BPmqJrpZmlEdIOGook](blurls/BPmqJrpZmlEdIOGook.json) | set_br_playlists : Hunters |
 | [JCmxkliEBcmTdsGMqJ](blurls/JCmxkliEBcmTdsGMqJ.json) | set_br_playlists : Lawless |
 | [mbzBuEchtOJvCxamTR](blurls/mbzBuEchtOJvCxamTR.json) | set_br_playlists : Galactic Battle |
+| [LBnhXcWBAAfnPJVvtQ](blurls/LBnhXcWBAAfnPJVvtQ.json) | set_br_playlists : Super |
 | [nBXWuBNMdScHeYtCnP](blurls/nBXWuBNMdScHeYtCnP.json) | set_delmar_mrs_ranked : Rocket Racing |
 | [qpdchKarjFnwpdEnYj](blurls/qpdchKarjFnwpdEnYj.json) | set_delmar_mrs_ranked : Rocket Racing (Extra VUID) |
 | [zmDptnMNGqUEdlBwTv](blurls/zmDptnMNGqUEdlBwTv.json) | set_delmar_mrs_ranked : Rocket Racing (Star Wars Update) |
@@ -73,5 +75,6 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [JXjAOXDFfYTmPVpZVW](blurls/JXjAOXDFfYTmPVpZVW.json) | set_nobuild_playlists : Absolute Doom |
 | [mrhasYehRLdjYGMdmL](blurls/mrhasYehRLdjYGMdmL.json) | set_nobuild_playlists : Hunters |
 | [NqvoWIJjfUlNsSCkwP](blurls/NqvoWIJjfUlNsSCkwP.json) | set_nobuild_playlists : Lawless |
+| [kAccxZIqIEUDKDUGVG](blurls/kAccxZIqIEUDKDUGVG.json) | set_nobuild_playlists : Super |
 | [KLHeAwpnfyWJzsHggq](blurls/KLHeAwpnfyWJzsHggq.json) | set_nobuild_playlists : Zero Build - Battle Royale |
 | [VTfsLUcDGhrnzHppNB](blurls/VTfsLUcDGhrnzHppNB.json) | set_nobuild_playlists : Zero Build - Battle Royale (v1) |
