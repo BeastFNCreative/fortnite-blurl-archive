@@ -10,7 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
-| [oMwLHOSFUctCtqkgJT](blurls/oMwLHOSFUctCtqkgJT.json) | Chapter 6 Season 3: SUPER Cinematic Trailer |
+| [ljxgBFjptStesRLIYu](blurls/ljxgBFjptStesRLIYu.json) | Chapter 6 Season 3: SUPER Cinematic Trailer |
 | [oMwLHOSFUctCtqkgJT](blurls/oMwLHOSFUctCtqkgJT.json) | TV Off Icon Series Emote |
 | [LERqljOGzkIxbTnUau](blurls/LERqljOGzkIxbTnUau.json) | Fortnite Festival Jam Stage: Dance With Sabrina Promo |
 | [RLETUyDZobVOBygRKq](blurls/RLETUyDZobVOBygRKq.json) | Party Up: Celestial Strike Trailer |
