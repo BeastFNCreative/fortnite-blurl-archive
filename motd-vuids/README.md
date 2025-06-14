@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [qNJbjKvjjVcoeOJVGh](blurls/qNJbjKvjjVcoeOJVGh.json) | Animated Dads Bundle Trailer |
 | [FiXqPRFRncYJmDAydX](blurls/FiXqPRFRncYJmDAydX.json) | LEGO Fortnite Expeditions Mode Teaser |
 | [ljxgBFjptStesRLIYu](blurls/ljxgBFjptStesRLIYu.json) | Chapter 6 Season 3: SUPER Cinematic Trailer |
 | [oMwLHOSFUctCtqkgJT](blurls/oMwLHOSFUctCtqkgJT.json) | TV Off Icon Series Emote |
