@@ -76,4 +76,5 @@ Seasonal Trailer Video Content, found in either the Career Tab or First Time Sta
 | [UqGbyWJfkHngmpaMxU](blurls/UqGbyWJfkHngmpaMxU.json) | Chapter 6 Season 2 : Ecosystem Trailer (Reload: Slurp Rush) |
 | [leheLOFteYvywCVMVp](blurls/leheLOFteYvywCVMVp.json) | Chapter 6 Season 3 : Ecosystem Trailer |
 | [qQnQTPJBqhzpErrcqW](blurls/qQnQTPJBqhzpErrcqW.json) | Chapter 6 Season 3 : Fortnite OG Trailer |
+| [hmxDGYmOvJORLWcMNO](blurls/hmxDGYmOvJORLWcMNO.json) | Chapter 6 Season 3 : LEGO Fortnite Expeditions Trailer |
 | [XPOlvrMQZKNeqIkGHV](blurls/XPOlvrMQZKNeqIkGHV.json) | Chapter 6 Mini Season Season 1 : Ecosystem Trailer |

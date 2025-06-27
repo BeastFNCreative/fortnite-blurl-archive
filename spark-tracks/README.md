@@ -273,6 +273,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [IfwGXXxCnYhmrFKJsL](blurls/IfwGXXxCnYhmrFKJsL.json) | Bruno Mars - 24K Magic (Instrumental)                                         |
 | [lBkonWnHrAFuWPRpFk](blurls/lBkonWnHrAFuWPRpFk.json) | Bruno Mars - 24K Magic (Preview)                                              |
 | [LCSMDEvawNvfzLMTBO](blurls/LCSMDEvawNvfzLMTBO.json) | Bruno Mars - 24K Magic (Stereo Track)                                         |
+| [QgBuVFLzcYhmXafPfi](blurls/QgBuVFLzcYhmXafPfi.json) | Bruno Mars - Bonde Do Brunão                                                  |
+| [UjXRMXCHTxOTrXBaOu](blurls/UjXRMXCHTxOTrXBaOu.json) | Bruno Mars - Bonde Do Brunão (Instrumental)                                   |
+| [PrryTLYtlyEEaTJgou](blurls/PrryTLYtlyEEaTJgou.json) | Bruno Mars - Bonde Do Brunão (Preview)                                        |
+| [UdAHkXUpMGaNrANiPa](blurls/UdAHkXUpMGaNrANiPa.json) | Bruno Mars - Bonde Do Brunão (Stereo Track)                                   |
+| [IfJDdzYXTSvMxLERCz](blurls/IfJDdzYXTSvMxLERCz.json) | Bruno Mars - Bruno-San's Theme Song                                           |
+| [WOhrLJrenRiXgQCmZf](blurls/WOhrLJrenRiXgQCmZf.json) | Bruno Mars - Bruno-San's Theme Song (Instrumental)                            |
+| [kxdjqyJUBIUecCMzyx](blurls/kxdjqyJUBIUecCMzyx.json) | Bruno Mars - Bruno-San's Theme Song (Preview)                                 |
+| [wsCJtrAJfRSeemxlvB](blurls/wsCJtrAJfRSeemxlvB.json) | Bruno Mars - Bruno-San's Theme Song (Stereo Track)                            |
 | [RORkOQigQzXzLZHrzd](blurls/RORkOQigQzXzLZHrzd.json) | BTS - Butter                                                                  |
 | [TmRJlWmalMFNYkfAhv](blurls/TmRJlWmalMFNYkfAhv.json) | BTS - Butter (Instrumental)                                                   |
 | [JaLLMqvYtmBSoIVowo](blurls/JaLLMqvYtmBSoIVowo.json) | BTS - Butter (Preview)                                                        |
@@ -479,6 +487,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [oFfSNDummQOUKnFMVb](blurls/oFfSNDummQOUKnFMVb.json) | Epic Games - Crimson Barony  (Instrumental)                                   |
 | [QdJPOfeqeNWbgODnjo](blurls/QdJPOfeqeNWbgODnjo.json) | Epic Games - Crimson Barony  (Preview)                                        |
 | [YFtdccnOYmrEqiEDtw](blurls/YFtdccnOYmrEqiEDtw.json) | Epic Games - Crimson Barony  (Stereo Track)                                   |
+| [ndnUaAjyTPAZVvlfNa](blurls/ndnUaAjyTPAZVvlfNa.json) | Epic Games - Dance Therapy                                                    |
+| [vfNSvdYQAzOToNpbGu](blurls/vfNSvdYQAzOToNpbGu.json) | Epic Games - Dance Therapy (Instrumental)                                     |
+| [ToEVHmpxRMBFUoGjfA](blurls/ToEVHmpxRMBFUoGjfA.json) | Epic Games - Dance Therapy (Preview)                                          |
+| [MYfRAfCfaALAYsQNqC](blurls/MYfRAfCfaALAYsQNqC.json) | Epic Games - Dance Therapy (Stereo Track)                                     |
 | [tgOZuXyoTWKelgjtKJ](blurls/tgOZuXyoTWKelgjtKJ.json) | Epic Games - Dexting                                                          |
 | [NJZGVnhXnGvlRRpnKE](blurls/NJZGVnhXnGvlRRpnKE.json) | Epic Games - Dexting (Instrumental)                                           |
 | [BbWHLYbeptSpkhXgqh](blurls/BbWHLYbeptSpkhXgqh.json) | Epic Games - Dexting (Preview)                                                |
@@ -541,6 +553,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [tLllEwYvMLNmdJWYrF](blurls/tLllEwYvMLNmdJWYrF.json) | Epic Games - Infinite Hype (DJ Skee Remix) (Instrumental)                     |
 | [zAujFPWRyWAYbCLKcz](blurls/zAujFPWRyWAYbCLKcz.json) | Epic Games - Infinite Hype (DJ Skee Remix) (Preview)                          |
 | [lymUixWJYopBskVFGM](blurls/lymUixWJYopBskVFGM.json) | Epic Games - Infinite Hype (DJ Skee Remix) (Stereo Track)                     |
+| [nkZnkGLMnWReJjaIiv](blurls/nkZnkGLMnWReJjaIiv.json) | Epic Games - Into the Underworld                                              |
+| [CizZVkHlGYwHEKLkXg](blurls/CizZVkHlGYwHEKLkXg.json) | Epic Games - Into the Underworld (Instrumental)                               |
+| [jLMuxNRlaGgHGdBqEJ](blurls/jLMuxNRlaGgHGdBqEJ.json) | Epic Games - Into the Underworld (Preview)                                    |
+| [ZpaLjvgrgbUfsZfdvB](blurls/ZpaLjvgrgbUfsZfdvB.json) | Epic Games - Into the Underworld (Stereo Track)                               |
 | [uHMGQtxiZxKwPlxgQK](blurls/uHMGQtxiZxKwPlxgQK.json) | Epic Games - Keep Poppin                                                      |
 | [ZCWzODsZEOfVYNxckY](blurls/ZCWzODsZEOfVYNxckY.json) | Epic Games - Keep Poppin (Instrumental)                                       |
 | [QlvbRUhBYaJGujAjjD](blurls/QlvbRUhBYaJGujAjjD.json) | Epic Games - Keep Poppin (Preview)                                            |
@@ -549,6 +565,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [OGxswOOQcITNaSkbKc](blurls/OGxswOOQcITNaSkbKc.json) | Epic Games - Larry's Place (Instrumental)                                     |
 | [joqTPWrTJZHBJRNJqz](blurls/joqTPWrTJZHBJRNJqz.json) | Epic Games - Larry's Place (Preview)                                          |
 | [bZLMKmaquzisRSnHTp](blurls/bZLMKmaquzisRSnHTp.json) | Epic Games - Larry's Place (Stereo Track)                                     |
+| [twKlxEyDskwnyKixvm](blurls/twKlxEyDskwnyKixvm.json) | Epic Games - Let It Burn                                                      |
+| [EVNsbvmGeUJomUMwEf](blurls/EVNsbvmGeUJomUMwEf.json) | Epic Games - Let It Burn (Instrumental)                                       |
+| [jlhBbfARXohjIJfHbi](blurls/jlhBbfARXohjIJfHbi.json) | Epic Games - Let It Burn (Preview)                                            |
+| [HyjBfotiAcHfwpcNxU](blurls/HyjBfotiAcHfwpcNxU.json) | Epic Games - Let It Burn (Stereo Track)                                       |
 | [xRbqgFdHlAIUsFwPTd](blurls/xRbqgFdHlAIUsFwPTd.json) | Epic Games - Lord of the Wasteland                                            |
 | [tDkuRKNhEHJrODtiNi](blurls/tDkuRKNhEHJrODtiNi.json) | Epic Games - Lord of the Wasteland (Instrumental)                             |
 | [IArpfprNbSxpuWPMTA](blurls/IArpfprNbSxpuWPMTA.json) | Epic Games - Lord of the Wasteland (Preview)                                  |
@@ -565,6 +585,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [qtJpdQCKWuPdsskkyD](blurls/qtJpdQCKWuPdsskkyD.json) | Epic Games - Make the Crowd Roar (Instrumental)                               |
 | [MrILQCEmvrLnoUFWGz](blurls/MrILQCEmvrLnoUFWGz.json) | Epic Games - Make the Crowd Roar (Preview)                                    |
 | [RsWphvTruwGWxtxUBW](blurls/RsWphvTruwGWxtxUBW.json) | Epic Games - Make the Crowd Roar (Stereo Track)                               |
+| [ZYyXSYaeUWGVtBQpeN](blurls/ZYyXSYaeUWGVtBQpeN.json) | Epic Games - Move                                                             |
+| [lpdUOLXYTgQiFJZiHe](blurls/lpdUOLXYTgQiFJZiHe.json) | Epic Games - Move (Instrumental)                                              |
+| [gQhGEwdnNtMIpyDFXX](blurls/gQhGEwdnNtMIpyDFXX.json) | Epic Games - Move (Preview)                                                   |
+| [ERCtLofJLWMdFMkndd](blurls/ERCtLofJLWMdFMkndd.json) | Epic Games - Move (Stereo Track)                                              |
 | [aKEPqKXyMdSFacjHoc](blurls/aKEPqKXyMdSFacjHoc.json) | Epic Games - Move Like the Mist                                               |
 | [kbljleOhEdtGrbWIGv](blurls/kbljleOhEdtGrbWIGv.json) | Epic Games - Move Like the Mist (Instrumental)                                |
 | [zCtnCjGcVIvWjUmjhA](blurls/zCtnCjGcVIvWjUmjhA.json) | Epic Games - Move Like the Mist (Preview)                                     |
@@ -753,6 +777,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [yBXhCSxnGpOAnOBZPU](blurls/yBXhCSxnGpOAnOBZPU.json) | Estelle ft. Channel Tres - Stay Alta (Instrumental)                           |
 | [qfPNTHxmCgESIlNDHN](blurls/qfPNTHxmCgESIlNDHN.json) | Estelle ft. Channel Tres - Stay Alta (Preview)                                |
 | [LfkzxfgoDgFXuJzaXk](blurls/LfkzxfgoDgFXuJzaXk.json) | Estelle ft. Channel Tres - Stay Alta (Stereo Track)                           |
+| [JohqwPWwcvVCZqJLZc](blurls/JohqwPWwcvVCZqJLZc.json) | Eternxlkz - SLAY!                                                             |
+| [zrOPlkCMwjoRlDiqbo](blurls/zrOPlkCMwjoRlDiqbo.json) | Eternxlkz - SLAY! (Instrumental)                                              |
+| [XjNkXegYrDoLowdEKM](blurls/XjNkXegYrDoLowdEKM.json) | Eternxlkz - SLAY! (Preview)                                                   |
+| [DlJTFoJENwmTUDdZyf](blurls/DlJTFoJENwmTUDdZyf.json) | Eternxlkz - SLAY! (Stereo Track)                                              |
 | [IaPcrdhZXGIqQrdwWZ](blurls/IaPcrdhZXGIqQrdwWZ.json) | Europe - The Final Countdown                                                  |
 | [pubbSMQDsSlpifppyJ](blurls/pubbSMQDsSlpifppyJ.json) | Europe - The Final Countdown (Instrumental)                                   |
 | [wUtPKuydDDEmnbwzUn](blurls/wUtPKuydDDEmnbwzUn.json) | Europe - The Final Countdown (Preview)                                        |
@@ -931,6 +959,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [DCPEzWXYIPenTzCxxy](blurls/DCPEzWXYIPenTzCxxy.json) | J. Balvin & Willy William - Mi Gente (Instrumental)                           |
 | [NBYVvNMXujQZcEUELl](blurls/NBYVvNMXujQZcEUELl.json) | J. Balvin & Willy William - Mi Gente (Preview)                                |
 | [gwaHGTFJPSEsoMDdtb](blurls/gwaHGTFJPSEsoMDdtb.json) | J. Balvin & Willy William - Mi Gente (Stereo Track)                           |
+| [pliqEOVPxAjtOCYvLL](blurls/pliqEOVPxAjtOCYvLL.json) | Jackson 5 - ABC                                                               |
+| [fdIaJlKiKuMfETzbSf](blurls/fdIaJlKiKuMfETzbSf.json) | Jackson 5 - ABC (Instrumental)                                                |
+| [jsKrqpUCZwXkCqyZfl](blurls/jsKrqpUCZwXkCqyZfl.json) | Jackson 5 - ABC (Preview)                                                     |
+| [MAIIkxFEMBRSXagDNx](blurls/MAIIkxFEMBRSXagDNx.json) | Jackson 5 - ABC (Stereo Track)                                                |
 | [wCsAMcXJNzrqYncpai](blurls/wCsAMcXJNzrqYncpai.json) | Jack Harlow - Lovin On Me                                                     |
 | [qcTiOXgAcllOgPpPtP](blurls/qcTiOXgAcllOgPpPtP.json) | Jack Harlow - Lovin On Me (Instrumental)                                      |
 | [hgeGrbbSxdRCeutUaH](blurls/hgeGrbbSxdRCeutUaH.json) | Jack Harlow - Lovin On Me (Preview)                                           |
@@ -1161,6 +1193,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [RchOItiMphcxxRQIGu](blurls/RchOItiMphcxxRQIGu.json) | Lady Gaga - The Edge of Glory (Instrumental)                                  |
 | [GvsYNJmWBWkDGtDHMo](blurls/GvsYNJmWBWkDGtDHMo.json) | Lady Gaga - The Edge of Glory (Preview)                                       |
 | [xgBTHmAPgjOPLlHKTw](blurls/xgBTHmAPgjOPLlHKTw.json) | Lady Gaga - The Edge of Glory (Stereo Track)                                  |
+| [YpFjnRDbiQlLtRFayB](blurls/YpFjnRDbiQlLtRFayB.json) | Lady Gaga, Bruno Mars - Die With A Smile                                      |
+| [hplMjqvLidVyYdOkFs](blurls/hplMjqvLidVyYdOkFs.json) | Lady Gaga, Bruno Mars - Die With A Smile (Instrumental)                       |
+| [OUvkhokpDkatVYrvzC](blurls/OUvkhokpDkatVYrvzC.json) | Lady Gaga, Bruno Mars - Die With A Smile (Preview)                            |
+| [qSznwLpPBixEUvlIan](blurls/qSznwLpPBixEUvlIan.json) | Lady Gaga, Bruno Mars - Die With A Smile (Stereo Track)                       |
 | [uljYQEjaTEOkHJIrbS](blurls/uljYQEjaTEOkHJIrbS.json) | Lady Gaga & Ariana Grande - Rain On Me                                        |
 | [nKlUZLWzdCkjCpuexs](blurls/nKlUZLWzdCkjCpuexs.json) | Lady Gaga & Ariana Grande - Rain On Me (Instrumental)                         |
 | [pNDQUlhJzCUMomxMXD](blurls/pNDQUlhJzCUMomxMXD.json) | Lady Gaga & Ariana Grande - Rain On Me (Preview)                              |
@@ -1610,6 +1646,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [VnqsUQloulrHpfbJoD](blurls/VnqsUQloulrHpfbJoD.json) | Rob Zombie - Dragula (Instrumental)                                           |
 | [RjYNsdjgoDFYxNDoup](blurls/RjYNsdjgoDFYxNDoup.json) | Rob Zombie - Dragula (Preview)                                                |
 | [YIJEFhJWOOyFqSYPgj](blurls/YIJEFhJWOOyFqSYPgj.json) | Rob Zombie - Dragula (Stereo Track)                                           |
+| [DpaNnpAketzFQGBQGz](blurls/DpaNnpAketzFQGBQGz.json) | ROSÉ, Bruno Mars - APT.                                                       |
+| [vqTkBDmqWeUXIIhuNE](blurls/vqTkBDmqWeUXIIhuNE.json) | ROSÉ, Bruno Mars - APT. (Instrumental)                                        |
+| [DiwuErMshFdmjeilsO](blurls/DiwuErMshFdmjeilsO.json) | ROSÉ, Bruno Mars - APT. (Preview)                                             |
+| [IuxdpdknyqYMHSAlBi](blurls/IuxdpdknyqYMHSAlBi.json) | ROSÉ, Bruno Mars - APT. (Stereo Track)                                        |
 | [zRuAkTKuinUIYSyKKb](blurls/zRuAkTKuinUIYSyKKb.json) | Run DMC ft. Aerosmith - Walk This Way                                         |
 | [HZJFlKhEgcuRsxhQaM](blurls/HZJFlKhEgcuRsxhQaM.json) | Run DMC ft. Aerosmith - Walk This Way (Instrumental)                          |
 | [UwZswHuPBrlYKTWdDl](blurls/UwZswHuPBrlYKTWdDl.json) | Run DMC ft. Aerosmith - Walk This Way (Preview)                               |
@@ -1622,6 +1662,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [GJiYNrSCurBuYHTKQR](blurls/GJiYNrSCurBuYHTKQR.json) | ryo (supercell) ft. Hatsune Miku - World Is Mine (Instrumental)               |
 | [LRwPegTTJhxWZqQeeb](blurls/LRwPegTTJhxWZqQeeb.json) | ryo (supercell) ft. Hatsune Miku - World Is Mine (Preview)                    |
 | [axYhnqtOmWCWFUvwGD](blurls/axYhnqtOmWCWFUvwGD.json) | ryo (supercell) ft. Hatsune Miku - World Is Mine (Stereo Track)               |
+| [IEdSdwFzBpwkPMaqrl](blurls/IEdSdwFzBpwkPMaqrl.json) | Sabotage & Instituto - Mun Ra                                                 |
+| [zJETYYAyRgFvbmrFIx](blurls/zJETYYAyRgFvbmrFIx.json) | Sabotage & Instituto - Mun Ra (Instrumental)                                  |
+| [CcnZFCwTvIpoNkIaas](blurls/CcnZFCwTvIpoNkIaas.json) | Sabotage & Instituto - Mun Ra (Preview)                                       |
+| [STffgohdVPztWNXCOF](blurls/STffgohdVPztWNXCOF.json) | Sabotage & Instituto - Mun Ra (Stereo Track)                                  |
 | [ubAWgTJcJOBNRaOEKI](blurls/ubAWgTJcJOBNRaOEKI.json) | Sabrina Carpenter - Bed Chem                                                  |
 | [WmvkXMBxpQgxlzWWMR](blurls/WmvkXMBxpQgxlzWWMR.json) | Sabrina Carpenter - Bed Chem (Instrumental)                                   |
 | [pawCNlCzKRXVmxGvCi](blurls/pawCNlCzKRXVmxGvCi.json) | Sabrina Carpenter - Bed Chem (Preview)                                        |
@@ -1702,6 +1746,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [NjzZupGzWonusIqZiM](blurls/NjzZupGzWonusIqZiM.json) | Sia ft. Sean Paul - Cheap Thrills (Instrumental)                              |
 | [LHaSzZpMQzCzqLZwhT](blurls/LHaSzZpMQzCzqLZwhT.json) | Sia ft. Sean Paul - Cheap Thrills (Preview)                                   |
 | [tTaYVuyUYNhfDFfFDo](blurls/tTaYVuyUYNhfDFfFDo.json) | Sia ft. Sean Paul - Cheap Thrills (Stereo Track)                              |
+| [MbloIHreoHXIPKESBe](blurls/MbloIHreoHXIPKESBe.json) | Silk Sonic - Leave The Door Open                                              |
+| [ylfOVjmZpKDtfdbVJW](blurls/ylfOVjmZpKDtfdbVJW.json) | Silk Sonic - Leave The Door Open (Instrumental)                               |
+| [MUVbfeZoiwIwURXElD](blurls/MUVbfeZoiwIwURXElD.json) | Silk Sonic - Leave The Door Open (Preview)                                    |
+| [kZByidNEUXzMlhTCJo](blurls/kZByidNEUXzMlhTCJo.json) | Silk Sonic - Leave The Door Open (Stereo Track)                               |
 | [LaHUcJnUMBAfICvrfF](blurls/LaHUcJnUMBAfICvrfF.json) | Skee-Lo - I Wish                                                              |
 | [nAbWMRYIsEjbOepOTi](blurls/nAbWMRYIsEjbOepOTi.json) | Skee-Lo - I Wish (Instrumental)                                               |
 | [HsCGWpvjlDmYVUjxVa](blurls/HsCGWpvjlDmYVUjxVa.json) | Skee-Lo - I Wish (Preview)                                                    |

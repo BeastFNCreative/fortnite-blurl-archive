@@ -10,6 +10,12 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [pYsbFfmdMOdjxvsLQE](blurls/pYsbFfmdMOdjxvsLQE.json) | Reload Squid Grounds Map Trailer |
+| [MNecxxnEVsjocNRUPM](blurls/MNecxxnEVsjocNRUPM.json) | Squid Game Cosmetics Promo Clip |
+| [HHGcFKZpMgHsHgXyHT](blurls/HHGcFKZpMgHsHgXyHT.json) | Bruno Mars Jam Tracks Promo |
+| [yquBrlWOoamBrqoLEd](blurls/yquBrlWOoamBrqoLEd.json) | Lightning Kick! Emote Video |
+| [EbSOgNQLrzNvOVLqkz](blurls/EbSOgNQLrzNvOVLqkz.json) | K-Zone Commons Ballistic Map Trailer |
+| [AMjCWoVZPyaXARBcIb](blurls/AMjCWoVZPyaXARBcIb.json) | Fortnite Festival Season 9: Bruno Mars Trailer |
 | [qNJbjKvjjVcoeOJVGh](blurls/qNJbjKvjjVcoeOJVGh.json) | Animated Dads Bundle Trailer |
 | [FiXqPRFRncYJmDAydX](blurls/FiXqPRFRncYJmDAydX.json) | LEGO Fortnite Expeditions Mode Teaser |
 | [ljxgBFjptStesRLIYu](blurls/ljxgBFjptStesRLIYu.json) | Chapter 6 Season 3: SUPER Cinematic Trailer |
