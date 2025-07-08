@@ -1131,6 +1131,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [yGwfRPxyvhXPoRUSVl](blurls/yGwfRPxyvhXPoRUSVl.json) | Katy Perry ft. Juicy J - Dark Horse (Instrumental)                            |
 | [CsqjKeHwWPbPndEoqV](blurls/CsqjKeHwWPbPndEoqV.json) | Katy Perry ft. Juicy J - Dark Horse (Preview)                                 |
 | [wrOOzgjXuQkBmiMwTl](blurls/wrOOzgjXuQkBmiMwTl.json) | Katy Perry ft. Juicy J - Dark Horse (Stereo Track)                            |
+| [dJFeVFTxByxsyiNZxz](blurls/dJFeVFTxByxsyiNZxz.json) | Katy Perry ft. Juicy J - Dark Horse (v2)                                      |
+| [ZXZgBnEdllDoVoZptP](blurls/ZXZgBnEdllDoVoZptP.json) | Katy Perry ft. Juicy J - Dark Horse (v2) (Instrumental)                       |
+| [wvJiAteJBsebrJsABF](blurls/wvJiAteJBsebrJsABF.json) | Katy Perry ft. Juicy J - Dark Horse (v2) (Preview)                            |
+| [NvJrJWMlhWfGhApDyK](blurls/NvJrJWMlhWfGhApDyK.json) | Katy Perry ft. Juicy J - Dark Horse (v2) (Stereo Track)                       |
 | [TPApdjhCVZKhNzIyYX](blurls/TPApdjhCVZKhNzIyYX.json) | Kelly Clarkson - Stronger (What Doesn't Kill You)                             |
 | [pLwdQGEDMRoqrqfdvZ](blurls/pLwdQGEDMRoqrqfdvZ.json) | Kelly Clarkson - Stronger (What Doesn't Kill You) (Instrumental)              |
 | [IkpIuUfnWoRzCoTNux](blurls/IkpIuUfnWoRzCoTNux.json) | Kelly Clarkson - Stronger (What Doesn't Kill You) (Preview)                   |
@@ -1221,6 +1225,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [EfKagEqVOVLyBJljKY](blurls/EfKagEqVOVLyBJljKY.json) | Lil Nas X - MONTERO (Call Me By Your Name) (Instrumental)                     |
 | [xEIxLyoGdWlFcGwuKa](blurls/xEIxLyoGdWlFcGwuKa.json) | Lil Nas X - MONTERO (Call Me By Your Name) (Preview)                          |
 | [hoxkpjgWfutAHfjeJo](blurls/hoxkpjgWfutAHfjeJo.json) | Lil Nas X - MONTERO (Call Me By Your Name) (Stereo Track)                     |
+| [RzTwTdtTKbsopBwDxT](blurls/RzTwTdtTKbsopBwDxT.json) | Lil Nas X ft. Billy Ray Cyrus - Old Town Road (Remix)                         |
+| [HIEJAtyhtafUAUYeny](blurls/HIEJAtyhtafUAUYeny.json) | Lil Nas X ft. Billy Ray Cyrus - Old Town Road (Remix) (Instrumental)          |
+| [ELFlVMBSUULWxICjes](blurls/ELFlVMBSUULWxICjes.json) | Lil Nas X ft. Billy Ray Cyrus - Old Town Road (Remix) (Preview)               |
+| [OYegnLiYbcwEbQZYgD](blurls/OYegnLiYbcwEbQZYgD.json) | Lil Nas X ft. Billy Ray Cyrus - Old Town Road (Remix) (Stereo Track)          |
 | [nNcDyfisUVhLYpRVpw](blurls/nNcDyfisUVhLYpRVpw.json) | Lil Nas X ft. Jack Harlow - Industry Baby                                     |
 | [AaMLoRjNszRKhETiBB](blurls/AaMLoRjNszRKhETiBB.json) | Lil Nas X ft. Jack Harlow - Industry Baby (v2)                                |
 | [FKvkWMyXgpkhPheMYl](blurls/FKvkWMyXgpkhPheMYl.json) | Lil Nas X ft. Jack Harlow - Industry Baby (v2) (Instrumental)                 |
