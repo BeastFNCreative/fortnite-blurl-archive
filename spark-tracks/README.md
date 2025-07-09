@@ -823,6 +823,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [NDlUSLHGLxJUcnKHRN](blurls/NDlUSLHGLxJUcnKHRN.json) | Flock No B - Flock No Pilgrim                                                 |
 | [mWjTugiKTqwMWrrGbw](blurls/mWjTugiKTqwMWrrGbw.json) | Florence + The Machine - Dog Days Are Over                                    |
 | [MZnIlagpQkjalAHQjK](blurls/MZnIlagpQkjalAHQjK.json) | Florence + The Machine - Dog Days Are Over (Preview)                          |
+| [UVPiLpdtTZZeVlDofu](blurls/UVPiLpdtTZZeVlDofu.json) | Foo Fighters - Best of You                                                    |
+| [FcwJtfGhQweQsGKLiK](blurls/FcwJtfGhQweQsGKLiK.json) | Foo Fighters - Best of You (Preview)                                          |
+| [MMnXbuMtiXfDgjvnSN](blurls/MMnXbuMtiXfDgjvnSN.json) | Foo Fighters - Best of You (Stereo Track)                                     |
 | [vhXvmCNkwUfWyGtbrJ](blurls/vhXvmCNkwUfWyGtbrJ.json) | Foo Fighters - Everlong                                                       |
 | [VFAOJcRRrDIRqMkDvH](blurls/VFAOJcRRrDIRqMkDvH.json) | Foo Fighters - Everlong (Instrumental)                                        |
 | [KlhsxJUOLCxwSyGWiN](blurls/KlhsxJUOLCxwSyGWiN.json) | Foo Fighters - Everlong (Preview)                                             |
@@ -2038,6 +2041,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [VSxxxZkzDAHWvKnQzP](blurls/VSxxxZkzDAHWvKnQzP.json) | YOASOBI - IDOL (Instrumental)                                                 |
 | [xvttqIkOqXpHKSXTmx](blurls/xvttqIkOqXpHKSXTmx.json) | YOASOBI - IDOL (Preview)                                                      |
 | [OokBqbfUMLvnkShNNL](blurls/OokBqbfUMLvnkShNNL.json) | YOASOBI - IDOL (Stereo Track)                                                 |
+| [aNxQScVxknaXnBjOXx](blurls/aNxQScVxknaXnBjOXx.json) | YOASOBI - Monster                                                             |
+| [yBTZydWzTyaqHFHHpu](blurls/yBTZydWzTyaqHFHHpu.json) | YOASOBI - Monster (Instrumental)                                              |
+| [siEJwlYDpzuPaiUcDW](blurls/siEJwlYDpzuPaiUcDW.json) | YOASOBI - Monster (Preview)                                                   |
+| [XqFaPXVSwANyaotUlI](blurls/XqFaPXVSwANyaotUlI.json) | YOASOBI - Monster (Stereo Track)                                              |
 | [hgogyBihEeYEaiiUvl](blurls/hgogyBihEeYEaiiUvl.json) | YOASOBI - The Brave                                                           |
 | [sMVZmzhBkzkgsEUDom](blurls/sMVZmzhBkzkgsEUDom.json) | YOASOBI - The Brave (Instrumental)                                            |
 | [ruVRYPnYAgTxWhZZLa](blurls/ruVRYPnYAgTxWhZZLa.json) | YOASOBI - The Brave (Preview)                                                 |
