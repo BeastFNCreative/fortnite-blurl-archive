@@ -8,6 +8,11 @@ Seasonal Trailer Video Content, found in either the Career Tab or First Time Sta
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [gP8QllhZmksJ09m0](blurls/gP8QllhZmksJ09m0.json) | Chapter 1 Season X: Battle Pass Trailer (REMOVED) |
+| [lXtTE53qxiLw2Ot0](blurls/lXtTE53qxiLw2Ot0.json) | Chapter 1 Season X: Battle Pass Sizzle (REMOVED) |
+| [4B0lhs68kTglMqge](blurls/4B0lhs68kTglMqge.json) | Chapter 1 Season X: Battle Pass Trailer & Cinematic Trailer (REMOVED) |
+| [lgdEyABoAMFUytZQ](blurls/lgdEyABoAMFUytZQ.json) | Chapter 2 Season 1: Cinematic Trailer (REMOVED) |
+| [tfjtCWpXGwcKGxGV](blurls/tfjtCWpXGwcKGxGV.json) | Chapter 2 Season 1: Cinematic Trailer (REMOVED) |
 | [EDYpcqIZVYWRrzDf](blurls/EDYpcqIZVYWRrzDf.json) | Chapter 2 Season 2 : Battle Pass Trailer |
 | [OdTpvwYUHErjIUbA](blurls/OdTpvwYUHErjIUbA.json) | Chapter 2 Season 2 : Cinematic Trailer   |
 | [KqnBrvsHnfYFXrvo](blurls/KqnBrvsHnfYFXrvo.json) | Chapter 2 Season 2 : Battle Pass Trailer & Cinematic Trailer |

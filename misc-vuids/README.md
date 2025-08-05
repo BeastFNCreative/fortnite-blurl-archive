@@ -69,6 +69,7 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [AMzqULFVDUKJFmWtxq](blurls/AMzqULFVDUKJFmWtxq.json) | Mobile Shooting Tutorial Unused Video 2                                                              |
 | [cdItBLrFXpWRXScwuc](blurls/cdItBLrFXpWRXScwuc.json) | Mobile Shooting Tutorial Unused Video 3                                                              |
 | [yZCScFFPeBHXNMtusu](blurls/yZCScFFPeBHXNMtusu.json) | Picture-in-Picture Bouncing Llama Placeholder                                                        |
+| [NTyenueYutOwpUDc](blurls/NTyenueYutOwpUDc.json)     | Punk'd Show Premiere at Risky Reels (REMOVED)                                                        |
 | [NAMfVPLLYJqykofrFu](blurls/NAMfVPLLYJqykofrFu.json) | Rift Tour Tab Background                                                                             |
 | [nKaFcQbEhacuiRdfFD](blurls/nKaFcQbEhacuiRdfFD.json) | Rocket Racing First-Time Launch Video                                                                |
 | [JLuOoiQXZUXVVByOlX](blurls/JLuOoiQXZUXVVByOlX.json) | Rocket Racing First-Time Launch Video (v2)                                                           |
