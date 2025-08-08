@@ -11,6 +11,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 | VUID | Description                |
 | :-------- | :------------------------- |
 | [CrburAoOalGpWuhaoT](blurls/CrburAoOalGpWuhaoT.json) | Chapter 6 Season 4: Shock N' Awesome Hybrid Trailer |
+| [iGQdFAMyUkeRpUefma](blurls/iGQdFAMyUkeRpUefma.json) | Chapter 6 Season 4: Shock N' Awesome Teaser Trailer |
 | [cgVeANuJYmJOkvlZcN](blurls/cgVeANuJYmJOkvlZcN.json) | The Octane returns to BR (Background Vid) |
 | [jAJqAFWHLTECsrDehQ](blurls/jAJqAFWHLTECsrDehQ.json) | Nike Eva & Rove Bundle Promo |
 | [cbocEsoeGfMLtdZZsg](blurls/cbocEsoeGfMLtdZZsg.json) | Gentle Painting Icon Series Emote |
