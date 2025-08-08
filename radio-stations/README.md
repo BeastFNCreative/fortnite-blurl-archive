@@ -12,6 +12,7 @@ Radio Stations used In-Game when inside Vehicles.
 | [SesARghrQNsflAozoD](blurls/SesARghrQNsflAozoD.json) | Beat Box (v2) |
 | [gjqlfLXmalyNaDhzvK](blurls/gjqlfLXmalyNaDhzvK.json) | Beat Box (v3) |
 | [QBJYyQRHJDHZrvUJPm](blurls/QBJYyQRHJDHZrvUJPm.json) | Bricktonix (LEGO Fortnite: Brick Life) |
+| [mHAsredAErEofdFLQv](blurls/mHAsredAErEofdFLQv.json) | Bricktonix (LEGO Fortnite: Brick Life) (v2) |
 | [saeOLZXrNKpBEPGRBQ](blurls/saeOLZXrNKpBEPGRBQ.json) | Icon Radio |
 | [WQaQbnGzaPXXMHGQXt](blurls/WQaQbnGzaPXXMHGQXt.json) | Icon Radio (v2) |
 | [uaPoQwpGCgjrbKpoYZ](blurls/uaPoQwpGCgjrbKpoYZ.json) | Icon Radio (v3) |
@@ -22,6 +23,7 @@ Radio Stations used In-Game when inside Vehicles.
 | [eZNBMIWJJYicfdCKcx](blurls/eZNBMIWJJYicfdCKcx.json) | Mysterious Transmission (v4) |
 | [akEMWrMtJwOjSHrnqy](blurls/akEMWrMtJwOjSHrnqy.json) | Pop FN (LEGO Fortnite: Brick Life) |
 | [HRLGVfkbspLxyHzZwb](blurls/HRLGVfkbspLxyHzZwb.json) | Pop FN (LEGO Fortnite: Brick Life) (v2) |
+| [JRGYlwaKmekthcvSgT](blurls/JRGYlwaKmekthcvSgT.json) | Pop FN (LEGO Fortnite: Brick Life) (v3) |
 | [DGeVaWdcXtfpbAaP](blurls/DGeVaWdcXtfpbAaP.json) | Party Royale |
 | [QWGQAynCdixzoLIdJl](blurls/QWGQAynCdixzoLIdJl.json) | Party Royale (v2) |
 | [atWiPWwdlzXohpNhzD](blurls/atWiPWwdlzXohpNhzD.json) | Party Royale (v3) |
@@ -40,3 +42,4 @@ Radio Stations used In-Game when inside Vehicles.
 | [UkfrqQCHURTSgvnQRI](blurls/UkfrqQCHURTSgvnQRI.json) | Summer Road Trip |
 | [EUcITxRRdaTMUELdgW](blurls/EUcITxRRdaTMUELdgW.json) | The Mixup (LEGO Fortnite: Brick Life) |
 | [afOuMGUyOvfBcZAHxU](blurls/afOuMGUyOvfBcZAHxU.json) | The Mixup (LEGO Fortnite: Brick Life) (v2) |
+| [TaQpyNQuzKxQmQlnij](blurls/TaQpyNQuzKxQmQlnij.json) | The Mixup (LEGO Fortnite: Brick Life) (v3) |

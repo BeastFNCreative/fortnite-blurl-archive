@@ -43,6 +43,7 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [phKkVMFeiaJhLHyGHa](blurls/phKkVMFeiaJhLHyGHa.json) | playlist_pilgrimquickplay : Festival Main Stage (Extra VUID) |
 | [ZCnFXMOqRWXfNuYTmr](blurls/ZCnFXMOqRWXfNuYTmr.json) | playlist_pilgrimquickplay : Festival Main Stage (Star Wars Update) |
 | [TmspZBuurWGUxdzbkg](blurls/TmspZBuurWGUxdzbkg.json) | playlist_pilgrimquickplay : Festival Main Stage (Snoop Dogg Season) |
+| [haepYVCDrJtHuUQvir](blurls/haepYVCDrJtHuUQvir.json) | playlist_pilgrimquickplay_setlist : Festival Main Stage (Placeholder Video for Sabrina Carpenter) |
 | [pOQbjpyNSnZNptoned](blurls/pOQbjpyNSnZNptoned.json) | playlist_playgroundv2 : Creative |
 | [QljBuQXFYaplYHblAR](blurls/QljBuQXFYaplYHblAR.json) | playlist_respawn_24_alt : Team Rumble (v1) |
 | [WHmwwZAdipOxCMotML](blurls/WHmwwZAdipOxCMotML.json) | playlist_sprout : LEGO Fortnite: Brick Life |
@@ -65,6 +66,7 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [JCmxkliEBcmTdsGMqJ](blurls/JCmxkliEBcmTdsGMqJ.json) | set_br_playlists : Lawless |
 | [mbzBuEchtOJvCxamTR](blurls/mbzBuEchtOJvCxamTR.json) | set_br_playlists : Galactic Battle |
 | [LBnhXcWBAAfnPJVvtQ](blurls/LBnhXcWBAAfnPJVvtQ.json) | set_br_playlists : Super |
+| [LWyIwmYhWsPohWoTYl](blurls/LWyIwmYhWsPohWoTYl.json) | set_br_playlists : Shock N' Awesome |
 | [nBXWuBNMdScHeYtCnP](blurls/nBXWuBNMdScHeYtCnP.json) | set_delmar_mrs_ranked : Rocket Racing |
 | [qpdchKarjFnwpdEnYj](blurls/qpdchKarjFnwpdEnYj.json) | set_delmar_mrs_ranked : Rocket Racing (Extra VUID) |
 | [zmDptnMNGqUEdlBwTv](blurls/zmDptnMNGqUEdlBwTv.json) | set_delmar_mrs_ranked : Rocket Racing (Star Wars Update) |
@@ -77,5 +79,6 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [mrhasYehRLdjYGMdmL](blurls/mrhasYehRLdjYGMdmL.json) | set_nobuild_playlists : Hunters |
 | [NqvoWIJjfUlNsSCkwP](blurls/NqvoWIJjfUlNsSCkwP.json) | set_nobuild_playlists : Lawless |
 | [kAccxZIqIEUDKDUGVG](blurls/kAccxZIqIEUDKDUGVG.json) | set_nobuild_playlists : Super |
+| [VLjvCDxvtfLZkNlCGo](blurls/VLjvCDxvtfLZkNlCGo.json) | set_nobuild_playlists : Shock N' Awesome |
 | [KLHeAwpnfyWJzsHggq](blurls/KLHeAwpnfyWJzsHggq.json) | set_nobuild_playlists : Zero Build - Battle Royale |
 | [VTfsLUcDGhrnzHppNB](blurls/VTfsLUcDGhrnzHppNB.json) | set_nobuild_playlists : Zero Build - Battle Royale (v1) |

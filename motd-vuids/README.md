@@ -10,6 +10,14 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [CrburAoOalGpWuhaoT](blurls/CrburAoOalGpWuhaoT.json) | Chapter 6 Season 4: Shock N' Awesome Hybrid Trailer |
+| [cgVeANuJYmJOkvlZcN](blurls/cgVeANuJYmJOkvlZcN.json) | The Octane returns to BR (Background Vid) |
+| [jAJqAFWHLTECsrDehQ](blurls/jAJqAFWHLTECsrDehQ.json) | Nike Eva & Rove Bundle Promo |
+| [cbocEsoeGfMLtdZZsg](blurls/cbocEsoeGfMLtdZZsg.json) | Gentle Painting Icon Series Emote |
+| [dnaLmuFYiozYYThffk](blurls/dnaLmuFYiozYYThffk.json) | Battle Bus Car Body Trailer |
+| [NSCRgAmhOgOByaUlbE](blurls/NSCRgAmhOgOByaUlbE.json) | Party Up: Summer Road Trip (with Rocket League) |
+| [ozbyZmWNQsEmtChmex](blurls/ozbyZmWNQsEmtChmex.json) | Fortnite Super: Showdown Event Teaser |
+| [TStDLcvRGKpDDDmNAf](blurls/TStDLcvRGKpDDDmNAf.json) | Fantastic Four Set Trailer |
 | [pYsbFfmdMOdjxvsLQE](blurls/pYsbFfmdMOdjxvsLQE.json) | Reload Squid Grounds Map Trailer |
 | [MNecxxnEVsjocNRUPM](blurls/MNecxxnEVsjocNRUPM.json) | Squid Game Cosmetics Promo Clip |
 | [HHGcFKZpMgHsHgXyHT](blurls/HHGcFKZpMgHsHgXyHT.json) | Bruno Mars Jam Tracks Promo |

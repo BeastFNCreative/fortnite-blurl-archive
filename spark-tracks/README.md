@@ -281,6 +281,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [WOhrLJrenRiXgQCmZf](blurls/WOhrLJrenRiXgQCmZf.json) | Bruno Mars - Bruno-San's Theme Song (Instrumental)                            |
 | [kxdjqyJUBIUecCMzyx](blurls/kxdjqyJUBIUecCMzyx.json) | Bruno Mars - Bruno-San's Theme Song (Preview)                                 |
 | [wsCJtrAJfRSeemxlvB](blurls/wsCJtrAJfRSeemxlvB.json) | Bruno Mars - Bruno-San's Theme Song (Stereo Track)                            |
+| [iyvzUBDEogqQaOSFlk](blurls/iyvzUBDEogqQaOSFlk.json) | Bruno Mars - Locked Out Of Heaven                                             |
+| [joiEFQKgQQBECOpAQg](blurls/joiEFQKgQQBECOpAQg.json) | Bruno Mars - Locked Out Of Heaven (Instrumental)                              |
+| [HpwtgIiHdMKlULBcfX](blurls/HpwtgIiHdMKlULBcfX.json) | Bruno Mars - Locked Out Of Heaven (Preview)                                   |
+| [nWDMCyXZSslvusCydi](blurls/nWDMCyXZSslvusCydi.json) | Bruno Mars - Locked Out Of Heaven (Stereo Track)                              |
+| [znpJgfRYHugXJalkgW](blurls/znpJgfRYHugXJalkgW.json) | Bruno Mars - That's What I Like                                               |
+| [GpvgJVjAxPxjHaZWLr](blurls/GpvgJVjAxPxjHaZWLr.json) | Bruno Mars - That's What I Like (Instrumental)                                |
+| [jKZKfWVXXPLwyOIuXS](blurls/jKZKfWVXXPLwyOIuXS.json) | Bruno Mars - That's What I Like (Preview)                                     |
+| [dTrdyangZIFqtYGcJr](blurls/dTrdyangZIFqtYGcJr.json) | Bruno Mars - That's What I Like (Stereo Track)                                |
 | [RORkOQigQzXzLZHrzd](blurls/RORkOQigQzXzLZHrzd.json) | BTS - Butter                                                                  |
 | [TmRJlWmalMFNYkfAhv](blurls/TmRJlWmalMFNYkfAhv.json) | BTS - Butter (Instrumental)                                                   |
 | [JaLLMqvYtmBSoIVowo](blurls/JaLLMqvYtmBSoIVowo.json) | BTS - Butter (Preview)                                                        |
@@ -349,6 +357,22 @@ Jam Track Audio Data from Fortnite Festival.
 | [WixdzaEYcZFljoeibH](blurls/WixdzaEYcZFljoeibH.json) | Darude - Sandstorm (Instrumental)                                             |
 | [fFiWFfKnAjyjncUHLI](blurls/fFiWFfKnAjyjncUHLI.json) | Darude - Sandstorm (Preview)                                                  |
 | [BYJsnGVOSvkGrQeEou](blurls/BYJsnGVOSvkGrQeEou.json) | Darude - Sandstorm (Stereo Track)                                             |
+| [dsTrfxzPbOQWmMVcNS](blurls/dsTrfxzPbOQWmMVcNS.json) | DAY6 - HAPPY                                                                  |
+| [qYnbNpBafYrtwVqCeL](blurls/qYnbNpBafYrtwVqCeL.json) | DAY6 - HAPPY (Instrumental)                                                   |
+| [xqaPYQlEYZMCsYpfmP](blurls/xqaPYQlEYZMCsYpfmP.json) | DAY6 - HAPPY (Preview)                                                        |
+| [kezjoxVVSKUjOCnLay](blurls/kezjoxVVSKUjOCnLay.json) | DAY6 - HAPPY (Stereo Track)                                                   |
+| [zOOhMmwYHoiugKiWXb](blurls/zOOhMmwYHoiugKiWXb.json) | deadmau5 - 8ths                                                               |
+| [VAwBvcVLahEAwupmfm](blurls/VAwBvcVLahEAwupmfm.json) | deadmau5 - 8ths (Instrumental)                                                |
+| [yheBVXojLCxxqdDCsK](blurls/yheBVXojLCxxqdDCsK.json) | deadmau5 - 8ths (Preview)                                                     |
+| [JtwNXQmjrjOntqhcxF](blurls/JtwNXQmjrjOntqhcxF.json) | deadmau5 - 8ths (Stereo Track)                                                |
+| [eHNbyzOfEeniTIpGdT](blurls/eHNbyzOfEeniTIpGdT.json) | deadmau5 - Strobe (Radio Edit)                                                |
+| [SywibYhnqCDJCjzqxn](blurls/SywibYhnqCDJCjzqxn.json) | deadmau5 - Strobe (Radio Edit) (Instrumental)                                 |
+| [vlDzMvhzZlAtkvwQGy](blurls/vlDzMvhzZlAtkvwQGy.json) | deadmau5 - Strobe (Radio Edit) (Preview)                                      |
+| [vslitfvljuTeblKStJ](blurls/vslitfvljuTeblKStJ.json) | deadmau5 - Strobe (Radio Edit) (Stereo Track)                                 |
+| [zaGWAKQojLkGhAHzmv](blurls/zaGWAKQojLkGhAHzmv.json) | deadmau5, Rob Swire - Ghosts 'n' Stuff                                        |
+| [vQafvfEFuodORxXhVH](blurls/vQafvfEFuodORxXhVH.json) | deadmau5, Rob Swire - Ghosts 'n' Stuff (Instrumental)                         |
+| [FWzKmnvSPiVQSEGZSQ](blurls/FWzKmnvSPiVQSEGZSQ.json) | deadmau5, Rob Swire - Ghosts 'n' Stuff (Preview)                              |
+| [tVEYqimoOmWdmwCWix](blurls/tVEYqimoOmWdmwCWix.json) | deadmau5, Rob Swire - Ghosts 'n' Stuff (Stereo Track)                         |
 | [OogMSBWhzMhQdtJole](blurls/OogMSBWhzMhQdtJole.json) | Desiigner - Panda                                                             |
 | [LNUphUHNHRbJpmhAym](blurls/LNUphUHNHRbJpmhAym.json) | Desiigner - Panda (Instrumental)                                              |
 | [DsItqBpPnthMkVstQR](blurls/DsItqBpPnthMkVstQR.json) | Desiigner - Panda (Preview)                                                   |
@@ -507,6 +531,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [rsXSSFxMXPLDVLmtQQ](blurls/rsXSSFxMXPLDVLmtQQ.json) | Epic Games - Everybody Falls (Chill Mix) (Instrumental)                       |
 | [hapqGYlqGsAIXLoAEe](blurls/hapqGYlqGsAIXLoAEe.json) | Epic Games - Everybody Falls (Chill Mix) (Preview)                            |
 | [CRYrFlfppDwcdBXzOp](blurls/CRYrFlfppDwcdBXzOp.json) | Epic Games - Everybody Falls (Chill Mix) (Stereo Track)                       |
+| [BrgersOzYejWJiYoWN](blurls/BrgersOzYejWJiYoWN.json) | Epic Games - Eye of the Storm                                                 |
+| [AEtgYJwRrKIiPgPzIX](blurls/AEtgYJwRrKIiPgPzIX.json) | Epic Games - Eye of the Storm (Instrumental)                                  |
+| [AKQKDluqiUAZDJpNHw](blurls/AKQKDluqiUAZDJpNHw.json) | Epic Games - Eye of the Storm (Preview)                                       |
+| [FClAVrvyTfhlpmyujz](blurls/FClAVrvyTfhlpmyujz.json) | Epic Games - Eye of the Storm (Stereo Track)                                  |
 | [AGTCTgnGzQPlUyqVcT](blurls/AGTCTgnGzQPlUyqVcT.json) | Epic Games - Find the Fury                                                    |
 | [qGtXYzHiQqBZrUXTNs](blurls/qGtXYzHiQqBZrUXTNs.json) | Epic Games - Find the Fury (Instrumental)                                     |
 | [ZeimxqDjkNaKOetpDq](blurls/ZeimxqDjkNaKOetpDq.json) | Epic Games - Find the Fury (Preview)                                          |
@@ -527,6 +555,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [whmPqnZyLKIaCqHhlD](blurls/whmPqnZyLKIaCqHhlD.json) | Epic Games - For Latveria (Instrumental)                                      |
 | [RGWGwPpcpiqJpLxumO](blurls/RGWGwPpcpiqJpLxumO.json) | Epic Games - For Latveria (Preview)                                           |
 | [jnpNIiCOrOKIqxJqLO](blurls/jnpNIiCOrOKIqxJqLO.json) | Epic Games - For Latveria (Stereo Track)                                      |
+| [tJDvCYIucYEFBNWyfl](blurls/tJDvCYIucYEFBNWyfl.json) | Epic Games - For O.X.R.!                                                      |
+| [ayzsofmqrTSQNhkakI](blurls/ayzsofmqrTSQNhkakI.json) | Epic Games - For O.X.R.! (Instrumental)                                       |
+| [TJUuCWUELoPefXQIZn](blurls/TJUuCWUELoPefXQIZn.json) | Epic Games - For O.X.R.! (Preview)                                            |
+| [aVbpxKXKmOimiOWjfs](blurls/aVbpxKXKmOimiOWjfs.json) | Epic Games - For O.X.R.! (Stereo Track)                                       |
 | [wPKsremuldllEHfNEY](blurls/wPKsremuldllEHfNEY.json) | Epic Games - Gwenpool's Multiverse                                            |
 | [igOMaaJFuovSZHDiTw](blurls/igOMaaJFuovSZHDiTw.json) | Epic Games - Gwenpool's Multiverse (Instrumental)                             |
 | [MLCorqMCJJjQeZNdJo](blurls/MLCorqMCJJjQeZNdJo.json) | Epic Games - Gwenpool's Multiverse (Preview)                                  |
@@ -537,6 +569,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [lQtTEyiKOyIkSknZzX](blurls/lQtTEyiKOyIkSknZzX.json) | Epic Games - I'm a Winner (Instrumental)                                      |
 | [CtZujYMJgpoTaeFuec](blurls/CtZujYMJgpoTaeFuec.json) | Epic Games - I'm a Winner (Preview)                                           |
 | [ZqfDKdkoNHmHgWJmCY](blurls/ZqfDKdkoNHmHgWJmCY.json) | Epic Games - I'm a Winner (Stereo Track)                                      |
+| [neZFvyrLwBNoHPinhV](blurls/neZFvyrLwBNoHPinhV.json) | Epic Games - I'm the Visual                                                   |
+| [CXRLHoihVKouOOanfb](blurls/CXRLHoihVKouOOanfb.json) | Epic Games - I'm the Visual (Instrumental)                                    |
+| [ZyeSWFCFWIxSQfpUiP](blurls/ZyeSWFCFWIxSQfpUiP.json) | Epic Games - I'm the Visual (Preview)                                         |
+| [wjaTJPDZJnrylyFtLv](blurls/wjaTJPDZJnrylyFtLv.json) | Epic Games - I'm the Visual (Stereo Track)                                    |
 | [DqhsrwNThMEkGyggqp](blurls/DqhsrwNThMEkGyggqp.json) | Epic Games - Inferno Island                                                   |
 | [gRLKTnnyGUHjaWmEHv](blurls/gRLKTnnyGUHjaWmEHv.json) | Epic Games - Inferno Island (Instrumental)                                    |
 | [vjXQbNQQwlZNIWzaxz](blurls/vjXQbNQQwlZNIWzaxz.json) | Epic Games - Inferno Island (Preview)                                         |
@@ -585,6 +621,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [qtJpdQCKWuPdsskkyD](blurls/qtJpdQCKWuPdsskkyD.json) | Epic Games - Make the Crowd Roar (Instrumental)                               |
 | [MrILQCEmvrLnoUFWGz](blurls/MrILQCEmvrLnoUFWGz.json) | Epic Games - Make the Crowd Roar (Preview)                                    |
 | [RsWphvTruwGWxtxUBW](blurls/RsWphvTruwGWxtxUBW.json) | Epic Games - Make the Crowd Roar (Stereo Track)                               |
+| [TEZwaENBMegGpUApFY](blurls/TEZwaENBMegGpUApFY.json) | Epic Games - Memories                                                         |
+| [sXJPkuHgbUVoBxdQIn](blurls/sXJPkuHgbUVoBxdQIn.json) | Epic Games - Memories (Instrumental)                                          |
+| [AVsgTAVVZSceZTfMFR](blurls/AVsgTAVVZSceZTfMFR.json) | Epic Games - Memories (Preview)                                               |
+| [pTcDvqyMWoihQaRgei](blurls/pTcDvqyMWoihQaRgei.json) | Epic Games - Memories (Stereo Track)                                          |
 | [ZYyXSYaeUWGVtBQpeN](blurls/ZYyXSYaeUWGVtBQpeN.json) | Epic Games - Move                                                             |
 | [lpdUOLXYTgQiFJZiHe](blurls/lpdUOLXYTgQiFJZiHe.json) | Epic Games - Move (Instrumental)                                              |
 | [gQhGEwdnNtMIpyDFXX](blurls/gQhGEwdnNtMIpyDFXX.json) | Epic Games - Move (Preview)                                                   |
@@ -749,6 +789,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [ImsfGeEASKCgJIZJri](blurls/ImsfGeEASKCgJIZJri.json) | Epic Games - You Don't Know Me (Instrumental)                                 |
 | [aYvnqpcyHlEMOdDrBI](blurls/aYvnqpcyHlEMOdDrBI.json) | Epic Games - You Don't Know Me (Preview)                                      |
 | [ZWRCcBKliPBxOkcyYW](blurls/ZWRCcBKliPBxOkcyYW.json) | Epic Games - You Don't Know Me (Stereo Track)                                 |
+| [cXzYydLGtZkJRdhvll](blurls/cXzYydLGtZkJRdhvll.json) | Epic Games - Your Universe                                                    |
+| [FRNhFMevAqaMdmqlEm](blurls/FRNhFMevAqaMdmqlEm.json) | Epic Games - Your Universe (Instrumental)                                     |
+| [CLIltBjbXGtqCxLUHf](blurls/CLIltBjbXGtqCxLUHf.json) | Epic Games - Your Universe (Preview)                                          |
+| [aKwejHBNoljtFqHCOs](blurls/aKwejHBNoljtFqHCOs.json) | Epic Games - Your Universe (Stereo Track)                                     |
 | [nWsBPWqEvuryzsEqQc](blurls/nWsBPWqEvuryzsEqQc.json) | Epic Games - You're All Mine                                                  |
 | [ijmxNBSHXUpGkGjHHc](blurls/ijmxNBSHXUpGkGjHHc.json) | Epic Games - You're All Mine (Instrumental)                                   |
 | [IfgPRlXoxQIrDRnzys](blurls/IfgPRlXoxQIrDRnzys.json) | Epic Games - You're All Mine (Preview)                                        |
@@ -1545,6 +1589,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [AcVaSochbHWDkTsSIb](blurls/AcVaSochbHWDkTsSIb.json) | Paramore - Still Into You (Instrumental)                                      |
 | [ymqniyPgUYIjvbuJNm](blurls/ymqniyPgUYIjvbuJNm.json) | Paramore - Still Into You (Preview)                                           |
 | [LZyoJzmnKoDWVDRZCH](blurls/LZyoJzmnKoDWVDRZCH.json) | Paramore - Still Into You (Stereo Track)                                      |
+| [TvRMyXGPDCsQYkmPWr](blurls/TvRMyXGPDCsQYkmPWr.json) | PARTYNEXTDOOR - Break From Toronto                                            |
+| [alrHAfCMhMRwizhABX](blurls/alrHAfCMhMRwizhABX.json) | PARTYNEXTDOOR - Break From Toronto (Instrumental)                             |
+| [cTINpXOQdAmXgoIjcm](blurls/cTINpXOQdAmXgoIjcm.json) | PARTYNEXTDOOR - Break From Toronto (Preview)                                  |
+| [UIkeOKSndovSzFxUVn](blurls/UIkeOKSndovSzFxUVn.json) | PARTYNEXTDOOR - Break From Toronto (Stereo Track)                             |
 | [QeWVWyrbFhcQfaHYUq](blurls/QeWVWyrbFhcQfaHYUq.json) | Pat Benatar - Heartbreaker                                                    |
 | [tXPlDYxYkWXeBQVEdi](blurls/tXPlDYxYkWXeBQVEdi.json) | Pat Benatar - Heartbreaker (Instrumental)                                     |
 | [YXdJwGrgvgTgntrdbA](blurls/YXdJwGrgvgTgntrdbA.json) | Pat Benatar - Heartbreaker (Preview)                                          |
@@ -1635,6 +1683,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [hTAoTSmzYYzXfaCwEQ](blurls/hTAoTSmzYYzXfaCwEQ.json) | Red Hot Chili Peppers - Snow (Hey Oh) (Instrumental)                          |
 | [bzDTEqShpPSDqUSEAh](blurls/bzDTEqShpPSDqUSEAh.json) | Red Hot Chili Peppers - Snow (Hey Oh) (Preview)                               |
 | [aXemuDCIRmwSXYtLKO](blurls/aXemuDCIRmwSXYtLKO.json) | Red Hot Chili Peppers - Snow (Hey Oh) (Stereo Track)                          |
+| [bQAEFvWwlCpuTMGUag](blurls/bQAEFvWwlCpuTMGUag.json) | Red Hot Chili Peppers - The Zephyr Song                                       |
+| [owhHlDzBKMYcOtCaPX](blurls/owhHlDzBKMYcOtCaPX.json) | Red Hot Chili Peppers - The Zephyr Song (Instrumental)                        |
+| [zrRhlbHmKOKvXWdEut](blurls/zrRhlbHmKOKvXWdEut.json) | Red Hot Chili Peppers - The Zephyr Song (Preview)                             |
+| [ZPtsqCaecsxksTSGjV](blurls/ZPtsqCaecsxksTSGjV.json) | Red Hot Chili Peppers - The Zephyr Song (Stereo Track)                        |
 | [IEoFwXomxzHBXVkBNm](blurls/IEoFwXomxzHBXVkBNm.json) | Rick Astley - Never Gonna Give You Up                                         |
 | [NjmWKUQvRsmWESZuoe](blurls/NjmWKUQvRsmWESZuoe.json) | Rick Astley - Never Gonna Give You Up (Instrumental)                          |
 | [wMSRCepDocFetKxYSC](blurls/wMSRCepDocFetKxYSC.json) | Rick Astley - Never Gonna Give You Up (Preview)                               |
@@ -1777,6 +1829,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [WgNdMucFPdWJvdwVPC](blurls/WgNdMucFPdWJvdwVPC.json) | Slipknot - Unsainted (Instrumental)                                           |
 | [aVlrOLiKBxgWYyWShs](blurls/aVlrOLiKBxgWYyWShs.json) | Slipknot - Unsainted (Preview)                                                |
 | [PbHCaXqkYmnlVcHmjr](blurls/PbHCaXqkYmnlVcHmjr.json) | Slipknot - Unsainted (Stereo Track)                                           |
+| [PWyvIxXsfNyRuXFyjM](blurls/PWyvIxXsfNyRuXFyjM.json) | Slipstream Music - Funny Song                                                 |
+| [IjEAGuwUqmRCMyeCia](blurls/IjEAGuwUqmRCMyeCia.json) | Slipstream Music - Funny Song (Instrumental)                                  |
+| [ryoQZJWVkGczUrqVxx](blurls/ryoQZJWVkGczUrqVxx.json) | Slipstream Music - Funny Song (Preview)                                       |
+| [wJnRgkcsafMusianlQ](blurls/wJnRgkcsafMusianlQ.json) | Slipstream Music - Funny Song (Stereo Track)                                  |
 | [mGobdFyUuvAigCcIFZ](blurls/mGobdFyUuvAigCcIFZ.json) | Snoop Dogg ft. Pharrell - Drop It Like It's Hot                               |
 | [DWozDlrNtKVFdbrcNN](blurls/DWozDlrNtKVFdbrcNN.json) | Snoop Dogg ft. Pharrell - Drop It Like It's Hot (Instrumental)                |
 | [OAHTMoaOsJLnNdGNXy](blurls/OAHTMoaOsJLnNdGNXy.json) | Snoop Dogg ft. Pharrell - Drop It Like It's Hot (Preview)                     |
