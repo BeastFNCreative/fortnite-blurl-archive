@@ -389,6 +389,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [zhKFZoAyWtozrGEptj](blurls/zhKFZoAyWtozrGEptj.json) | Dixie Flatline ft. Hatsune Miku - Decade (Instrumental)                       |
 | [FqSUYenFdtddaJvtCp](blurls/FqSUYenFdtddaJvtCp.json) | Dixie Flatline ft. Hatsune Miku - Decade (Preview)                            |
 | [VbIOmbYfYnwfiCvDrL](blurls/VbIOmbYfYnwfiCvDrL.json) | Dixie Flatline ft. Hatsune Miku - Decade (Stereo Track)                       |
+| [PjmhbRAOFWpfasfqCs](blurls/PjmhbRAOFWpfasfqCs.json) | Dixie Flatline ft. Hatsune Miku - Decade (v2)                                 |
+| [PMBUhBsIsDfQMNOjqb](blurls/PMBUhBsIsDfQMNOjqb.json) | Dixie Flatline ft. Hatsune Miku - Decade (v2) (Instrumental)                  |
+| [inosMeYnfGezvSZYdg](blurls/inosMeYnfGezvSZYdg.json) | Dixie Flatline ft. Hatsune Miku - Decade (v2) (Preview)                       |
+| [gCeMSpuzhIqXpBeILl](blurls/gCeMSpuzhIqXpBeILl.json) | Dixie Flatline ft. Hatsune Miku - Decade (v2) (Stereo Track)                  |
 | [atRMHBYCRsZefOeowH](blurls/atRMHBYCRsZefOeowH.json) | DJ Khaled ft. T-Pain, Ludacris, Snoop Dogg & Rick Ross - All I Do Is Win      |
 | [UUfAcWZVRZxlnZigwr](blurls/UUfAcWZVRZxlnZigwr.json) | DJ Khaled ft. T-Pain, Ludacris, Snoop Dogg & Rick Ross - All I Do Is Win (Instrumental) |
 | [nqBefBtckrSkCqXMUl](blurls/nqBefBtckrSkCqXMUl.json) | DJ Khaled ft. T-Pain, Ludacris, Snoop Dogg & Rick Ross - All I Do Is Win (Preview) |
@@ -1709,6 +1713,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [VnqsUQloulrHpfbJoD](blurls/VnqsUQloulrHpfbJoD.json) | Rob Zombie - Dragula (Instrumental)                                           |
 | [RjYNsdjgoDFYxNDoup](blurls/RjYNsdjgoDFYxNDoup.json) | Rob Zombie - Dragula (Preview)                                                |
 | [YIJEFhJWOOyFqSYPgj](blurls/YIJEFhJWOOyFqSYPgj.json) | Rob Zombie - Dragula (Stereo Track)                                           |
+| [OYECBpNvoNqGemPCgM](blurls/OYECBpNvoNqGemPCgM.json) | Ron Wasserman - Go Go Power Rangers                                           |
+| [ywoIZDjTAcyJtuGXZG](blurls/ywoIZDjTAcyJtuGXZG.json) | Ron Wasserman - Go Go Power Rangers (Instrumental)                            |
+| [yycagqkbRFzREMfWUp](blurls/yycagqkbRFzREMfWUp.json) | Ron Wasserman - Go Go Power Rangers (Preview)                                 |
+| [cokczUKpLEROvbLTWa](blurls/cokczUKpLEROvbLTWa.json) | Ron Wasserman - Go Go Power Rangers (Stereo Track)                            |
 | [DpaNnpAketzFQGBQGz](blurls/DpaNnpAketzFQGBQGz.json) | ROSÉ, Bruno Mars - APT.                                                       |
 | [vqTkBDmqWeUXIIhuNE](blurls/vqTkBDmqWeUXIIhuNE.json) | ROSÉ, Bruno Mars - APT. (Instrumental)                                        |
 | [DiwuErMshFdmjeilsO](blurls/DiwuErMshFdmjeilsO.json) | ROSÉ, Bruno Mars - APT. (Preview)                                             |
@@ -1817,6 +1825,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [nAbWMRYIsEjbOepOTi](blurls/nAbWMRYIsEjbOepOTi.json) | Skee-Lo - I Wish (Instrumental)                                               |
 | [HsCGWpvjlDmYVUjxVa](blurls/HsCGWpvjlDmYVUjxVa.json) | Skee-Lo - I Wish (Preview)                                                    |
 | [PrAsvavlNqIgwsTQMJ](blurls/PrAsvavlNqIgwsTQMJ.json) | Skee-Lo - I Wish (Stereo Track)                                               |
+| [mAnNGmnIPBgRfERRPV](blurls/mAnNGmnIPBgRfERRPV.json) | Skrillex - Scary Monsters and Nice Sprites                                    |
+| [QLzAnVruLMhvBlMVAw](blurls/QLzAnVruLMhvBlMVAw.json) | Skrillex - Scary Monsters and Nice Sprites (Instrumental)                     |
+| [dWdaVnPsLGxqxKtGkr](blurls/dWdaVnPsLGxqxKtGkr.json) | Skrillex - Scary Monsters and Nice Sprites (Preview)                          |
+| [KFSQMWEqEkHRblXubM](blurls/KFSQMWEqEkHRblXubM.json) | Skrillex - Scary Monsters and Nice Sprites (Stereo Track)                     |
 | [kfJtzunZbmUEMTSzco](blurls/kfJtzunZbmUEMTSzco.json) | Sleepy Hallow - 2055                                                          |
 | [TnfEjwcvKlVYlynPzT](blurls/TnfEjwcvKlVYlynPzT.json) | Sleepy Hallow - 2055 (Instrumental)                                           |
 | [IoqavvXeOGZZHutvVm](blurls/IoqavvXeOGZZHutvVm.json) | Sleepy Hallow - 2055 (Preview)                                                |

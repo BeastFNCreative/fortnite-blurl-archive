@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [ogkDzZzCURNRRLPuEi](blurls/ogkDzZzCURNRRLPuEi.json) | Chapter 6 Season 4: Shock N' Awesome Animated Key Art |
 | [CrburAoOalGpWuhaoT](blurls/CrburAoOalGpWuhaoT.json) | Chapter 6 Season 4: Shock N' Awesome Hybrid Trailer |
 | [iGQdFAMyUkeRpUefma](blurls/iGQdFAMyUkeRpUefma.json) | Chapter 6 Season 4: Shock N' Awesome Teaser Trailer |
 | [cgVeANuJYmJOkvlZcN](blurls/cgVeANuJYmJOkvlZcN.json) | The Octane returns to BR (Background Vid) |
