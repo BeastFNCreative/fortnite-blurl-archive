@@ -345,6 +345,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [JKvhcyFjUTItpZROqk](blurls/JKvhcyFjUTItpZROqk.json) | Cypress Hill - Insane in the Brain (Instrumental)                             |
 | [orTszyfogenKFSDtyh](blurls/orTszyfogenKFSDtyh.json) | Cypress Hill - Insane in the Brain (Preview)                                  |
 | [esixLyRbCZtDdLRXvp](blurls/esixLyRbCZtDdLRXvp.json) | Cypress Hill - Insane in the Brain (Stereo Track)                             |
+| [nWuTAOYZliNeHItmQj](blurls/nWuTAOYZliNeHItmQj.json) | d4vd - Locked and Loaded                                                      |
+| [HCHKAIxCfjYckEMGQm](blurls/HCHKAIxCfjYckEMGQm.json) | d4vd - Locked and Loaded (Instrumental)                                       |
+| [XXzWjfnwFlkmnDZTNU](blurls/XXzWjfnwFlkmnDZTNU.json) | d4vd - Locked and Loaded (Preview)                                            |
+| [FmvrcGbWQQeIoFUKcg](blurls/FmvrcGbWQQeIoFUKcg.json) | d4vd - Locked and Loaded (Stereo Track)                                       |
 | [ilaWakIdenNgDICUUZ](blurls/ilaWakIdenNgDICUUZ.json) | d4vd - What Are You Waiting For                                               |
 | [SKkRSAgswzYKyNjkCO](blurls/SKkRSAgswzYKyNjkCO.json) | d4vd - What Are You Waiting For (Instrumental)                                |
 | [sQKOHOrYbukEFrYhtu](blurls/sQKOHOrYbukEFrYhtu.json) | d4vd - What Are You Waiting For (Preview)                                     |
@@ -511,6 +515,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [YVbJVKyVwEPDFzZNIt](blurls/YVbJVKyVwEPDFzZNIt.json) | Epic Games - Cherry Cordial (Instrumental)                                    |
 | [UhFjezUztYtyeMjtry](blurls/UhFjezUztYtyeMjtry.json) | Epic Games - Cherry Cordial (Preview)                                         |
 | [gRGAzVzJNmqybuFCrC](blurls/gRGAzVzJNmqybuFCrC.json) | Epic Games - Cherry Cordial (Stereo Track)                                    |
+| [LViBIhvPwGKXSyZfXk](blurls/LViBIhvPwGKXSyZfXk.json) | Epic Games - Chyld of Dawn                                                    |
+| [tuprIWMOPgvHIkSOhy](blurls/tuprIWMOPgvHIkSOhy.json) | Epic Games - Chyld of Dawn (Instrumental)                                     |
+| [WYDrTutPAuaARLWazn](blurls/WYDrTutPAuaARLWazn.json) | Epic Games - Chyld of Dawn (Preview)                                          |
+| [uwdOlpLCITvZjSvzfl](blurls/uwdOlpLCITvZjSvzfl.json) | Epic Games - Chyld of Dawn (Stereo Track)                                     |
+| [BAOEPcFBIXKealhvVN](blurls/BAOEPcFBIXKealhvVN.json) | Epic Games - Come Alive                                                       |
+| [wkLwWfhVGHVavkvfuU](blurls/wkLwWfhVGHVavkvfuU.json) | Epic Games - Come Alive (Instrumental)                                        |
+| [pTiXVQBBxdRPuPSdbb](blurls/pTiXVQBBxdRPuPSdbb.json) | Epic Games - Come Alive (Preview)                                             |
+| [AUzZepzrOSDfdGfqqb](blurls/AUzZepzrOSDfdGfqqb.json) | Epic Games - Come Alive (Stereo Track)                                        |
 | [JwOnVaymfotklSyZdv](blurls/JwOnVaymfotklSyZdv.json) | Epic Games - Crimson Barony                                                   |
 | [oFfSNDummQOUKnFMVb](blurls/oFfSNDummQOUKnFMVb.json) | Epic Games - Crimson Barony  (Instrumental)                                   |
 | [QdJPOfeqeNWbgODnjo](blurls/QdJPOfeqeNWbgODnjo.json) | Epic Games - Crimson Barony  (Preview)                                        |
@@ -531,6 +543,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [FJwvgSziWemFcERnfG](blurls/FJwvgSziWemFcERnfG.json) | Epic Games - Dreamer (Instrumental)                                           |
 | [uXyzxlhWHahCpVhomG](blurls/uXyzxlhWHahCpVhomG.json) | Epic Games - Dreamer (Preview)                                                |
 | [rsmpJpmfitpXHTkOgM](blurls/rsmpJpmfitpXHTkOgM.json) | Epic Games - Dreamer (Stereo Track)                                           |
+| [OlQWLUBGtUKWLRqCaE](blurls/OlQWLUBGtUKWLRqCaE.json) | Epic Games - End of the Earth                                                 |
+| [vawjpIArubzSbdJNKR](blurls/vawjpIArubzSbdJNKR.json) | Epic Games - End of the Earth (Instrumental)                                  |
+| [eNJPlgVvcbWKkPZJeo](blurls/eNJPlgVvcbWKkPZJeo.json) | Epic Games - End of the Earth (Preview)                                       |
+| [mIVLupYNUEhSNdMorY](blurls/mIVLupYNUEhSNdMorY.json) | Epic Games - End of the Earth (Stereo Track)                                  |
 | [reelRePfWVUMJpUNUr](blurls/reelRePfWVUMJpUNUr.json) | Epic Games - Everybody Falls (Chill Mix)                                      |
 | [rsXSSFxMXPLDVLmtQQ](blurls/rsXSSFxMXPLDVLmtQQ.json) | Epic Games - Everybody Falls (Chill Mix) (Instrumental)                       |
 | [hapqGYlqGsAIXLoAEe](blurls/hapqGYlqGsAIXLoAEe.json) | Epic Games - Everybody Falls (Chill Mix) (Preview)                            |
@@ -669,6 +685,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [iIumhRAmvOfobhSBwC](blurls/iIumhRAmvOfobhSBwC.json) | Epic Games - Pea Like Me (Instrumental)                                       |
 | [NmpEimoCXOVNkRwZqk](blurls/NmpEimoCXOVNkRwZqk.json) | Epic Games - Pea Like Me (Preview)                                            |
 | [QURzFaXuOmQkiSaHXA](blurls/QURzFaXuOmQkiSaHXA.json) | Epic Games - Pea Like Me (Stereo Track)                                       |
+| [TUapMDssysMFtvedEk](blurls/TUapMDssysMFtvedEk.json) | Epic Games - Pick It Up (Remix)                                               |
+| [EQCNatosDkQqkwIGcn](blurls/EQCNatosDkQqkwIGcn.json) | Epic Games - Pick It Up (Remix) (Instrumental)                                |
+| [scutPxpnEbQMQriDSv](blurls/scutPxpnEbQMQriDSv.json) | Epic Games - Pick It Up (Remix) (Preview)                                     |
+| [HnLrCIoVfCnkHSPReG](blurls/HnLrCIoVfCnkHSPReG.json) | Epic Games - Pick It Up (Remix) (Stereo Track)                                |
 | [xPekeINTciUVooITmh](blurls/xPekeINTciUVooITmh.json) | Epic Games - Return of the Tiger                                              |
 | [bdLhyLonrwKDqbFCMw](blurls/bdLhyLonrwKDqbFCMw.json) | Epic Games - Return of the Tiger (Instrumental)                               |
 | [BbuukWlBviFgHgjeXS](blurls/BbuukWlBviFgHgjeXS.json) | Epic Games - Return of the Tiger (Preview)                                    |
@@ -903,10 +923,22 @@ Jam Track Audio Data from Fortnite Festival.
 | [XDfCiyhNsPLfApDDUU](blurls/XDfCiyhNsPLfApDDUU.json) | Glass Animals - Heat Waves (v2) (Instrumental)                                |
 | [iXvdhpzYyAfqnuWtLC](blurls/iXvdhpzYyAfqnuWtLC.json) | Glass Animals - Heat Waves (v2) (Preview)                                     |
 | [NbTIQCdnvaTUHiDRCK](blurls/NbTIQCdnvaTUHiDRCK.json) | Glass Animals - Heat Waves (v2) (Stereo Track)                                |
+| [IPfwIiKNtLaUvOpvzE](blurls/IPfwIiKNtLaUvOpvzE.json) | Gorillaz - Clint Eastwood                                                     |
+| [ruKMNDLYozBFmcFGLJ](blurls/ruKMNDLYozBFmcFGLJ.json) | Gorillaz - Clint Eastwood (Instrumental)                                      |
+| [AuOZUiTVYtUQbRwswp](blurls/AuOZUiTVYtUQbRwswp.json) | Gorillaz - Clint Eastwood (Preview)                                           |
+| [AjhTDEWnfpdYElcpyv](blurls/AjhTDEWnfpdYElcpyv.json) | Gorillaz - Clint Eastwood (Stereo Track)                                      |
 | [VMhOLCOVOFDKhlUeac](blurls/VMhOLCOVOFDKhlUeac.json) | Gorillaz - Feel Good Inc                                                      |
 | [LubLTwRjQmNaWoOBbU](blurls/LubLTwRjQmNaWoOBbU.json) | Gorillaz - Feel Good Inc (Instrumental)                                       |
 | [pIVFAyffMjxKfdCivx](blurls/pIVFAyffMjxKfdCivx.json) | Gorillaz - Feel Good Inc (Preview)                                            |
 | [AEevbUdRFyBqMKIwTs](blurls/AEevbUdRFyBqMKIwTs.json) | Gorillaz - Feel Good Inc (Stereo Track)                                       |
+| [vUfJbQhAjpGbPEjDyf](blurls/vUfJbQhAjpGbPEjDyf.json) | Gorillaz - On Melancholy Hill                                                 |
+| [ddbyWVvTIeNabvUSAl](blurls/ddbyWVvTIeNabvUSAl.json) | Gorillaz - On Melancholy Hill (Instrumental)                                  |
+| [LvtAgqkcLfQWDRCTTd](blurls/LvtAgqkcLfQWDRCTTd.json) | Gorillaz - On Melancholy Hill (Preview)                                       |
+| [BpEzKFMZuuCxDPEiIg](blurls/BpEzKFMZuuCxDPEiIg.json) | Gorillaz - On Melancholy Hill (Stereo Track)                                  |
+| [GEVAByVdtKACWHUaOx](blurls/GEVAByVdtKACWHUaOx.json) | Gorillaz ft. Shaun Ryder & Roses Gabor - DARE                                 |
+| [PcHUMMdipcvHcwhyxD](blurls/PcHUMMdipcvHcwhyxD.json) | Gorillaz ft. Shaun Ryder & Roses Gabor - DARE (Instrumental)                  |
+| [RzFrolyIuIsTXmNLgV](blurls/RzFrolyIuIsTXmNLgV.json) | Gorillaz ft. Shaun Ryder & Roses Gabor - DARE (Preview)                       |
+| [UQoGdxXxMpGPYVwPjN](blurls/UQoGdxXxMpGPYVwPjN.json) | Gorillaz ft. Shaun Ryder & Roses Gabor - DARE (Stereo Track)                  |
 | [cJvGYbEXmjRgSBLZEG](blurls/cJvGYbEXmjRgSBLZEG.json) | Gotye ft. Kimbra - Somebody That I Used To Know                               |
 | [CEnAcfOmgFcmXwoDom](blurls/CEnAcfOmgFcmXwoDom.json) | Gotye ft. Kimbra - Somebody That I Used To Know (Instrumental)                |
 | [RKRYHWtBwhgBwLoueA](blurls/RKRYHWtBwhgBwLoueA.json) | Gotye ft. Kimbra - Somebody That I Used To Know (Preview)                     |
@@ -959,6 +991,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [RgvKQTXDWTNKjYtDTE](blurls/RgvKQTXDWTNKjYtDTE.json) | Haddaway - What Is Love (Instrumental)                                        |
 | [UZepUKAXBQJAEDSchu](blurls/UZepUKAXBQJAEDSchu.json) | Haddaway - What Is Love (Preview)                                             |
 | [bpswYfJGLNZEjdxclk](blurls/bpswYfJGLNZEjdxclk.json) | Haddaway - What Is Love (Stereo Track)                                        |
+| [GaWLDcemxwGcTWxhow](blurls/GaWLDcemxwGcTWxhow.json) | Hanumankind - Run It Up                                                       |
+| [NuyyYcqQHEHxKXvpRM](blurls/NuyyYcqQHEHxKXvpRM.json) | Hanumankind - Run It Up (Instrumental)                                        |
+| [EPimcgPqQqErSnOOxE](blurls/EPimcgPqQqErSnOOxE.json) | Hanumankind - Run It Up (Preview)                                             |
+| [PrPjOuhdUwmwtSRBGY](blurls/PrPjOuhdUwmwtSRBGY.json) | Hanumankind - Run It Up (Stereo Track)                                        |
+| [GvGHHyuXAeNJRnynNZ](blurls/GvGHHyuXAeNJRnynNZ.json) | Hanumankind ft. Kalmi - Big Dawgs                                             |
+| [MVHItKowMPNkRVYxTW](blurls/MVHItKowMPNkRVYxTW.json) | Hanumankind ft. Kalmi - Big Dawgs (Instrumental)                              |
+| [XQOmLvaxwZOVSeeOYC](blurls/XQOmLvaxwZOVSeeOYC.json) | Hanumankind ft. Kalmi - Big Dawgs (Preview)                                   |
+| [AkKVjkmiRSlRyHSFRP](blurls/AkKVjkmiRSlRyHSFRP.json) | Hanumankind ft. Kalmi - Big Dawgs (Stereo Track)                              |
 | [ZYZjHisfyyGZcmaFTs](blurls/ZYZjHisfyyGZcmaFTs.json) | Hozier - Too Sweet                                                            |
 | [mkzpzDAdZHUWFMmLDZ](blurls/mkzpzDAdZHUWFMmLDZ.json) | Hozier - Too Sweet (Instrumental)                                             |
 | [rZObpKxOjuQPIRoqWz](blurls/rZObpKxOjuQPIRoqWz.json) | Hozier - Too Sweet (Preview)                                                  |
@@ -1122,6 +1162,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [IaLtRjFeMZYZYktwxu](blurls/IaLtRjFeMZYZYktwxu.json) | Jung Kook, Latto - Seven (Instrumental)                                       |
 | [xbZglSLdFjmqNSvplG](blurls/xbZglSLdFjmqNSvplG.json) | Jung Kook, Latto - Seven (Preview)                                            |
 | [mpRRKJCwfqSjMwXEtD](blurls/mpRRKJCwfqSjMwXEtD.json) | Jung Kook, Latto - Seven (Stereo Track)                                       |
+| [GmJXaOpKlgdRuYMqqj](blurls/GmJXaOpKlgdRuYMqqj.json) | Junior Senior - Move Your Feet                                                |
+| [cwchDKwDCIpjyoXTzX](blurls/cwchDKwDCIpjyoXTzX.json) | Junior Senior - Move Your Feet (Instrumental)                                 |
+| [OPZunlxXzHwBxUiFQn](blurls/OPZunlxXzHwBxUiFQn.json) | Junior Senior - Move Your Feet (Preview)                                      |
+| [bEVgfiLYpucMMEBnGe](blurls/bEVgfiLYpucMMEBnGe.json) | Junior Senior - Move Your Feet (Stereo Track)                                 |
 | [fIonXqXxmMPaBsWqjq](blurls/fIonXqXxmMPaBsWqjq.json) | Justin Bieber - Ghost                                                         |
 | [MiHyDkMcTzMnTdbtqL](blurls/MiHyDkMcTzMnTdbtqL.json) | Justin Bieber - Ghost (Instrumental)                                          |
 | [KQqCAfZeSCtZEIrfsr](blurls/KQqCAfZeSCtZEIrfsr.json) | Justin Bieber - Ghost (Preview)                                               |
@@ -1465,6 +1509,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [LpfuQelxWPQTWzPeiU](blurls/LpfuQelxWPQTWzPeiU.json) | Mustard ft. Roddy Ricch - Ballin' (Instrumental)                              |
 | [IEEVDHrgevnwVPfuVJ](blurls/IEEVDHrgevnwVPfuVJ.json) | Mustard ft. Roddy Ricch - Ballin' (Preview)                                   |
 | [bKfDwsWFzBAUpnUFNu](blurls/bKfDwsWFzBAUpnUFNu.json) | Mustard ft. Roddy Ricch - Ballin' (Stereo Track)                              |
+| [boolkcGCDYaAyxdBJq](blurls/boolkcGCDYaAyxdBJq.json) | MXZI - Montagem Tomada (Slowed)                                               |
+| [voBaAJFYEmozNBJDtv](blurls/voBaAJFYEmozNBJDtv.json) | MXZI - Montagem Tomada (Slowed) (Instrumental)                                |
+| [szgrbsPrkZltFIwhJC](blurls/szgrbsPrkZltFIwhJC.json) | MXZI - Montagem Tomada (Slowed) (Preview)                                     |
+| [QYwgIZcFerzAgMWpLW](blurls/QYwgIZcFerzAgMWpLW.json) | MXZI - Montagem Tomada (Slowed) (Stereo Track)                                |
 | [KffdXyVKeDSASheTlZ](blurls/KffdXyVKeDSASheTlZ.json) | My Chemical Romance - I'm Not Okay (I Promise)                                |
 | [cWxjrlHaIcLgkiNtaB](blurls/cWxjrlHaIcLgkiNtaB.json) | My Chemical Romance - I'm Not Okay (I Promise) (Preview)                      |
 | [GiJjujeTKvbZkXohPQ](blurls/GiJjujeTKvbZkXohPQ.json) | My Chemical Romance - I'm Not Okay (I Promise) (Instrumental)                 |
@@ -1869,6 +1917,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [rLTLbfJWOrzSrqbtLW](blurls/rLTLbfJWOrzSrqbtLW.json) | Soundgarden - Fell On Black Days (Instrumental)                               |
 | [bIqSTBpNUncZxtLCFM](blurls/bIqSTBpNUncZxtLCFM.json) | Soundgarden - Fell On Black Days (Preview)                                    |
 | [qHdWjHRcccEtfCpMXv](blurls/qHdWjHRcccEtfCpMXv.json) | Soundgarden - Fell On Black Days (Stereo Track)                               |
+| [NrDJmHLuuwhSsdwmUr](blurls/NrDJmHLuuwhSsdwmUr.json) | Stone Temple Pilots - Interstate Love Song                                    |
+| [hlJUstzlEvaoauRwtv](blurls/hlJUstzlEvaoauRwtv.json) | Stone Temple Pilots - Interstate Love Song (Preview)                          |
+| [hzHLWeOQXPjzOepVYc](blurls/hzHLWeOQXPjzOepVYc.json) | Stone Temple Pilots - Interstate Love Song (Stereo Track)                     |
 | [QXKPSFvMysPqegENXn](blurls/QXKPSFvMysPqegENXn.json) | Sub Urban - Cradles                                                           |
 | [oASdAWPtyrvxoWzhMj](blurls/oASdAWPtyrvxoWzhMj.json) | Sub Urban - Cradles (Instrumental)                                            |
 | [mAMYWlxEUGkmpOLOlW](blurls/mAMYWlxEUGkmpOLOlW.json) | Sub Urban - Cradles (Preview)                                                 |

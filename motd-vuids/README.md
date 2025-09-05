@@ -10,6 +10,9 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [IazYxEOuGasQgnARCJ](blurls/IazYxEOuGasQgnARCJ.json) | d4vd - Locked & Loaded (Official Fortnite Anthem) Full Music Video |
+| [NTtNuZOPibFVmrALzC](blurls/NTtNuZOPibFVmrALzC.json) | Squid Games The Frontman Promo |
+| [BIdqOcAKNHjOeyIaSr](blurls/BIdqOcAKNHjOeyIaSr.json) | Fortnite Festival Season 10: Gorillaz Trailer |
 | [ogkDzZzCURNRRLPuEi](blurls/ogkDzZzCURNRRLPuEi.json) | Chapter 6 Season 4: Shock N' Awesome Animated Key Art |
 | [CrburAoOalGpWuhaoT](blurls/CrburAoOalGpWuhaoT.json) | Chapter 6 Season 4: Shock N' Awesome Hybrid Trailer |
 | [iGQdFAMyUkeRpUefma](blurls/iGQdFAMyUkeRpUefma.json) | Chapter 6 Season 4: Shock N' Awesome Teaser Trailer |
