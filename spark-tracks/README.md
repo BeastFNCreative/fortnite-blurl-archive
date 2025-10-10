@@ -133,6 +133,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [UJjhMBNkHkhXzUppEg](blurls/UJjhMBNkHkhXzUppEg.json) | B.o.B. ft. Hayley Williams - Airplanes (Instrumental)                         |
 | [SPgEYuZImYtDjGrWXW](blurls/SPgEYuZImYtDjGrWXW.json) | B.o.B. ft. Hayley Williams - Airplanes (Preview)                              |
 | [AAPTPSlqLcaQVBXeXi](blurls/AAPTPSlqLcaQVBXeXi.json) | B.o.B. ft. Hayley Williams - Airplanes (Stereo Track)                         |
+| [SJzToUjeozxfEVDQEM](blurls/SJzToUjeozxfEVDQEM.json) | BABYMETAL - Gimme Chocolate!!                                                 |
+| [lgteUdFFshqyIqlYGA](blurls/lgteUdFFshqyIqlYGA.json) | BABYMETAL - Gimme Chocolate!! (Instrumental)                                  |
+| [bUhQUXxsRQByvavGAN](blurls/bUhQUXxsRQByvavGAN.json) | BABYMETAL - Gimme Chocolate!! (Preview)                                       |
+| [aVpqQLogSbkAgMHYMz](blurls/aVpqQLogSbkAgMHYMz.json) | BABYMETAL - Gimme Chocolate!! (Stereo Track)                                  |
+| [neBjZkmuYDxKZqPeJw](blurls/neBjZkmuYDxKZqPeJw.json) | BABYMETAL ft. Poppy - from me to u                                            |
+| [CBeHUWOCiaGcLcUNoE](blurls/CBeHUWOCiaGcLcUNoE.json) | BABYMETAL ft. Poppy - from me to u (Instrumental)                             |
+| [BicMUnyREbUrsGyOja](blurls/BicMUnyREbUrsGyOja.json) | BABYMETAL ft. Poppy - from me to u (Preview)                                  |
+| [nBUYmkOOdfaZaUWqpg](blurls/nBUYmkOOdfaZaUWqpg.json) | BABYMETAL ft. Poppy - from me to u (Stereo Track)                             |
 | [VXXvgVrhzjVcZKWojD](blurls/VXXvgVrhzjVcZKWojD.json) | back number - Takaneno Hanakosan                                              |
 | [ieQDtAabPIvcnQfucM](blurls/ieQDtAabPIvcnQfucM.json) | back number - Takaneno Hanakosan (Instrumental)                               |
 | [oIWwbiOIDVqOZfzjnl](blurls/oIWwbiOIDVqOZfzjnl.json) | back number - Takaneno Hanakosan (Preview)                                    |
@@ -325,6 +333,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [uWklWfGaXpKiQMYBBR](blurls/uWklWfGaXpKiQMYBBR.json) | Charli xcx - Apple (Instrumental)                                             |
 | [OpJdqLQwZAzDQBQduA](blurls/OpJdqLQwZAzDQBQduA.json) | Charli xcx - Apple (Preview)                                                  |
 | [zKoBJLNWXtvVZauKuh](blurls/zKoBJLNWXtvVZauKuh.json) | Charli xcx - Apple (Stereo Track)                                             |
+| [SkTArCpPjtWYInelGz](blurls/SkTArCpPjtWYInelGz.json) | Charlie Brown Jr. - Proibida Pra Mim (Grazon)                                 |
+| [XCKucfVRVBATTzMAuu](blurls/XCKucfVRVBATTzMAuu.json) | Charlie Brown Jr. - Proibida Pra Mim (Grazon) (Instrumental)                  |
+| [TAwbgOxNBUCHGgdMRH](blurls/TAwbgOxNBUCHGgdMRH.json) | Charlie Brown Jr. - Proibida Pra Mim (Grazon) (Preview)                       |
+| [EDbTtqGLaLzkcklhVt](blurls/EDbTtqGLaLzkcklhVt.json) | Charlie Brown Jr. - Proibida Pra Mim (Grazon) (Stereo Track)                  |
 | [OEiTSmmKUgLMsNIUPe](blurls/OEiTSmmKUgLMsNIUPe.json) | Christina Aguilera - Fighter                                                  |
 | [EgVnhltaUcRebwaZnz](blurls/EgVnhltaUcRebwaZnz.json) | Christina Aguilera - Fighter (Instrumental)                                   |
 | [ryJcuKzZySzWvUqbPt](blurls/ryJcuKzZySzWvUqbPt.json) | Christina Aguilera - Fighter (Preview)                                        |
@@ -357,6 +369,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [omezdoQkFwtIsMcnOE](blurls/omezdoQkFwtIsMcnOE.json) | Daddy Yankee - Gasolina (Instrumental)                                        |
 | [UuxLiejgLQShfFHPZa](blurls/UuxLiejgLQShfFHPZa.json) | Daddy Yankee - Gasolina (Preview)                                             |
 | [OKKdsvZMZXDGHcShoE](blurls/OKKdsvZMZXDGHcShoE.json) | Daddy Yankee - Gasolina (Stereo Track)                                        |
+| [taJrXxfqbBeNSxEhFl](blurls/taJrXxfqbBeNSxEhFl.json) | Daft Punk ft. Julian Casablancas - Instant Crush                              |
+| [mjHKzArnCskoIqkUwa](blurls/mjHKzArnCskoIqkUwa.json) | Daft Punk ft. Julian Casablancas - Instant Crush (Instrumental)               |
+| [yumciyLNoqHtzWpRlD](blurls/yumciyLNoqHtzWpRlD.json) | Daft Punk ft. Julian Casablancas - Instant Crush (Preview)                    |
+| [ZCUtCcedAwhpzkHtUD](blurls/ZCUtCcedAwhpzkHtUD.json) | Daft Punk ft. Julian Casablancas - Instant Crush (Stereo Track)               |
+| [uZlhSqBVnJPZdIbiuF](blurls/uZlhSqBVnJPZdIbiuF.json) | Daft Punk ft. Pharrell Williams and Nile Rodgers - Get Lucky                  |
+| [aZBUepymqJvqONrZin](blurls/aZBUepymqJvqONrZin.json) | Daft Punk ft. Pharrell Williams and Nile Rodgers - Get Lucky (Instrumental)   |
+| [TIQQjCFTjfKvPHEXTG](blurls/TIQQjCFTjfKvPHEXTG.json) | Daft Punk ft. Pharrell Williams and Nile Rodgers - Get Lucky (Preview)        |
+| [HIdWneVbHcnilfKpyT](blurls/HIdWneVbHcnilfKpyT.json) | Daft Punk ft. Pharrell Williams and Nile Rodgers - Get Lucky (Stereo Track)   |
 | [YWSZWKXdPcJdCgXheg](blurls/YWSZWKXdPcJdCgXheg.json) | Darude - Sandstorm                                                            |
 | [WixdzaEYcZFljoeibH](blurls/WixdzaEYcZFljoeibH.json) | Darude - Sandstorm (Instrumental)                                             |
 | [fFiWFfKnAjyjncUHLI](blurls/fFiWFfKnAjyjncUHLI.json) | Darude - Sandstorm (Preview)                                                  |
@@ -417,6 +437,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [LbdDcKZwqSceMQMSLK](blurls/LbdDcKZwqSceMQMSLK.json) | DNCE - Cake By The Ocean (Instrumental)                                       |
 | [VrvUmHEqRmGKpFVSrr](blurls/VrvUmHEqRmGKpFVSrr.json) | DNCE - Cake By The Ocean (Preview)                                            |
 | [TTDWFKFArWWdjXpRpp](blurls/TTDWFKFArWWdjXpRpp.json) | DNCE - Cake By The Ocean (Stereo Track)                                       |
+| [ibBjpomQmPJeqFntmo](blurls/ibBjpomQmPJeqFntmo.json) | Doja Cat - AAAHH MEN!                                                         |
+| [ahgmuvTpYQBeWLHusW](blurls/ahgmuvTpYQBeWLHusW.json) | Doja Cat - AAAHH MEN! (Instrumental)                                          |
+| [wQWMHBIJlnqWqWwUPL](blurls/wQWMHBIJlnqWqWwUPL.json) | Doja Cat - AAAHH MEN! (Preview)                                               |
+| [kvxZpHhrBEPelIBDkF](blurls/kvxZpHhrBEPelIBDkF.json) | Doja Cat - AAAHH MEN! (Stereo Track)                                          |
+| [ZnHrWxIwjNYVeazPUy](blurls/ZnHrWxIwjNYVeazPUy.json) | Doja Cat - Gorgeous                                                           |
+| [cGWTrboTMRWxaelaIe](blurls/cGWTrboTMRWxaelaIe.json) | Doja Cat - Gorgeous (Instrumental)                                            |
+| [RTsFKfQTyTDJGVeVbc](blurls/RTsFKfQTyTDJGVeVbc.json) | Doja Cat - Gorgeous (Preview)                                                 |
+| [bZWYcrrFypqkWNItfT](blurls/bZWYcrrFypqkWNItfT.json) | Doja Cat - Gorgeous (Stereo Track)                                            |
 | [bJnPPhbFIFsvMPDfdT](blurls/bJnPPhbFIFsvMPDfdT.json) | Doja Cat - Paint The Town Red                                                 |
 | [cHYMGJTcEEFxKHMHGq](blurls/cHYMGJTcEEFxKHMHGq.json) | Doja Cat - Paint The Town Red (Instrumental)                                  |
 | [POCoJqLZXiWhYTEMuU](blurls/POCoJqLZXiWhYTEMuU.json) | Doja Cat - Paint The Town Red (Preview)                                       |
@@ -433,6 +461,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [bWSBsBRRHbKccueycf](blurls/bWSBsBRRHbKccueycf.json) | Doja Cat ft. SZA - Kiss Me More (Instrumental)                                |
 | [aFsJFbGuxihIUHcETd](blurls/aFsJFbGuxihIUHcETd.json) | Doja Cat ft. SZA - Kiss Me More (Preview)                                     |
 | [UUNWUjvJnbmwsPQdni](blurls/UUNWUjvJnbmwsPQdni.json) | Doja Cat ft. SZA - Kiss Me More (Stereo Track)                                |
+| [twwDAnuKLGISVEFTfl](blurls/twwDAnuKLGISVEFTfl.json) | Doja Cat ft. SZA - Kiss Me More (v2)                                          |
+| [fIqmSYkHggsNJARXvG](blurls/fIqmSYkHggsNJARXvG.json) | Doja Cat ft. SZA - Kiss Me More (Instrumental) (v2)                           |
+| [geHQbwWhXUnNvMiydN](blurls/geHQbwWhXUnNvMiydN.json) | Doja Cat ft. SZA - Kiss Me More (Preview) (v2)                                |
+| [BvEFVHTqdXeoZJabZQ](blurls/BvEFVHTqdXeoZJabZQ.json) | Doja Cat ft. SZA - Kiss Me More (Stereo Track) (v2)                           |
 | [bvOFCPuFQkBFCrTTMD](blurls/bvOFCPuFQkBFCrTTMD.json) | Don Toliver - Bandit                                                          |
 | [lMXlTYfYNFPQLmCXro](blurls/lMXlTYfYNFPQLmCXro.json) | Don Toliver - Bandit (Instrumental)                                           |
 | [NPFfzRorFmayRVbTwL](blurls/NPFfzRorFmayRVbTwL.json) | Don Toliver - Bandit (Preview)                                                |
@@ -445,6 +477,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [CmABtvRvyzApaVxUhs](blurls/CmABtvRvyzApaVxUhs.json) | DRAM ft. Lil Yachty - Broccoli (Instrumental)                                 |
 | [EwShCuWGHHGqjphHKK](blurls/EwShCuWGHHGqjphHKK.json) | DRAM ft. Lil Yachty - Broccoli (Preview)                                      |
 | [YKOUBEMDVIFYEYCNzQ](blurls/YKOUBEMDVIFYEYCNzQ.json) | DRAM ft. Lil Yachty - Broccoli (Stereo Track)                                 |
+| [viSbcUYebgfagPcEWR](blurls/viSbcUYebgfagPcEWR.json) | DUKI - GIVENCHY                                                               |
+| [ESYouxRCSGMNkXWZuN](blurls/ESYouxRCSGMNkXWZuN.json) | DUKI - GIVENCHY (Instrumental)                                                |
+| [MQntiYePaXKMajfnfk](blurls/MQntiYePaXKMajfnfk.json) | DUKI - GIVENCHY (Preview)                                                     |
+| [ahhHucDzqPxnBtWOgT](blurls/ahhHucDzqPxnBtWOgT.json) | DUKI - GIVENCHY (Stereo Track)                                                |
 | [uRUhjCbpxxQMOvaFzz](blurls/uRUhjCbpxxQMOvaFzz.json) | Earth, Wind & Fire - September                                                |
 | [AHqudrmZIALAFWQDVU](blurls/AHqudrmZIALAFWQDVU.json) | Earth, Wind & Fire - September (Instrumental)                                 |
 | [laVTzGmdQvIIJzrtaG](blurls/laVTzGmdQvIIJzrtaG.json) | Earth, Wind & Fire - September (Preview)                                      |
@@ -453,6 +489,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [GLmBvmmIXtvSrIEwpf](blurls/GLmBvmmIXtvSrIEwpf.json) | Ed Sheeran - Shivers (Instrumental)                                           |
 | [DPArzxivXSQMGpUAKl](blurls/DPArzxivXSQMGpUAKl.json) | Ed Sheeran - Shivers (Preview)                                                |
 | [yENvmhLuQlSVkkPoQR](blurls/yENvmhLuQlSVkkPoQR.json) | Ed Sheeran - Shivers (Stereo Track)                                           |
+| [KmJTAwlHlOkGZIpAap](blurls/KmJTAwlHlOkGZIpAap.json) | Elton John - Rocket Man                                                       |
+| [voAiQvqRTUBDSFQOpg](blurls/voAiQvqRTUBDSFQOpg.json) | Elton John - Rocket Man (Instrumental)                                        |
+| [olMuTKiiDuIafccgXv](blurls/olMuTKiiDuIafccgXv.json) | Elton John - Rocket Man (Preview)                                             |
+| [uZJEpcydLKWBMrVLaG](blurls/uZJEpcydLKWBMrVLaG.json) | Elton John - Rocket Man (Stereo Track)                                        |
 | [rFVnhHkGeIWkYTeMef](blurls/rFVnhHkGeIWkYTeMef.json) | Elton John & Britney Spears - Hold Me Closer                                  |
 | [MrUsyVtNzaaxYhwaFM](blurls/MrUsyVtNzaaxYhwaFM.json) | Elton John & Britney Spears - Hold Me Closer (Instrumental)                   |
 | [AACFRxoSQmUrLrsJro](blurls/AACFRxoSQmUrLrsJro.json) | Elton John & Britney Spears - Hold Me Closer (Preview)                        |
@@ -543,6 +583,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [FJwvgSziWemFcERnfG](blurls/FJwvgSziWemFcERnfG.json) | Epic Games - Dreamer (Instrumental)                                           |
 | [uXyzxlhWHahCpVhomG](blurls/uXyzxlhWHahCpVhomG.json) | Epic Games - Dreamer (Preview)                                                |
 | [rsmpJpmfitpXHTkOgM](blurls/rsmpJpmfitpXHTkOgM.json) | Epic Games - Dreamer (Stereo Track)                                           |
+| [IxeLirtbDxhluWUISQ](blurls/IxeLirtbDxhluWUISQ.json) | Epic Games - El Paletero                                                      |
+| [xUfCDnuJdUIsZiLooA](blurls/xUfCDnuJdUIsZiLooA.json) | Epic Games - El Paletero (Instrumental)                                       |
+| [qSbTyGraKgLKZosYgi](blurls/qSbTyGraKgLKZosYgi.json) | Epic Games - El Paletero (Preview)                                            |
+| [LfTMdWMzqnQyuqgmNi](blurls/LfTMdWMzqnQyuqgmNi.json) | Epic Games - El Paletero (Stereo Track)                                       |
 | [OlQWLUBGtUKWLRqCaE](blurls/OlQWLUBGtUKWLRqCaE.json) | Epic Games - End of the Earth                                                 |
 | [vawjpIArubzSbdJNKR](blurls/vawjpIArubzSbdJNKR.json) | Epic Games - End of the Earth (Instrumental)                                  |
 | [eNJPlgVvcbWKkPZJeo](blurls/eNJPlgVvcbWKkPZJeo.json) | Epic Games - End of the Earth (Preview)                                       |
@@ -579,6 +623,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [ayzsofmqrTSQNhkakI](blurls/ayzsofmqrTSQNhkakI.json) | Epic Games - For O.X.R.! (Instrumental)                                       |
 | [TJUuCWUELoPefXQIZn](blurls/TJUuCWUELoPefXQIZn.json) | Epic Games - For O.X.R.! (Preview)                                            |
 | [aVbpxKXKmOimiOWjfs](blurls/aVbpxKXKmOimiOWjfs.json) | Epic Games - For O.X.R.! (Stereo Track)                                       |
+| [pxppsPqWxuRrJlHAtM](blurls/pxppsPqWxuRrJlHAtM.json) | Epic Games - Friendly Fire                                                    |
+| [bdIkmIukEDQBgwujrC](blurls/bdIkmIukEDQBgwujrC.json) | Epic Games - Friendly Fire (Instrumental)                                     |
+| [VTYbAEifeZtrLsAZkw](blurls/VTYbAEifeZtrLsAZkw.json) | Epic Games - Friendly Fire (Preview)                                          |
+| [jyigURSJUGEGYYFVqN](blurls/jyigURSJUGEGYYFVqN.json) | Epic Games - Friendly Fire (Stereo Track)                                     |
 | [wPKsremuldllEHfNEY](blurls/wPKsremuldllEHfNEY.json) | Epic Games - Gwenpool's Multiverse                                            |
 | [igOMaaJFuovSZHDiTw](blurls/igOMaaJFuovSZHDiTw.json) | Epic Games - Gwenpool's Multiverse (Instrumental)                             |
 | [MLCorqMCJJjQeZNdJo](blurls/MLCorqMCJJjQeZNdJo.json) | Epic Games - Gwenpool's Multiverse (Preview)                                  |
@@ -673,6 +721,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [CxfTAkJDFDRENYtuqb](blurls/CxfTAkJDFDRENYtuqb.json) | Epic Games - OG (Future Remix) (Instrumental)                                 |
 | [ummqUqCSFUWeQfzTvs](blurls/ummqUqCSFUWeQfzTvs.json) | Epic Games - OG (Future Remix) (Preview)                                      |
 | [qZtBsKIqIENuraJONq](blurls/qZtBsKIqIENuraJONq.json) | Epic Games - OG (Future Remix) (Stereo Track)                                 |
+| [tmUDQOSUctbfONlaTr](blurls/tmUDQOSUctbfONlaTr.json) | Epic Games - On and On (Remix)                                                |
+| [zaYUDKOSPINJmaSzFd](blurls/zaYUDKOSPINJmaSzFd.json) | Epic Games - On and On (Remix) (Instrumental)                                 |
+| [MbRzJswWDDkdjCpoWv](blurls/MbRzJswWDDkdjCpoWv.json) | Epic Games - On and On (Remix) (Preview)                                      |
+| [xuKCAaNRTQjpiLmvXs](blurls/xuKCAaNRTQjpiLmvXs.json) | Epic Games - On and On (Remix) (Stereo Track)                                 |
 | [wrebppzwHiFJbopmoo](blurls/wrebppzwHiFJbopmoo.json) | Epic Games - Orbital Overload                                                 |
 | [NutscnLCBpnqdzNmEE](blurls/NutscnLCBpnqdzNmEE.json) | Epic Games - Orbital Overload (Instrumental)                                  |
 | [DqpBcakapXwqQwhige](blurls/DqpBcakapXwqQwhige.json) | Epic Games - Orbital Overload (Preview)                                       |
@@ -693,6 +745,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [bdLhyLonrwKDqbFCMw](blurls/bdLhyLonrwKDqbFCMw.json) | Epic Games - Return of the Tiger (Instrumental)                               |
 | [BbuukWlBviFgHgjeXS](blurls/BbuukWlBviFgHgjeXS.json) | Epic Games - Return of the Tiger (Preview)                                    |
 | [UcDLoFnqSFcYNNxfXO](blurls/UcDLoFnqSFcYNNxfXO.json) | Epic Games - Return of the Tiger (Stereo Track)                               |
+| [FlMiwURvoPyQirdEpM](blurls/FlMiwURvoPyQirdEpM.json) | Epic Games - Ride                                                             |
+| [TVAnzomvIPsxucTDcA](blurls/TVAnzomvIPsxucTDcA.json) | Epic Games - Ride (Instrumental)                                              |
+| [jheBTzvdzPOQueOtyL](blurls/jheBTzvdzPOQueOtyL.json) | Epic Games - Ride (Preview)                                                   |
+| [sJwUjIrwBtdzzhzeAq](blurls/sJwUjIrwBtdzzhzeAq.json) | Epic Games - Ride (Stereo Track)                                              |
 | [hwrgbMGArHSkLSwbDw](blurls/hwrgbMGArHSkLSwbDw.json) | Epic Games - Run It                                                           |
 | [ZsKUhFRKmMBezZKMwJ](blurls/ZsKUhFRKmMBezZKMwJ.json) | Epic Games - Run It (Instrumental)                                            |
 | [vCsBrGbbqpbvGkiKjq](blurls/vCsBrGbbqpbvGkiKjq.json) | Epic Games - Run It (Preview)                                                 |
@@ -861,6 +917,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [DmOPirabphXKrqJQxK](blurls/DmOPirabphXKrqJQxK.json) | Fall Out Boy - Centuries (Instrumental)                                       |
 | [NtmjGKweZFSBUSejsJ](blurls/NtmjGKweZFSBUSejsJ.json) | Fall Out Boy - Centuries (Preview)                                            |
 | [KZRRvzMhXrGTkAPTMG](blurls/KZRRvzMhXrGTkAPTMG.json) | Fall Out Boy - Centuries (Stereo Track)                                       |
+| [hwrBZuDrihSLeSsvau](blurls/hwrBZuDrihSLeSsvau.json) | Fall Out Boy - Champion                                                       |
+| [QcnXCkyxJqxJfvQvLD](blurls/QcnXCkyxJqxJfvQvLD.json) | Fall Out Boy - Champion (Instrumental)                                        |
+| [XsrRjzRCtMHicjqFqh](blurls/XsrRjzRCtMHicjqFqh.json) | Fall Out Boy - Champion (Preview)                                             |
+| [IzxgshzpqsfxnRHTrH](blurls/IzxgshzpqsfxnRHTrH.json) | Fall Out Boy - Champion (Stereo Track)                                        |
 | [FEeVYNTEBnLAzfDdLJ](blurls/FEeVYNTEBnLAzfDdLJ.json) | Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up)           |
 | [yzTpyTLUNfoPfZDNur](blurls/yzTpyTLUNfoPfZDNur.json) | Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up) (Instrumental) |
 | [GDBzQCdOUJEpXwEqql](blurls/GDBzQCdOUJEpXwEqql.json) | Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up) (Preview) |
@@ -890,7 +950,9 @@ Jam Track Audio Data from Fortnite Festival.
 | [JTQbXPVWIIZsXnCLdR](blurls/JTQbXPVWIIZsXnCLdR.json) | Flo Rida, Kesha - Right Round (Stereo Track)                                  |
 | [NDlUSLHGLxJUcnKHRN](blurls/NDlUSLHGLxJUcnKHRN.json) | Flock No B - Flock No Pilgrim                                                 |
 | [mWjTugiKTqwMWrrGbw](blurls/mWjTugiKTqwMWrrGbw.json) | Florence + The Machine - Dog Days Are Over                                    |
+| [gATGBdPGWslDGlYfse](blurls/gATGBdPGWslDGlYfse.json) | Florence + The Machine - Dog Days Are Over (Instrumental)                     |
 | [MZnIlagpQkjalAHQjK](blurls/MZnIlagpQkjalAHQjK.json) | Florence + The Machine - Dog Days Are Over (Preview)                          |
+| [BlpsYCpKkyWMqebJOK](blurls/BlpsYCpKkyWMqebJOK.json) | Florence + The Machine - Dog Days Are Over (Stereo Track)                     |
 | [UVPiLpdtTZZeVlDofu](blurls/UVPiLpdtTZZeVlDofu.json) | Foo Fighters - Best of You                                                    |
 | [FcwJtfGhQweQsGKLiK](blurls/FcwJtfGhQweQsGKLiK.json) | Foo Fighters - Best of You (Preview)                                          |
 | [MMnXbuMtiXfDgjvnSN](blurls/MMnXbuMtiXfDgjvnSN.json) | Foo Fighters - Best of You (Stereo Track)                                     |
@@ -1096,6 +1158,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [qTpNdcyJirXGzDWggP](blurls/qTpNdcyJirXGzDWggP.json) | Jimmy Eat World - The Middle (Instrumental)                                   |
 | [QJdPDQMItiCyUiHeXy](blurls/QJdPDQMItiCyUiHeXy.json) | Jimmy Eat World - The Middle (Preview)                                        |
 | [VxeSwUDMsrcHuRUxmt](blurls/VxeSwUDMsrcHuRUxmt.json) | Jimmy Eat World - The Middle (Stereo Track)                                   |
+| [HWHOyWkInyRQSrWAfC](blurls/HWHOyWkInyRQSrWAfC.json) | Joan Jett & The Blackhearts - I Love Rock N Roll                              |
+| [zWvJwSPMvdfTyvcsSm](blurls/zWvJwSPMvdfTyvcsSm.json) | Joan Jett & The Blackhearts - I Love Rock N Roll (Instrumental)               |
+| [OVpJdqBcipnNdRXryi](blurls/OVpJdqBcipnNdRXryi.json) | Joan Jett & The Blackhearts - I Love Rock N Roll (Preview)                    |
+| [UAlXCNjeGvHLfLmYtQ](blurls/UAlXCNjeGvHLfLmYtQ.json) | Joan Jett & The Blackhearts - I Love Rock N Roll (Stereo Track)               |
 | [VjNlpNgDaavDSsSTtJ](blurls/VjNlpNgDaavDSsSTtJ.json) | John Legend - All Of Me (Tiësto's Birthday Treatment Remix)                   |
 | [NjwFhKGUsiJuiBmTtC](blurls/NjwFhKGUsiJuiBmTtC.json) | John Legend - All Of Me (Tiësto's Birthday Treatment Remix) (Instrumental)    |
 | [GqlQlRHNMTHHZcGBXP](blurls/GqlQlRHNMTHHZcGBXP.json) | John Legend - All Of Me (Tiësto's Birthday Treatment Remix) (Preview)         |
@@ -1144,6 +1210,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [OfzquJZfStnMfLUaQl](blurls/OfzquJZfStnMfLUaQl.json) | Juice WRLD - Lucid Dreams (Instrumental)                                      |
 | [vmHRfNYrCrrJmCxXbI](blurls/vmHRfNYrCrrJmCxXbI.json) | Juice WRLD - Lucid Dreams (Preview)                                           |
 | [GQOhzMbLQcZxScJdoD](blurls/GQOhzMbLQcZxScJdoD.json) | Juice WRLD - Lucid Dreams (Stereo Track)                                      |
+| [PNxODSZsDBUGvnJGBE](blurls/PNxODSZsDBUGvnJGBE.json) | Juice WRLD - Lucid Dreams (v2)                                                |
+| [uNNgFArLXYpdvXRMRb](blurls/uNNgFArLXYpdvXRMRb.json) | Juice WRLD - Lucid Dreams (v2) (Instrumental)                                 |
+| [gEGTTqNTEwREtPAGPJ](blurls/gEGTTqNTEwREtPAGPJ.json) | Juice WRLD - Lucid Dreams (v2) (Preview)                                      |
+| [kiZwOhdlfuUOFpdVOL](blurls/kiZwOhdlfuUOFpdVOL.json) | Juice WRLD - Lucid Dreams (v2) (Stereo Track)                                 |
 | [tVGxjGEikifNgnsLpj](blurls/tVGxjGEikifNgnsLpj.json) | Juice WRLD - Robbery                                                          |
 | [lFvgbIHummqdogxESU](blurls/lFvgbIHummqdogxESU.json) | Juice WRLD - Robbery (Instrumental)                                           |
 | [dmWamntHVnOJKYopQK](blurls/dmWamntHVnOJKYopQK.json) | Juice WRLD - Robbery (Preview)                                                |
@@ -1158,6 +1228,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [DqzCvNMmVhpOYBnXAV](blurls/DqzCvNMmVhpOYBnXAV.json) | Juice WRLD w/ Marshmello - Come & Go (v2) (Instrumental)                      |
 | [xSoXKeWwLrKxidEyNy](blurls/xSoXKeWwLrKxidEyNy.json) | Juice WRLD w/ Marshmello - Come & Go (v2) (Preview)                           |
 | [JHnLuvgBDrmYQvTjUW](blurls/JHnLuvgBDrmYQvTjUW.json) | Juice WRLD w/ Marshmello - Come & Go (v2) (Stereo Track)                      |
+| [uPKmPFItsRflRYnJax](blurls/uPKmPFItsRflRYnJax.json) | Julia Wolf - In My Room                                                       |
+| [jAneHLqDYVYTvDbePV](blurls/jAneHLqDYVYTvDbePV.json) | Julia Wolf - In My Room (Instrumental)                                        |
+| [pMaveiXNAnSeVLGDeP](blurls/pMaveiXNAnSeVLGDeP.json) | Julia Wolf - In My Room (Preview)                                             |
+| [iBmcKtBKQZgOkTnnKn](blurls/iBmcKtBKQZgOkTnnKn.json) | Julia Wolf - In My Room (Stereo Track)                                        |
 | [pddBPgnSjfIWKIdCAX](blurls/pddBPgnSjfIWKIdCAX.json) | Jung Kook, Latto - Seven                                                      |
 | [IaLtRjFeMZYZYktwxu](blurls/IaLtRjFeMZYZYktwxu.json) | Jung Kook, Latto - Seven (Instrumental)                                       |
 | [xbZglSLdFjmqNSvplG](blurls/xbZglSLdFjmqNSvplG.json) | Jung Kook, Latto - Seven (Preview)                                            |
@@ -1373,6 +1447,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [RUErGLTisvTCUwHLbj](blurls/RUErGLTisvTCUwHLbj.json) | Lou Bega - Mambo No. 5 (A Little Bit of...) (Instrumental)                    |
 | [QMKjnlkcpjKJxIZImH](blurls/QMKjnlkcpjKJxIZImH.json) | Lou Bega - Mambo No. 5 (A Little Bit of...) (Preview)                         |
 | [dTtHTHQxAaFeBsVOao](blurls/dTtHTHQxAaFeBsVOao.json) | Lou Bega - Mambo No. 5 (A Little Bit of...) (Stereo Track)                    |
+| [xsbtzlnLriEbnPYzaR](blurls/xsbtzlnLriEbnPYzaR.json) | LUDMILLA - Cheguei                                                            |
+| [htwfYKordMNqzkJPup](blurls/htwfYKordMNqzkJPup.json) | LUDMILLA - Cheguei (Instrumental)                                             |
+| [YNbSUFZbrdsWdCUUfV](blurls/YNbSUFZbrdsWdCUUfV.json) | LUDMILLA - Cheguei (Preview)                                                  |
+| [GqSMmdlmEbacevLBGd](blurls/GqSMmdlmEbacevLBGd.json) | LUDMILLA - Cheguei (Stereo Track)                                             |
 | [ZKxJVYEfIdeJCqkhhF](blurls/ZKxJVYEfIdeJCqkhhF.json) | Lynyrd Skynyrd - Free Bird                                                    |
 | [HhVmsTiNRkBbwmvbzB](blurls/HhVmsTiNRkBbwmvbzB.json) | Lynyrd Skynyrd - Free Bird (Instrumental)                                     |
 | [qzgJYdDaWAiBHWtpDq](blurls/qzgJYdDaWAiBHWtpDq.json) | Lynyrd Skynyrd - Free Bird (Preview)                                          |
@@ -1499,6 +1577,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [ygIocINLhBWHdIYUxW](blurls/ygIocINLhBWHdIYUxW.json) | Montell Jordan - This Is How We Do It (Instrumental)                          |
 | [UOyvyyUWbjQkJnCmqw](blurls/UOyvyyUWbjQkJnCmqw.json) | Montell Jordan - This Is How We Do It (Preview)                               |
 | [HcoxbnCexnMIEKAOcN](blurls/HcoxbnCexnMIEKAOcN.json) | Montell Jordan - This Is How We Do It (Stereo Track)                          |
+| [TbDgacYrXYgYWJsstH](blurls/TbDgacYrXYgYWJsstH.json) | Motionless In White - Another Life                                            |
+| [TMfBLTuEZOCufTpqGZ](blurls/TMfBLTuEZOCufTpqGZ.json) | Motionless In White - Another Life (Instrumental)                             |
+| [uklnvutzWRwiuYCyQu](blurls/uklnvutzWRwiuYCyQu.json) | Motionless In White - Another Life (Preview)                                  |
+| [urAiAImFPxXIjuwydY](blurls/urAiAImFPxXIjuwydY.json) | Motionless In White - Another Life (Stereo Track)                             |
+| [CUyTOiCgCcCPSAdHsp](blurls/CUyTOiCgCcCPSAdHsp.json) | Mr. Pig - Bum Bum                                                             |
+| [nNEAMwyMYhvZXefLsT](blurls/nNEAMwyMYhvZXefLsT.json) | Mr. Pig - Bum Bum (Instrumental)                                              |
+| [CELCExkjXIzIbhoHak](blurls/CELCExkjXIzIbhoHak.json) | Mr. Pig - Bum Bum (Preview)                                                   |
+| [hPcOEmRbhZVrxALTdN](blurls/hPcOEmRbhZVrxALTdN.json) | Mr. Pig - Bum Bum (Stereo Track)                                              |
 | [BZsiBryiAYRCTdkWNT](blurls/BZsiBryiAYRCTdkWNT.json) | Muse - Hysteria                                                               |
 | [hGXYhAVRLCvxMMqDOG](blurls/hGXYhAVRLCvxMMqDOG.json) | Muse - Hysteria (Preview)                                                     |
 | [pOBZpHghSQhpuOjSnB](blurls/pOBZpHghSQhpuOjSnB.json) | Muse - Hysteria (v2)                                                          |
@@ -1529,6 +1615,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [VOFbjcGVwqrwSXCLWh](blurls/VOFbjcGVwqrwSXCLWh.json) | Nelly ft. City Spud - Ride Wit Me (Instrumental)                              |
 | [IWdHVthmtpcMZrYXfN](blurls/IWdHVthmtpcMZrYXfN.json) | Nelly ft. City Spud - Ride Wit Me (Preview)                                   |
 | [LiqryOXiSbZBZetMhj](blurls/LiqryOXiSbZBZetMhj.json) | Nelly ft. City Spud - Ride Wit Me (Stereo Track)                              |
+| [HQlsugndYmMPcoMoAO](blurls/HQlsugndYmMPcoMoAO.json) | Netsky & Hybrid Minds - Let Me Hold You                                       |
+| [CErigXvlKgQaEiTrri](blurls/CErigXvlKgQaEiTrri.json) | Netsky & Hybrid Minds - Let Me Hold You (Instrumental)                        |
+| [QLxTvsoMtmSwdtpdco](blurls/QLxTvsoMtmSwdtpdco.json) | Netsky & Hybrid Minds - Let Me Hold You (Preview)                             |
+| [cxigxtfopvSKqGsoLx](blurls/cxigxtfopvSKqGsoLx.json) | Netsky & Hybrid Minds - Let Me Hold You (Stereo Track)                        |
 | [eeZDgVHEQodpQPVBqb](blurls/eeZDgVHEQodpQPVBqb.json) | Ne-Yo - Closer                                                                |
 | [nITUUTEwWljasoRuib](blurls/nITUUTEwWljasoRuib.json) | Ne-Yo - Closer (Instrumental)                                                 |
 | [rnYFJqWufBshVStUBk](blurls/rnYFJqWufBshVStUBk.json) | Ne-Yo - Closer (Preview)                                                      |
@@ -1557,6 +1647,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [aECeuhUDrdZsZjjpie](blurls/aECeuhUDrdZsZjjpie.json) | Nicki Minaj - Super Bass (Instrumental)                                       |
 | [NlnmwkbJIKLPRWSbki](blurls/NlnmwkbJIKLPRWSbki.json) | Nicki Minaj - Super Bass (Preview)                                            |
 | [kPqlnCmKVsvYoReQdP](blurls/kPqlnCmKVsvYoReQdP.json) | Nicki Minaj - Super Bass (Stereo Track)                                       |
+| [acCGJLAWOBdLKlxwcx](blurls/acCGJLAWOBdLKlxwcx.json) | Nina Chuba - Wildberry Lillet                                                 |
+| [hVVlsKixsbwCTTWLDU](blurls/hVVlsKixsbwCTTWLDU.json) | Nina Chuba - Wildberry Lillet (Instrumental)                                  |
+| [bBhdwMqnuDhUBrzXGe](blurls/bBhdwMqnuDhUBrzXGe.json) | Nina Chuba - Wildberry Lillet (Preview)                                       |
+| [CmyqkzxbCStGIbvqzw](blurls/CmyqkzxbCStGIbvqzw.json) | Nina Chuba - Wildberry Lillet (Stereo Track)                                  |
+| [hbLblGLmQPGCWRRkQU](blurls/hbLblGLmQPGCWRRkQU.json) | Nine Inch Nails - As Alive As You Need Me To Be                               |
+| [IzffutlVUKbfogXcrm](blurls/IzffutlVUKbfogXcrm.json) | Nine Inch Nails - As Alive As You Need Me To Be (Instrumental)                |
+| [esZCFQsjmNGJwauXBD](blurls/esZCFQsjmNGJwauXBD.json) | Nine Inch Nails - As Alive As You Need Me To Be (Preview)                     |
+| [DfVrbIoPkoPlHXfObG](blurls/DfVrbIoPkoPlHXfObG.json) | Nine Inch Nails - As Alive As You Need Me To Be (Stereo Track)                |
 | [ACTspeMIfwTviqNDtz](blurls/ACTspeMIfwTviqNDtz.json) | Nine Inch Nails - Less Than                                                   |
 | [MTJEFdhBUcyEjgJFXZ](blurls/MTJEFdhBUcyEjgJFXZ.json) | Nine Inch Nails - Less Than (Instrumental)                                    |
 | [IXOdGhEscJAMpIqgbm](blurls/IXOdGhEscJAMpIqgbm.json) | Nine Inch Nails - Less Than (Preview)                                         |
@@ -1653,6 +1751,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [OjiMmjxRThGaIwvcdQ](blurls/OjiMmjxRThGaIwvcdQ.json) | Pharrell Williams - Happy (Instrumental)                                      |
 | [PXsCkhYlBzhDaxiYmu](blurls/PXsCkhYlBzhDaxiYmu.json) | Pharrell Williams - Happy (Preview)                                           |
 | [pBJCCNbOkiFNPKulqw](blurls/pBJCCNbOkiFNPKulqw.json) | Pharrell Williams - Happy (Stereo Track)                                      |
+| [wGGCRknqbzobcKOPBP](blurls/wGGCRknqbzobcKOPBP.json) | Pikotaro - PPAP (Pen Pineapple Apple Pen) [Long Version]                      |
+| [lvfgLCUsmKYRnOPKLI](blurls/lvfgLCUsmKYRnOPKLI.json) | Pikotaro - PPAP (Pen Pineapple Apple Pen) [Long Version] (Instrumental)       |
+| [wCHiVzSNEVOtHSZuCn](blurls/wCHiVzSNEVOtHSZuCn.json) | Pikotaro - PPAP (Pen Pineapple Apple Pen) [Long Version] (Preview)            |
+| [ZqfpFxoWXdKcNxkMxV](blurls/ZqfpFxoWXdKcNxkMxV.json) | Pikotaro - PPAP (Pen Pineapple Apple Pen) [Long Version] (Stereo Track)       |
 | [AcwNQMsKhZcKBFnLuz](blurls/AcwNQMsKhZcKBFnLuz.json) | PinkPantheress & Ice Spice - Boy's A Liar Pt. 2                               |
 | [gbqkZqVavsSPnVSmGf](blurls/gbqkZqVavsSPnVSmGf.json) | PinkPantheress & Ice Spice - Boy's A Liar Pt. 2 (Instrumental)                |
 | [YSGggxkkTahheWiDwQ](blurls/YSGggxkkTahheWiDwQ.json) | PinkPantheress & Ice Spice - Boy's A Liar Pt. 2 (Preview)                     |
@@ -2048,6 +2150,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [qMUcnZMktcgIdOBRQq](blurls/qMUcnZMktcgIdOBRQq.json) | The Weeknd - The Hills (Instrumental)                                         |
 | [HCRPRUFmfPuyhItQYw](blurls/HCRPRUFmfPuyhItQYw.json) | The Weeknd - The Hills (Preview)                                              |
 | [vygrhKSfIZuvhlAxPS](blurls/vygrhKSfIZuvhlAxPS.json) | The Weeknd - The Hills (Stereo Track)                                         |
+| [rlLnycRmMpDRLeGFsa](blurls/rlLnycRmMpDRLeGFsa.json) | The Weeknd ft. Daft Punk - I Feel It Coming                                   |
+| [GOJrRvDIaNbUmVDVdz](blurls/GOJrRvDIaNbUmVDVdz.json) | The Weeknd ft. Daft Punk - I Feel It Coming (Instrumental)                    |
+| [HLnJnICIAURsliSjYN](blurls/HLnJnICIAURsliSjYN.json) | The Weeknd ft. Daft Punk - I Feel It Coming (Preview)                         |
+| [HHvjmmyHkmoAkeWjdI](blurls/HHvjmmyHkmoAkeWjdI.json) | The Weeknd ft. Daft Punk - I Feel It Coming (Stereo Track)                    |
+| [tqOoWmkYSQyJNnqLTX](blurls/tqOoWmkYSQyJNnqLTX.json) | The Weeknd ft. Daft Punk - Starboy                                            |
+| [PWwyPdZOWcsxrQSZXE](blurls/PWwyPdZOWcsxrQSZXE.json) | The Weeknd ft. Daft Punk - Starboy (Instrumental)                             |
+| [SFVAxMTZAZuKHDOVHR](blurls/SFVAxMTZAZuKHDOVHR.json) | The Weeknd ft. Daft Punk - Starboy (Preview)                                  |
+| [sQmJLrrCyKkurmgnEn](blurls/sQmJLrrCyKkurmgnEn.json) | The Weeknd ft. Daft Punk - Starboy (Stereo Track)                             |
 | [sSxwOWiQsOMIGAyiEY](blurls/sSxwOWiQsOMIGAyiEY.json) | The Weeknd, Madonna & Playboi Carti - Popular                                 |
 | [CxFPSirFIZajpaOJoF](blurls/CxFPSirFIZajpaOJoF.json) | The Weeknd, Madonna & Playboi Carti - Popular (Instrumental)                  |
 | [fgQHLgQTMRzzGdjrzR](blurls/fgQHLgQTMRzzGdjrzR.json) | The Weeknd, Madonna & Playboi Carti - Popular (Preview)                       |
@@ -2164,6 +2274,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [yBTZydWzTyaqHFHHpu](blurls/yBTZydWzTyaqHFHHpu.json) | YOASOBI - Monster (Instrumental)                                              |
 | [siEJwlYDpzuPaiUcDW](blurls/siEJwlYDpzuPaiUcDW.json) | YOASOBI - Monster (Preview)                                                   |
 | [XqFaPXVSwANyaotUlI](blurls/XqFaPXVSwANyaotUlI.json) | YOASOBI - Monster (Stereo Track)                                              |
+| [UZlSsjBeYEPutnSswT](blurls/UZlSsjBeYEPutnSswT.json) | YOASOBI - PLAYERS                                                             |
+| [KkDhjYCjMclUIRtnMp](blurls/KkDhjYCjMclUIRtnMp.json) | YOASOBI - PLAYERS (Instrumental)                                              |
+| [ScGmTAJLtqlBvYiLkF](blurls/ScGmTAJLtqlBvYiLkF.json) | YOASOBI - PLAYERS (Preview)                                                   |
+| [JctqboZhFrqRoWjNNO](blurls/JctqboZhFrqRoWjNNO.json) | YOASOBI - PLAYERS (Stereo Track)                                              |
 | [hgogyBihEeYEaiiUvl](blurls/hgogyBihEeYEaiiUvl.json) | YOASOBI - The Brave                                                           |
 | [sMVZmzhBkzkgsEUDom](blurls/sMVZmzhBkzkgsEUDom.json) | YOASOBI - The Brave (Instrumental)                                            |
 | [ruVRYPnYAgTxWhZZLa](blurls/ruVRYPnYAgTxWhZZLa.json) | YOASOBI - The Brave (Preview)                                                 |

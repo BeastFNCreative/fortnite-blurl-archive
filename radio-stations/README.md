@@ -32,6 +32,7 @@ Radio Stations used In-Game when inside Vehicles.
 | [ixWkbUWHJfzaZVePXJ](blurls/ixWkbUWHJfzaZVePXJ.json) | Power Play (v3) |
 | [VlYSRdFWOKyyhNNNgr](blurls/VlYSRdFWOKyyhNNNgr.json) | Radio Underground |
 | [AxraiOXbAdcOPnthxV](blurls/AxraiOXbAdcOPnthxV.json) | Radio Underground (v2) |
+| [tWUtIfHtqBoqDkYBki](blurls/tWUtIfHtqBoqDkYBki.json) | Radio Underground (v3) |
 | [GEviYjIhzVVzJufW](blurls/GEviYjIhzVVzJufW.json) | Radio Yonder |
 | [liZWCXyJDbxNMHWlyk](blurls/liZWCXyJDbxNMHWlyk.json) | Radio Yonder (v2) |
 | [liZWCXyJDbxNMHWlyk](blurls/utHgQidSxmOzBNWSRs.json) | Radio Yonder (v3) |

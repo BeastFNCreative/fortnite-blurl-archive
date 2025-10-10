@@ -10,6 +10,18 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [LLhLeHnroOEFOIfheJ](blurls/LLhLeHnroOEFOIfheJ.json) | Fortnitemares 2025 Gameplay Trailer |
+| [JFXhUbpguuxJGvKkVD](blurls/JFXhUbpguuxJGvKkVD.json) | Fortnitemares 2025 Cinematic Trailer |
+| [SQrmSQHDyWWGaYfVwb](blurls/SQrmSQHDyWWGaYfVwb.json) | Tron ARES Collab Trailer |
+| [hRKEaxIGmHRtoXseHz](blurls/hRKEaxIGmHRtoXseHz.json) | Batmobile 1989 Car Body Trailer |
+| [psYOzEiPACFLnzhjQA](blurls/psYOzEiPACFLnzhjQA.json) | KPop Demon Hunters Trailer |
+| [AlZAqQILcmwxXzdbPE](blurls/AlZAqQILcmwxXzdbPE.json) | Demon Rush LTM Trailer |
+| [CDPVoCrELAbZfeciaU](blurls/CDPVoCrELAbZfeciaU.json) | Reload Nightmare Island Teaser |
+| [fBWryjSnqxYNhjWaZX](blurls/fBWryjSnqxYNhjWaZX.json) | Daft Punk Experience Trailer |
+| [RkGJywaNaisBsAYnaj](blurls/RkGJywaNaisBsAYnaj.json) | Mad Moxxi's: Moxxi's Lip Service Emote |
+| [jQdCpZQlPdqiNfVnQb](blurls/jQdCpZQlPdqiNfVnQb.json) | Megazord Battle Royale Event Video |
+| [CZATiBxfGqXMBqvLMQ](blurls/CZATiBxfGqXMBqvLMQ.json) | Kai Cenat Lil Cenat Backbling Promo Video |
+| [yAgvKSYFMAKPdEHJGx](blurls/yAgvKSYFMAKPdEHJGx.json) | Power Rangers Promo Video |
 | [IazYxEOuGasQgnARCJ](blurls/IazYxEOuGasQgnARCJ.json) | d4vd - Locked & Loaded (Official Fortnite Anthem) Full Music Video |
 | [NTtNuZOPibFVmrALzC](blurls/NTtNuZOPibFVmrALzC.json) | Squid Games The Frontman Promo |
 | [BIdqOcAKNHjOeyIaSr](blurls/BIdqOcAKNHjOeyIaSr.json) | Fortnite Festival Season 10: Gorillaz Trailer |

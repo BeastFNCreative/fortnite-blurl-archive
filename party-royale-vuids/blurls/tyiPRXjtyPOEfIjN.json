@@ -1,0 +1,11 @@
+{
+    "partysync": false,
+    "audioonly": true,
+    "playlists": [
+        {
+            "type": "master",
+            "url": "https://fortnite-vod.akamaized.net/RlKfAdzUCOFtqJAz/master.m3u8",
+            "language": "en"
+        }
+    ]
+}

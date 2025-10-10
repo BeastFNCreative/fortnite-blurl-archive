@@ -84,4 +84,6 @@ Seasonal Trailer Video Content, found in either the Career Tab or First Time Sta
 | [hmxDGYmOvJORLWcMNO](blurls/hmxDGYmOvJORLWcMNO.json) | Chapter 6 Season 3 : LEGO Fortnite Expeditions Trailer |
 | [cTXaWrpIhVLiOvjFaW](blurls/cTXaWrpIhVLiOvjFaW.json) | Chapter 6 Season 4 : Shock N' Awesome Trailer |
 | [FnWieLwbAwCPNIoTwo](blurls/FnWieLwbAwCPNIoTwo.json) | Chapter 6 Season 4 : Fortnite OG Season 5 Trailer |
+| [CnrVSKJLtGdpzPCCPn](blurls/CnrVSKJLtGdpzPCCPn.json) | Chapter 6 Season 4 : Megazord Event Trailer |
+| [suwjiOfDkPwlYYbPcP](blurls/suwjiOfDkPwlYYbPcP.json) | Chapter 6 Season 4 : Fortnitemares 2025 Event Trailer |
 | [XPOlvrMQZKNeqIkGHV](blurls/XPOlvrMQZKNeqIkGHV.json) | Chapter 6 Mini Season Season 1 : Ecosystem Trailer |

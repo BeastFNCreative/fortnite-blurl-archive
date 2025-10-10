@@ -1,0 +1,11 @@
+{
+    "type": "live",
+    "limits": "Dev=Android*,TotalPhysMem=3500,Res=480|Dev=Android*,Res=368|Res=480",
+    "playlists": [
+        {
+            "type": "master",
+            "url": "https://efortnitewc-ep.akamaized.net/cmaf/live/2014537/f30d7aa6-8297-40a9-b7eb-37ccc12347e6/master.m3u8",
+            "language": "language"
+        }
+    ]
+}
