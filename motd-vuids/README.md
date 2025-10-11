@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [MrGkhjuSNZxwhjorOs](blurls/MrGkhjuSNZxwhjorOs.json) | Fortnite Festival Season 11: Mixtape Music Pass Trailer |
 | [PYiIvclmIxRfdciABW](blurls/PYiIvclmIxRfdciABW.json) | Reload Nightmare Island Trailer |
 | [LLhLeHnroOEFOIfheJ](blurls/LLhLeHnroOEFOIfheJ.json) | Fortnitemares 2025 Gameplay Trailer |
 | [JFXhUbpguuxJGvKkVD](blurls/JFXhUbpguuxJGvKkVD.json) | Fortnitemares 2025 Cinematic Trailer |
@@ -22,10 +23,12 @@ MOTD Video Content from PRM Service or FortniteContent.
 | [RkGJywaNaisBsAYnaj](blurls/RkGJywaNaisBsAYnaj.json) | Mad Moxxi's: Moxxi's Lip Service Emote |
 | [jQdCpZQlPdqiNfVnQb](blurls/jQdCpZQlPdqiNfVnQb.json) | Megazord Battle Royale Event Video |
 | [CZATiBxfGqXMBqvLMQ](blurls/CZATiBxfGqXMBqvLMQ.json) | Kai Cenat Lil Cenat Backbling Promo Video |
+| [knDvgevfXErTITeARx](blurls/knDvgevfXErTITeARx.json) | One Punch Man Set Promo Video |
 | [yAgvKSYFMAKPdEHJGx](blurls/yAgvKSYFMAKPdEHJGx.json) | Power Rangers Promo Video |
 | [IazYxEOuGasQgnARCJ](blurls/IazYxEOuGasQgnARCJ.json) | d4vd - Locked & Loaded (Official Fortnite Anthem) Full Music Video |
 | [NTtNuZOPibFVmrALzC](blurls/NTtNuZOPibFVmrALzC.json) | Squid Games The Frontman Promo |
 | [BIdqOcAKNHjOeyIaSr](blurls/BIdqOcAKNHjOeyIaSr.json) | Fortnite Festival Season 10: Gorillaz Trailer |
+| [PPzIVHkvvewVcTjwYq](blurls/PPzIVHkvvewVcTjwYq.json) | Summer Icon Series Emote |
 | [ogkDzZzCURNRRLPuEi](blurls/ogkDzZzCURNRRLPuEi.json) | Chapter 6 Season 4: Shock N' Awesome Animated Key Art |
 | [CrburAoOalGpWuhaoT](blurls/CrburAoOalGpWuhaoT.json) | Chapter 6 Season 4: Shock N' Awesome Hybrid Trailer |
 | [iGQdFAMyUkeRpUefma](blurls/iGQdFAMyUkeRpUefma.json) | Chapter 6 Season 4: Shock N' Awesome Teaser Trailer |
