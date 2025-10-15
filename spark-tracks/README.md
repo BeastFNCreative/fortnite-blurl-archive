@@ -457,6 +457,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [utNBfVdVVhdVflmEwV](blurls/utNBfVdVVhdVflmEwV.json) | Doja Cat - Woman (Instrumental)                                               |
 | [WauaDKgCDRkaarRdUE](blurls/WauaDKgCDRkaarRdUE.json) | Doja Cat - Woman (Preview)                                                    |
 | [kvFBjVGMvNBHXXIwqn](blurls/kvFBjVGMvNBHXXIwqn.json) | Doja Cat - Woman (Stereo Track)                                               |
+| [WTfPuOgMvymCtanTHY](blurls/WTfPuOgMvymCtanTHY.json) | Doja Cat - Woman (v2)                                                         |
+| [zDOQybsNxCOqCrHndz](blurls/zDOQybsNxCOqCrHndz.json) | Doja Cat - Woman (v2) (Instrumental)                                          |
+| [iOVfFRbGMXBbCPecZm](blurls/iOVfFRbGMXBbCPecZm.json) | Doja Cat - Woman (v2) (Preview)                                               |
+| [zCGfXwRhwKoFUZBELj](blurls/zCGfXwRhwKoFUZBELj.json) | Doja Cat - Woman (v2) (Stereo Track)                                          |
 | [PFleHMpwfEiopfVtWg](blurls/PFleHMpwfEiopfVtWg.json) | Doja Cat ft. SZA - Kiss Me More                                               |
 | [bWSBsBRRHbKccueycf](blurls/bWSBsBRRHbKccueycf.json) | Doja Cat ft. SZA - Kiss Me More (Instrumental)                                |
 | [aFsJFbGuxihIUHcETd](blurls/aFsJFbGuxihIUHcETd.json) | Doja Cat ft. SZA - Kiss Me More (Preview)                                     |
@@ -1971,6 +1975,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [ylfOVjmZpKDtfdbVJW](blurls/ylfOVjmZpKDtfdbVJW.json) | Silk Sonic - Leave The Door Open (Instrumental)                               |
 | [MUVbfeZoiwIwURXElD](blurls/MUVbfeZoiwIwURXElD.json) | Silk Sonic - Leave The Door Open (Preview)                                    |
 | [kZByidNEUXzMlhTCJo](blurls/kZByidNEUXzMlhTCJo.json) | Silk Sonic - Leave The Door Open (Stereo Track)                               |
+| [hUKCrcGLZrvqgXACjK](blurls/hUKCrcGLZrvqgXACjK.json) | Simple Plan - What's New Scooby-Doo?                                          |
+| [OZznOVfIJPvCFaWCGD](blurls/OZznOVfIJPvCFaWCGD.json) | Simple Plan - What's New Scooby-Doo? (Instrumental)                           |
+| [XYRZBCDWEclCNPuTQX](blurls/XYRZBCDWEclCNPuTQX.json) | Simple Plan - What's New Scooby-Doo? (Preview)                                |
+| [MpHPIdzfDxlFpHsney](blurls/MpHPIdzfDxlFpHsney.json) | Simple Plan - What's New Scooby-Doo? (Stereo Track)                           |
 | [LaHUcJnUMBAfICvrfF](blurls/LaHUcJnUMBAfICvrfF.json) | Skee-Lo - I Wish                                                              |
 | [nAbWMRYIsEjbOepOTi](blurls/nAbWMRYIsEjbOepOTi.json) | Skee-Lo - I Wish (Instrumental)                                               |
 | [HsCGWpvjlDmYVUjxVa](blurls/HsCGWpvjlDmYVUjxVa.json) | Skee-Lo - I Wish (Preview)                                                    |
@@ -2202,6 +2210,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [SAFMOHEJHQeXiCzPJr](blurls/SAFMOHEJHQeXiCzPJr.json) | Twenty One Pilots - Stressed Out (Instrumental)                               |
 | [EkEbhkZVQXOOFjTaaZ](blurls/EkEbhkZVQXOOFjTaaZ.json) | Twenty One Pilots - Stressed Out (Preview)                                    |
 | [dHUaJHMyiBXRwbuGpW](blurls/dHUaJHMyiBXRwbuGpW.json) | Twenty One Pilots - Stressed Out (Stereo Track)                               |
+| [FhxohXGuHSZHNXAamn](blurls/FhxohXGuHSZHNXAamn.json) | Twenty One Pilots - Stressed Out (v2)                                         |
+| [ifUmqVQPsZaqWQMoyP](blurls/ifUmqVQPsZaqWQMoyP.json) | Twenty One Pilots - Stressed Out (v2) (Instrumental)                          |
+| [iFAJrBFxownuIGtaDD](blurls/iFAJrBFxownuIGtaDD.json) | Twenty One Pilots - Stressed Out (v2) (Preview)                               |
+| [srGFzpYKsQrWYbxBQo](blurls/srGFzpYKsQrWYbxBQo.json) | Twenty One Pilots - Stressed Out (v2) (Stereo Track)                          |
 | [OMrgOpYYzxYAZZaYJn](blurls/OMrgOpYYzxYAZZaYJn.json) | Tommy Richman - MILLION DOLLAR BABY                                           |
 | [HyGGlidtIfNeFuXoag](blurls/HyGGlidtIfNeFuXoag.json) | Tommy Richman - MILLION DOLLAR BABY (Instrumental)                            |
 | [plfmfQJhwsHRewVlqi](blurls/plfmfQJhwsHRewVlqi.json) | Tommy Richman - MILLION DOLLAR BABY (Preview)                                 |
