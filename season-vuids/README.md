@@ -88,3 +88,4 @@ Seasonal Trailer Video Content, found in either the Career Tab or First Time Sta
 | [zUUgnzVeiAzqWMusop](blurls/zUUgnzVeiAzqWMusop.json) | Chapter 6 Season 4 : KPop Demon Hunters Event Trailer |
 | [suwjiOfDkPwlYYbPcP](blurls/suwjiOfDkPwlYYbPcP.json) | Chapter 6 Season 4 : Fortnitemares 2025 Event Trailer |
 | [XPOlvrMQZKNeqIkGHV](blurls/XPOlvrMQZKNeqIkGHV.json) | Chapter 6 Mini Season Season 1 : Ecosystem Trailer |
+| [tcSoFiztzwxMVdhuMo](blurls/tcSoFiztzwxMVdhuMo.json) | Chapter 6 Mini Season Season 2 : Ecosystem Trailer |

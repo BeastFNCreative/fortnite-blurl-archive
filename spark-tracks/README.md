@@ -377,6 +377,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [aZBUepymqJvqONrZin](blurls/aZBUepymqJvqONrZin.json) | Daft Punk ft. Pharrell Williams and Nile Rodgers - Get Lucky (Instrumental)   |
 | [TIQQjCFTjfKvPHEXTG](blurls/TIQQjCFTjfKvPHEXTG.json) | Daft Punk ft. Pharrell Williams and Nile Rodgers - Get Lucky (Preview)        |
 | [HIdWneVbHcnilfKpyT](blurls/HIdWneVbHcnilfKpyT.json) | Daft Punk ft. Pharrell Williams and Nile Rodgers - Get Lucky (Stereo Track)   |
+| [poufbJOqnaUUDJYuUK](blurls/poufbJOqnaUUDJYuUK.json) | Danny Elfman - The Simpsons Main Title Theme (non-union re-record)            |
+| [hfEccByoNYdjWKmMqo](blurls/hfEccByoNYdjWKmMqo.json) | Danny Elfman - The Simpsons Main Title Theme (non-union re-record) (Instrumental) |
+| [vMykHRIZehyDrStuVP](blurls/vMykHRIZehyDrStuVP.json) | Danny Elfman - The Simpsons Main Title Theme (non-union re-record) (Preview)  |
+| [zbyWgSJMNyxsLdXRbh](blurls/zbyWgSJMNyxsLdXRbh.json) | Danny Elfman - The Simpsons Main Title Theme (non-union re-record) (Stereo Track) |
 | [YWSZWKXdPcJdCgXheg](blurls/YWSZWKXdPcJdCgXheg.json) | Darude - Sandstorm                                                            |
 | [WixdzaEYcZFljoeibH](blurls/WixdzaEYcZFljoeibH.json) | Darude - Sandstorm (Instrumental)                                             |
 | [fFiWFfKnAjyjncUHLI](blurls/fFiWFfKnAjyjncUHLI.json) | Darude - Sandstorm (Preview)                                                  |
@@ -541,6 +545,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [TsTyOyedqafwgEZuEZ](blurls/TsTyOyedqafwgEZuEZ.json) | Epic Games - Built Together (Instrumental)                                    |
 | [YNhoTFzHcNIEjSjLPh](blurls/YNhoTFzHcNIEjSjLPh.json) | Epic Games - Built Together (Preview)                                         |
 | [qAlrSVfyVMPRhqAIFO](blurls/qAlrSVfyVMPRhqAIFO.json) | Epic Games - Built Together (Stereo Track)                                    |
+| [LAZZtwRhNyhdfBdotF](blurls/LAZZtwRhNyhdfBdotF.json) | Epic Games - Built Together (v2)                                              |
+| [sCPwLyHDYHZqqaMWFR](blurls/sCPwLyHDYHZqqaMWFR.json) | Epic Games - Built Together (v2) (Instrumental)                               |
+| [LSUCiRPfPnevvkQcQv](blurls/LSUCiRPfPnevvkQcQv.json) | Epic Games - Built Together (v2) (Preview)                                    |
+| [zdjiFJwmPPwFSznRHO](blurls/zdjiFJwmPPwFSznRHO.json) | Epic Games - Built Together (v2) (Stereo Track)                               |
 | [AqzJOZzkSxbofUdkMB](blurls/AqzJOZzkSxbofUdkMB.json) | Epic Games - Butter Barn Hoedown                                              |
 | [ibdfdERRkeiDoCnFPM](blurls/ibdfdERRkeiDoCnFPM.json) | Epic Games - Butter Barn Hoedown (Preview)                                    |
 | [JXTHTqaQusWrIqTwWo](blurls/JXTHTqaQusWrIqTwWo.json) | Epic Games - Butter Barn Hoedown (v2)                                         |
@@ -1775,6 +1783,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [tOysCIuBPsARtVrlAp](blurls/tOysCIuBPsARtVrlAp.json) | Pop Smoke w/ Lil Baby & DaBaby - For The Night (Instrumental)                 |
 | [oWbkpGHwyZTLqlCqYR](blurls/oWbkpGHwyZTLqlCqYR.json) | Pop Smoke w/ Lil Baby & DaBaby - For The Night (Preview)                      |
 | [subZlzoylkXZEnefcO](blurls/subZlzoylkXZEnefcO.json) | Pop Smoke w/ Lil Baby & DaBaby - For The Night (Stereo Track)                 |
+| [LdpIPGgscMujzifrxW](blurls/LdpIPGgscMujzifrxW.json) | Porter Robinson, Madeon - Shelter                                             |
+| [ykojFmnJEsVHqhvIxu](blurls/ykojFmnJEsVHqhvIxu.json) | Porter Robinson, Madeon - Shelter (Instrumental)                              |
+| [BPpgGVZvsIfUHScSXc](blurls/BPpgGVZvsIfUHScSXc.json) | Porter Robinson, Madeon - Shelter (Preview)                                   |
+| [yBcIGRTTJllGOUTBZV](blurls/yBcIGRTTJllGOUTBZV.json) | Porter Robinson, Madeon - Shelter (Stereo Track)                              |
+| [IOvushMMruinfAwaEx](blurls/IOvushMMruinfAwaEx.json) | Porter Robinson, Madeon - Shelter (v2)                                        |
+| [WSLaTtQfnPZXRVDAIi](blurls/WSLaTtQfnPZXRVDAIi.json) | Porter Robinson, Madeon - Shelter (v2) (Instrumental)                         |
+| [quOmbIlSgbzZwiLCnV](blurls/quOmbIlSgbzZwiLCnV.json) | Porter Robinson, Madeon - Shelter (v2) (Preview)                              |
+| [mqzxUZfoUPRPdGkuip](blurls/mqzxUZfoUPRPdGkuip.json) | Porter Robinson, Madeon - Shelter (v2) (Stereo Track)                         |
 | [DENVGWeeUtiPZuFSiD](blurls/DENVGWeeUtiPZuFSiD.json) | Portugal. The Man - Feel It Still                                             |
 | [JNdZTwHgnqRrpHuxzg](blurls/JNdZTwHgnqRrpHuxzg.json) | Portugal. The Man - Feel It Still (Instrumental)                              |
 | [MjLyyEACnNSwCxjtdy](blurls/MjLyyEACnNSwCxjtdy.json) | Portugal. The Man - Feel It Still (Preview)                                   |
@@ -2242,6 +2258,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [aqhMHKAHWkyUHXFZKx](blurls/aqhMHKAHWkyUHXFZKx.json) | Vengaboys - We Like To Party! (The Vengabus) (Instrumental)                   |
 | [zsoUfdDtJMdmQREoeO](blurls/zsoUfdDtJMdmQREoeO.json) | Vengaboys - We Like To Party! (The Vengabus) (Preview)                        |
 | [xnhSyFbSBZFInYPfbc](blurls/xnhSyFbSBZFInYPfbc.json) | Vengaboys - We Like To Party! (The Vengabus) (Stereo Track)                   |
+| [kXOeeTICEVAbnPvFDP](blurls/kXOeeTICEVAbnPvFDP.json) | W&W - OIIA OIIA (Spinning Cat)                                                |
+| [goKzpVsyztDUlvaTTD](blurls/goKzpVsyztDUlvaTTD.json) | W&W - OIIA OIIA (Spinning Cat) (Instrumental)                                 |
+| [ljiuFXvqsnYwPBpBJX](blurls/ljiuFXvqsnYwPBpBJX.json) | W&W - OIIA OIIA (Spinning Cat) (Preview)                                      |
+| [ZZUnnltwSFUJdIGdMq](blurls/ZZUnnltwSFUJdIGdMq.json) | W&W - OIIA OIIA (Spinning Cat) (Stereo Track)                                 |
 | [ktdgChhlPACjNHsKtc](blurls/ktdgChhlPACjNHsKtc.json) | Warren G ft. Nate Dogg - Regulate                                             |
 | [ebYpSDEYfcFtcwlrCA](blurls/ebYpSDEYfcFtcwlrCA.json) | Warren G ft. Nate Dogg - Regulate (Instrumental)                              |
 | [XCHeDnveXmJTKSWTyC](blurls/XCHeDnveXmJTKSWTyC.json) | Warren G ft. Nate Dogg - Regulate (Preview)                                   |

@@ -10,6 +10,8 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [dToTofZDNGMvUkIStn](blurls/dToTofZDNGMvUkIStn.json) | Fortnite x The Simpsons: Season Trailer |
+| [VlNZfpjUUOKCmdKpwC](blurls/VlNZfpjUUOKCmdKpwC.json) | Fortnite x The Simpsons: Fartnite Teaser |
 | [MrGkhjuSNZxwhjorOs](blurls/MrGkhjuSNZxwhjorOs.json) | Fortnite Festival Season 11: Mixtape Music Pass Trailer |
 | [PYiIvclmIxRfdciABW](blurls/PYiIvclmIxRfdciABW.json) | Reload Nightmare Island Trailer |
 | [LLhLeHnroOEFOIfheJ](blurls/LLhLeHnroOEFOIfheJ.json) | Fortnitemares 2025 Gameplay Trailer |

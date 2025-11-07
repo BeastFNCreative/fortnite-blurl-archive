@@ -32,6 +32,13 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [LBDBeUuVQFMlqfkmhi](blurls/LBDBeUuVQFMlqfkmhi.json) | Fracture In-Game Event Video - W.I.P Cinematic Part 4                                                |
 | [JoGhGIKTuDbICqHCrm](blurls/JoGhGIKTuDbICqHCrm.json) | Fortnite OG: Season Launch Trailer Placeholder                                                       |
 | [aHQHybaXOPladheyig](blurls/aHQHybaXOPladheyig.json) | Fortnite Ballistic First Time Launch Trailer                                                         |
+| [VOssCiYipSOlQlRqCz](blurls/VOssCiYipSOlQlRqCz.json) | Fortnite x The Simpsons: Week 1 Animated Short: Apocalypse D'Oh Part 1                               |
+| [nxCwVvfizOLduoZWop](blurls/nxCwVvfizOLduoZWop.json) | Fortnite x The Simpsons: Week 2 Animated Short: Apocalypse D'Oh Part 2                               |
+| [WkHMpshFmdIrAetsaZ](blurls/WkHMpshFmdIrAetsaZ.json) | Fortnite x The Simpsons: Week 2 Animated Short: Sugar High Part 1                                    |
+| [YtorXGayXuduGsHcUv](blurls/YtorXGayXuduGsHcUv.json) | Fortnite x The Simpsons: Week 3 Animated Short: Sugar High Part 2                                    |
+| [MqcKPxliCXmkoMcwfT](blurls/MqcKPxliCXmkoMcwfT.json) | Fortnite x The Simpsons: Week 3 Animated Short: Multiplidiocy Part 1                                 |
+| [vBDIeExDjqOExqBeAu](blurls/vBDIeExDjqOExqBeAu.json) | Fortnite x The Simpsons: Week 4 Animated Short: Multiplidiocy Part 2                                 |
+| [LPEvtUrizujlQIDOyp](blurls/LPEvtUrizujlQIDOyp.json) | Fortnite x The Simpsons: Week 4 Animated Short: The Incredible Bulk                                  |
 | [KJDUvxyRKLzyLGxQhG](blurls/KJDUvxyRKLzyLGxQhG.json) | Free Guy Quest Accepted Video - Get Hit by a moving vehicle                                          |
 | [TCqizesJBstbMpQvEI](blurls/TCqizesJBstbMpQvEI.json) | Free Guy Quest Accepted Video - Place coins around the map                                           |
 | [DnwOLUSrzEMnNgmrCP](blurls/DnwOLUSrzEMnNgmrCP.json) | Free Guy Quest Accepted Video - Reboot or revive teammates, or interact with campfires               |
@@ -69,6 +76,8 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [AMzqULFVDUKJFmWtxq](blurls/AMzqULFVDUKJFmWtxq.json) | Mobile Shooting Tutorial Unused Video 2                                                              |
 | [cdItBLrFXpWRXScwuc](blurls/cdItBLrFXpWRXScwuc.json) | Mobile Shooting Tutorial Unused Video 3                                                              |
 | [yZCScFFPeBHXNMtusu](blurls/yZCScFFPeBHXNMtusu.json) | Picture-in-Picture Bouncing Llama Placeholder                                                        |
+| [CQHiUBeIAlYGpheYEx](blurls/CQHiUBeIAlYGpheYEx.json) | Placeholder for Unused Simpsons TV Video                                                             |
+| [JyzYsYnJwAqfHteptR](blurls/JyzYsYnJwAqfHteptR.json) | Placeholder for Sidekick How To Video                                                                |
 | [NTyenueYutOwpUDc](blurls/NTyenueYutOwpUDc.json)     | Punk'd Show Premiere at Risky Reels (REMOVED)                                                        |
 | [NAMfVPLLYJqykofrFu](blurls/NAMfVPLLYJqykofrFu.json) | Rift Tour Tab Background                                                                             |
 | [nKaFcQbEhacuiRdfFD](blurls/nKaFcQbEhacuiRdfFD.json) | Rocket Racing First-Time Launch Video                                                                |
@@ -81,8 +90,11 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [XXCKxHvovCXUnzJkZY](blurls/XXCKxHvovCXUnzJkZY.json) | Remix The Prelude: Full Event Replay at Risky                                                        |
 | [qpvkhEDcVqkgDwKteF](blurls/qpvkhEDcVqkgDwKteF.json) | Remix The Prelude: Remix Combined Trailer                                                            |
 | [shortnite_combined](blurls/shortnite_combined.json) | Short Nite is back! : Combined Version                                                               |
+| [xAVKwPTWFECnYjvJGc](blurls/xAVKwPTWFECnYjvJGc.json) | Simple Build UI Video: Console & PC                                                                  |
+| [UgMObThICTZRJhaHFh](blurls/UgMObThICTZRJhaHFh.json) | Simple Build UI Video: Mobile                                                                        |
 | [jFsphMAUYxOHgIEHsB](blurls/jFsphMAUYxOHgIEHsB.json) | Simple Edit UI Video: Console & PC                                                                   |
 | [EOauVKXdDCYoUXuDTT](blurls/EOauVKXdDCYoUXuDTT.json) | Simple Edit UI Video: Mobile                                                                         |
+| [qrOnrTVipicgktLBhZ](blurls/qrOnrTVipicgktLBhZ.json) | Sidekick Introduction Video                                                                          |
 | [UFDxtqZPQKgaoloDlR](blurls/UFDxtqZPQKgaoloDlR.json) | Soundwave Series ft. Aya Nakamura Picture-in-Picture                                                 |
 | [VxpNifqIRsTeBLISzp](blurls/VxpNifqIRsTeBLISzp.json) | Soundwave Series ft. Gen Hoshino Picture-in-Picture                                                  |
 | [xDsRQcMMMKqpwdMH](blurls/xDsRQcMMMKqpwdMH.json)     | Soundwave Series ft. Tones And I Picture-in-Picture                                                  |
@@ -96,4 +108,5 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [uFzYgecHmrijEqcCAZ](blurls/uFzYgecHmrijEqcCAZ.json) | Unknown (No Blast-URL yet)                                                                           |
 | [kRQErvFysrszMCKhsI](blurls/kRQErvFysrszMCKhsI.json) | Unknown Jam Track                                                                                    |
 | [fvKQKSJTnXkwLNruwQ](blurls/fvKQKSJTnXkwLNruwQ.json) | Unused Most Wanted Poster Video                                                                      |
+| [EUovmsrjZxCuBFkuVI](blurls/EUovmsrjZxCuBFkuVI.json) | Welcome, Our Alien Overlords - Event Cinematic                                                       |
 | [LwftzrskCAwXgBKFzw](blurls/LwftzrskCAwXgBKFzw.json) | Zen Legacy Set Fortnite Crew Trailer                                                                 |
