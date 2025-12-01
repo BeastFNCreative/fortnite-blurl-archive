@@ -68,6 +68,7 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [mbzBuEchtOJvCxamTR](blurls/mbzBuEchtOJvCxamTR.json) | set_br_playlists: Galactic Battle |
 | [LBnhXcWBAAfnPJVvtQ](blurls/LBnhXcWBAAfnPJVvtQ.json) | set_br_playlists: Super |
 | [LWyIwmYhWsPohWoTYl](blurls/LWyIwmYhWsPohWoTYl.json) | set_br_playlists: Shock N' Awesome |
+| [VBKfqKOYezdNwVcdHd](blurls/VBKfqKOYezdNwVcdHd.json) | set_br_playlists: Pacific Break |
 | [nBXWuBNMdScHeYtCnP](blurls/nBXWuBNMdScHeYtCnP.json) | set_delmar_mrs_ranked: Rocket Racing |
 | [qpdchKarjFnwpdEnYj](blurls/qpdchKarjFnwpdEnYj.json) | set_delmar_mrs_ranked: Rocket Racing (Extra VUID) |
 | [zmDptnMNGqUEdlBwTv](blurls/zmDptnMNGqUEdlBwTv.json) | set_delmar_mrs_ranked: Rocket Racing (Star Wars Update) |
@@ -81,5 +82,6 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [NqvoWIJjfUlNsSCkwP](blurls/NqvoWIJjfUlNsSCkwP.json) | set_nobuild_playlists: Lawless |
 | [kAccxZIqIEUDKDUGVG](blurls/kAccxZIqIEUDKDUGVG.json) | set_nobuild_playlists: Super |
 | [VLjvCDxvtfLZkNlCGo](blurls/VLjvCDxvtfLZkNlCGo.json) | set_nobuild_playlists: Shock N' Awesome |
+| [PCmDvpiQopIhNirMYz](blurls/PCmDvpiQopIhNirMYz.json) | set_nobuild_playlists: Pacific Break |
 | [KLHeAwpnfyWJzsHggq](blurls/KLHeAwpnfyWJzsHggq.json) | set_nobuild_playlists: Zero Build - Battle Royale |
 | [VTfsLUcDGhrnzHppNB](blurls/VTfsLUcDGhrnzHppNB.json) | set_nobuild_playlists: Zero Build - Battle Royale (v1) |

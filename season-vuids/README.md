@@ -89,3 +89,5 @@ Seasonal Trailer Video Content, found in either the Career Tab or First Time Sta
 | [suwjiOfDkPwlYYbPcP](blurls/suwjiOfDkPwlYYbPcP.json) | Chapter 6 Season 4 : Fortnitemares 2025 Event Trailer |
 | [XPOlvrMQZKNeqIkGHV](blurls/XPOlvrMQZKNeqIkGHV.json) | Chapter 6 Mini Season Season 1 : Ecosystem Trailer |
 | [tcSoFiztzwxMVdhuMo](blurls/tcSoFiztzwxMVdhuMo.json) | Chapter 6 Mini Season Season 2 : Ecosystem Trailer |
+| [sdZaQqSFKtzfkffnuj](blurls/sdZaQqSFKtzfkffnuj.json) | Chapter 7 Season 1: Cinematic Trailer |
+| [sFcYvKyyFjnIvgLNUd](blurls/sFcYvKyyFjnIvgLNUd.json) | Chapter 7 Season 1: Gameplay Trailer |

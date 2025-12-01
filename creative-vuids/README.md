@@ -197,6 +197,7 @@ Creative / UEFN Video's used for Partner Projects.
 | [aDDflTSeaCzkOuUNZL](blurls/aDDflTSeaCzkOuUNZL.json) | SypherPK: Stories from the Battle Bus Video                                                            |
 | [yfJEDWIKnOokIIitxh](blurls/yfJEDWIKnOokIIitxh.json) | The Kid LAROI's Wild Dreams: Concert Video                                                             |
 | [HarviIxLVSrGGqVrZl](blurls/HarviIxLVSrGGqVrZl.json) | The Kid LAROI's Wild Dreams Afterparty: Background Video                                               |
+| [YfbswGwaUPLVXZhyfs](blurls/YfbswGwaUPLVXZhyfs.json) | The Lost Chapter: Yuki's Revenge |
 | [WwbmiMLdPkQnKYDE](blurls/WwbmiMLdPkQnKYDE.json)     | The March Through Time: Speech Video                                                                   |
 | [KabraIjTXGIYHqHO](blurls/KabraIjTXGIYHqHO.json)     | The O2: Llama-tron Video                                                                               |
 | [TKnMjLfoFHgpenVg](blurls/TKnMjLfoFHgpenVg.json)     | The O2: Spy Within Trailer                                                                             |

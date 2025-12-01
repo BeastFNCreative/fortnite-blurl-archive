@@ -33,11 +33,11 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [JoGhGIKTuDbICqHCrm](blurls/JoGhGIKTuDbICqHCrm.json) | Fortnite OG: Season Launch Trailer Placeholder                                                       |
 | [aHQHybaXOPladheyig](blurls/aHQHybaXOPladheyig.json) | Fortnite Ballistic First Time Launch Trailer                                                         |
 | [VOssCiYipSOlQlRqCz](blurls/VOssCiYipSOlQlRqCz.json) | Fortnite x The Simpsons: Week 1 Animated Short: Apocalypse D'Oh Part 1                               |
-| [nxCwVvfizOLduoZWop](blurls/nxCwVvfizOLduoZWop.json) | Fortnite x The Simpsons: Week 2 Animated Short: Apocalypse D'Oh Part 2                               |
+| [nxCwVvfizOLduoZWop](blurls/nxCwVvfizOLduoZWop.json) | Fortnite x The Simpsons: Week 2 Animated Short: Apocalypse D'Oh Part 2 (Unused)                      |
 | [WkHMpshFmdIrAetsaZ](blurls/WkHMpshFmdIrAetsaZ.json) | Fortnite x The Simpsons: Week 2 Animated Short: Sugar High Part 1                                    |
-| [YtorXGayXuduGsHcUv](blurls/YtorXGayXuduGsHcUv.json) | Fortnite x The Simpsons: Week 3 Animated Short: Sugar High Part 2                                    |
+| [YtorXGayXuduGsHcUv](blurls/YtorXGayXuduGsHcUv.json) | Fortnite x The Simpsons: Week 3 Animated Short: Sugar High Part 2 (Unused)                           |
 | [MqcKPxliCXmkoMcwfT](blurls/MqcKPxliCXmkoMcwfT.json) | Fortnite x The Simpsons: Week 3 Animated Short: Multiplidiocy Part 1                                 |
-| [vBDIeExDjqOExqBeAu](blurls/vBDIeExDjqOExqBeAu.json) | Fortnite x The Simpsons: Week 4 Animated Short: Multiplidiocy Part 2                                 |
+| [vBDIeExDjqOExqBeAu](blurls/vBDIeExDjqOExqBeAu.json) | Fortnite x The Simpsons: Week 4 Animated Short: Multiplidiocy Part 2 (Unused)                        |
 | [LPEvtUrizujlQIDOyp](blurls/LPEvtUrizujlQIDOyp.json) | Fortnite x The Simpsons: Week 4 Animated Short: The Incredible Bulk                                  |
 | [KJDUvxyRKLzyLGxQhG](blurls/KJDUvxyRKLzyLGxQhG.json) | Free Guy Quest Accepted Video - Get Hit by a moving vehicle                                          |
 | [TCqizesJBstbMpQvEI](blurls/TCqizesJBstbMpQvEI.json) | Free Guy Quest Accepted Video - Place coins around the map                                           |
@@ -110,3 +110,4 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [fvKQKSJTnXkwLNruwQ](blurls/fvKQKSJTnXkwLNruwQ.json) | Unused Most Wanted Poster Video                                                                      |
 | [EUovmsrjZxCuBFkuVI](blurls/EUovmsrjZxCuBFkuVI.json) | Welcome, Our Alien Overlords - Event Cinematic                                                       |
 | [LwftzrskCAwXgBKFzw](blurls/LwftzrskCAwXgBKFzw.json) | Zen Legacy Set Fortnite Crew Trailer                                                                 |
+| [XffIaEhMlAGJEqegoo](blurls/XffIaEhMlAGJEqegoo.json) | Zero Hour Chapter Finale Live Event: Chapter 7 Trailer                                               |

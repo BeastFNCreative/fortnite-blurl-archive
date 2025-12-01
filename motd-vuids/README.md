@@ -10,6 +10,17 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [ifoQfqtQoqeccPSahw](blurls/ifoQfqtQoqeccPSahw.json) | The Lost Chapter: Yuki's Revenge Trailer |
+| [PbMhzIihBBUltusWHZ](blurls/PbMhzIihBBUltusWHZ.json) | Fortnite Festival Season 12: LISA Trailer |
+| [KphswkwSYYwdPgLCtA](blurls/KphswkwSYYwdPgLCtA.json) | Chapter 7 Season 1: Pacific Break Animated Key Art |
+| [DEVRPDKMfLzwtWmSFQ](blurls/DEVRPDKMfLzwtWmSFQ.json) | Chapter 7 Season 1: Pacific Break Alternate Trailer |
+| [fKLSDatNwIDQAjjMoQ](blurls/fKLSDatNwIDQAjjMoQ.json) | Chapter 7 Season 1: Pacific Break Trailer |
+| [xuSRirFNUgMuwUCmHH](blurls/xuSRirFNUgMuwUCmHH.json) | Zero Hour Chapter Finale Event Teaser |
+| [hnzPRRGXekAdshKfYR](blurls/hnzPRRGXekAdshKfYR.json) | Ferrari F40 Car Body Trailer |
+| [RQMuKjccXzdSQiHHeh](blurls/RQMuKjccXzdSQiHHeh.json) | Fortnite x The Simpsons: Week 4 Trailer |
+| [KTuxwzLAUKTryiCNeJ](blurls/KTuxwzLAUKTryiCNeJ.json) | Fortnite x The Simpsons: Week 3 Trailer |
+| [XdZXfYzXyeiIbDarcq](blurls/XdZXfYzXyeiIbDarcq.json) | Fortnite x The Simpsons: Week 2 Trailer |
+| [zjZQfrZRvzNPJuLQsN](blurls/zjZQfrZRvzNPJuLQsN.json) | Sidekick How To Video |
 | [dToTofZDNGMvUkIStn](blurls/dToTofZDNGMvUkIStn.json) | Fortnite x The Simpsons: Season Trailer |
 | [VlNZfpjUUOKCmdKpwC](blurls/VlNZfpjUUOKCmdKpwC.json) | Fortnite x The Simpsons: Fartnite Teaser |
 | [MrGkhjuSNZxwhjorOs](blurls/MrGkhjuSNZxwhjorOs.json) | Fortnite Festival Season 11: Mixtape Music Pass Trailer |
