@@ -525,6 +525,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [RamTWEtdfzmHhVHWWr](blurls/RamTWEtdfzmHhVHWWr.json) | Epic Games - All My People (Instrumental)                                     |
 | [HfanFJRpHTbehjlaMm](blurls/HfanFJRpHTbehjlaMm.json) | Epic Games - All My People (Preview)                                          |
 | [WLnjjgLYmBQJWoMprn](blurls/WLnjjgLYmBQJWoMprn.json) | Epic Games - All My People (Stereo Track)                                     |
+| [lousMuSWcMXBzFKNnz](blurls/lousMuSWcMXBzFKNnz.json) | Epic Games - All My People (v2)                                               |
+| [nyDhoWLdKYBsrRWHXA](blurls/nyDhoWLdKYBsrRWHXA.json) | Epic Games - All My People (v2) (Instrumental)                                |
+| [ntggBQhcPVWFjlikZG](blurls/ntggBQhcPVWFjlikZG.json) | Epic Games - All My People (v2) (Preview)                                     |
+| [AyROsxIUcbJpjKUJSw](blurls/AyROsxIUcbJpjKUJSw.json) | Epic Games - All My People (v2) (Stereo Track)                                |
 | [wEQdWEUuAfOPOcOzvU](blurls/wEQdWEUuAfOPOcOzvU.json) | Epic Games - Best Buds                                                        |
 | [TqHjxZBDmvDsutRZxP](blurls/TqHjxZBDmvDsutRZxP.json) | Epic Games - Best Buds (Instrumental)                                         |
 | [LnKXyVnlaYCChIxKKJ](blurls/LnKXyVnlaYCChIxKKJ.json) | Epic Games - Best Buds (Preview)                                              |
