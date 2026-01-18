@@ -91,3 +91,5 @@ Seasonal Trailer Video Content, found in either the Career Tab or First Time Sta
 | [tcSoFiztzwxMVdhuMo](blurls/tcSoFiztzwxMVdhuMo.json) | Chapter 6 Mini Season Season 2 : Ecosystem Trailer |
 | [sdZaQqSFKtzfkffnuj](blurls/sdZaQqSFKtzfkffnuj.json) | Chapter 7 Season 1: Cinematic Trailer |
 | [sFcYvKyyFjnIvgLNUd](blurls/sFcYvKyyFjnIvgLNUd.json) | Chapter 7 Season 1: Gameplay Trailer |
+| [DjxnjycChYgHBvzbWl](blurls/DjxnjycChYgHBvzbWl.json) | Chapter 7 Season 1: LEGO Fortnite x Ninjago Trailer |
+| [aaOoiDMPTyKVlNykPn](blurls/aaOoiDMPTyKVlNykPn.json) | Chapter 7 Season 1: Fortnite X South Park Collab Trailer |

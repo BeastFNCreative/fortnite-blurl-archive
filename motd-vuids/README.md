@@ -10,6 +10,12 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [ezSJSUFoMyfdChPbGX](blurls/ezSJSUFoMyfdChPbGX.json) | Fortnite X South Park 67 Emote Promo |
+| [HaYPdCCoLXurjseWce](blurls/HaYPdCCoLXurjseWce.json) | Fortnite X BLEACH Collab Trailer |
+| [kdBZTvkukoIYncnRuk](blurls/kdBZTvkukoIYncnRuk.json) | Winterfest 2025 Promo (MOTD Background) |
+| [vJbdPllYUdowSrBrBZ](blurls/vJbdPllYUdowSrBrBZ.json) | Kim Kardashian Collab Trailer |
+| [vKobrcsFpPLVYhUSbo](blurls/vKobrcsFpPLVYhUSbo.json) | Playboi Carti Collab Promo (MOTD Background) |
+| [QrotBtLPsXfsBhHuFn](blurls/QrotBtLPsXfsBhHuFn.json) | LEGO Fortnite x Ninjago Trailer |
 | [ifoQfqtQoqeccPSahw](blurls/ifoQfqtQoqeccPSahw.json) | The Lost Chapter: Yuki's Revenge Trailer |
 | [PbMhzIihBBUltusWHZ](blurls/PbMhzIihBBUltusWHZ.json) | Fortnite Festival Season 12: LISA Trailer |
 | [KphswkwSYYwdPgLCtA](blurls/KphswkwSYYwdPgLCtA.json) | Chapter 7 Season 1: Pacific Break Animated Key Art |
