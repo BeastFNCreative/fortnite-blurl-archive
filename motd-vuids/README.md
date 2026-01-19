@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [VxAKIGhrYuQjHsZwWa](blurls/VxAKIGhrYuQjHsZwWa.json) | Fortnite OG Season 7 Promo |
 | [ezSJSUFoMyfdChPbGX](blurls/ezSJSUFoMyfdChPbGX.json) | Fortnite X South Park 67 Emote Promo |
 | [HaYPdCCoLXurjseWce](blurls/HaYPdCCoLXurjseWce.json) | Fortnite X BLEACH Collab Trailer |
 | [kdBZTvkukoIYncnRuk](blurls/kdBZTvkukoIYncnRuk.json) | Winterfest 2025 Promo (MOTD Background) |
