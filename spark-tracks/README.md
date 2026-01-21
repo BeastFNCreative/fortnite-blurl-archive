@@ -357,6 +357,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [qdjqZTWXRUkyEpLAWr](blurls/qdjqZTWXRUkyEpLAWr.json) | Coheed and Cambria - Welcome Home (Instrumental)                              |
 | [kHPovqyCRwJxWdCCZi](blurls/kHPovqyCRwJxWdCCZi.json) | Coheed and Cambria - Welcome Home (Preview)                                   |
 | [ErOtYmiIsEhUZhWZcJ](blurls/ErOtYmiIsEhUZhWZcJ.json) | Coheed and Cambria - Welcome Home (Stereo Track)                              |
+| [CymTQDpsoeBKSFcrgL](blurls/CymTQDpsoeBKSFcrgL.json) | Crazy Music Channel - Chicken Banana                                          |
+| [CwrzeKovjZcxfrTKMF](blurls/CwrzeKovjZcxfrTKMF.json) | Crazy Music Channel - Chicken Banana (Instrumental)                           |
+| [LDJZggaAEaBzYItIhw](blurls/LDJZggaAEaBzYItIhw.json) | Crazy Music Channel - Chicken Banana (Preview)                                |
+| [dacCaOxZIxMFNkUPGK](blurls/dacCaOxZIxMFNkUPGK.json) | Crazy Music Channel - Chicken Banana (Stereo Track)                           |
 | [yAxIXbBVdlzwOTICFV](blurls/yAxIXbBVdlzwOTICFV.json) | Creepy Nuts - Bling-Bang-Bang-Born                                            |
 | [RoJsQabrWSBhlSkSqs](blurls/RoJsQabrWSBhlSkSqs.json) | Creepy Nuts - Bling-Bang-Bang-Born (Instrumental)                             |
 | [juUhACkkngqRSikIJc](blurls/juUhACkkngqRSikIJc.json) | Creepy Nuts - Bling-Bang-Bang-Born (Preview)                                  |
@@ -1051,6 +1055,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [JbuByssUzmGbuebndu](blurls/JbuByssUzmGbuebndu.json) | GAYLE - abcdefu (Instrumental)                                                |
 | [ZKOzlkbPzQFjYsGDih](blurls/ZKOzlkbPzQFjYsGDih.json) | GAYLE - abcdefu (Preview)                                                     |
 | [OxKBbtvnLDSHouTnvC](blurls/OxKBbtvnLDSHouTnvC.json) | GAYLE - abcdefu (Stereo Track)                                                |
+| [pmJqrDfiisajErRPdH](blurls/pmJqrDfiisajErRPdH.json) | Ghost - Mary on a Cross                                                       |
+| [IVHeXqgmLrNeJTeIgT](blurls/IVHeXqgmLrNeJTeIgT.json) | Ghost - Mary on a Cross (Instrumental)                                        |
+| [SsstUWepefCwdNlEwO](blurls/SsstUWepefCwdNlEwO.json) | Ghost - Mary on a Cross (Preview)                                             |
+| [spTLTXBDkIRfZKgFHd](blurls/spTLTXBDkIRfZKgFHd.json) | Ghost - Mary on a Cross (Stereo Track)                                        |
 | [ajIPKzQveMPCZXoWhV](blurls/ajIPKzQveMPCZXoWhV.json) | Glass Animals - Creatures In Heaven                                           |
 | [cGJLnuZEdTGWbrteqQ](blurls/cGJLnuZEdTGWbrteqQ.json) | Glass Animals - Creatures In Heaven (Instrumental)                            |
 | [DvuPKzUGGiQBzIUUPr](blurls/DvuPKzUGGiQBzIUUPr.json) | Glass Animals - Creatures In Heaven (Preview)                                 |
@@ -1200,6 +1208,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [jZGqxvCuHMaNXthOit](blurls/jZGqxvCuHMaNXthOit.json) | iShowSpeed - Head Shot / Gas In The Truck (Instrumental)                      |
 | [zSkUzMPNnLSCQUOlDP](blurls/zSkUzMPNnLSCQUOlDP.json) | iShowSpeed - Head Shot / Gas In The Truck (Preview)                           |
 | [PMfzRlzCjOvaOwQFVL](blurls/PMfzRlzCjOvaOwQFVL.json) | iShowSpeed - Head Shot / Gas In The Truck (Stereo Track)                      |
+| [wvKwYZkljdYhwmspGK](blurls/wvKwYZkljdYhwmspGK.json) | ITZY - WANNABE                                                                |
+| [vOQPQdgBhjvZBsJrWs](blurls/vOQPQdgBhjvZBsJrWs.json) | ITZY - WANNABE (Instrumental)                                                 |
+| [vxSgnvjLRlsZmWwGrS](blurls/vxSgnvjLRlsZmWwGrS.json) | ITZY - WANNABE (Preview)                                                      |
+| [kTTWejiYPSFkMyPVSa](blurls/kTTWejiYPSFkMyPVSa.json) | ITZY - WANNABE (Stereo Track)                                                 |
 | [ELWnwsucPRykeRZVJx](blurls/ELWnwsucPRykeRZVJx.json) | Iyaz - Replay                                                                 |
 | [ntKYzewoUuiuEchIsR](blurls/ntKYzewoUuiuEchIsR.json) | Iyaz - Replay (Preview)                                                       |
 | [hGXDTMrAWzpRHKkpeq](blurls/hGXDTMrAWzpRHKkpeq.json) | Iyaz - Replay (Stereo Track)                                                  |
@@ -1332,6 +1344,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [DqzCvNMmVhpOYBnXAV](blurls/DqzCvNMmVhpOYBnXAV.json) | Juice WRLD w/ Marshmello - Come & Go (v2) (Instrumental)                      |
 | [xSoXKeWwLrKxidEyNy](blurls/xSoXKeWwLrKxidEyNy.json) | Juice WRLD w/ Marshmello - Come & Go (v2) (Preview)                           |
 | [JHnLuvgBDrmYQvTjUW](blurls/JHnLuvgBDrmYQvTjUW.json) | Juice WRLD w/ Marshmello - Come & Go (v2) (Stereo Track)                      |
+| [kbKmcrmlTNQksHJurL](blurls/kbKmcrmlTNQksHJurL.json) | Juice WRLD w/ Marshmello - Come & Go (v3)                                     |
+| [yrvRKYfiZGZOucmKqX](blurls/yrvRKYfiZGZOucmKqX.json) | Juice WRLD w/ Marshmello - Come & Go (Instrumental) (v3)                      |
+| [ZAIWEgVtCnNETlTGxp](blurls/ZAIWEgVtCnNETlTGxp.json) | Juice WRLD w/ Marshmello - Come & Go (Preview) (v3)                           |
+| [JGDzHulQChFgRZShIe](blurls/JGDzHulQChFgRZShIe.json) | Juice WRLD w/ Marshmello - Come & Go (Stereo Track) (v3)                      |
 | [uPKmPFItsRflRYnJax](blurls/uPKmPFItsRflRYnJax.json) | Julia Wolf - In My Room                                                       |
 | [jAneHLqDYVYTvDbePV](blurls/jAneHLqDYVYTvDbePV.json) | Julia Wolf - In My Room (Instrumental)                                        |
 | [pMaveiXNAnSeVLGDeP](blurls/pMaveiXNAnSeVLGDeP.json) | Julia Wolf - In My Room (Preview)                                             |
@@ -2350,6 +2366,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [nAJnLavBVdBzqEmLSc](blurls/nAJnLavBVdBzqEmLSc.json) | The Weeknd - Take My Breath (Instrumental) (v2)                               |
 | [mAExRIAFXuWzVvyjAG](blurls/mAExRIAFXuWzVvyjAG.json) | The Weeknd - Take My Breath (Preview) (v2)                                    |
 | [ECaCzjPyUyKSSsdNgX](blurls/ECaCzjPyUyKSSsdNgX.json) | The Weeknd - Take My Breath (Stereo Track) (v2)                               |
+| [TFcytwydxhmFCKGAwr](blurls/TFcytwydxhmFCKGAwr.json) | The Weeknd - Take My Breath (v3)                                              |
+| [JgIwBPqFabAvitrLWe](blurls/JgIwBPqFabAvitrLWe.json) | The Weeknd - Take My Breath (Instrumental) (v3)                               |
+| [ZPsnxFIGAobfeuYYzH](blurls/ZPsnxFIGAobfeuYYzH.json) | The Weeknd - Take My Breath (Preview) (v3)                                    |
+| [SFeUlHSbBAKiQfoAfH](blurls/SFeUlHSbBAKiQfoAfH.json) | The Weeknd - Take My Breath (Stereo Track) (v3)                               |
 | [DatkYCnyQXhilclBWq](blurls/DatkYCnyQXhilclBWq.json) | The Weeknd - The Hills                                                        |
 | [qMUcnZMktcgIdOBRQq](blurls/qMUcnZMktcgIdOBRQq.json) | The Weeknd - The Hills (Instrumental)                                         |
 | [HCRPRUFmfPuyhItQYw](blurls/HCRPRUFmfPuyhItQYw.json) | The Weeknd - The Hills (Preview)                                              |

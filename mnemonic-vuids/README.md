@@ -85,3 +85,4 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [PCmDvpiQopIhNirMYz](blurls/PCmDvpiQopIhNirMYz.json) | set_nobuild_playlists: Pacific Break |
 | [KLHeAwpnfyWJzsHggq](blurls/KLHeAwpnfyWJzsHggq.json) | set_nobuild_playlists: Zero Build - Battle Royale |
 | [VTfsLUcDGhrnzHppNB](blurls/VTfsLUcDGhrnzHppNB.json) | set_nobuild_playlists: Zero Build - Battle Royale (v1) |
+| [jYRTYACDDJrYTiSJwi](blurls/jYRTYACDDJrYTiSJwi.json) | set_pimlico_playlists: Fall Guys Crown Jam |
