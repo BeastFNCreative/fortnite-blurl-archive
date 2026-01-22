@@ -611,6 +611,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [oFfSNDummQOUKnFMVb](blurls/oFfSNDummQOUKnFMVb.json) | Epic Games - Crimson Barony  (Instrumental)                                   |
 | [QdJPOfeqeNWbgODnjo](blurls/QdJPOfeqeNWbgODnjo.json) | Epic Games - Crimson Barony  (Preview)                                        |
 | [YFtdccnOYmrEqiEDtw](blurls/YFtdccnOYmrEqiEDtw.json) | Epic Games - Crimson Barony  (Stereo Track)                                   |
+| [nelRLFimygSBKhEDXz](blurls/nelRLFimygSBKhEDXz.json) | Epic Games - Crown Jam - Less Fallin' More Ballin'                            |
+| [VsnYEWQcJntFYNNjOl](blurls/VsnYEWQcJntFYNNjOl.json) | Epic Games - Crown Jam - Less Fallin' More Ballin' (Instrumental)             |
+| [AypibLaoRslFNWwzLz](blurls/AypibLaoRslFNWwzLz.json) | Epic Games - Crown Jam - Less Fallin' More Ballin' (Preview)                  |
+| [GQvevyfTHQimWoAnOb](blurls/GQvevyfTHQimWoAnOb.json) | Epic Games - Crown Jam - Less Fallin' More Ballin' (Stereo Track)             |
 | [ndnUaAjyTPAZVvlfNa](blurls/ndnUaAjyTPAZVvlfNa.json) | Epic Games - Dance Therapy                                                    |
 | [vfNSvdYQAzOToNpbGu](blurls/vfNSvdYQAzOToNpbGu.json) | Epic Games - Dance Therapy (Instrumental)                                     |
 | [ToEVHmpxRMBFUoGjfA](blurls/ToEVHmpxRMBFUoGjfA.json) | Epic Games - Dance Therapy (Preview)                                          |

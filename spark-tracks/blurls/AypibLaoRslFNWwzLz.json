@@ -1,0 +1,13 @@
+{
+    "playlists": [
+        {
+            "type": "main",
+            "language": "en",
+            "url": "https://pilgrim.qstv.on.epicgames.com/AypibLaoRslFNWwzLz/5100d160-069e-4710-8de5-b0b95052a843/5100d160-069e-4710-8de5-b0b95052a843/main.mpd",
+            "data": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" xmlns:xsi=\"\" xsi:schemaLocation=\"\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011,http://dashif.org/guidelines/dash264\" type=\"static\" mediaPresentationDuration=\"PT30.000S\" minBufferTime=\"PT1.500S\">\n  <BaseURL>https://pilgrim.qstv.on.epicgames.com/AypibLaoRslFNWwzLz/5100d160-069e-4710-8de5-b0b95052a843/</BaseURL>\n  <ProgramInformation></ProgramInformation>\n  <Period start=\"PT0S\" duration=\"PT30.000S\">\n    <AdaptationSet contentType=\"\" lang=\"und\" startWithSAP=\"1\" segmentAlignment=\"true\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n      <Role schemeIdUri=\"urn:mpeg:dash:role:2011\" value=\"main\"></Role>\n      <SupplementalProperty schemeIdUri=\"urn:mpeg:dash:preview_asset\" value=\"Original\"></SupplementalProperty>\n      <Representation id=\"1\" audioSamplingRate=\"44100\" bandwidth=\"192000\" mimeType=\"audio/mp4\" codecs=\"mp4a.40.2\">\n        <AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\"></AudioChannelConfiguration>\n        <BaseURL>main_0_0_dashinit.mp4</BaseURL>\n        <SegmentBase indexRange=\"868-1091\" indexRangeExact=\"true\">\n          <Initialization range=\"0-839\"></Initialization>\n        </SegmentBase>\n      </Representation>\n    </AdaptationSet>\n  </Period>\n</MPD>"
+        }
+    ],
+    "type": "vod",
+    "ucp": "a",
+    "audioonly": true
+}
