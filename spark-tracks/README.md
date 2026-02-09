@@ -67,6 +67,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [ZzKFBYdYKFjbuaDOlK](blurls/ZzKFBYdYKFjbuaDOlK.json) | Alice Deejay - Better Off Alone (Instrumental)                                |
 | [GyagcMfbomWJwpdQcL](blurls/GyagcMfbomWJwpdQcL.json) | Alice Deejay - Better Off Alone (Preview)                                     |
 | [VmiSSfLyByYaFlqdDl](blurls/VmiSSfLyByYaFlqdDl.json) | Alice Deejay - Better Off Alone (Stereo Track)                                |
+| [xGImjTfxFqyQqWfGlQ](blurls/xGImjTfxFqyQqWfGlQ.json) | American Football - Never Meant                                               |
+| [dVbFUZErfXainoZcLR](blurls/dVbFUZErfXainoZcLR.json) | American Football - Never Meant (Instrumental)                                |
+| [OddBYXylIfGJLspolR](blurls/OddBYXylIfGJLspolR.json) | American Football - Never Meant (Preview)                                     |
+| [ZzTRZgbCvGObLdLUZY](blurls/ZzTRZgbCvGObLdLUZY.json) | American Football - Never Meant (Stereo Track)                                |
 | [FKlCceqrbNSgHMbxUP](blurls/FKlCceqrbNSgHMbxUP.json) | Amyl and The Sniffers - U Should Not Be Doing That                            |
 | [UTTXYNZancnKjrvIwh](blurls/UTTXYNZancnKjrvIwh.json) | Amyl and The Sniffers - U Should Not Be Doing That (Instrumental)             |
 | [OWWcsVrNnhrTwbdSLH](blurls/OWWcsVrNnhrTwbdSLH.json) | Amyl and The Sniffers - U Should Not Be Doing That (Preview)                  |
@@ -117,6 +121,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [kXVpuFEsLtQpnSYuXk](blurls/kXVpuFEsLtQpnSYuXk.json) | Ava Max - My Oh My (Instrumental)                                             |
 | [WRSNjziEtYLjaMBZnT](blurls/WRSNjziEtYLjaMBZnT.json) | Ava Max - My Oh My (Preview)                                                  |
 | [buRCzaFAUZVPGbJBTq](blurls/buRCzaFAUZVPGbJBTq.json) | Ava Max - My Oh My (Stereo Track)                                             |
+| [NfNdSawuQFlRtRfNNO](blurls/NfNdSawuQFlRtRfNNO.json) | Ava Max - Sweet But Psycho                                                    |
+| [CZXpahvGxfEvHLNOwT](blurls/CZXpahvGxfEvHLNOwT.json) | Ava Max - Sweet But Psycho (Instrumental)                                     |
+| [aKWboMOdpWjHUOgogP](blurls/aKWboMOdpWjHUOgogP.json) | Ava Max - Sweet But Psycho (Preview)                                          |
+| [UovNxtmecrZJrXmLMm](blurls/UovNxtmecrZJrXmLMm.json) | Ava Max - Sweet But Psycho (Stereo Track)                                     |
 | [YxEWNqJlxhqgRGSQuK](blurls/YxEWNqJlxhqgRGSQuK.json) | Avenged Sevenfold - Hail To The King                                          |
 | [HAVUeTRFvsoBFCqFPf](blurls/HAVUeTRFvsoBFCqFPf.json) | Avenged Sevenfold - Hail To The King (Instrumental)                           |
 | [RxkAXHDBleHmweVvKC](blurls/RxkAXHDBleHmweVvKC.json) | Avenged Sevenfold - Hail To The King (Preview)                                |
@@ -157,6 +165,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [YPcyTUJtMCSXlfvyAg](blurls/YPcyTUJtMCSXlfvyAg.json) | Backstreet Boys - I Want It That Way (Instrumental)                           |
 | [LPemLAcfOovcAsYSid](blurls/LPemLAcfOovcAsYSid.json) | Backstreet Boys - I Want It That Way (Preview)                                |
 | [ffbqSNekpEcZxvkJnL](blurls/ffbqSNekpEcZxvkJnL.json) | Backstreet Boys - I Want It That Way (Stereo Track)                           |
+| [RfngefiWqItpUaQrcZ](blurls/RfngefiWqItpUaQrcZ.json) | Bad Bunny - BAILE INoLVIDABLE                                                 |
+| [eevgJoStfbuOLZmawQ](blurls/eevgJoStfbuOLZmawQ.json) | Bad Bunny - BAILE INoLVIDABLE (Instrumental)                                  |
+| [UBOQcfnPujJlmSCmYw](blurls/UBOQcfnPujJlmSCmYw.json) | Bad Bunny - BAILE INoLVIDABLE (Preview)                                       |
+| [UnabEQJnNwjtGLsEfR](blurls/UnabEQJnNwjtGLsEfR.json) | Bad Bunny - BAILE INoLVIDABLE (Stereo Track)                                  |
 | [KjereopOoXsOPYLGvI](blurls/KjereopOoXsOPYLGvI.json) | Bad Bunny - Tití Me Preguntó                                                  |
 | [DujLMclKUZFRWQHmWl](blurls/DujLMclKUZFRWQHmWl.json) | Bad Bunny - Tití Me Preguntó (Preview)                                        |
 | [tNwsdCwzOdrkJLqMkn](blurls/tNwsdCwzOdrkJLqMkn.json) | Bad Bunny - Tití Me Preguntó (v2)                                             |
@@ -333,6 +345,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [pzJAIGVEDNsNCHiRbB](blurls/pzJAIGVEDNsNCHiRbB.json) | Chappell Roan - HOT TO GO! (Instrumental)                                     |
 | [WQrUTmkFMrudAkLBLr](blurls/WQrUTmkFMrudAkLBLr.json) | Chappell Roan - HOT TO GO! (Preview)                                          |
 | [CcFUmDbsjutAOImCEj](blurls/CcFUmDbsjutAOImCEj.json) | Chappell Roan - HOT TO GO! (Stereo Track)                                     |
+| [HRRzzAtAVydoJliojX](blurls/HRRzzAtAVydoJliojX.json) | Chappell Roan - Pink Pony Club                                                |
+| [NqDuuDiiclySyhCVRv](blurls/NqDuuDiiclySyhCVRv.json) | Chappell Roan - Pink Pony Club (Instrumental)                                 |
+| [AAXgiiBlYrdwdhRowx](blurls/AAXgiiBlYrdwdhRowx.json) | Chappell Roan - Pink Pony Club (Preview)                                      |
+| [aJvJyCrfhuHSgtInli](blurls/aJvJyCrfhuHSgtInli.json) | Chappell Roan - Pink Pony Club (Stereo Track)                                 |
+| [bpiftnnaPPjKOUjvXe](blurls/bpiftnnaPPjKOUjvXe.json) | Chappell Roan - Pink Pony Club (v2)                                           |
+| [lHJcaeCFpOmWjInslX](blurls/lHJcaeCFpOmWjInslX.json) | Chappell Roan - Pink Pony Club (Instrumental) (v2)                            |
+| [vgwBJsxsjJjPdloBhw](blurls/vgwBJsxsjJjPdloBhw.json) | Chappell Roan - Pink Pony Club (Preview) (v2)                                 |
+| [aXPLNPbtHtegWGlryj](blurls/aXPLNPbtHtegWGlryj.json) | Chappell Roan - Pink Pony Club (Stereo Track) (v2)                            |
 | [HvjfzcwaQjYrUZRUIo](blurls/HvjfzcwaQjYrUZRUIo.json) | Chappell Roan - The Giver                                                     |
 | [tNmEUqPJSmGyiSOiyb](blurls/tNmEUqPJSmGyiSOiyb.json) | Chappell Roan - The Giver (Instrumental)                                      |
 | [mfPggZFHIZmRvbZrGj](blurls/mfPggZFHIZmRvbZrGj.json) | Chappell Roan - The Giver (Preview)                                           |
@@ -401,6 +421,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [WixdzaEYcZFljoeibH](blurls/WixdzaEYcZFljoeibH.json) | Darude - Sandstorm (Instrumental)                                             |
 | [fFiWFfKnAjyjncUHLI](blurls/fFiWFfKnAjyjncUHLI.json) | Darude - Sandstorm (Preview)                                                  |
 | [BYJsnGVOSvkGrQeEou](blurls/BYJsnGVOSvkGrQeEou.json) | Darude - Sandstorm (Stereo Track)                                             |
+| [oUnioUpeVKzGrYYzCU](blurls/oUnioUpeVKzGrYYzCU.json) | David Bowie - Starman                                                         |
+| [TbcVKqkKstovzJRqVU](blurls/TbcVKqkKstovzJRqVU.json) | David Bowie - Starman (Instrumental)                                          |
+| [MOPYofsWfvhpQcVcFc](blurls/MOPYofsWfvhpQcVcFc.json) | David Bowie - Starman (Preview)                                               |
+| [OuKDfkIdUFoprntZEt](blurls/OuKDfkIdUFoprntZEt.json) | David Bowie - Starman (Stereo Track)                                          |
 | [HItaTnBoUHzXhztAQu](blurls/HItaTnBoUHzXhztAQu.json) | David Glen Eisley, Bob Kulick - Sweet Victory                                 |
 | [QlPjakLYgkWVeyilmy](blurls/QlPjakLYgkWVeyilmy.json) | David Glen Eisley, Bob Kulick - Sweet Victory (Instrumental)                  |
 | [DrzYcaqmVOcQtgCGVR](blurls/DrzYcaqmVOcQtgCGVR.json) | David Glen Eisley, Bob Kulick - Sweet Victory (Preview)                       |
@@ -1238,6 +1262,18 @@ Jam Track Audio Data from Fortnite Festival.
 | [mQNyeHGUcPGbELHwbQ](blurls/mQNyeHGUcPGbELHwbQ.json) | Jack Harlow - WHATS POPPIN (v2) (Instrumental)                                |
 | [rPToQPfrpyrLLoUSAh](blurls/rPToQPfrpyrLLoUSAh.json) | Jack Harlow - WHATS POPPIN (v2) (Preview)                                     |
 | [ShMpZdyhQdpsRrZyBl](blurls/ShMpZdyhQdpsRrZyBl.json) | Jack Harlow - WHATS POPPIN (v2) (Stereo Track)                                |
+| [ZlbzQjyUIOXUACTwOR](blurls/ZlbzQjyUIOXUACTwOR.json) | Japanese Breakfast - Be Sweet                                                 |
+| [TRVTgoGXmkHGgGgcmB](blurls/TRVTgoGXmkHGgGgcmB.json) | Japanese Breakfast - Be Sweet (Instrumental)                                  |
+| [EZmELlZEVOpScREuxW](blurls/EZmELlZEVOpScREuxW.json) | Japanese Breakfast - Be Sweet (Preview)                                       |
+| [hbdjuhqGifRkpxsOMO](blurls/hbdjuhqGifRkpxsOMO.json) | Japanese Breakfast - Be Sweet (Stereo Track)                                  |
+| [rhAYSmKDQmnruxVIoJ](blurls/rhAYSmKDQmnruxVIoJ.json) | Japanese Breakfast - Be Sweet (v2)                                            |
+| [DChHAdMsmUyXFgVVNm](blurls/DChHAdMsmUyXFgVVNm.json) | Japanese Breakfast - Be Sweet (Instrumental) (v2)                             |
+| [JeBCkwnPHQPmreyszZ](blurls/JeBCkwnPHQPmreyszZ.json) | Japanese Breakfast - Be Sweet (Preview) (v2)                                  |
+| [gellxqCIIfrMzMLceU](blurls/gellxqCIIfrMzMLceU.json) | Japanese Breakfast - Be Sweet (Stereo Track) (v2)                             |
+| [ENbmlAhXCMxeWlXEeS](blurls/ENbmlAhXCMxeWlXEeS.json) | Jay Anderson, Mikhail Galkin - Dawn of a New Age                              |
+| [YowoNfgCqXofYawzmW](blurls/YowoNfgCqXofYawzmW.json) | Jay Anderson, Mikhail Galkin - Dawn of a New Age (Instrumental)               |
+| [aCoXRwlXDBMKyJNOPD](blurls/aCoXRwlXDBMKyJNOPD.json) | Jay Anderson, Mikhail Galkin - Dawn of a New Age (Preview)                    |
+| [RDSkSgCyMEBVJRtIUo](blurls/RDSkSgCyMEBVJRtIUo.json) | Jay Anderson, Mikhail Galkin - Dawn of a New Age (Stereo Track)               |
 | [uXkbUTOsDtstTMpAZa](blurls/uXkbUTOsDtstTMpAZa.json) | Jelly Roll - Liar                                                             |
 | [wHFqAWLIXuQWpBrEMq](blurls/wHFqAWLIXuQWpBrEMq.json) | Jelly Roll - Liar (Instrumental)                                              |
 | [vwelqLMYeTYYBiBlCc](blurls/vwelqLMYeTYYBiBlCc.json) | Jelly Roll - Liar (Preview)                                                   |
@@ -1486,6 +1522,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [RiWfRXzykKBSkwJlFg](blurls/RiWfRXzykKBSkwJlFg.json) | KT Tunstall - Suddenly I See (Instrumental)                                   |
 | [zrdluIrPYziTpscLKt](blurls/zrdluIrPYziTpscLKt.json) | KT Tunstall - Suddenly I See (Preview)                                        |
 | [bWcRbpjfKTbBoMScxt](blurls/bWcRbpjfKTbBoMScxt.json) | KT Tunstall - Suddenly I See (Stereo Track)                                   |
+| [xdxaZahJjzyYIDcknk](blurls/xdxaZahJjzyYIDcknk.json) | L1 - Meet Me in the Middle                                                    |
+| [KOnFYGsQtNaThofDWW](blurls/KOnFYGsQtNaThofDWW.json) | L1 - Meet Me in the Middle (Instrumental)                                     |
+| [jhxfjsELsucncHjcPh](blurls/jhxfjsELsucncHjcPh.json) | L1 - Meet Me in the Middle (Preview)                                          |
+| [tyYfSKqsyFYokDpbbf](blurls/tyYfSKqsyFYokDpbbf.json) | L1 - Meet Me in the Middle (Stereo Track)                                     |
 | [LStTLeuLYTIJPoeYMN](blurls/LStTLeuLYTIJPoeYMN.json) | Lady Gaga - Applause                                                          |
 | [ggUDJCRhfiAJpXjHAc](blurls/ggUDJCRhfiAJpXjHAc.json) | Lady Gaga - Applause (Preview)                                                |
 | [VUTlcqnUOQrEkESaxv](blurls/VUTlcqnUOQrEkESaxv.json) | Lady Gaga - Applause (v2)                                                     |
@@ -1745,6 +1785,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [fNXrigdzjdAbagrLQm](blurls/fNXrigdzjdAbagrLQm.json) | MGMT - Kids (v2) (Instrumental)                                               |
 | [IAiBrxQuafNxPupzuR](blurls/IAiBrxQuafNxPupzuR.json) | MGMT - Kids (v2) (Preview)                                                    |
 | [hXMFLXugpfQqFkizCz](blurls/hXMFLXugpfQqFkizCz.json) | MGMT - Kids (v2) (Stereo Track)                                               |
+| [LigszEeQGXUjDUPfwu](blurls/LigszEeQGXUjDUPfwu.json) | Mic Drop - Clappiness                                                         |
+| [uZSNlIwIBGrrKHCyWq](blurls/uZSNlIwIBGrrKHCyWq.json) | Mic Drop - Clappiness (Instrumental)                                          |
+| [spVsGVjLMsyIjNymPh](blurls/spVsGVjLMsyIjNymPh.json) | Mic Drop - Clappiness (Preview)                                               |
+| [CqvfAYYeUiHnadhhjV](blurls/CqvfAYYeUiHnadhhjV.json) | Mic Drop - Clappiness (Stereo Track)                                          |
+| [TjbcTeRUhLoRDhTray](blurls/TjbcTeRUhLoRDhTray.json) | Mic Drop - Mona Lisa                                                          |
+| [XEUPfiNqOhZCXWwKEE](blurls/XEUPfiNqOhZCXWwKEE.json) | Mic Drop - Mona Lisa (Instrumental)                                           |
+| [MZYiouCNEkVkCSxqpM](blurls/MZYiouCNEkVkCSxqpM.json) | Mic Drop - Mona Lisa (Preview)                                                |
+| [NLxQDuncMnQJRPrDzU](blurls/NLxQDuncMnQJRPrDzU.json) | Mic Drop - Mona Lisa (Stereo Track)                                           |
 | [QxxqeiJTLAgOWqOuTb](blurls/QxxqeiJTLAgOWqOuTb.json) | Miley Cyrus  - Flowers                                                        |
 | [yubGxdnVnJgSqkYxmN](blurls/yubGxdnVnJgSqkYxmN.json) | Miley Cyrus  - Flowers (Instrumental)                                         |
 | [oSeWpNfSFwwwIxguPl](blurls/oSeWpNfSFwwwIxguPl.json) | Miley Cyrus  - Flowers (Preview)                                              |
@@ -2538,6 +2586,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [thBAvopnUAPCosUdrg](blurls/thBAvopnUAPCosUdrg.json) | Young MC - Bust A Move (Instrumental)                                         |
 | [OAuUHCQATAKKHDWgcz](blurls/OAuUHCQATAKKHDWgcz.json) | Young MC - Bust A Move (Preview)                                              |
 | [RQZRwoOfsPzOqHUvmY](blurls/RQZRwoOfsPzOqHUvmY.json) | Young MC - Bust A Move (Stereo Track)                                         |
+| [InsSjUTkkTaGbJdndP](blurls/InsSjUTkkTaGbJdndP.json) | YUNGBLUD - parents                                                            |
+| [glwyisgFVZBNcUbfEm](blurls/glwyisgFVZBNcUbfEm.json) | YUNGBLUD - parents (Instrumental)                                             |
+| [CzwqJouqgcrvAacwqG](blurls/CzwqJouqgcrvAacwqG.json) | YUNGBLUD - parents (Preview)                                                  |
+| [ooRVZVMVAgkTOrgjct](blurls/ooRVZVMVAgkTOrgjct.json) | YUNGBLUD - parents (Stereo Track)                                             |
 | [ORhDQOoCEUwGjhyrsA](blurls/ORhDQOoCEUwGjhyrsA.json) | Zedd, Maren Morris & Grey - The Middle                                        |
 | [TzLrheEjtXOCTaKmvY](blurls/TzLrheEjtXOCTaKmvY.json) | Zedd, Maren Morris & Grey - The Middle (Instrumental)                         |
 | [JlSJeNXyQhYTPfSKqo](blurls/JlSJeNXyQhYTPfSKqo.json) | Zedd, Maren Morris & Grey - The Middle (Preview)                              |

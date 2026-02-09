@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [EfkSfkyyZMHUVmqSyR](blurls/EfkSfkyyZMHUVmqSyR.json) | Battle Royale Zero Build and Ranked Merge Clip |
 | [VxAKIGhrYuQjHsZwWa](blurls/VxAKIGhrYuQjHsZwWa.json) | Fortnite OG Season 7 Promo |
 | [ezSJSUFoMyfdChPbGX](blurls/ezSJSUFoMyfdChPbGX.json) | Fortnite X South Park 67 Emote Promo |
 | [HaYPdCCoLXurjseWce](blurls/HaYPdCCoLXurjseWce.json) | Fortnite X BLEACH Collab Trailer |
