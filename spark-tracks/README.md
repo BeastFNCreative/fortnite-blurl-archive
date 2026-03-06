@@ -183,6 +183,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [ylhjAaapAFbDMYMLlM](blurls/ylhjAaapAFbDMYMLlM.json) | Bad Bunny and Jhayco - DÁKITI (Instrumental)                                  |
 | [mZritCnEhzCDSKmnGa](blurls/mZritCnEhzCDSKmnGa.json) | Bad Bunny and Jhayco - DÁKITI (Preview)                                       |
 | [lkmCqcfGjLvAmqCeGe](blurls/lkmCqcfGjLvAmqCeGe.json) | Bad Bunny and Jhayco - DÁKITI (Stereo Track)                                  |
+| [RCfJlLpnXhfOWrigSm](blurls/RCfJlLpnXhfOWrigSm.json) | Bad Omens - Just Pretend                                                      |
+| [WyWfSUdkyjmflyYJqN](blurls/WyWfSUdkyjmflyYJqN.json) | Bad Omens - Just Pretend (Instrumental)                                       |
+| [caPpqHaxVafNRwWTCX](blurls/caPpqHaxVafNRwWTCX.json) | Bad Omens - Just Pretend (Preview)                                            |
+| [ebSThIZQKYrUlWsAJp](blurls/ebSThIZQKYrUlWsAJp.json) | Bad Omens - Just Pretend (Stereo Track)                                       |
 | [zeSOoTNxwnaxVsWNep](blurls/zeSOoTNxwnaxVsWNep.json) | Baha Men - Who Let The Dogs Out                                               |
 | [CTIZQnrAXZNKPLUxAW](blurls/CTIZQnrAXZNKPLUxAW.json) | Baha Men - Who Let The Dogs Out (Instrumental)                                |
 | [AGKcckHyjsDUgGMLRU](blurls/AGKcckHyjsDUgGMLRU.json) | Baha Men - Who Let The Dogs Out (Preview)                                     |
@@ -365,6 +369,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [XCKucfVRVBATTzMAuu](blurls/XCKucfVRVBATTzMAuu.json) | Charlie Brown Jr. - Proibida Pra Mim (Grazon) (Instrumental)                  |
 | [TAwbgOxNBUCHGgdMRH](blurls/TAwbgOxNBUCHGgdMRH.json) | Charlie Brown Jr. - Proibida Pra Mim (Grazon) (Preview)                       |
 | [EDbTtqGLaLzkcklhVt](blurls/EDbTtqGLaLzkcklhVt.json) | Charlie Brown Jr. - Proibida Pra Mim (Grazon) (Stereo Track)                  |
+| [tiHYQKCggvVYVcaoPl](blurls/tiHYQKCggvVYVcaoPl.json) | Chezile - Beanie                                                              |
+| [eBmzHxXzoJijufSgzt](blurls/eBmzHxXzoJijufSgzt.json) | Chezile - Beanie (Instrumental)                                               |
+| [VMNSSnwHhGxmRMmOzg](blurls/VMNSSnwHhGxmRMmOzg.json) | Chezile - Beanie (Preview)                                                    |
+| [wLDBkLFNRJrCiEzaas](blurls/wLDBkLFNRJrCiEzaas.json) | Chezile - Beanie (Stereo Track)                                               |
 | [OEiTSmmKUgLMsNIUPe](blurls/OEiTSmmKUgLMsNIUPe.json) | Christina Aguilera - Fighter                                                  |
 | [EgVnhltaUcRebwaZnz](blurls/EgVnhltaUcRebwaZnz.json) | Christina Aguilera - Fighter (Instrumental)                                   |
 | [ryJcuKzZySzWvUqbPt](blurls/ryJcuKzZySzWvUqbPt.json) | Christina Aguilera - Fighter (Preview)                                        |
@@ -541,6 +549,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [AHqudrmZIALAFWQDVU](blurls/AHqudrmZIALAFWQDVU.json) | Earth, Wind & Fire - September (Instrumental)                                 |
 | [laVTzGmdQvIIJzrtaG](blurls/laVTzGmdQvIIJzrtaG.json) | Earth, Wind & Fire - September (Preview)                                      |
 | [QImGjssMdfgFffILCE](blurls/QImGjssMdfgFffILCE.json) | Earth, Wind & Fire - September (Stereo Track)                                 |
+| [xsgFHxAwOJMtDzRKfx](blurls/xsgFHxAwOJMtDzRKfx.json) | Ecca Vandal - CRUISING TO SELF SOOTHE                                         |
+| [EyUaqPHExaMFCYKUFi](blurls/EyUaqPHExaMFCYKUFi.json) | Ecca Vandal - CRUISING TO SELF SOOTHE (Instrumental)                          |
+| [qSBIoJYrdpeDxegJxn](blurls/qSBIoJYrdpeDxegJxn.json) | Ecca Vandal - CRUISING TO SELF SOOTHE (Preview)                               |
+| [BszghlXqNaFYrbrIif](blurls/BszghlXqNaFYrbrIif.json) | Ecca Vandal - CRUISING TO SELF SOOTHE (Stereo Track)                          |
 | [WRKyljCDBpRoyYtjWe](blurls/WRKyljCDBpRoyYtjWe.json) | Ed Sheeran - Shivers                                                          |
 | [GLmBvmmIXtvSrIEwpf](blurls/GLmBvmmIXtvSrIEwpf.json) | Ed Sheeran - Shivers (Instrumental)                                           |
 | [DPArzxivXSQMGpUAKl](blurls/DPArzxivXSQMGpUAKl.json) | Ed Sheeran - Shivers (Preview)                                                |
@@ -1173,6 +1185,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [MVHItKowMPNkRVYxTW](blurls/MVHItKowMPNkRVYxTW.json) | Hanumankind ft. Kalmi - Big Dawgs (Instrumental)                              |
 | [XQOmLvaxwZOVSeeOYC](blurls/XQOmLvaxwZOVSeeOYC.json) | Hanumankind ft. Kalmi - Big Dawgs (Preview)                                   |
 | [AkKVjkmiRSlRyHSFRP](blurls/AkKVjkmiRSlRyHSFRP.json) | Hanumankind ft. Kalmi - Big Dawgs (Stereo Track)                              |
+| [kmCqysrOGOxHNaMalp](blurls/kmCqysrOGOxHNaMalp.json) | Haute & Freddy - Shy Girl                                                     |
+| [idCoAnbmCHeZZtePjJ](blurls/idCoAnbmCHeZZtePjJ.json) | Haute & Freddy - Shy Girl (Instrumental)                                      |
+| [PWbHajZOdwkbXoOrlG](blurls/PWbHajZOdwkbXoOrlG.json) | Haute & Freddy - Shy Girl (Preview)                                           |
+| [OnpDIdbYtozJFNUILe](blurls/OnpDIdbYtozJFNUILe.json) | Haute & Freddy - Shy Girl (Stereo Track)                                      |
 | [BzkAFdfbsArtjhjYew](blurls/BzkAFdfbsArtjhjYew.json) | Hits Over Time - Can't Stop Me                                                |
 | [nmBrKeGbxswQImgwMf](blurls/nmBrKeGbxswQImgwMf.json) | Hits Over Time - Can't Stop Me (Instrumental)                                 |
 | [KTGxmYcUEOVTmTzxqq](blurls/KTGxmYcUEOVTmTzxqq.json) | Hits Over Time - Can't Stop Me (Preview)                                      |
@@ -1975,6 +1991,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [OjiMmjxRThGaIwvcdQ](blurls/OjiMmjxRThGaIwvcdQ.json) | Pharrell Williams - Happy (Instrumental)                                      |
 | [PXsCkhYlBzhDaxiYmu](blurls/PXsCkhYlBzhDaxiYmu.json) | Pharrell Williams - Happy (Preview)                                           |
 | [pBJCCNbOkiFNPKulqw](blurls/pBJCCNbOkiFNPKulqw.json) | Pharrell Williams - Happy (Stereo Track)                                      |
+| [QjoetewvylXWIdBiWR](blurls/QjoetewvylXWIdBiWR.json) | Pierce The Veil - So Far So Fake                                              |
+| [rtkgkVwfuoKGsHiUJw](blurls/rtkgkVwfuoKGsHiUJw.json) | Pierce The Veil - So Far So Fake (Instrumental)                               |
+| [npJMAIMrfswOSJMRrs](blurls/npJMAIMrfswOSJMRrs.json) | Pierce The Veil - So Far So Fake (Preview)                                    |
+| [kFuOqIRpLMMljdtdYf](blurls/kFuOqIRpLMMljdtdYf.json) | Pierce The Veil - So Far So Fake (Stereo Track)                               |
 | [wGGCRknqbzobcKOPBP](blurls/wGGCRknqbzobcKOPBP.json) | Pikotaro - PPAP (Pen Pineapple Apple Pen) [Long Version]                      |
 | [lvfgLCUsmKYRnOPKLI](blurls/lvfgLCUsmKYRnOPKLI.json) | Pikotaro - PPAP (Pen Pineapple Apple Pen) [Long Version] (Instrumental)       |
 | [wCHiVzSNEVOtHSZuCn](blurls/wCHiVzSNEVOtHSZuCn.json) | Pikotaro - PPAP (Pen Pineapple Apple Pen) [Long Version] (Preview)            |
@@ -2069,6 +2089,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [QPVjyfdkAVDbydOQGT](blurls/QPVjyfdkAVDbydOQGT.json) | Rancid - Ruby Soho (Instrumental)                                             |
 | [NiRfmyLvywArMrUXIU](blurls/NiRfmyLvywArMrUXIU.json) | Rancid - Ruby Soho (Preview)                                                  |
 | [DyzZJnygCqLJdXtWhZ](blurls/DyzZJnygCqLJdXtWhZ.json) | Rancid - Ruby Soho (Stereo Track)                                             |
+| [zSWHdVPihwrgYkazJu](blurls/zSWHdVPihwrgYkazJu.json) | Ravyn Lenae - Love Me Not                                                     |
+| [JHkNUrwlXVglOzFyVQ](blurls/JHkNUrwlXVglOzFyVQ.json) | Ravyn Lenae - Love Me Not (Instrumental)                                      |
+| [mLXcakyRufQxNJvUkV](blurls/mLXcakyRufQxNJvUkV.json) | Ravyn Lenae - Love Me Not (Preview)                                           |
+| [LRVwDWgoJFINFzRssg](blurls/LRVwDWgoJFINFzRssg.json) | Ravyn Lenae - Love Me Not (Stereo Track)                                      |
 | [jeeftwiijevOAHxNrM](blurls/jeeftwiijevOAHxNrM.json) | Red Hot Chili Peppers - Californication                                       |
 | [LRDWAXIFXhzuYGXmVF](blurls/LRDWAXIFXhzuYGXmVF.json) | Red Hot Chili Peppers - Californication (Instrumental)                        |
 | [MubjeuaaDkhFeJYSpY](blurls/MubjeuaaDkhFeJYSpY.json) | Red Hot Chili Peppers - Californication (Preview)                             |
@@ -2326,6 +2350,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [GUrEmUcEOaEpcFztXM](blurls/GUrEmUcEOaEpcFztXM.json) | Teddy Swims - Lose Control (Instrumental)                                     |
 | [ikVSwXWDfwQvpwVpCy](blurls/ikVSwXWDfwQvpwVpCy.json) | Teddy Swims - Lose Control (Preview)                                          |
 | [RfecUytbNKjwZrsDzu](blurls/RfecUytbNKjwZrsDzu.json) | Teddy Swims - Lose Control (Stereo Track)                                     |
+| [ZgVvzgLqfygCfDFjYC](blurls/ZgVvzgLqfygCfDFjYC.json) | Tenacious D - Tribute                                                         |
+| [qmcZJnhZkvVCVMnVnA](blurls/qmcZJnhZkvVCVMnVnA.json) | Tenacious D - Tribute (Instrumental)                                          |
+| [wNOHJTJrvBJuwJmIvU](blurls/wNOHJTJrvBJuwJmIvU.json) | Tenacious D - Tribute (Preview)                                               |
+| [AfJcgrOpgAEptRKJvl](blurls/AfJcgrOpgAEptRKJvl.json) | Tenacious D - Tribute (Stereo Track)                                          |
 | [ZMvmydQYMcSLsYbHLh](blurls/ZMvmydQYMcSLsYbHLh.json) | Terror Squad ft. Remy & Fat Joe - Lean Back                                   |
 | [DOUAPaRHFuNBiQSZMM](blurls/DOUAPaRHFuNBiQSZMM.json) | Terror Squad ft. Remy & Fat Joe - Lean Back (Instrumental)                    |
 | [AhCYPZsRHwzeKhPqxm](blurls/AhCYPZsRHwzeKhPqxm.json) | Terror Squad ft. Remy & Fat Joe - Lean Back (Preview)                         |

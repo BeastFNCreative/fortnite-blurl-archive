@@ -1,0 +1,13 @@
+{
+    "playlists": [
+        {
+            "type": "main",
+            "language": "en",
+            "url": "https://fortnite-vod.akamaized.net/IgtOLgKPwpIVAUgzKF/dd96f562-0956-485e-9768-9601f5a570bc/main_en_US.mpd",
+            "fps": 30
+        }
+    ],
+    "type": "vod",
+    "ev": "AQANABB6eklRbWlWSlpSekRjD3OvEXNz3EnAV115MXUu4g==",
+    "limits": "Dev=Android*,TotalPhysMem=3500,Res=648|Dev=Android*,Res=368|Dev=Switch*,Res=720|Dev=XboxOne_Scorpio*,Res=720|Dev=XboxOne*,Res=504|Dev=PS4_Neo*,Res=720|Dev=PS4*,Res=504|Res=1080"
+}
