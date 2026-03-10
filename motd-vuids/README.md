@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [eItpRTqOkFqmNLmgFm](blurls/eItpRTqOkFqmNLmgFm.json) | CH7S2 Teaser Trailer |
 | [IgtOLgKPwpIVAUgzKF](blurls/IgtOLgKPwpIVAUgzKF.json) | CH7S1 Rocket Launch Event VOD |
 | [EfkSfkyyZMHUVmqSyR](blurls/EfkSfkyyZMHUVmqSyR.json) | Battle Royale Zero Build and Ranked Merge Clip |
 | [VxAKIGhrYuQjHsZwWa](blurls/VxAKIGhrYuQjHsZwWa.json) | Fortnite OG Season 7 Promo |

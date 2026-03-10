@@ -1197,6 +1197,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [mSLXnVUbkzHpkpZLse](blurls/mSLXnVUbkzHpkpZLse.json) | Hits Over Time - Repeated Story (Instrumental)                                |
 | [xOBuqPNRcIuLOoJaIQ](blurls/xOBuqPNRcIuLOoJaIQ.json) | Hits Over Time - Repeated Story (Preview)                                     |
 | [vrSEmpPVPSAsOYLvvX](blurls/vrSEmpPVPSAsOYLvvX.json) | Hits Over Time - Repeated Story (Stereo Track)                                |
+| [KQYdRKcUuSVjgWJmMk](blurls/KQYdRKcUuSVjgWJmMk.json) | Hoshimachi Suisei - BIBBIDIBA                                                 |
+| [qFLqbAUCZTOtltaBFd](blurls/qFLqbAUCZTOtltaBFd.json) | Hoshimachi Suisei - BIBBIDIBA (Instrumental)                                  |
+| [rnYtvsJICyJwaWNjXb](blurls/rnYtvsJICyJwaWNjXb.json) | Hoshimachi Suisei - BIBBIDIBA (Preview)                                       |
+| [dDrheNXFgfYuHAOPVP](blurls/dDrheNXFgfYuHAOPVP.json) | Hoshimachi Suisei - BIBBIDIBA (Stereo Track)                                  |
+| [swDcCAEOvXyUXunweo](blurls/swDcCAEOvXyUXunweo.json) | Hoshimachi Suisei - Stellar Stellar                                           |
+| [QvLEcxHpUnvSShldjB](blurls/QvLEcxHpUnvSShldjB.json) | Hoshimachi Suisei - Stellar Stellar (Instrumental)                            |
+| [AThbqXHlnDlAJVbwQf](blurls/AThbqXHlnDlAJVbwQf.json) | Hoshimachi Suisei - Stellar Stellar (Preview)                                 |
+| [VeQSXtiVtFpzacBKlg](blurls/VeQSXtiVtFpzacBKlg.json) | Hoshimachi Suisei - Stellar Stellar (Stereo Track)                            |
 | [ZYZjHisfyyGZcmaFTs](blurls/ZYZjHisfyyGZcmaFTs.json) | Hozier - Too Sweet                                                            |
 | [mkzpzDAdZHUWFMmLDZ](blurls/mkzpzDAdZHUWFMmLDZ.json) | Hozier - Too Sweet (Instrumental)                                             |
 | [rZObpKxOjuQPIRoqWz](blurls/rZObpKxOjuQPIRoqWz.json) | Hozier - Too Sweet (Preview)                                                  |
