@@ -1679,6 +1679,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [pRWDOKpyeHMfpiPNxa](blurls/pRWDOKpyeHMfpiPNxa.json) | LOS TUCANES DE TIJUANA - LA CHONA (Instrumental)                              |
 | [YbJEWWNHbQQGcJgEzO](blurls/YbJEWWNHbQQGcJgEzO.json) | LOS TUCANES DE TIJUANA - LA CHONA (Preview)                                   |
 | [csTVRhcYPqRePcqQrA](blurls/csTVRhcYPqRePcqQrA.json) | LOS TUCANES DE TIJUANA - LA CHONA (Stereo Track)                              |
+| [jGPBQQxThqkDfumqWQ](blurls/jGPBQQxThqkDfumqWQ.json) | LOS TUCANES DE TIJUANA - LA CHONA (v2)                                        |
+| [MxXjCUESqISMpUfDdj](blurls/MxXjCUESqISMpUfDdj.json) | LOS TUCANES DE TIJUANA - LA CHONA (v2) (Instrumental)                         |
+| [IBycTqzxzcfBYhRgeC](blurls/IBycTqzxzcfBYhRgeC.json) | LOS TUCANES DE TIJUANA - LA CHONA (v2) (Preview)                              |
+| [bfwdOakgJMTDnHyhKF](blurls/bfwdOakgJMTDnHyhKF.json) | LOS TUCANES DE TIJUANA - LA CHONA (v2) (Stereo Track)                         |
 | [YnJKPtmvhxVtXdxDtz](blurls/YnJKPtmvhxVtXdxDtz.json) | Lou Bega - Mambo No. 5 (A Little Bit of...)                                   |
 | [RUErGLTisvTCUwHLbj](blurls/RUErGLTisvTCUwHLbj.json) | Lou Bega - Mambo No. 5 (A Little Bit of...) (Instrumental)                    |
 | [QMKjnlkcpjKJxIZImH](blurls/QMKjnlkcpjKJxIZImH.json) | Lou Bega - Mambo No. 5 (A Little Bit of...) (Preview)                         |
