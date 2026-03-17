@@ -10,6 +10,8 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [nXOeRiaSaXWDVouoSE](blurls/nXOeRiaSaXWDVouoSE.json) | CH7S1 Story Recap Cinematic |
+| [pGfXsBBMmcfoGbPcnD](blurls/pGfXsBBMmcfoGbPcnD.json) | Save The World Free To Play Trailer |
 | [nhsRoCLLNOreUApTvG](blurls/nhsRoCLLNOreUApTvG.json) | CH7S2 Story Cinematic: Take The Plunge |
 | [eItpRTqOkFqmNLmgFm](blurls/eItpRTqOkFqmNLmgFm.json) | CH7S2 Teaser Trailer |
 | [IgtOLgKPwpIVAUgzKF](blurls/IgtOLgKPwpIVAUgzKF.json) | CH7S1 Rocket Launch Event VOD |

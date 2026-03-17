@@ -8,6 +8,10 @@ Jam Track Audio Data from Fortnite Festival.
 
 | VUID                                                 | Description                                                                   |
 | :--------------------------------------------------- | :---------------------------------------------------------------------------- |
+| [JkkvZsXwCLJooXWPzV](blurls/JkkvZsXwCLJooXWPzV.json) | 1K Phew, Lecrae - Move (Adapted)                                              |
+| [EnMhBXXJSXDCJwEfCO](blurls/EnMhBXXJSXDCJwEfCO.json) | 1K Phew, Lecrae - Move (Adapted) (Instrumental)                               |
+| [xoydgULKCSlDeocJBB](blurls/xoydgULKCSlDeocJBB.json) | 1K Phew, Lecrae - Move (Adapted) (Preview)                                    |
+| [UHRFhtLpiIdXVqvjIm](blurls/UHRFhtLpiIdXVqvjIm.json) | 1K Phew, Lecrae - Move (Adapted) (Stereo Track)                               |
 | [mFDFQmcGpQjcWNLdar](blurls/mFDFQmcGpQjcWNLdar.json) | 2hollis ft. Nate Sib - afraid                                                 |
 | [hsOVGuDDWrePmUguHR](blurls/hsOVGuDDWrePmUguHR.json) | 2hollis ft. Nate Sib - afraid (Instrumental)                                  |
 | [pQSIIywEJPpeSWpRon](blurls/pQSIIywEJPpeSWpRon.json) | 2hollis ft. Nate Sib - afraid (Preview)                                       |
@@ -1506,6 +1510,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [ugNwPaFtyVaMDktOXq](blurls/ugNwPaFtyVaMDktOXq.json) | Kendrick Lamar - i (v2) (Instrumental)                                        |
 | [wOBbQOTrZoYqRnyulI](blurls/wOBbQOTrZoYqRnyulI.json) | Kendrick Lamar - i (v2) (Preview)                                             |
 | [dnzfBJNiHXAkOhUtum](blurls/dnzfBJNiHXAkOhUtum.json) | Kendrick Lamar - i (v2) (Stereo Track)                                        |
+| [yHxLQIfBENlXttvmRd](blurls/yHxLQIfBENlXttvmRd.json) | Kendrick Lamar ft. Lefty Gunplay - TV Off                                     |
+| [LfZfaWvCXZRIjfcpWa](blurls/LfZfaWvCXZRIjfcpWa.json) | Kendrick Lamar ft. Lefty Gunplay - TV Off (Instrumental)                      |
+| [eNufGzdGiVkgbmmHNr](blurls/eNufGzdGiVkgbmmHNr.json) | Kendrick Lamar ft. Lefty Gunplay - TV Off (Preview)                           |
+| [iEzdtCifZKrHxliYem](blurls/iEzdtCifZKrHxliYem.json) | Kendrick Lamar ft. Lefty Gunplay - TV Off (Stereo Track)                      |
 | [ijaWRbBNpHaFlqWrGz](blurls/ijaWRbBNpHaFlqWrGz.json) | Kendrick Lamar ft. SZA - All The Stars                                        |
 | [jFBQLWSrLbqBdcGxHB](blurls/jFBQLWSrLbqBdcGxHB.json) | Kendrick Lamar ft. SZA - All The Stars (Instrumental)                         |
 | [ekDMaQOcPinllpyChU](blurls/ekDMaQOcPinllpyChU.json) | Kendrick Lamar ft. SZA - All The Stars (Preview)                              |
