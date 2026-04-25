@@ -94,3 +94,5 @@ Seasonal Trailer Video Content, found in either the Career Tab or First Time Sta
 | [DjxnjycChYgHBvzbWl](blurls/DjxnjycChYgHBvzbWl.json) | Chapter 7 Season 1: LEGO Fortnite x Ninjago Trailer |
 | [aaOoiDMPTyKVlNykPn](blurls/aaOoiDMPTyKVlNykPn.json) | Chapter 7 Season 1: Fortnite X South Park Collab Trailer |
 | [mbudTnlNflGylOotmZ](blurls/mbudTnlNflGylOotmZ.json) | Chapter 7 Season 1: Fall Guys Crown Jam LTM Trailer |
+| [UsmqAfWCJdVWCEgeFT](blurls/UsmqAfWCJdVWCEgeFT.json) | Chapter 7 Season 2: Season Trailer |
+| [gtQLinKitmVqFrilUv](blurls/gtQLinKitmVqFrilUv.json) | Chapter 7 Season 2: LEGO Fortnite x Ninjago Act II Trailer |

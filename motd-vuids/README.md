@@ -10,11 +10,23 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
-| [nXOeRiaSaXWDVouoSE](blurls/nXOeRiaSaXWDVouoSE.json) | CH7S1 Story Recap Cinematic |
+| [JgAXMNrNhSaODIfNtG](blurls/JgAXMNrNhSaODIfNtG.json) | LEGO Fortnite x Ninjago: New Weapons |
+| [KtoFSrZEbyCtWcFsQD](blurls/KtoFSrZEbyCtWcFsQD.json) | Reload Elite Ground Map Trailer |
+| [VJxHcYPBXohUESdgfG](blurls/VJxHcYPBXohUESdgfG.json) | Fortnite Save The World: Intro Cinematic |
+| [zMGFMZtkBIlaXPumIB](blurls/zMGFMZtkBIlaXPumIB.json) | Fortnite Save The World goes Free To Play |
+| [MBFsfBJBNrVlgAxEuJ](blurls/MBFsfBJBNrVlgAxEuJ.json) | Fortnite x Phineas & Ferb Trailer |
+| [FvwHKTJUVvLPVWJjGR](blurls/FvwHKTJUVvLPVWJjGR.json) | Fortnite x Toy Story Trailer |
+| [skNFGVRoZbaYPdizLd](blurls/skNFGVRoZbaYPdizLd.json) | Chapter 7 Season 2: Act 2 Teaser |
+| [gGBlvRLtsoHninvLse](blurls/gGBlvRLtsoHninvLse.json) | Arena Trailer (SquareClub) |
+| [iNKIbmPtQCKVukAUIM](blurls/iNKIbmPtQCKVukAUIM.json) | Arena Gameplay (SquareClub) |
+| [jPxlSzOBCkPcnMooMR](blurls/jPxlSzOBCkPcnMooMR.json) | Chapter 7 Season 2: Season Explanation |
+| [xNAJzMBacYhVUkEaCb](blurls/xNAJzMBacYhVUkEaCb.json) | Chapter 7 Season 2: Trailer |
+| [DOqfNtzRDmEHCvRQFm](blurls/DOqfNtzRDmEHCvRQFm.json) | Chapter 7 Season 2: Rivalries Gameplay Trailer |
+| [nXOeRiaSaXWDVouoSE](blurls/nXOeRiaSaXWDVouoSE.json) | Chapter 7 Season 1: Story Recap Cinematic |
 | [pGfXsBBMmcfoGbPcnD](blurls/pGfXsBBMmcfoGbPcnD.json) | Save The World Free To Play Trailer |
-| [nhsRoCLLNOreUApTvG](blurls/nhsRoCLLNOreUApTvG.json) | CH7S2 Story Cinematic: Take The Plunge |
-| [eItpRTqOkFqmNLmgFm](blurls/eItpRTqOkFqmNLmgFm.json) | CH7S2 Teaser Trailer |
-| [IgtOLgKPwpIVAUgzKF](blurls/IgtOLgKPwpIVAUgzKF.json) | CH7S1 Rocket Launch Event VOD |
+| [nhsRoCLLNOreUApTvG](blurls/nhsRoCLLNOreUApTvG.json) | Chapter 7 Season 2 Story Cinematic: Take The Plunge |
+| [eItpRTqOkFqmNLmgFm](blurls/eItpRTqOkFqmNLmgFm.json) | Chapter 7 Season 2: Teaser Trailer |
+| [IgtOLgKPwpIVAUgzKF](blurls/IgtOLgKPwpIVAUgzKF.json) | Chapter 7 Season 1: Rocket Launch Event VOD |
 | [EfkSfkyyZMHUVmqSyR](blurls/EfkSfkyyZMHUVmqSyR.json) | Battle Royale Zero Build and Ranked Merge Clip |
 | [VxAKIGhrYuQjHsZwWa](blurls/VxAKIGhrYuQjHsZwWa.json) | Fortnite OG Season 7 Promo |
 | [ezSJSUFoMyfdChPbGX](blurls/ezSJSUFoMyfdChPbGX.json) | Fortnite X South Park 67 Emote Promo |
