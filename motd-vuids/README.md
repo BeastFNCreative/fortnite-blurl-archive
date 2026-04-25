@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [wNPuICBElILZeEXLKO](blurls/wNPuICBElILZeEXLKO.json) | Arena Release Trailer (SquareClub) |
 | [JgAXMNrNhSaODIfNtG](blurls/JgAXMNrNhSaODIfNtG.json) | LEGO Fortnite x Ninjago: New Weapons |
 | [KtoFSrZEbyCtWcFsQD](blurls/KtoFSrZEbyCtWcFsQD.json) | Reload Elite Ground Map Trailer |
 | [VJxHcYPBXohUESdgfG](blurls/VJxHcYPBXohUESdgfG.json) | Fortnite Save The World: Intro Cinematic |
