@@ -1835,6 +1835,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [BDQcUaBHoeWPBIRijY](blurls/BDQcUaBHoeWPBIRijY.json) | Meghan Trainor - Me Too (Instrumental)                                        |
 | [pYJCnjqDOqmMOeIPFq](blurls/pYJCnjqDOqmMOeIPFq.json) | Meghan Trainor - Me Too (Preview)                                             |
 | [vuFNzRcexgZGyJzZmU](blurls/vuFNzRcexgZGyJzZmU.json) | Meghan Trainor - Me Too (Stereo Track)                                        |
+| [mBlSCAxHRndRusEsRc](blurls/mBlSCAxHRndRusEsRc.json) | Melly Mike - Young Black & Rich                                               |
+| [aGTbioNyQsAQYgNgZy](blurls/aGTbioNyQsAQYgNgZy.json) | Melly Mike - Young Black & Rich (Instrumental)                                |
+| [laIHpZquuPDCWcwOIl](blurls/laIHpZquuPDCWcwOIl.json) | Melly Mike - Young Black & Rich (Preview)                                     |
+| [bUUtCAqElPSjFxszWp](blurls/bUUtCAqElPSjFxszWp.json) | Melly Mike - Young Black & Rich (Stereo Track)                                |
 | [NelnICKyBKmgiTHCwp](blurls/NelnICKyBKmgiTHCwp.json) | Metallica - Battery                                                           |
 | [YhElYdfWEWAfvvhNWE](blurls/YhElYdfWEWAfvvhNWE.json) | Metallica - Battery (Instrumental)                                            |
 | [BmXsiufJgbMTCuIThh](blurls/BmXsiufJgbMTCuIThh.json) | Metallica - Battery (Preview)                                                 |
@@ -2658,6 +2662,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [yFfHUqQTvbeQvqsehL](blurls/yFfHUqQTvbeQvqsehL.json) | Toto - Africa (Instrumental)                                                  |
 | [aEodzIcGlOISJIXotN](blurls/aEodzIcGlOISJIXotN.json) | Toto - Africa (Preview)                                                       |
 | [zgvEIpqhImaHnbXfQs](blurls/zgvEIpqhImaHnbXfQs.json) | Toto - Africa (Stereo Track)                                                  |
+| [uEObPfrZJJCbHzbBjS](blurls/uEObPfrZJJCbHzbBjS.json) | Turnstile - NEVER ENOUGH                                                      |
+| [tuANhNtFeDELyKJZFk](blurls/tuANhNtFeDELyKJZFk.json) | Turnstile - NEVER ENOUGH (Instrumental)                                       |
+| [dNAnqXPKpVvFAexfwX](blurls/dNAnqXPKpVvFAexfwX.json) | Turnstile - NEVER ENOUGH (Preview)                                            |
+| [yxJXdCoskqztSFjhbF](blurls/yxJXdCoskqztSFjhbF.json) | Turnstile - NEVER ENOUGH (Stereo Track)                                       |
 | [lVffADNHdJlFtWxIWH](blurls/lVffADNHdJlFtWxIWH.json) | Tyler, The Creator - EARFQUAKE                                                |
 | [jXISGETIdMIvCWrNev](blurls/jXISGETIdMIvCWrNev.json) | Tyler, The Creator - EARFQUAKE (Instrumental)                                 |
 | [gsvKnsvRaKQtZDiikl](blurls/gsvKnsvRaKQtZDiikl.json) | Tyler, The Creator - EARFQUAKE (Preview)                                      |
