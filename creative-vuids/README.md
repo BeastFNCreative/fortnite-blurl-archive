@@ -194,10 +194,12 @@ Creative / UEFN Video's used for Partner Projects.
 | [pQOXVbyjdgOhjGEv](blurls/pQOXVbyjdgOhjGEv.json)     | Soundwave Series ft. Tones And I: Concert Video                                                        |
 | [OVOSiPmHodWuNdlNXO](blurls/OVOSiPmHodWuNdlNXO.json) | Star Wars Watch Party: Tales Of The Underworld Episodes                                                |
 | [qDTDHgXVbuZdWywWov](blurls/qDTDHgXVbuZdWywWov.json) | Star Wars Watch Party: Tales Of The Underworld Trailer                                                 |
+| [GqhQHzsfaCSaMAeaOa](blurls/GqhQHzsfaCSaMAeaOa.json) | STELLAR in Fortnite: Main Concert Video                                                                |
+| [YcUugQZQomPrLOxSgP](blurls/YcUugQZQomPrLOxSgP.json) | STELLAR in Fortnite: Alternative Cut Concert Video                                                     |
 | [aDDflTSeaCzkOuUNZL](blurls/aDDflTSeaCzkOuUNZL.json) | SypherPK: Stories from the Battle Bus Video                                                            |
 | [yfJEDWIKnOokIIitxh](blurls/yfJEDWIKnOokIIitxh.json) | The Kid LAROI's Wild Dreams: Concert Video                                                             |
 | [HarviIxLVSrGGqVrZl](blurls/HarviIxLVSrGGqVrZl.json) | The Kid LAROI's Wild Dreams Afterparty: Background Video                                               |
-| [YfbswGwaUPLVXZhyfs](blurls/YfbswGwaUPLVXZhyfs.json) | The Lost Chapter: Yuki's Revenge |
+| [YfbswGwaUPLVXZhyfs](blurls/YfbswGwaUPLVXZhyfs.json) | The Lost Chapter: Yuki's Revenge                                                                       |
 | [WwbmiMLdPkQnKYDE](blurls/WwbmiMLdPkQnKYDE.json)     | The March Through Time: Speech Video                                                                   |
 | [KabraIjTXGIYHqHO](blurls/KabraIjTXGIYHqHO.json)     | The O2: Llama-tron Video                                                                               |
 | [TKnMjLfoFHgpenVg](blurls/TKnMjLfoFHgpenVg.json)     | The O2: Spy Within Trailer                                                                             |
