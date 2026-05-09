@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [ZBWdNhlyYeXPTVApln](blurls/ZBWdNhlyYeXPTVApln.json) | Solo Leveling Collab Trailer |
 | [WSHDwauwfwPpZTCXAs](blurls/WSHDwauwfwPpZTCXAs.json) | Sweethearts Icon Series Emote |
 | [PnMkNkzQxHUCoUbcXg](blurls/PnMkNkzQxHUCoUbcXg.json) | Star Wars Islands Release Trailer |
 | [wNPuICBElILZeEXLKO](blurls/wNPuICBElILZeEXLKO.json) | Arena Release Trailer (SquareClub) |
