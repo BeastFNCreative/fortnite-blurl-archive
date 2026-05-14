@@ -1057,6 +1057,18 @@ Jam Track Audio Data from Fortnite Festival.
 | [SJpyecHaAuiCAtoYkZ](blurls/SJpyecHaAuiCAtoYkZ.json) | Epic Games ft. Murda Beatz - Spies! (Murda Beatz Remix) (Instrumental)        |
 | [mRTXOopEZAazIXbtqx](blurls/mRTXOopEZAazIXbtqx.json) | Epic Games ft. Murda Beatz - Spies! (Murda Beatz Remix) (Preview)             |
 | [nBoERKBduDdTMXWiTW](blurls/nBoERKBduDdTMXWiTW.json) | Epic Games ft. Murda Beatz - Spies! (Murda Beatz Remix) (Stereo Track)        |
+| [tfDDskToBwBTBniSNj](blurls/tfDDskToBwBTBniSNj.json) | EsDeeKid - 4 Raws                                                             |
+| [SEZEDTZwMVIwEygKHz](blurls/SEZEDTZwMVIwEygKHz.json) | EsDeeKid - 4 Raws (Instrumental)                                              |
+| [AzLnetDaxZbLUeetgD](blurls/AzLnetDaxZbLUeetgD.json) | EsDeeKid - 4 Raws (Preview)                                                   |
+| [rvnWlvlXBuJOiNNLIE](blurls/rvnWlvlXBuJOiNNLIE.json) | EsDeeKid - 4 Raws (Stereo Track)                                              |
+| [xWjkVUalgwxoUhxZEd](blurls/xWjkVUalgwxoUhxZEd.json) | EsDeeKid - Century                                                            |
+| [hMEVRnMbnEcqWiAQkg](blurls/hMEVRnMbnEcqWiAQkg.json) | EsDeeKid - Century (Instrumental)                                             |
+| [BxyWwXKWzklRdxnuhN](blurls/BxyWwXKWzklRdxnuhN.json) | EsDeeKid - Century (Preview)                                                  |
+| [uLXnzecveSEIStgfqT](blurls/uLXnzecveSEIStgfqT.json) | EsDeeKid - Century (Stereo Track)                                             |
+| [YXwPfsuvCrlzxTKFgm](blurls/YXwPfsuvCrlzxTKFgm.json) | EsDeeKid - Rottweiler                                                         |
+| [ybqzXJpQeptmwttRay](blurls/ybqzXJpQeptmwttRay.json) | EsDeeKid - Rottweiler (Instrumental)                                          |
+| [jTiZFiKlhjzCOrOtOM](blurls/jTiZFiKlhjzCOrOtOM.json) | EsDeeKid - Rottweiler (Preview)                                               |
+| [iDjTZvLElSdHYZrGni](blurls/iDjTZvLElSdHYZrGni.json) | EsDeeKid - Rottweiler (Stereo Track)                                          |
 | [KMZSjRPMJPOFBuTsSR](blurls/KMZSjRPMJPOFBuTsSR.json) | Eslabon Armado, Peso Pluma  - Ella Baila Sola                                 |
 | [hXoOMlaSzhFwSHbDeS](blurls/hXoOMlaSzhFwSHbDeS.json) | Eslabon Armado, Peso Pluma  - Ella Baila Sola (Instrumental)                  |
 | [JlZgpuVyUmKvcJYCxD](blurls/JlZgpuVyUmKvcJYCxD.json) | Eslabon Armado, Peso Pluma  - Ella Baila Sola (Preview)                       |
