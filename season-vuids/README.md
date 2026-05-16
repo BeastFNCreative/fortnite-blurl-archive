@@ -98,3 +98,4 @@ Seasonal Trailer Video Content, found in either the Career Tab or First Time Sta
 | [gtQLinKitmVqFrilUv](blurls/gtQLinKitmVqFrilUv.json) | Chapter 7 Season 2: LEGO Fortnite x Ninjago Act II Trailer |
 | [JtpmBaJrWxwyjqWSOt](blurls/JtpmBaJrWxwyjqWSOt.json) | Chapter 7 Season 2: Fortnite x Overwatch Trailer |
 | [OEInfeReZVbowOIBJH](blurls/OEInfeReZVbowOIBJH.json) | Chapter 7 Season 2: Zero Build Revamp Explanation |
+| [peJnQSpsFVQneeMXZA](blurls/peJnQSpsFVQneeMXZA.json) | Chapter 7 Season 2: Fortnite x EsDeeKid Trailer |
