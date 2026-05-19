@@ -200,6 +200,11 @@ Creative / UEFN Video's used for Partner Projects.
 | [yfJEDWIKnOokIIitxh](blurls/yfJEDWIKnOokIIitxh.json) | The Kid LAROI's Wild Dreams: Concert Video                                                             |
 | [HarviIxLVSrGGqVrZl](blurls/HarviIxLVSrGGqVrZl.json) | The Kid LAROI's Wild Dreams Afterparty: Background Video                                               |
 | [YfbswGwaUPLVXZhyfs](blurls/YfbswGwaUPLVXZhyfs.json) | The Lost Chapter: Yuki's Revenge                                                                       |
+| [YMByWVbWQKNuRAwXsT](blurls/YMByWVbWQKNuRAwXsT.json) | The Mandalorian and Grogu Watch Party: First 10 Minutes                                                |
+| [CEkkcfeCiActsrfPoj](blurls/CEkkcfeCiActsrfPoj.json) | The Mandalorian and Grogu Watch Party: First 10 Minutes (Child Safe Version)                           |
+| [NsrcSNGpWTOJIPKEOV](blurls/NsrcSNGpWTOJIPKEOV.json) | The Mandalorian and Grogu Watch Party: Intro                                                           |
+| [nCcXObuCklFiKsjvRz](blurls/nCcXObuCklFiKsjvRz.json) | The Mandalorian and Grogu Watch Party: Intro (WIP v1)                                                  |
+| [bRwzlgHuWbbcMxAWPt](blurls/bRwzlgHuWbbcMxAWPt.json) | The Mandalorian and Grogu Watch Party: Intro (WIP v2)                                                  |
 | [WwbmiMLdPkQnKYDE](blurls/WwbmiMLdPkQnKYDE.json)     | The March Through Time: Speech Video                                                                   |
 | [KabraIjTXGIYHqHO](blurls/KabraIjTXGIYHqHO.json)     | The O2: Llama-tron Video                                                                               |
 | [TKnMjLfoFHgpenVg](blurls/TKnMjLfoFHgpenVg.json)     | The O2: Spy Within Trailer                                                                             |
