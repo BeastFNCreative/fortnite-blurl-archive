@@ -1576,6 +1576,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [ZXZgBnEdllDoVoZptP](blurls/ZXZgBnEdllDoVoZptP.json) | Katy Perry ft. Juicy J - Dark Horse (v2) (Instrumental)                       |
 | [wvJiAteJBsebrJsABF](blurls/wvJiAteJBsebrJsABF.json) | Katy Perry ft. Juicy J - Dark Horse (v2) (Preview)                            |
 | [NvJrJWMlhWfGhApDyK](blurls/NvJrJWMlhWfGhApDyK.json) | Katy Perry ft. Juicy J - Dark Horse (v2) (Stereo Track)                       |
+| [UgWYdndVkTDwMJwVbG](blurls/UgWYdndVkTDwMJwVbG.json) | Kehlani - Folded                                                              |
+| [lYKfIUNbpCgpUixIxa](blurls/lYKfIUNbpCgpUixIxa.json) | Kehlani - Folded (Instrumental)                                               |
+| [ZxwOmmICKjViPTdqMP](blurls/ZxwOmmICKjViPTdqMP.json) | Kehlani - Folded (Preview)                                                    |
+| [uukUnpahnHLKvpgNkF](blurls/uukUnpahnHLKvpgNkF.json) | Kehlani - Folded (Stereo Track)                                               |
 | [TPApdjhCVZKhNzIyYX](blurls/TPApdjhCVZKhNzIyYX.json) | Kelly Clarkson - Stronger (What Doesn't Kill You)                             |
 | [pLwdQGEDMRoqrqfdvZ](blurls/pLwdQGEDMRoqrqfdvZ.json) | Kelly Clarkson - Stronger (What Doesn't Kill You) (Instrumental)              |
 | [IkpIuUfnWoRzCoTNux](blurls/IkpIuUfnWoRzCoTNux.json) | Kelly Clarkson - Stronger (What Doesn't Kill You) (Preview)                   |
@@ -2762,6 +2766,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [MKLZfdFzdgsLPfcMug](blurls/MKLZfdFzdgsLPfcMug.json) | WitchGang - Timeless (Instrumental)                                           |
 | [fVALLXBdAuxUVUnnQj](blurls/fVALLXBdAuxUVUnnQj.json) | WitchGang - Timeless (Preview)                                                |
 | [jajuWfhvZYqBQntYwg](blurls/jajuWfhvZYqBQntYwg.json) | WitchGang - Timeless (Stereo Track)                                           |
+| [ebilTwwIfEOdOEoXpm](blurls/ebilTwwIfEOdOEoXpm.json) | Wolf Parade  - I'll Believe in Anything                                       |
+| [WOuCYInKqREHbFqnXe](blurls/WOuCYInKqREHbFqnXe.json) | Wolf Parade  - I'll Believe in Anything  (Instrumental)                       |
+| [WUlkWKtyRMOjGFhvFd](blurls/WUlkWKtyRMOjGFhvFd.json) | Wolf Parade  - I'll Believe in Anything  (Preview)                            |
+| [pfJUpOcjfDKVCNkTVB](blurls/pfJUpOcjfDKVCNkTVB.json) | Wolf Parade  - I'll Believe in Anything  (Stereo Track)                       |
 | [XvJeLuGayiZLdHXPVw](blurls/XvJeLuGayiZLdHXPVw.json) | Wu-Tang Clan - C.R.E.A.M. (Cash Rules Everything Around Me)                   |
 | [isUUvDrOEdVEmvJLUm](blurls/isUUvDrOEdVEmvJLUm.json) | Wu-Tang Clan - C.R.E.A.M. (Cash Rules Everything Around Me) (Instrumental)    |
 | [wyQmDgeKRPYdtIZhFX](blurls/wyQmDgeKRPYdtIZhFX.json) | Wu-Tang Clan - C.R.E.A.M. (Cash Rules Everything Around Me) (Preview)         |
