@@ -1089,6 +1089,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [dJLSBVGsdCvEZRwUaq](blurls/dJLSBVGsdCvEZRwUaq.json) | Evanescence - Bring Me To Life (Instrumental)                                 |
 | [owXQzomvTwwigludHw](blurls/owXQzomvTwwigludHw.json) | Evanescence - Bring Me To Life (Preview)                                      |
 | [NrvljgmWfWQIIsfaap](blurls/NrvljgmWfWQIIsfaap.json) | Evanescence - Bring Me To Life (Stereo Track)                                 |
+| [mZwWygOsDBlcXshkBU](blurls/mZwWygOsDBlcXshkBU.json) | Evening Elephants - Snow On The Bluff                                         |
+| [FrHkIvLuXLMjbgdtvM](blurls/FrHkIvLuXLMjbgdtvM.json) | Evening Elephants - Snow On The Bluff (Instrumental)                          |
+| [zVghZcbdtUTbedIUUz](blurls/zVghZcbdtUTbedIUUz.json) | Evening Elephants - Snow On The Bluff (Preview)                               |
+| [HrVMenaUbRIicDTSKC](blurls/HrVMenaUbRIicDTSKC.json) | Evening Elephants - Snow On The Bluff (Stereo Track)                          |
 | [BamvXkHVSRFTFeRXQe](blurls/BamvXkHVSRFTFeRXQe.json) | Fall Out Boy - Centuries                                                      |
 | [DmOPirabphXKrqJQxK](blurls/DmOPirabphXKrqJQxK.json) | Fall Out Boy - Centuries (Instrumental)                                       |
 | [NtmjGKweZFSBUSejsJ](blurls/NtmjGKweZFSBUSejsJ.json) | Fall Out Boy - Centuries (Preview)                                            |
@@ -2482,6 +2486,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [qAiYWmYrmElkeEUgZS](blurls/qAiYWmYrmElkeEUgZS.json) | Sum 41 - Fat Lip (Instrumental)                                               |
 | [GyGXIVgukrlANJYXKu](blurls/GyGXIVgukrlANJYXKu.json) | Sum 41 - Fat Lip (Preview)                                                    |
 | [uMuViohHLPpUDesmWB](blurls/uMuViohHLPpUDesmWB.json) | Sum 41 - Fat Lip (Stereo Track)                                               |
+| [CClnekFwmAwqTSTduk](blurls/CClnekFwmAwqTSTduk.json) | Swae Lee - Flammable                                                          |
+| [edXzGcrMgtbvSbcrOs](blurls/edXzGcrMgtbvSbcrOs.json) | Swae Lee - Flammable (Instrumental)                                           |
+| [FoYHGMiFPqCKfYCQna](blurls/FoYHGMiFPqCKfYCQna.json) | Swae Lee - Flammable (Preview)                                                |
+| [oFjuAZbegpytuLcegV](blurls/oFjuAZbegpytuLcegV.json) | Swae Lee - Flammable (Stereo Track)                                           |
 | [HwqWjyIrdXvdeApMnQ](blurls/HwqWjyIrdXvdeApMnQ.json) | Swedish House Mafia ft. John Martin - Don't You Worry Child                   |
 | [TMnHHVMUCSwcQFhsnq](blurls/TMnHHVMUCSwcQFhsnq.json) | Swedish House Mafia ft. John Martin - Don't You Worry Child (Instrumental)    |
 | [rmmbIzCyVNeSugaLjG](blurls/rmmbIzCyVNeSugaLjG.json) | Swedish House Mafia ft. John Martin - Don't You Worry Child (Preview)         |
@@ -2694,6 +2702,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [tuANhNtFeDELyKJZFk](blurls/tuANhNtFeDELyKJZFk.json) | Turnstile - NEVER ENOUGH (Instrumental)                                       |
 | [dNAnqXPKpVvFAexfwX](blurls/dNAnqXPKpVvFAexfwX.json) | Turnstile - NEVER ENOUGH (Preview)                                            |
 | [yxJXdCoskqztSFjhbF](blurls/yxJXdCoskqztSFjhbF.json) | Turnstile - NEVER ENOUGH (Stereo Track)                                       |
+| [twmwVnBnQjxySFPmdB](blurls/twmwVnBnQjxySFPmdB.json) | Turnstile - NEVER ENOUGH (v2)                                                 |
+| [kZJvVMaPptjSltAKrD](blurls/kZJvVMaPptjSltAKrD.json) | Turnstile - NEVER ENOUGH (v2) (Instrumental)                                  |
+| [IhkuLSgzeKdOBuiiNk](blurls/IhkuLSgzeKdOBuiiNk.json) | Turnstile - NEVER ENOUGH (v2) (Preview)                                       |
+| [YyRtlLYPkQygqUytAl](blurls/YyRtlLYPkQygqUytAl.json) | Turnstile - NEVER ENOUGH (v2) (Stereo Track)                                  |
 | [lVffADNHdJlFtWxIWH](blurls/lVffADNHdJlFtWxIWH.json) | Tyler, The Creator - EARFQUAKE                                                |
 | [jXISGETIdMIvCWrNev](blurls/jXISGETIdMIvCWrNev.json) | Tyler, The Creator - EARFQUAKE (Instrumental)                                 |
 | [gsvKnsvRaKQtZDiikl](blurls/gsvKnsvRaKQtZDiikl.json) | Tyler, The Creator - EARFQUAKE (Preview)                                      |

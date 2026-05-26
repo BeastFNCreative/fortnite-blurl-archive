@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [dCxForyIqRQTTDaPMM](blurls/dCxForyIqRQTTDaPMM.json) | Workplace Foundation Promo |
 | [NLPWZiKIBMZuIGHKdU](blurls/NLPWZiKIBMZuIGHKdU.json) | Rebelious Icon Series Emote |
 | [evpTBvHGktmnULKDWG](blurls/evpTBvHGktmnULKDWG.json) | Fortnite x Overwatch Gameplay Trailer |
 | [TJQhUsDFPdEgJzvYIw](blurls/TJQhUsDFPdEgJzvYIw.json) | Fortnite x Overwatch Cinematic Trailer |
