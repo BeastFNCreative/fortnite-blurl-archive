@@ -1,0 +1,18 @@
+{
+    "playlists": [
+        {
+            "type": "main",
+            "language": "en",
+            "url": "https://d18as5docanah0.cloudfront.net/out/v1/26eab6f4e1e748f6bfcea68502d2b1b3/cmaf/index.m3u8",
+            "fps": 60
+        },
+        {
+            "type": "main",
+            "language": "en",
+            "url": "https://d18as5docanah0.cloudfront.net/out/v1/0c79d27333ef4635892333678a461c26/cmaf/index.m3u8",
+            "fps": 30
+        }
+    ],
+    "type": "live",
+    "limits": "Dev=Android*,TotalPhysMem=3500,Res=648|Dev=Android*,Res=368|Dev=Windows*,Res=1080|Res=720"
+}

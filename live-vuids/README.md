@@ -15,6 +15,7 @@ Live Stream Content found across Fortnite.
 | [6P0z2s6KOtaOqoB0zz](blurls/6P0z2s6KOtaOqoB0zz.json) | Rocket League Live Tournament                            |
 | [827kPPcyRv83qtVCSm](blurls/827kPPcyRv83qtVCSm.json) | Rocket League Live Tournament                            |
 | [bbdb641b0e4b9bfe](blurls/bbdb641b0e4b9bfe.json)     | Legends Landing Live Stream                              |
+| [xX8tf94negh0jskQ9cZ4Yk](blurls/xX8tf94negh0jskQ9cZ4Yk.json)     | Legends Landing Live Stream (v2)             |
 | [bo9IzN3hIz1vSUk9ebzPYQ](blurls/bo9IzN3hIz1vSUk9ebzPYQ.json) | Remix The Prelude: Concert at Time Square with Snoop Dogg & Ice Spice |
 | [lQBRskFohvizzpnZ](blurls/lQBRskFohvizzpnZ.json)     | Old Untitled Stream                                      |
 | [MEChavh4RCJ9hDuBpd](blurls/MEChavh4RCJ9hDuBpd.json) | ???                                                      |
