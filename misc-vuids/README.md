@@ -32,6 +32,7 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [LBDBeUuVQFMlqfkmhi](blurls/LBDBeUuVQFMlqfkmhi.json) | Fracture In-Game Event Video - W.I.P Cinematic Part 4                                                |
 | [JoGhGIKTuDbICqHCrm](blurls/JoGhGIKTuDbICqHCrm.json) | Fortnite OG: Season Launch Trailer Placeholder                                                       |
 | [aHQHybaXOPladheyig](blurls/aHQHybaXOPladheyig.json) | Fortnite Ballistic First Time Launch Trailer                                                         |
+| [gMVycBuZDFMJXebCeh](blurls/gMVycBuZDFMJXebCeh.json) | Fortnite: Shattered Event Trailer Cinematic Reward                                                   |
 | [VOssCiYipSOlQlRqCz](blurls/VOssCiYipSOlQlRqCz.json) | Fortnite x The Simpsons: Week 1 Animated Short: Apocalypse D'Oh Part 1                               |
 | [nxCwVvfizOLduoZWop](blurls/nxCwVvfizOLduoZWop.json) | Fortnite x The Simpsons: Week 2 Animated Short: Apocalypse D'Oh Part 2 (Unused)                      |
 | [WkHMpshFmdIrAetsaZ](blurls/WkHMpshFmdIrAetsaZ.json) | Fortnite x The Simpsons: Week 2 Animated Short: Sugar High Part 1                                    |
