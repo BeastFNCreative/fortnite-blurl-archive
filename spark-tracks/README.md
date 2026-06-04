@@ -2241,6 +2241,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [JHkNUrwlXVglOzFyVQ](blurls/JHkNUrwlXVglOzFyVQ.json) | Ravyn Lenae - Love Me Not (Instrumental)                                      |
 | [mLXcakyRufQxNJvUkV](blurls/mLXcakyRufQxNJvUkV.json) | Ravyn Lenae - Love Me Not (Preview)                                           |
 | [LRVwDWgoJFINFzRssg](blurls/LRVwDWgoJFINFzRssg.json) | Ravyn Lenae - Love Me Not (Stereo Track)                                      |
+| [DKIZfJCqmlOMXCQNqe](blurls/DKIZfJCqmlOMXCQNqe.json) | RAYE - WHERE IS MY HUSBAND!                                                   |
+| [OSirlbfXVKGywhtgue](blurls/OSirlbfXVKGywhtgue.json) | RAYE - WHERE IS MY HUSBAND! (Instrumental)                                    |
+| [PIXCmFXKyXkSytsTfp](blurls/PIXCmFXKyXkSytsTfp.json) | RAYE - WHERE IS MY HUSBAND! (Preview)                                         |
+| [CCyMBYVwQczaCuFbgj](blurls/CCyMBYVwQczaCuFbgj.json) | RAYE - WHERE IS MY HUSBAND! (Stereo Track)                                    |
 | [jeeftwiijevOAHxNrM](blurls/jeeftwiijevOAHxNrM.json) | Red Hot Chili Peppers - Californication                                       |
 | [LRDWAXIFXhzuYGXmVF](blurls/LRDWAXIFXhzuYGXmVF.json) | Red Hot Chili Peppers - Californication (Instrumental)                        |
 | [MubjeuaaDkhFeJYSpY](blurls/MubjeuaaDkhFeJYSpY.json) | Red Hot Chili Peppers - Californication (Preview)                             |
@@ -2506,6 +2510,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [qzRBmXBufTHckAKlef](blurls/qzRBmXBufTHckAKlef.json) | Taking Back Sunday - MakeDamnSure (Instrumental)                              |
 | [SNgkCjifyzSXREvCRA](blurls/SNgkCjifyzSXREvCRA.json) | Taking Back Sunday - MakeDamnSure (Preview)                                   |
 | [qBGXgXnbnrOGVCjiPd](blurls/qBGXgXnbnrOGVCjiPd.json) | Taking Back Sunday - MakeDamnSure (Stereo Track)                              |
+| [qtSWWJKuZPUvkwFhCE](blurls/qtSWWJKuZPUvkwFhCE.json) | Tame Impala - Dracula                                                         |
+| [VXYssjxxvZJUNbPLcc](blurls/VXYssjxxvZJUNbPLcc.json) | Tame Impala - Dracula (Instrumental)                                          |
+| [pGucaYqtrzNAamftaC](blurls/pGucaYqtrzNAamftaC.json) | Tame Impala - Dracula (Preview)                                               |
+| [dtNpgUOHnvESvLTVJO](blurls/dtNpgUOHnvESvLTVJO.json) | Tame Impala - Dracula (Stereo Track)                                          |
 | [HXZiahOVNemualeBUa](blurls/HXZiahOVNemualeBUa.json) | Tasty Bois (ft. Backchat) - Runamok                                           |
 | [RHFPfWwRWEyxByhDje](blurls/RHFPfWwRWEyxByhDje.json) | Tasty Bois (ft. Backchat) - Runamok (Instrumental)                            |
 | [skFQNpsYwpkgQlNuEv](blurls/skFQNpsYwpkgQlNuEv.json) | Tasty Bois (ft. Backchat) - Runamok (Preview)                                 |
