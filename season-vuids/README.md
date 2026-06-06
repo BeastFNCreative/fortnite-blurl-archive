@@ -99,3 +99,4 @@ Seasonal Trailer Video Content, found in either the Career Tab or First Time Sta
 | [JtpmBaJrWxwyjqWSOt](blurls/JtpmBaJrWxwyjqWSOt.json) | Chapter 7 Season 2: Fortnite x Overwatch Trailer |
 | [OEInfeReZVbowOIBJH](blurls/OEInfeReZVbowOIBJH.json) | Chapter 7 Season 2: Zero Build Revamp Explanation |
 | [peJnQSpsFVQneeMXZA](blurls/peJnQSpsFVQneeMXZA.json) | Chapter 7 Season 2: Fortnite x EsDeeKid Trailer |
+| [HHtAHfSdLbegWOBXYM](blurls/HHtAHfSdLbegWOBXYM.json) | Chapter 7 Season 3: Gameplay Trailer |

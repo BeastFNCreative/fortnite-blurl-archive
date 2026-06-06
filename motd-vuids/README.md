@@ -10,6 +10,8 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [qzkZlBRkRvAmkodUiB](blurls/qzkZlBRkRvAmkodUiB.json) | Chapter 7 Season 3: Runners Gameplay Trailer |
+| [WGDkkzLqgXKZtowQWK](blurls/WGDkkzLqgXKZtowQWK.json) | Chapter 7 Season 3: Runners Cinematic Trailer |
 | [YqeiQElxpAtNjyaHhy](blurls/YqeiQElxpAtNjyaHhy.json) | Fortnite: Shattered Event Trailer |
 | [dCxForyIqRQTTDaPMM](blurls/dCxForyIqRQTTDaPMM.json) | Workplace Foundation Promo |
 | [NLPWZiKIBMZuIGHKdU](blurls/NLPWZiKIBMZuIGHKdU.json) | Rebelious Icon Series Emote |
