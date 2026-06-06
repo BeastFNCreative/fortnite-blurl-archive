@@ -719,6 +719,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [AEtgYJwRrKIiPgPzIX](blurls/AEtgYJwRrKIiPgPzIX.json) | Epic Games - Eye of the Storm (Instrumental)                                  |
 | [AKQKDluqiUAZDJpNHw](blurls/AKQKDluqiUAZDJpNHw.json) | Epic Games - Eye of the Storm (Preview)                                       |
 | [FClAVrvyTfhlpmyujz](blurls/FClAVrvyTfhlpmyujz.json) | Epic Games - Eye of the Storm (Stereo Track)                                  |
+| [qAzEbXWwIkrVszSFdv](blurls/qAzEbXWwIkrVszSFdv.json) | Epic Games - Fallen Stars                                                     |
+| [qWxPFIfxlcFirPWXes](blurls/qWxPFIfxlcFirPWXes.json) | Epic Games - Fallen Stars (Instrumental)                                      |
+| [RiYSBoUovKgfduKtTj](blurls/RiYSBoUovKgfduKtTj.json) | Epic Games - Fallen Stars (Preview)                                           |
+| [sUaBuKviORRubOWKhc](blurls/sUaBuKviORRubOWKhc.json) | Epic Games - Fallen Stars (Stereo Track)                                      |
 | [uJjEuLmddONHNgPyUv](blurls/uJjEuLmddONHNgPyUv.json) | Epic Games - Fancy Feet (Remix)                                               |
 | [sNSExuPSfsChMNVEEW](blurls/sNSExuPSfsChMNVEEW.json) | Epic Games - Fancy Feet (Remix) (Instrumental)                                |
 | [XSJHjiwCoJHOvfuZcM](blurls/XSJHjiwCoJHOvfuZcM.json) | Epic Games - Fancy Feet (Remix) (Preview)                                     |
@@ -813,6 +817,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [tDkuRKNhEHJrODtiNi](blurls/tDkuRKNhEHJrODtiNi.json) | Epic Games - Lord of the Wasteland (Instrumental)                             |
 | [IArpfprNbSxpuWPMTA](blurls/IArpfprNbSxpuWPMTA.json) | Epic Games - Lord of the Wasteland (Preview)                                  |
 | [LKdlBdGWVfXQEeVqzY](blurls/LKdlBdGWVfXQEeVqzY.json) | Epic Games - Lord of the Wasteland (Stereo Track)                             |
+| [rECvMhNMLVRIKnxBip](blurls/rECvMhNMLVRIKnxBip.json) | Epic Games - Lucky Duck                                                       |
+| [fPZVadAajuFwngpWXc](blurls/fPZVadAajuFwngpWXc.json) | Epic Games - Lucky Duck (Instrumental)                                        |
+| [RPfDIfwIvmllPWNMta](blurls/RPfDIfwIvmllPWNMta.json) | Epic Games - Lucky Duck (Preview)                                             |
+| [mfjSoPQakvdYyhPEXz](blurls/mfjSoPQakvdYyhPEXz.json) | Epic Games - Lucky Duck (Stereo Track)                                        |
 | [qcdznMroxfdSVpddBT](blurls/qcdznMroxfdSVpddBT.json) | Epic Games - Magenta Ride                                                     |
 | [iIgmyYSpyQoqrlDDdg](blurls/iIgmyYSpyQoqrlDDdg.json) | Epic Games - Magenta Ride (Instrumental)                                      |
 | [azfIBZAblVlsvVtGXt](blurls/azfIBZAblVlsvVtGXt.json) | Epic Games - Magenta Ride (Preview)                                           |
@@ -997,6 +1005,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [zWbgOhjZxNkirbZPEt](blurls/zWbgOhjZxNkirbZPEt.json) | Epic Games - The Night Porter (Instrumental)                                  |
 | [QUenaJTiKiYzBSCKHA](blurls/QUenaJTiKiYzBSCKHA.json) | Epic Games - The Night Porter (Preview)                                       |
 | [edPwiochwojrTMzOgt](blurls/edPwiochwojrTMzOgt.json) | Epic Games - The Night Porter (Stereo Track)                                  |
+| [QmXYHgSLDlNGnOUfLO](blurls/QmXYHgSLDlNGnOUfLO.json) | Epic Games - The Spirit Realm                                                 |
+| [JizYvYqKcriYuyoQhj](blurls/JizYvYqKcriYuyoQhj.json) | Epic Games - The Spirit Realm (Instrumental)                                  |
+| [NOSDUWMrsjosgAfybj](blurls/NOSDUWMrsjosgAfybj.json) | Epic Games - The Spirit Realm (Preview)                                       |
+| [uUlBJRRSNXgfVwpeeG](blurls/uUlBJRRSNXgfVwpeeG.json) | Epic Games - The Spirit Realm (Stereo Track)                                  |
 | [btAtdGiPPpNhPjzOlx](blurls/btAtdGiPPpNhPjzOlx.json) | Epic Games - Touch the Sun                                                    |
 | [ZmNxnDGIYgRbAMFrXX](blurls/ZmNxnDGIYgRbAMFrXX.json) | Epic Games - Touch the Sun (Instrumental)                                     |
 | [UhUeFphyWngRCpauMP](blurls/UhUeFphyWngRCpauMP.json) | Epic Games - Touch the Sun (Preview)                                          |
