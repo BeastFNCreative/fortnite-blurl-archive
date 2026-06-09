@@ -1009,6 +1009,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [JizYvYqKcriYuyoQhj](blurls/JizYvYqKcriYuyoQhj.json) | Epic Games - The Spirit Realm (Instrumental)                                  |
 | [NOSDUWMrsjosgAfybj](blurls/NOSDUWMrsjosgAfybj.json) | Epic Games - The Spirit Realm (Preview)                                       |
 | [uUlBJRRSNXgfVwpeeG](blurls/uUlBJRRSNXgfVwpeeG.json) | Epic Games - The Spirit Realm (Stereo Track)                                  |
+| [QqfZCvMXTBJexWuukA](blurls/QqfZCvMXTBJexWuukA.json) | Epic Games - The Spirit Realm (v2)                                            |
+| [kwkTPpCeBFOLvyeeht](blurls/kwkTPpCeBFOLvyeeht.json) | Epic Games - The Spirit Realm (v2) (Instrumental)                             |
+| [SDorQtoHeNUeItjlDu](blurls/SDorQtoHeNUeItjlDu.json) | Epic Games - The Spirit Realm (v2) (Preview)                                  |
+| [QdOpJmnIAxzCmtRnfB](blurls/QdOpJmnIAxzCmtRnfB.json) | Epic Games - The Spirit Realm (v2) (Stereo Track)                             |
 | [btAtdGiPPpNhPjzOlx](blurls/btAtdGiPPpNhPjzOlx.json) | Epic Games - Touch the Sun                                                    |
 | [ZmNxnDGIYgRbAMFrXX](blurls/ZmNxnDGIYgRbAMFrXX.json) | Epic Games - Touch the Sun (Instrumental)                                     |
 | [UhUeFphyWngRCpauMP](blurls/UhUeFphyWngRCpauMP.json) | Epic Games - Touch the Sun (Preview)                                          |
@@ -2257,6 +2261,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [OSirlbfXVKGywhtgue](blurls/OSirlbfXVKGywhtgue.json) | RAYE - WHERE IS MY HUSBAND! (Instrumental)                                    |
 | [PIXCmFXKyXkSytsTfp](blurls/PIXCmFXKyXkSytsTfp.json) | RAYE - WHERE IS MY HUSBAND! (Preview)                                         |
 | [CCyMBYVwQczaCuFbgj](blurls/CCyMBYVwQczaCuFbgj.json) | RAYE - WHERE IS MY HUSBAND! (Stereo Track)                                    |
+| [nraAqyLIGYBuSdjmoh](blurls/nraAqyLIGYBuSdjmoh.json) | RAYE - WHERE IS MY HUSBAND! (v2)                                              |
+| [RUAGTtXQdHhUnRJxep](blurls/RUAGTtXQdHhUnRJxep.json) | RAYE - WHERE IS MY HUSBAND! (v2) (Instrumental)                               |
+| [ddkqGVNzFpkkgcJMgU](blurls/ddkqGVNzFpkkgcJMgU.json) | RAYE - WHERE IS MY HUSBAND! (v2) (Preview)                                    |
+| [DAIbbixnkCNabCCUvJ](blurls/DAIbbixnkCNabCCUvJ.json) | RAYE - WHERE IS MY HUSBAND! (v2) (Stereo Track)                               |
 | [jeeftwiijevOAHxNrM](blurls/jeeftwiijevOAHxNrM.json) | Red Hot Chili Peppers - Californication                                       |
 | [LRDWAXIFXhzuYGXmVF](blurls/LRDWAXIFXhzuYGXmVF.json) | Red Hot Chili Peppers - Californication (Instrumental)                        |
 | [MubjeuaaDkhFeJYSpY](blurls/MubjeuaaDkhFeJYSpY.json) | Red Hot Chili Peppers - Californication (Preview)                             |
