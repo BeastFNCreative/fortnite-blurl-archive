@@ -1524,6 +1524,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [cwchDKwDCIpjyoXTzX](blurls/cwchDKwDCIpjyoXTzX.json) | Junior Senior - Move Your Feet (Instrumental)                                 |
 | [OPZunlxXzHwBxUiFQn](blurls/OPZunlxXzHwBxUiFQn.json) | Junior Senior - Move Your Feet (Preview)                                      |
 | [bEVgfiLYpucMMEBnGe](blurls/bEVgfiLYpucMMEBnGe.json) | Junior Senior - Move Your Feet (Stereo Track)                                 |
+| [MbBBVVsLwaIolAnZFp](blurls/MbBBVVsLwaIolAnZFp.json) | Justin Bieber - DAISIES                                                       |
+| [BNJjogZsPqyiMwwLtm](blurls/BNJjogZsPqyiMwwLtm.json) | Justin Bieber - DAISIES (Instrumental)                                        |
+| [aFkemlHQUsjRWxZsiz](blurls/aFkemlHQUsjRWxZsiz.json) | Justin Bieber - DAISIES (Preview)                                             |
+| [rsRsboFSDQwiRLYMFE](blurls/rsRsboFSDQwiRLYMFE.json) | Justin Bieber - DAISIES (Stereo Track)                                        |
 | [fIonXqXxmMPaBsWqjq](blurls/fIonXqXxmMPaBsWqjq.json) | Justin Bieber - Ghost                                                         |
 | [MiHyDkMcTzMnTdbtqL](blurls/MiHyDkMcTzMnTdbtqL.json) | Justin Bieber - Ghost (Instrumental)                                          |
 | [KQqCAfZeSCtZEIrfsr](blurls/KQqCAfZeSCtZEIrfsr.json) | Justin Bieber - Ghost (Preview)                                               |
