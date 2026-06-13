@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [sphYYOJCIXioNdyfgN](blurls/sphYYOJCIXioNdyfgN.json) | Vini Jr. Icon Series Trailer |
 | [qzkZlBRkRvAmkodUiB](blurls/qzkZlBRkRvAmkodUiB.json) | Chapter 7 Season 3: Runners Gameplay Trailer |
 | [WGDkkzLqgXKZtowQWK](blurls/WGDkkzLqgXKZtowQWK.json) | Chapter 7 Season 3: Runners Cinematic Trailer |
 | [YqeiQElxpAtNjyaHhy](blurls/YqeiQElxpAtNjyaHhy.json) | Fortnite: Shattered Event Trailer |
