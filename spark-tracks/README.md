@@ -211,6 +211,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [pHxruEgNOMVLIAWihM](blurls/pHxruEgNOMVLIAWihM.json) | Bastille - Pompeii (Instrumental)                                             |
 | [YULqMcQIIgrpNmdTgB](blurls/YULqMcQIIgrpNmdTgB.json) | Bastille - Pompeii (Preview)                                                  |
 | [BdEaCnJGIUlacijgfC](blurls/BdEaCnJGIUlacijgfC.json) | Bastille - Pompeii (Stereo Track)                                             |
+| [xJymopILzKRDyxvGoX](blurls/xJymopILzKRDyxvGoX.json) | beabadoobee - He Gets Me So High                                              |
+| [adoBtddFonyQeIuSDG](blurls/adoBtddFonyQeIuSDG.json) | beabadoobee - He Gets Me So High (Instrumental)                               |
+| [WrHBdMGcrITATWQnkl](blurls/WrHBdMGcrITATWQnkl.json) | beabadoobee - He Gets Me So High (Preview)                                    |
+| [IsIMelOGDFdhZbKwge](blurls/IsIMelOGDFdhZbKwge.json) | beabadoobee - He Gets Me So High (Stereo Track)                               |
 | [UwPEfihsoziveoAjav](blurls/UwPEfihsoziveoAjav.json) | Beastie Boys - Sabotage                                                       |
 | [eYAtjAiljtRPHrajnV](blurls/eYAtjAiljtRPHrajnV.json) | Beastie Boys - Sabotage (Instrumental)                                        |
 | [RzxRNvXXdHBxiPFlRg](blurls/RzxRNvXXdHBxiPFlRg.json) | Beastie Boys - Sabotage (Preview)                                             |
@@ -1221,6 +1225,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [CEnAcfOmgFcmXwoDom](blurls/CEnAcfOmgFcmXwoDom.json) | Gotye ft. Kimbra - Somebody That I Used To Know (Instrumental)                |
 | [RKRYHWtBwhgBwLoueA](blurls/RKRYHWtBwhgBwLoueA.json) | Gotye ft. Kimbra - Somebody That I Used To Know (Preview)                     |
 | [DFotRGtCgREskvUGgo](blurls/DFotRGtCgREskvUGgo.json) | Gotye ft. Kimbra - Somebody That I Used To Know (Stereo Track)                |
+| [uizxMuRhvfizWmSvrs](blurls/uizxMuRhvfizWmSvrs.json) | Gracie Abrams - I miss you, I'm sorry                                         |
+| [AgFEXtfxnnLIgrexGo](blurls/AgFEXtfxnnLIgrexGo.json) | Gracie Abrams - I miss you, I'm sorry (Instrumental)                          |
+| [xuZpPKPKqrRrgDJoif](blurls/xuZpPKPKqrRrgDJoif.json) | Gracie Abrams - I miss you, I'm sorry (Preview)                               |
+| [cMKLiwgCjfpsizOLdh](blurls/cMKLiwgCjfpsizOLdh.json) | Gracie Abrams - I miss you, I'm sorry (Stereo Track)                          |
 | [awDWWuByASDAIriXJx](blurls/awDWWuByASDAIriXJx.json) | Green Day - American Idiot                                                    |
 | [AFGVImfVkjQboapzsO](blurls/AFGVImfVkjQboapzsO.json) | Green Day - American Idiot (Instrumental)                                     |
 | [cnnmAacMFlPGaibHmO](blurls/cnnmAacMFlPGaibHmO.json) | Green Day - American Idiot (Preview)                                          |
