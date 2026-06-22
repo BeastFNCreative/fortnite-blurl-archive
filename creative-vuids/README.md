@@ -26,6 +26,11 @@ Creative / UEFN Video's used for Partner Projects.
 | [rtIViGjKoUItLlUYQo](blurls/rtIViGjKoUItLlUYQo.json) | Creative Map: Red Carpet Video                                                                         |
 | [PquAsDvtwBLechiqSC](blurls/PquAsDvtwBLechiqSC.json) | Disney Horizons Live from D23: WIP Pre Show Video                                                      |
 | [zqPQfrhYJqxxrDlekn](blurls/zqPQfrhYJqxxrDlekn.json) | Disney Horizons Live from D23: Full Presentation                                                       |
+| [BhqxI55ePZ3qJwlj4j8Bw4](blurls/BhqxI55ePZ3qJwlj4j8Bw4.json) | Dr. STONE x Crunchyroll Anime Island: Master Playlist Redirector                               |
+| [SnuvBpgFnkZhwliPmw](blurls/SnuvBpgFnkZhwliPmw.json) | Dr. STONE x Crunchyroll Anime Island: Season 1 Episode 1 "Stone World"                                 |
+| [FzLiZXeLvPABLwGfmN](blurls/FzLiZXeLvPABLwGfmN.json) | Dr. STONE x Crunchyroll Anime Island: Season 4 "SCIENCE FUTURE" Episode 1 "FUTURE ENGINE"              |
+| [eQMnrJmwLWsizAhEgF](blurls/eQMnrJmwLWsizAhEgF.json) | Dr. STONE x Crunchyroll Anime Island: Season 4 "SCIENCE FUTURE" Episode 1 "FUTURE ENGINE" (Age-Gated)  |
+| [AhCZIrcvjAuMIhZYuY](blurls/AhCZIrcvjAuMIhZYuY.json) | Dr. STONE x Crunchyroll Anime Island: Season 4 "SCIENCE FUTURE" Episode 1 "FUTURE ENGINE" (Alt)        |
 | [PiEXYykwqLMxBFOHjd](blurls/PiEXYykwqLMxBFOHjd.json) | Dragon Ball Super: Episode 9 Video                                                                     |
 | [OtbCrvPwgTtDUjxWHw](blurls/OtbCrvPwgTtDUjxWHw.json) | Dragon Ball Super: Episode 10 Video                                                                    |
 | [EXBHhCfpFrmCntPfqZ](blurls/EXBHhCfpFrmCntPfqZ.json) | Dragon Ball Super: Episode 11 Video                                                                    |
