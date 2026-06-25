@@ -2107,6 +2107,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [YUZkPpzQtvctmuIakR](blurls/YUZkPpzQtvctmuIakR.json) | Olivia Dean - Man I Need (Instrumental)                                       |
 | [GZbVUhFSfnBQKoiUdj](blurls/GZbVUhFSfnBQKoiUdj.json) | Olivia Dean - Man I Need (Preview)                                            |
 | [AkeKPelrRdjfxEamKQ](blurls/AkeKPelrRdjfxEamKQ.json) | Olivia Dean - Man I Need (Stereo Track)                                       |
+| [aXsylZXrlTPqfikQps](blurls/aXsylZXrlTPqfikQps.json) | Olivia Rodrigo - deja vu                                                      |
+| [IpsAYZtLlZiGLuBxfv](blurls/IpsAYZtLlZiGLuBxfv.json) | Olivia Rodrigo - deja vu (Instrumental)                                       |
+| [aNhZcGuSQKtdYqNHpl](blurls/aNhZcGuSQKtdYqNHpl.json) | Olivia Rodrigo - deja vu (Preview)                                            |
+| [QiefYWCcklpvjFBtHn](blurls/QiefYWCcklpvjFBtHn.json) | Olivia Rodrigo - deja vu (Stereo Track)                                       |
+| [fZYkuLZRSpYOKZwBBv](blurls/fZYkuLZRSpYOKZwBBv.json) | Olivia Rodrigo - drop dead                                                    |
+| [FVbVMMgvLkcsatvnwg](blurls/FVbVMMgvLkcsatvnwg.json) | Olivia Rodrigo - drop dead (Instrumental)                                     |
+| [DGcxCfLGbegptspxBX](blurls/DGcxCfLGbegptspxBX.json) | Olivia Rodrigo - drop dead (Preview)                                          |
+| [ynSKOJgWTdQvGfbdNk](blurls/ynSKOJgWTdQvGfbdNk.json) | Olivia Rodrigo - drop dead (Stereo Track)                                     |
 | [bptdzIoxcqLWGsIoJA](blurls/bptdzIoxcqLWGsIoJA.json) | Olivia Rodrigo - get him back!                                                |
 | [XNlyIsvNIofYbtQgfW](blurls/XNlyIsvNIofYbtQgfW.json) | Olivia Rodrigo - get him back! (Instrumental)                                 |
 | [cPXAnKPSQXOZsDbmNC](blurls/cPXAnKPSQXOZsDbmNC.json) | Olivia Rodrigo - get him back! (Preview)                                      |
@@ -2115,6 +2123,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [RbSGbwdMjjlCSjWWCH](blurls/RbSGbwdMjjlCSjWWCH.json) | Olivia Rodrigo - good 4 u (Instrumental)                                      |
 | [tdTlPHblhFhYlqIeTa](blurls/tdTlPHblhFhYlqIeTa.json) | Olivia Rodrigo - good 4 u (Preview)                                           |
 | [wbZvctUrlJZZLYEtjt](blurls/wbZvctUrlJZZLYEtjt.json) | Olivia Rodrigo - good 4 u (Stereo Track)                                      |
+| [fsFftGEwrDVQrHsKwU](blurls/fsFftGEwrDVQrHsKwU.json) | Olivia Rodrigo - maggots for brains                                           |
+| [osYWDSwfHYySExpkPT](blurls/osYWDSwfHYySExpkPT.json) | Olivia Rodrigo - maggots for brains (Instrumental)                            |
+| [CZwmSKUHrhnSAbdQzI](blurls/CZwmSKUHrhnSAbdQzI.json) | Olivia Rodrigo - maggots for brains (Preview)                                 |
+| [RpmdFGNlOnLJcElDWQ](blurls/RpmdFGNlOnLJcElDWQ.json) | Olivia Rodrigo - maggots for brains (Stereo Track)                            |
 | [bnllkuxfdIDEvTTSUR](blurls/bnllkuxfdIDEvTTSUR.json) | Olivia Rodrigo - vampire                                                      |
 | [XygbnObJMfKxwRRYpP](blurls/XygbnObJMfKxwRRYpP.json) | Olivia Rodrigo - vampire (Preview)                                            |
 | [NPUSrhRaYWrYShfZyo](blurls/NPUSrhRaYWrYShfZyo.json) | Olivia Rodrigo - vampire (Instrumental)                                       |
