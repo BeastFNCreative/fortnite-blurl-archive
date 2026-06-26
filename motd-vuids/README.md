@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [awfcZVrSGXQgWSVTnq](blurls/awfcZVrSGXQgWSVTnq.json) | Olivia Rodrigo Icon Series Trailer |
 | [sphYYOJCIXioNdyfgN](blurls/sphYYOJCIXioNdyfgN.json) | Vini Jr. Icon Series Trailer |
 | [qzkZlBRkRvAmkodUiB](blurls/qzkZlBRkRvAmkodUiB.json) | Chapter 7 Season 3: Runners Gameplay Trailer |
 | [WGDkkzLqgXKZtowQWK](blurls/WGDkkzLqgXKZtowQWK.json) | Chapter 7 Season 3: Runners Cinematic Trailer |
