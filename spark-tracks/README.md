@@ -227,6 +227,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [TIewKJiAqkeXzFhXFu](blurls/TIewKJiAqkeXzFhXFu.json) | Bell Biv DeVoe - Poison (Instrumental)                                        |
 | [EeaSoyOgNJLpyZfRyI](blurls/EeaSoyOgNJLpyZfRyI.json) | Bell Biv DeVoe - Poison (Preview)                                             |
 | [ZpEYTCTdFHzbHfeUiI](blurls/ZpEYTCTdFHzbHfeUiI.json) | Bell Biv DeVoe - Poison (Stereo Track)                                        |
+| [cZJcbEBJGTsAvYNemP](blurls/cZJcbEBJGTsAvYNemP.json) | Bella Kay - iloveitiloveitiloveit                                             |
+| [qZNmGsSEVSdQnGhSvI](blurls/qZNmGsSEVSdQnGhSvI.json) | Bella Kay - iloveitiloveitiloveit (Instrumental)                              |
+| [qMOhPMbOhSAIRQRRXL](blurls/qMOhPMbOhSAIRQRRXL.json) | Bella Kay - iloveitiloveitiloveit (Preview)                                   |
+| [AKJCQQsXgbRPhTEvim](blurls/AKJCQQsXgbRPhTEvim.json) | Bella Kay - iloveitiloveitiloveit (Stereo Track)                              |
 | [UGikKfTIEYDtpfQMTN](blurls/UGikKfTIEYDtpfQMTN.json) | Big Sean - Bounce Back                                                        |
 | [HJluCsVevmGaMRjqal](blurls/HJluCsVevmGaMRjqal.json) | Big Sean - Bounce Back (Instrumental)                                         |
 | [GzIJIUVkRxHflNQSeC](blurls/GzIJIUVkRxHflNQSeC.json) | Big Sean - Bounce Back (Preview)                                              |
@@ -1855,6 +1859,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [oYYAJieSfTWOvvlxUz](blurls/oYYAJieSfTWOvvlxUz.json) | Madison Beer - Make You Mine (Instrumental)                                   |
 | [IoFVMnImtowAoekHOd](blurls/IoFVMnImtowAoekHOd.json) | Madison Beer - Make You Mine (Preview)                                        |
 | [YHSHquRbDSjmOgATxn](blurls/YHSHquRbDSjmOgATxn.json) | Madison Beer - Make You Mine (Stereo Track)                                   |
+| [IOuiSHeUCvMmWDbmwp](blurls/IOuiSHeUCvMmWDbmwp.json) | Malcolm Todd - Earrings                                                       |
+| [yDJozBSsTBtLqLHBJp](blurls/yDJozBSsTBtLqLHBJp.json) | Malcolm Todd - Earrings (Instrumental)                                        |
+| [IWfsxwpsLglVylEAXS](blurls/IWfsxwpsLglVylEAXS.json) | Malcolm Todd - Earrings (Preview)                                             |
+| [bHjEVOShNtKudyznfO](blurls/bHjEVOShNtKudyznfO.json) | Malcolm Todd - Earrings (Stereo Track)                                        |
 | [owLJvubTiZDBPasCSy](blurls/owLJvubTiZDBPasCSy.json) | Måneskin - Beggin'                                                            |
 | [GkLEvrFHCtYozZxCfi](blurls/GkLEvrFHCtYozZxCfi.json) | Måneskin - Beggin' (Instrumental)                                             |
 | [mkwbfIZyeQEvIYUPvt](blurls/mkwbfIZyeQEvIYUPvt.json) | Måneskin - Beggin' (Preview)                                                  |
@@ -1973,6 +1981,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [fNXrigdzjdAbagrLQm](blurls/fNXrigdzjdAbagrLQm.json) | MGMT - Kids (v2) (Instrumental)                                               |
 | [IAiBrxQuafNxPupzuR](blurls/IAiBrxQuafNxPupzuR.json) | MGMT - Kids (v2) (Preview)                                                    |
 | [hXMFLXugpfQqFkizCz](blurls/hXMFLXugpfQqFkizCz.json) | MGMT - Kids (v2) (Stereo Track)                                               |
+| [vSfkPuJkSvtqGftHqz](blurls/vSfkPuJkSvtqGftHqz.json) | Miami XO - Bazooka                                                            |
+| [NeFAlDVYySMnkqvdvC](blurls/NeFAlDVYySMnkqvdvC.json) | Miami XO - Bazooka (Instrumental)                                             |
+| [VrhAIJmGrPYDyEzIaW](blurls/VrhAIJmGrPYDyEzIaW.json) | Miami XO - Bazooka (Preview)                                                  |
+| [JWWrauiYlxPMMImDKL](blurls/JWWrauiYlxPMMImDKL.json) | Miami XO - Bazooka (Stereo Track)                                             |
 | [LigszEeQGXUjDUPfwu](blurls/LigszEeQGXUjDUPfwu.json) | Mic Drop - Clappiness                                                         |
 | [uZSNlIwIBGrrKHCyWq](blurls/uZSNlIwIBGrrKHCyWq.json) | Mic Drop - Clappiness (Instrumental)                                          |
 | [spVsGVjLMsyIjNymPh](blurls/spVsGVjLMsyIjNymPh.json) | Mic Drop - Clappiness (Preview)                                               |
@@ -2431,6 +2443,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [dXhUCpoCmgcToBLpAT](blurls/dXhUCpoCmgcToBLpAT.json) | Shakira - Whenever, Wherever (Instrumental)                                   |
 | [SDpqHzqpaIOKsXJUGa](blurls/SDpqHzqpaIOKsXJUGa.json) | Shakira - Whenever, Wherever (Preview)                                        |
 | [qmfTSftDXdUvScolio](blurls/qmfTSftDXdUvScolio.json) | Shakira - Whenever, Wherever (Stereo Track)                                   |
+| [qGqkpqSbhBXDdQUbil](blurls/qGqkpqSbhBXDdQUbil.json) | Shakira ft. Freshlyground - Waka Waka (This Time For Africa)                  |
+| [CqDoakHsxapAFSBznQ](blurls/CqDoakHsxapAFSBznQ.json) | Shakira ft. Freshlyground - Waka Waka (This Time For Africa) (Instrumental)   |
+| [obLstiTPKRcAHmttLs](blurls/obLstiTPKRcAHmttLs.json) | Shakira ft. Freshlyground - Waka Waka (This Time For Africa) (Preview)        |
+| [DurmkiOvNGNPXhbGub](blurls/DurmkiOvNGNPXhbGub.json) | Shakira ft. Freshlyground - Waka Waka (This Time For Africa) (Stereo Track)   |
 | [phJFPBoxCKUdwXqJTY](blurls/phJFPBoxCKUdwXqJTY.json) | Shakira ft. Wyclef Jean - Hips Don't Lie                                      |
 | [aMTkEFOnkABcLKaJAn](blurls/aMTkEFOnkABcLKaJAn.json) | Shakira ft. Wyclef Jean - Hips Don't Lie (Instrumental)                       |
 | [krNeiZpzggecJwRfNG](blurls/krNeiZpzggecJwRfNG.json) | Shakira ft. Wyclef Jean - Hips Don't Lie (Preview)                            |
