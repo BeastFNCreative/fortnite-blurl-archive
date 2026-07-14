@@ -95,6 +95,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [nVwgJnHsxUaiScfdjX](blurls/nVwgJnHsxUaiScfdjX.json) | ATB, Topic, A7S - Your Love (9pm) (Instrumental)                              |
 | [pWamLhSDzUNwWzYLtd](blurls/pWamLhSDzUNwWzYLtd.json) | ATB, Topic, A7S - Your Love (9pm) (Preview)                                   |
 | [nNSMToWDNYNbqLFhSt](blurls/nNSMToWDNYNbqLFhSt.json) | ATB, Topic, A7S - Your Love (9pm) (Stereo Track)                              |
+| [BxVtnsjzUVRfHDaoiM](blurls/BxVtnsjzUVRfHDaoiM.json) | ATLXS - PASSO BEM SOLTO - Slowed                                              |
+| [CQyrCPwLXwJESzblBr](blurls/CQyrCPwLXwJESzblBr.json) | ATLXS - PASSO BEM SOLTO - Slowed (Instrumental)                               |
+| [DorVOexmdlKIkEdCpM](blurls/DorVOexmdlKIkEdCpM.json) | ATLXS - PASSO BEM SOLTO - Slowed (Preview)                                    |
+| [ICOZaiaxaQrFnwyllk](blurls/ICOZaiaxaQrFnwyllk.json) | ATLXS - PASSO BEM SOLTO - Slowed (Stereo Track)                               |
 | [qwJYDgZuhwIMaGZhUz](blurls/qwJYDgZuhwIMaGZhUz.json) | Aqua - Barbie Girl                                                            |
 | [EQcvPptyaFbEuCwphZ](blurls/EQcvPptyaFbEuCwphZ.json) | Aqua - Barbie Girl (Instrumental)                                             |
 | [rFDfrEOsaDxUrONCMq](blurls/rFDfrEOsaDxUrONCMq.json) | Aqua - Barbie Girl (Preview)                                                  |
@@ -277,6 +281,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [iTIUEhiPhaKmGbsDCr](blurls/iTIUEhiPhaKmGbsDCr.json) | Billie Eilish - Therefore I Am (Instrumental)                                 |
 | [XQYwFXnsFpZzmBLOwA](blurls/XQYwFXnsFpZzmBLOwA.json) | Billie Eilish - Therefore I Am (Preview)                                      |
 | [SgvDZiwcaTZDINXkeF](blurls/SgvDZiwcaTZDINXkeF.json) | Billie Eilish - Therefore I Am (Stereo Track)                                 |
+| [WyuIZxKKYmjbaoqHSg](blurls/WyuIZxKKYmjbaoqHSg.json) | BKtherula - Big Feeling                                                       |
+| [PpQimfhlVkbnJZPRiZ](blurls/PpQimfhlVkbnJZPRiZ.json) | BKtherula - Big Feeling (Instrumental)                                        |
+| [DLJqUfzYnRxwSpgaoJ](blurls/DLJqUfzYnRxwSpgaoJ.json) | BKtherula - Big Feeling (Preview)                                             |
+| [tmolXammlbVkJTZuWG](blurls/tmolXammlbVkJTZuWG.json) | BKtherula - Big Feeling (Stereo Track)                                        |
 | [ILfPPkkniPTicvLVXW](blurls/ILfPPkkniPTicvLVXW.json) | Bleachers - I Wanna Get Better                                                |
 | [HimBTtlfZedCrPwnCT](blurls/HimBTtlfZedCrPwnCT.json) | Bleachers - I Wanna Get Better (Instrumental)                                 |
 | [KZpOMROMJHgVexOnMp](blurls/KZpOMROMJHgVexOnMp.json) | Bleachers - I Wanna Get Better (Preview)                                      |
@@ -1325,6 +1333,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [lPZkzfQBLCAYcXrjtj](blurls/lPZkzfQBLCAYcXrjtj.json) | Huey Lewis & The News - The Power Of Love (Instrumental)                      |
 | [FQsZfxvoYvdOXmsqDB](blurls/FQsZfxvoYvdOXmsqDB.json) | Huey Lewis & The News - The Power Of Love (Preview)                           |
 | [GFOqjUfOlQPqRZGNSv](blurls/GFOqjUfOlQPqRZGNSv.json) | Huey Lewis & The News - The Power Of Love (Stereo Track)                      |
+| [fgaKwOSKQuAjNRPqrv](blurls/fgaKwOSKQuAjNRPqrv.json) | HAVEN., Kaitlin Aragon - I Run                                                |
+| [pdYGJMnKhboAjewjCj](blurls/pdYGJMnKhboAjewjCj.json) | HAVEN., Kaitlin Aragon - I Run (Instrumental)                                 |
+| [AOZAcXVuiGkzYhtlIZ](blurls/AOZAcXVuiGkzYhtlIZ.json) | HAVEN., Kaitlin Aragon - I Run (Preview)                                      |
+| [lnZiTsByuxcnpRvSJo](blurls/lnZiTsByuxcnpRvSJo.json) | HAVEN., Kaitlin Aragon - I Run (Stereo Track)                                 |
 | [JvDqagZevmZlBRwufX](blurls/JvDqagZevmZlBRwufX.json) | Ice Spice - In Ha Mood                                                        |
 | [dimqnRyDbGgMGekbDX](blurls/dimqnRyDbGgMGekbDX.json) | Ice Spice - In Ha Mood (Instrumental)                                         |
 | [gQqOfFZGSUTVKXUIJj](blurls/gQqOfFZGSUTVKXUIJj.json) | Ice Spice - In Ha Mood (Preview)                                              |
@@ -1482,6 +1494,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [aAqtRTMWCmgBdoWKgW](blurls/aAqtRTMWCmgBdoWKgW.json) | Jonas Brothers - Sucker (Instrumental)                                        |
 | [tccfoxUXzLfwXYdzEk](blurls/tccfoxUXzLfwXYdzEk.json) | Jonas Brothers - Sucker (Preview)                                             |
 | [xkZQbOGgLJYbqIzsHm](blurls/xkZQbOGgLJYbqIzsHm.json) | Jonas Brothers - Sucker (Stereo Track)                                        |
+| [bDmugSyqeUcUIwVeGt](blurls/bDmugSyqeUcUIwVeGt.json) | Joyce Manor - Well, Whatever It Was                                           |
+| [xfVThOhvaBoibBWQEH](blurls/xfVThOhvaBoibBWQEH.json) | Joyce Manor - Well, Whatever It Was (Instrumental)                            |
+| [TfPbYSApBIkjUdsrej](blurls/TfPbYSApBIkjUdsrej.json) | Joyce Manor - Well, Whatever It Was (Preview)                                 |
+| [fcKdSMSoRggFjdJdtK](blurls/fcKdSMSoRggFjdJdtK.json) | Joyce Manor - Well, Whatever It Was (Stereo Track)                            |
 | [XMsfaApxjKDqYuIewX](blurls/XMsfaApxjKDqYuIewX.json) | Juice WRLD - Armed And Dangerous                                              |
 | [TUMpQEhrcYCKyWQoob](blurls/TUMpQEhrcYCKyWQoob.json) | Juice WRLD - Armed And Dangerous (Instrumental)                               |
 | [ZBtSwCsbfeZDLMSbaB](blurls/ZBtSwCsbfeZDLMSbaB.json) | Juice WRLD - Armed And Dangerous (Preview)                                    |
@@ -2143,6 +2159,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [XygbnObJMfKxwRRYpP](blurls/XygbnObJMfKxwRRYpP.json) | Olivia Rodrigo - vampire (Preview)                                            |
 | [NPUSrhRaYWrYShfZyo](blurls/NPUSrhRaYWrYShfZyo.json) | Olivia Rodrigo - vampire (Instrumental)                                       |
 | [EtXFGdfCsVToaKWOey](blurls/EtXFGdfCsVToaKWOey.json) | Olivia Rodrigo - vampire (Stereo Track)                                       |
+| [WemuTKAjMeiBifIdwu](blurls/WemuTKAjMeiBifIdwu.json) | On-lyne - PARTY OF YOUR LIFETIME                                              |
+| [qRvhxAEzohPzErNUxo](blurls/qRvhxAEzohPzErNUxo.json) | On-lyne - PARTY OF YOUR LIFETIME (Instrumental)                               |
+| [KsmSkwEzEeSivKFFOA](blurls/KsmSkwEzEeSivKFFOA.json) | On-lyne - PARTY OF YOUR LIFETIME (Preview)                                    |
+| [wNWLxxxJAkgxeSkWWy](blurls/wNWLxxxJAkgxeSkWWy.json) | On-lyne - PARTY OF YOUR LIFETIME (Stereo Track)                               |
 | [riNhemRROyUlttwSgs](blurls/riNhemRROyUlttwSgs.json) | OneRepublic - Counting Stars                                                  |
 | [ZdSeNuFLRUxmXRthMe](blurls/ZdSeNuFLRUxmXRthMe.json) | OneRepublic - Counting Stars (Instrumental)                                   |
 | [trFSPMmSuyiVaBMVfN](blurls/trFSPMmSuyiVaBMVfN.json) | OneRepublic - Counting Stars (Preview)                                        |
@@ -2730,6 +2750,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [ZtyNskIVEzjPKODAwc](blurls/ZtyNskIVEzjPKODAwc.json) | Timbaland ft. Keri Hilson & D.O.E. - The Way I Are (Instrumental)             |
 | [xxawaGMXqWrceARFrc](blurls/xxawaGMXqWrceARFrc.json) | Timbaland ft. Keri Hilson & D.O.E. - The Way I Are (Preview)                  |
 | [YqUsfJUXyNRrRzXOeG](blurls/YqUsfJUXyNRrRzXOeG.json) | Timbaland ft. Keri Hilson & D.O.E. - The Way I Are (Stereo Track)             |
+| [jJOYczRREBLMntRRDq](blurls/jJOYczRREBLMntRRDq.json) | Tkandz, CXSPER - NOW OR NEVER                                                 |
+| [fVElZjupcHicCPDSVu](blurls/fVElZjupcHicCPDSVu.json) | Tkandz, CXSPER - NOW OR NEVER (Instrumental)                                  |
+| [TXfxTGRawbsPOCNCHp](blurls/TXfxTGRawbsPOCNCHp.json) | Tkandz, CXSPER - NOW OR NEVER (Preview)                                       |
+| [ovbHNcdyexVBvGLnNZ](blurls/ovbHNcdyexVBvGLnNZ.json) | Tkandz, CXSPER - NOW OR NEVER (Stereo Track)                                  |
 | [tKkeMIMfSMKBmXIdxT](blurls/tKkeMIMfSMKBmXIdxT.json) | TLC - No Scrubs                                                               |
 | [eeGwMtEzoWrdwSySEj](blurls/eeGwMtEzoWrdwSySEj.json) | TLC - No Scrubs (Instrumental)                                                |
 | [cuUHZhJzLilQJJwAUy](blurls/cuUHZhJzLilQJJwAUy.json) | TLC - No Scrubs (Preview)                                                     |
