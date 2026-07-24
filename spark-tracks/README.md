@@ -497,6 +497,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [LNUphUHNHRbJpmhAym](blurls/LNUphUHNHRbJpmhAym.json) | Desiigner - Panda (Instrumental)                                              |
 | [DsItqBpPnthMkVstQR](blurls/DsItqBpPnthMkVstQR.json) | Desiigner - Panda (Preview)                                                   |
 | [xPlCIbEWrqoMMWbjpj](blurls/xPlCIbEWrqoMMWbjpj.json) | Desiigner - Panda (Stereo Track)                                              |
+| [PfIcumVNuyaPsrqGlX](blurls/PfIcumVNuyaPsrqGlX.json) | Dexter and the Moonrocks - Freakin' Out                                       |
+| [tqtvqscJNMRnQzLtei](blurls/tqtvqscJNMRnQzLtei.json) | Dexter and the Moonrocks - Freakin' Out (Instrumental)                        |
+| [JnQhtpFGlIPNTdYqNV](blurls/JnQhtpFGlIPNTdYqNV.json) | Dexter and the Moonrocks - Freakin' Out (Preview)                             |
+| [RAWLxPvlyWaGFCZExL](blurls/RAWLxPvlyWaGFCZExL.json) | Dexter and the Moonrocks - Freakin' Out (Stereo Track)                        |
 | [ASgemvPrYDczqHwzqs](blurls/ASgemvPrYDczqHwzqs.json) | Disco Lines & Tinashe - No Broke Boys                                         |
 | [ZdnKKFLzrjojaIFYda](blurls/ZdnKKFLzrjojaIFYda.json) | Disco Lines & Tinashe - No Broke Boys (Instrumental)                          |
 | [WNJMzwrSqwTBMsDPIp](blurls/WNJMzwrSqwTBMsDPIp.json) | Disco Lines & Tinashe - No Broke Boys (Preview)                               |
@@ -1337,6 +1341,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [pdYGJMnKhboAjewjCj](blurls/pdYGJMnKhboAjewjCj.json) | HAVEN., Kaitlin Aragon - I Run (Instrumental)                                 |
 | [AOZAcXVuiGkzYhtlIZ](blurls/AOZAcXVuiGkzYhtlIZ.json) | HAVEN., Kaitlin Aragon - I Run (Preview)                                      |
 | [lnZiTsByuxcnpRvSJo](blurls/lnZiTsByuxcnpRvSJo.json) | HAVEN., Kaitlin Aragon - I Run (Stereo Track)                                 |
+| [wsvCyImSVIPtJEDlls](blurls/wsvCyImSVIPtJEDlls.json) | Ice Spice - Big Guy (from "The SpongeBob Movie: Search for SquarePants”)      |
+| [ouvbcNtmcbTcEBuxLd](blurls/ouvbcNtmcbTcEBuxLd.json) | Ice Spice - Big Guy (from "The SpongeBob Movie: Search for SquarePants”) (Instrumental) |
+| [oIzuQASJLTUHKkETke](blurls/oIzuQASJLTUHKkETke.json) | Ice Spice - Big Guy (from "The SpongeBob Movie: Search for SquarePants”) (Preview) |
+| [bHQzytkpewWDHlSrtX](blurls/bHQzytkpewWDHlSrtX.json) | Ice Spice - Big Guy (from "The SpongeBob Movie: Search for SquarePants”) (Stereo Track) |
 | [JvDqagZevmZlBRwufX](blurls/JvDqagZevmZlBRwufX.json) | Ice Spice - In Ha Mood                                                        |
 | [dimqnRyDbGgMGekbDX](blurls/dimqnRyDbGgMGekbDX.json) | Ice Spice - In Ha Mood (Instrumental)                                         |
 | [gQqOfFZGSUTVKXUIJj](blurls/gQqOfFZGSUTVKXUIJj.json) | Ice Spice - In Ha Mood (Preview)                                              |
