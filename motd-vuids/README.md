@@ -10,6 +10,8 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [yWUAqIAEumkmHdGyFe](blurls/yWUAqIAEumkmHdGyFe.json) | The Simpsons x Fortnite Springfield Reloaded Trailer |
+| [ZoYccqWXfyPobSfAtl](blurls/ZoYccqWXfyPobSfAtl.json) | Spider-Man Brand New Day Collab Trailer + Scene |
 | [JIrkYOSdvSGBbgiDlf](blurls/JIrkYOSdvSGBbgiDlf.json) | Big Guy (from "The SpongeBob Movie: Search for SquarePants”) Icon Series Emote |
 | [yptaOjqgpMLdYIMwzc](blurls/yptaOjqgpMLdYIMwzc.json) | Springfield Island Reloaded Teaser |
 | [awfcZVrSGXQgWSVTnq](blurls/awfcZVrSGXQgWSVTnq.json) | Olivia Rodrigo Icon Series Trailer |

@@ -71,6 +71,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [ZzKFBYdYKFjbuaDOlK](blurls/ZzKFBYdYKFjbuaDOlK.json) | Alice Deejay - Better Off Alone (Instrumental)                                |
 | [GyagcMfbomWJwpdQcL](blurls/GyagcMfbomWJwpdQcL.json) | Alice Deejay - Better Off Alone (Preview)                                     |
 | [VmiSSfLyByYaFlqdDl](blurls/VmiSSfLyByYaFlqdDl.json) | Alice Deejay - Better Off Alone (Stereo Track)                                |
+| [hiuxVkuqPszLPGGFeL](blurls/hiuxVkuqPszLPGGFeL.json) | Almost Tomorrow - My Sound                                                    |
+| [eLGssorqldhwKMlsul](blurls/eLGssorqldhwKMlsul.json) | Almost Tomorrow - My Sound (Instrumental)                                     |
+| [ppvUXAJntokxpICfMa](blurls/ppvUXAJntokxpICfMa.json) | Almost Tomorrow - My Sound (Preview)                                          |
+| [USLTzPOAJfSdOuddqC](blurls/USLTzPOAJfSdOuddqC.json) | Almost Tomorrow - My Sound (Stereo Track)                                     |
+| [nRUWWNRJtqJBRKDKbJ](blurls/nRUWWNRJtqJBRKDKbJ.json) | Alt-Life Music - Drill Dark                                                   |
+| [IzTahbwZfSsHrWZsQF](blurls/IzTahbwZfSsHrWZsQF.json) | Alt-Life Music - Drill Dark (Instrumental)                                    |
+| [MfltdgdRiQAufsCRma](blurls/MfltdgdRiQAufsCRma.json) | Alt-Life Music - Drill Dark (Preview)                                         |
+| [BnjZnRmQzSXBodekBn](blurls/BnjZnRmQzSXBodekBn.json) | Alt-Life Music - Drill Dark (Stereo Track)                                    |
 | [xGImjTfxFqyQqWfGlQ](blurls/xGImjTfxFqyQqWfGlQ.json) | American Football - Never Meant                                               |
 | [dVbFUZErfXainoZcLR](blurls/dVbFUZErfXainoZcLR.json) | American Football - Never Meant (Instrumental)                                |
 | [OddBYXylIfGJLspolR](blurls/OddBYXylIfGJLspolR.json) | American Football - Never Meant (Preview)                                     |
@@ -239,6 +247,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [HJluCsVevmGaMRjqal](blurls/HJluCsVevmGaMRjqal.json) | Big Sean - Bounce Back (Instrumental)                                         |
 | [GzIJIUVkRxHflNQSeC](blurls/GzIJIUVkRxHflNQSeC.json) | Big Sean - Bounce Back (Preview)                                              |
 | [sOBAvfPoglRZDWfWDq](blurls/sOBAvfPoglRZDWfWDq.json) | Big Sean - Bounce Back (Stereo Track)                                         |
+| [zqZoQuUdvHPXqZPIbL](blurls/zqZoQuUdvHPXqZPIbL.json) | Bigger Story Music - Fancy                                                    |
+| [sEcrnmrAuikmlTgfqo](blurls/sEcrnmrAuikmlTgfqo.json) | Bigger Story Music - Fancy (Instrumental)                                     |
+| [dFWQEDJeLesIJkQdWW](blurls/dFWQEDJeLesIJkQdWW.json) | Bigger Story Music - Fancy (Preview)                                          |
+| [BjUXABWiJDgiaWyLHl](blurls/BjUXABWiJDgiaWyLHl.json) | Bigger Story Music - Fancy (Stereo Track)                                     |
+| [ECDEdtVZTgyprhLrHr](blurls/ECDEdtVZTgyprhLrHr.json) | Bigger Story Music - Mister Papi                                              |
+| [zNNonHkgAbTsPsrnNN](blurls/zNNonHkgAbTsPsrnNN.json) | Bigger Story Music - Mister Papi (Instrumental)                               |
+| [cEoULJpeILpOPwydBQ](blurls/cEoULJpeILpOPwydBQ.json) | Bigger Story Music - Mister Papi (Preview)                                    |
+| [xKeoyDuPjHoJQBklaJ](blurls/xKeoyDuPjHoJQBklaJ.json) | Bigger Story Music - Mister Papi (Stereo Track)                               |
 | [FuoXXkcDMFbOiEebrz](blurls/FuoXXkcDMFbOiEebrz.json) | Billie Eilish - all the good girls go to hell                                 |
 | [FRXnQeylXusTPfKcJe](blurls/FRXnQeylXusTPfKcJe.json) | Billie Eilish - all the good girls go to hell (Instrumental)                  |
 | [giDeXpQiAMldVggAeN](blurls/giDeXpQiAMldVggAeN.json) | Billie Eilish - all the good girls go to hell (Preview)                       |
@@ -601,6 +617,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [GLmBvmmIXtvSrIEwpf](blurls/GLmBvmmIXtvSrIEwpf.json) | Ed Sheeran - Shivers (Instrumental)                                           |
 | [DPArzxivXSQMGpUAKl](blurls/DPArzxivXSQMGpUAKl.json) | Ed Sheeran - Shivers (Preview)                                                |
 | [yENvmhLuQlSVkkPoQR](blurls/yENvmhLuQlSVkkPoQR.json) | Ed Sheeran - Shivers (Stereo Track)                                           |
+| [tuRpaIyfJopFSrsOTi](blurls/tuRpaIyfJopFSrsOTi.json) | EKKSTACY - i walk this earth all by myself                                    |
+| [cPxbTVNwuNTmbdfQQx](blurls/cPxbTVNwuNTmbdfQQx.json) | EKKSTACY - i walk this earth all by myself (Instrumental)                     |
+| [utgybiKvnYNXEAIyRw](blurls/utgybiKvnYNXEAIyRw.json) | EKKSTACY - i walk this earth all by myself (Preview)                          |
+| [YVVnRZTZukdYhkmHBP](blurls/YVVnRZTZukdYhkmHBP.json) | EKKSTACY - i walk this earth all by myself (Stereo Track)                     |
 | [KmJTAwlHlOkGZIpAap](blurls/KmJTAwlHlOkGZIpAap.json) | Elton John - Rocket Man                                                       |
 | [voAiQvqRTUBDSFQOpg](blurls/voAiQvqRTUBDSFQOpg.json) | Elton John - Rocket Man (Instrumental)                                        |
 | [olMuTKiiDuIafccgXv](blurls/olMuTKiiDuIafccgXv.json) | Elton John - Rocket Man (Preview)                                             |
@@ -1799,6 +1819,22 @@ Jam Track Audio Data from Fortnite Festival.
 | [FKvkWMyXgpkhPheMYl](blurls/FKvkWMyXgpkhPheMYl.json) | Lil Nas X ft. Jack Harlow - Industry Baby (v2) (Instrumental)                 |
 | [QCNsfNvuswgqWXcIPI](blurls/QCNsfNvuswgqWXcIPI.json) | Lil Nas X ft. Jack Harlow - Industry Baby (v2) (Preview)                      |
 | [aTWaleSohrSdYBbyon](blurls/aTWaleSohrSdYBbyon.json) | Lil Nas X ft. Jack Harlow - Industry Baby (v2) (Stereo Track)                 |
+| [KHVMUWLpEgBUyvWXuZ](blurls/KHVMUWLpEgBUyvWXuZ.json) | Lil Tecca - 500lbs                                                            |
+| [skcPhDAKrDJsaSHyza](blurls/skcPhDAKrDJsaSHyza.json) | Lil Tecca - 500lbs (Instrumental)                                             |
+| [yEboueLnlrvbyTNKOP](blurls/yEboueLnlrvbyTNKOP.json) | Lil Tecca - 500lbs (Preview)                                                  |
+| [TuhCeYXsvHFtDDrjnS](blurls/TuhCeYXsvHFtDDrjnS.json) | Lil Tecca - 500lbs (Stereo Track)                                             |
+| [uNrbJgzLvqmHRKWnnA](blurls/uNrbJgzLvqmHRKWnnA.json) | Lil Tecca - Dark Thoughts                                                     |
+| [wpKQGllqwkcKdaKYjg](blurls/wpKQGllqwkcKdaKYjg.json) | Lil Tecca - Dark Thoughts (Instrumental)                                      |
+| [gDloLRWLyGUIVjZuCv](blurls/gDloLRWLyGUIVjZuCv.json) | Lil Tecca - Dark Thoughts (Preview)                                           |
+| [NzTKWfSMZhnuksYBbV](blurls/NzTKWfSMZhnuksYBbV.json) | Lil Tecca - Dark Thoughts (Stereo Track)                                      |
+| [aFJLqfisNerzDHmyyu](blurls/aFJLqfisNerzDHmyyu.json) | Lil Tecca - Love Me                                                           |
+| [IHrsQoVOQTHiDyFvcX](blurls/IHrsQoVOQTHiDyFvcX.json) | Lil Tecca - Love Me (Instrumental)                                            |
+| [cqGvdPJOgnciATRNDo](blurls/cqGvdPJOgnciATRNDo.json) | Lil Tecca - Love Me (Preview)                                                 |
+| [fBytVWsCKlWrqdEuYB](blurls/fBytVWsCKlWrqdEuYB.json) | Lil Tecca - Love Me (Stereo Track)                                            |
+| [amCkVbqlfbBBJDFIiU](blurls/amCkVbqlfbBBJDFIiU.json) | Lil Tecca - Ransom                                                            |
+| [oSalIjTXqEDdgartFp](blurls/oSalIjTXqEDdgartFp.json) | Lil Tecca - Ransom (Instrumental)                                             |
+| [ugyGpYRWjekGHsLciD](blurls/ugyGpYRWjekGHsLciD.json) | Lil Tecca - Ransom (Preview)                                                  |
+| [HAUALGrmyrpZfsSMwH](blurls/HAUALGrmyrpZfsSMwH.json) | Lil Tecca - Ransom (Stereo Track)                                             |
 | [ZzdveBTMVSejUSDGnS](blurls/ZzdveBTMVSejUSDGnS.json) | Lil Uzi Vert - XO Tour Llif3                                                  |
 | [gEttfXkmnxFOAMhscg](blurls/gEttfXkmnxFOAMhscg.json) | Lil Uzi Vert - XO Tour Llif3  (Instrumental)                                  |
 | [SNVLBWTIHwFiCeRnUF](blurls/SNVLBWTIHwFiCeRnUF.json) | Lil Uzi Vert - XO Tour Llif3  (Preview)                                       |
@@ -2503,6 +2539,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [nAbWMRYIsEjbOepOTi](blurls/nAbWMRYIsEjbOepOTi.json) | Skee-Lo - I Wish (Instrumental)                                               |
 | [HsCGWpvjlDmYVUjxVa](blurls/HsCGWpvjlDmYVUjxVa.json) | Skee-Lo - I Wish (Preview)                                                    |
 | [PrAsvavlNqIgwsTQMJ](blurls/PrAsvavlNqIgwsTQMJ.json) | Skee-Lo - I Wish (Stereo Track)                                               |
+| [PxSoVVdUQdoTOKspNu](blurls/PxSoVVdUQdoTOKspNu.json) | Skrilla - Doot Doot (6 7)                                                     |
+| [UlSxrvmoSpDVrgIIwM](blurls/UlSxrvmoSpDVrgIIwM.json) | Skrilla - Doot Doot (6 7) (Instrumental)                                      |
+| [tuovLEmtcWnBMDfUCd](blurls/tuovLEmtcWnBMDfUCd.json) | Skrilla - Doot Doot (6 7) (Preview)                                           |
+| [OgvTIpSWFHoARaVHQa](blurls/OgvTIpSWFHoARaVHQa.json) | Skrilla - Doot Doot (6 7) (Stereo Track)                                      |
 | [mAnNGmnIPBgRfERRPV](blurls/mAnNGmnIPBgRfERRPV.json) | Skrillex - Scary Monsters and Nice Sprites                                    |
 | [QLzAnVruLMhvBlMVAw](blurls/QLzAnVruLMhvBlMVAw.json) | Skrillex - Scary Monsters and Nice Sprites (Instrumental)                     |
 | [dWdaVnPsLGxqxKtGkr](blurls/dWdaVnPsLGxqxKtGkr.json) | Skrillex - Scary Monsters and Nice Sprites (Preview)                          |
@@ -2555,6 +2595,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [rLTLbfJWOrzSrqbtLW](blurls/rLTLbfJWOrzSrqbtLW.json) | Soundgarden - Fell On Black Days (Instrumental)                               |
 | [bIqSTBpNUncZxtLCFM](blurls/bIqSTBpNUncZxtLCFM.json) | Soundgarden - Fell On Black Days (Preview)                                    |
 | [qHdWjHRcccEtfCpMXv](blurls/qHdWjHRcccEtfCpMXv.json) | Soundgarden - Fell On Black Days (Stereo Track)                               |
+| [ZkPZgEkrENsDwuwTZj](blurls/ZkPZgEkrENsDwuwTZj.json) | speaker knockerz - lonely                                                     |
+| [LxwswdIOBoiHAHXgEN](blurls/LxwswdIOBoiHAHXgEN.json) | speaker knockerz - lonely (Instrumental)                                      |
+| [JwlGlgdtZmfLQpucWr](blurls/JwlGlgdtZmfLQpucWr.json) | speaker knockerz - lonely (Preview)                                           |
+| [kInABdQtlrxEfaJEgn](blurls/kInABdQtlrxEfaJEgn.json) | speaker knockerz - lonely (Stereo Track)                                      |
 | [NrDJmHLuuwhSsdwmUr](blurls/NrDJmHLuuwhSsdwmUr.json) | Stone Temple Pilots - Interstate Love Song                                    |
 | [hlJUstzlEvaoauRwtv](blurls/hlJUstzlEvaoauRwtv.json) | Stone Temple Pilots - Interstate Love Song (Preview)                          |
 | [hzHLWeOQXPjzOepVYc](blurls/hzHLWeOQXPjzOepVYc.json) | Stone Temple Pilots - Interstate Love Song (Stereo Track)                     |

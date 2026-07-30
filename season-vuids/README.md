@@ -101,3 +101,4 @@ Seasonal Trailer Video Content, found in either the Career Tab or First Time Sta
 | [peJnQSpsFVQneeMXZA](blurls/peJnQSpsFVQneeMXZA.json) | Chapter 7 Season 2: Fortnite x EsDeeKid Trailer |
 | [HHtAHfSdLbegWOBXYM](blurls/HHtAHfSdLbegWOBXYM.json) | Chapter 7 Season 3: Gameplay Trailer |
 | [lnBvGYiWvDMRUHDYCt](blurls/lnBvGYiWvDMRUHDYCt.json) | Chapter 7 Season 3: Cinematic Trailer |
+| [VhPDNTovDGMUmAsMgo](blurls/VhPDNTovDGMUmAsMgo.json) | Chapter 7 Season 3: Springfield Reloaded Trailer |
