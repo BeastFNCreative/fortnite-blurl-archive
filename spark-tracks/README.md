@@ -51,6 +51,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [ThHPFgMwJRBwbBTlHJ](blurls/ThHPFgMwJRBwbBTlHJ.json) | a-ha - Take On Me (Instrumental)                                              |
 | [VmEkvwdeIRFTUuNhum](blurls/VmEkvwdeIRFTUuNhum.json) | a-ha - Take On Me (Preview)                                                   |
 | [OJBkkumkQFQiuMHLyZ](blurls/OJBkkumkQFQiuMHLyZ.json) | a-ha - Take On Me (Stereo Track)                                              |
+| [EMDfTWUrZSItRrIRuV](blurls/EMDfTWUrZSItRrIRuV.json) | Addison Rae - Diet Pepsi                                                      |
+| [WXspZbgyFtACpTyYiL](blurls/WXspZbgyFtACpTyYiL.json) | Addison Rae - Diet Pepsi (Instrumental)                                       |
+| [LGMGhFaKMMylofOxiT](blurls/LGMGhFaKMMylofOxiT.json) | Addison Rae - Diet Pepsi (Preview)                                            |
+| [TEvHWarlvFJyBvQfAn](blurls/TEvHWarlvFJyBvQfAn.json) | Addison Rae - Diet Pepsi (Stereo Track)                                       |
+| [RrxnQqpAzceCEyHpcV](blurls/RrxnQqpAzceCEyHpcV.json) | Addison Rae - Fame is a Gun                                                   |
+| [dOUJxDDWCNMtzKgUfx](blurls/dOUJxDDWCNMtzKgUfx.json) | Addison Rae - Fame is a Gun (Instrumental)                                    |
+| [wMgpnIYZjMQfbGcAXj](blurls/wMgpnIYZjMQfbGcAXj.json) | Addison Rae - Fame is a Gun (Preview)                                         |
+| [LdlCueTLHVLovVcjpC](blurls/LdlCueTLHVLovVcjpC.json) | Addison Rae - Fame is a Gun (Stereo Track)                                    |
 | [kOqATFsbbRZegVAEYR](blurls/kOqATFsbbRZegVAEYR.json) | Aerosmith - Dream On                                                          |
 | [hEZkBxjwFzFuuPmfoV](blurls/hEZkBxjwFzFuuPmfoV.json) | Aerosmith - Dream On (Instrumental)                                           |
 | [iTqmKYrQNWCpGSBJAV](blurls/iTqmKYrQNWCpGSBJAV.json) | Aerosmith - Dream On (Preview)                                                |
