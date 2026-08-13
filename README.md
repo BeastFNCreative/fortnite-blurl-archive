@@ -9,6 +9,7 @@ The biggest Epic Games VUID archive for Fortnite
 | :--------------------------------------------------- | :--------------------------------------------------- |
 | BeastFNCreative                                      | Owner                                                |
 | GRUmbaWasHere                                        | Owner                                                |
+| stelemanuele77                                       | Contributor                                          |
 | PONY                                                 | Contributor                                          |
 | blortzen                                             | Contributor                                          |
 | Egyptian Fortnite Leaker                             | Contributor                                          |

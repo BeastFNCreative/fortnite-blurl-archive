@@ -29,6 +29,7 @@ Radio Stations used In-Game when inside Vehicles.
 | [QWGQAynCdixzoLIdJl](blurls/QWGQAynCdixzoLIdJl.json) | Party Royale (v2) |
 | [atWiPWwdlzXohpNhzD](blurls/atWiPWwdlzXohpNhzD.json) | Party Royale (v3) |
 | [qljggvKPbcUUtYgeJk](blurls/qljggvKPbcUUtYgeJk.json) | Party Royale (v4) |
+| [xgaxNnIlWeVkZXwIcV](blurls/xgaxNnIlWeVkZXwIcV.json) | Party Royale (v5) |
 | [PcQCHxHkBsmjSneR](blurls/PcQCHxHkBsmjSneR.json) | Power Play |
 | [dWkLynOluUUuCAPJHA](blurls/dWkLynOluUUuCAPJHA.json) | Power Play (v2) |
 | [ixWkbUWHJfzaZVePXJ](blurls/ixWkbUWHJfzaZVePXJ.json) | Power Play (v3) |

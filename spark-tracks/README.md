@@ -111,6 +111,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [nVwgJnHsxUaiScfdjX](blurls/nVwgJnHsxUaiScfdjX.json) | ATB, Topic, A7S - Your Love (9pm) (Instrumental)                              |
 | [pWamLhSDzUNwWzYLtd](blurls/pWamLhSDzUNwWzYLtd.json) | ATB, Topic, A7S - Your Love (9pm) (Preview)                                   |
 | [nNSMToWDNYNbqLFhSt](blurls/nNSMToWDNYNbqLFhSt.json) | ATB, Topic, A7S - Your Love (9pm) (Stereo Track)                              |
+| [HnjVQkuUPhkWsbjUhm](blurls/HnjVQkuUPhkWsbjUhm.json) | ATLiens - One Last Breath (ATLiens Remix)                                     |
+| [zUQOyyITFODTrZGfpw](blurls/zUQOyyITFODTrZGfpw.json) | ATLiens - One Last Breath (ATLiens Remix) (Preview)                           |
+| [XFHwhpuHnyyBTvhigf](blurls/XFHwhpuHnyyBTvhigf.json) | ATLiens - One Last Breath (ATLiens Remix) (Instrumental)                      |
+| [dmzQRjPqCTYQAqfjEP](blurls/dmzQRjPqCTYQAqfjEP.json) | ATLiens - One Last Breath (ATLiens Remix) (Stereo Track)                      |
 | [BxVtnsjzUVRfHDaoiM](blurls/BxVtnsjzUVRfHDaoiM.json) | ATLXS - PASSO BEM SOLTO - Slowed                                              |
 | [CQyrCPwLXwJESzblBr](blurls/CQyrCPwLXwJESzblBr.json) | ATLXS - PASSO BEM SOLTO - Slowed (Instrumental)                               |
 | [DorVOexmdlKIkEdCpM](blurls/DorVOexmdlKIkEdCpM.json) | ATLXS - PASSO BEM SOLTO - Slowed (Preview)                                    |
@@ -629,6 +633,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [cPxbTVNwuNTmbdfQQx](blurls/cPxbTVNwuNTmbdfQQx.json) | EKKSTACY - i walk this earth all by myself (Instrumental)                     |
 | [utgybiKvnYNXEAIyRw](blurls/utgybiKvnYNXEAIyRw.json) | EKKSTACY - i walk this earth all by myself (Preview)                          |
 | [YVVnRZTZukdYhkmHBP](blurls/YVVnRZTZukdYhkmHBP.json) | EKKSTACY - i walk this earth all by myself (Stereo Track)                     |
+| [SjkUZXfRRwCelzvnDi](blurls/SjkUZXfRRwCelzvnDi.json) | Ella Langley - Choosin' Texas                                                 |
+| [rIzZmzAZJqMImLtRyW](blurls/rIzZmzAZJqMImLtRyW.json) | Ella Langley - Choosin' Texas (Instrumental)                                  |
+| [qyZstaZNYAktPqNuqk](blurls/qyZstaZNYAktPqNuqk.json) | Ella Langley - Choosin' Texas (Preview)                                       |
+| [yrTvXrUXHvHifhSRVw](blurls/yrTvXrUXHvHifhSRVw.json) | Ella Langley - Choosin' Texas (Stereo Track)                                  |
 | [KmJTAwlHlOkGZIpAap](blurls/KmJTAwlHlOkGZIpAap.json) | Elton John - Rocket Man                                                       |
 | [voAiQvqRTUBDSFQOpg](blurls/voAiQvqRTUBDSFQOpg.json) | Elton John - Rocket Man (Instrumental)                                        |
 | [olMuTKiiDuIafccgXv](blurls/olMuTKiiDuIafccgXv.json) | Elton John - Rocket Man (Preview)                                             |
@@ -2535,6 +2543,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [NjzZupGzWonusIqZiM](blurls/NjzZupGzWonusIqZiM.json) | Sia ft. Sean Paul - Cheap Thrills (Instrumental)                              |
 | [LHaSzZpMQzCzqLZwhT](blurls/LHaSzZpMQzCzqLZwhT.json) | Sia ft. Sean Paul - Cheap Thrills (Preview)                                   |
 | [tTaYVuyUYNhfDFfFDo](blurls/tTaYVuyUYNhfDFfFDo.json) | Sia ft. Sean Paul - Cheap Thrills (Stereo Track)                              |
+| [gfKyuovqqfQJCwhLYV](blurls/gfKyuovqqfQJCwhLYV.json) | Sidney Gish - Imposter Syndrome                                               |
+| [nqIsGFcQTPtVOmANuW](blurls/nqIsGFcQTPtVOmANuW.json) | Sidney Gish - Imposter Syndrome (Instrumental)                                |
+| [JMXRiHtEbGPStegCBl](blurls/JMXRiHtEbGPStegCBl.json) | Sidney Gish - Imposter Syndrome (Preview)                                     |
+| [fxrUVdSpoEihDyBlYS](blurls/fxrUVdSpoEihDyBlYS.json) | Sidney Gish - Imposter Syndrome (Stereo Track)                                |
 | [MbloIHreoHXIPKESBe](blurls/MbloIHreoHXIPKESBe.json) | Silk Sonic - Leave The Door Open                                              |
 | [ylfOVjmZpKDtfdbVJW](blurls/ylfOVjmZpKDtfdbVJW.json) | Silk Sonic - Leave The Door Open (Instrumental)                               |
 | [MUVbfeZoiwIwURXElD](blurls/MUVbfeZoiwIwURXElD.json) | Silk Sonic - Leave The Door Open (Preview)                                    |
@@ -2638,6 +2650,7 @@ Jam Track Audio Data from Fortnite Festival.
 | [TMnHHVMUCSwcQFhsnq](blurls/TMnHHVMUCSwcQFhsnq.json) | Swedish House Mafia ft. John Martin - Don't You Worry Child (Instrumental)    |
 | [rmmbIzCyVNeSugaLjG](blurls/rmmbIzCyVNeSugaLjG.json) | Swedish House Mafia ft. John Martin - Don't You Worry Child (Preview)         |
 | [FwkfpQkTwBnKgyhytw](blurls/FwkfpQkTwBnKgyhytw.json) | Swedish House Mafia ft. John Martin - Don't You Worry Child (Stereo Track)    |
+
 | [xpDRqPSuerbGgAOvJQ](blurls/xpDRqPSuerbGgAOvJQ.json) | System Of A Down - Toxicity                                                   |
 | [XwyOuuKRncVqLSYpah](blurls/XwyOuuKRncVqLSYpah.json) | System Of A Down - Toxicity (Instrumental)                                    |
 | [ggVTPwPQKHiSkCTZWC](blurls/ggVTPwPQKHiSkCTZWC.json) | System Of A Down - Toxicity (Preview)                                         |
