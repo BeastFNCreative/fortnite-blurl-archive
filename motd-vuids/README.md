@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [gTWPEvefXZlIFifXQi](blurls/gTWPEvefXZlIFifXQi.json) | Chapter 7 Season 4: Override Trailer |
 | [BbwzgXbYYiITcftOFl](blurls/BbwzgXbYYiITcftOFl.json) | Unstable Story Moment Teaser |
 | [XOieRhpLBNLqoPSKav](blurls/XOieRhpLBNLqoPSKav.json) | Fortnite Festival Season 15: Lil Tecca Trailer |
 | [yWUAqIAEumkmHdGyFe](blurls/yWUAqIAEumkmHdGyFe.json) | The Simpsons x Fortnite Springfield Reloaded Trailer |

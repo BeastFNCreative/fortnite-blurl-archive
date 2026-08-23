@@ -103,3 +103,5 @@ Seasonal Trailer Video Content, found in either the Career Tab or First Time Sta
 | [lnBvGYiWvDMRUHDYCt](blurls/lnBvGYiWvDMRUHDYCt.json) | Chapter 7 Season 3: Cinematic Trailer |
 | [VhPDNTovDGMUmAsMgo](blurls/VhPDNTovDGMUmAsMgo.json) | Chapter 7 Season 3: Springfield Reloaded Trailer |
 | [UvecNfYRdelkZUhYHR](blurls/UvecNfYRdelkZUhYHR.json) | Chapter 7 Season 3: Fortnite x Addison Rae |
+| [ZQhwctnSQezjgxLKWC](blurls/ZQhwctnSQezjgxLKWC.json) | Chapter 7 Season 4: Season Trailer |
+| [miANbFeAfWQHpQxAzM](blurls/miANbFeAfWQHpQxAzM.json) | Chapter 7 Season 4: LEGO Fortnite Quick Build Feature |
