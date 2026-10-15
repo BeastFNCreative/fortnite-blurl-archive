@@ -79,6 +79,10 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [zvQuSNCIqYMGgFljiM](blurls/zvQuSNCIqYMGgFljiM.json) | Mobile Shooting Tutorial Unused Video 1                                                              |
 | [AMzqULFVDUKJFmWtxq](blurls/AMzqULFVDUKJFmWtxq.json) | Mobile Shooting Tutorial Unused Video 2                                                              |
 | [cdItBLrFXpWRXScwuc](blurls/cdItBLrFXpWRXScwuc.json) | Mobile Shooting Tutorial Unused Video 3                                                              |
+| [jGkbaOxjdfDZTVfEhZ](blurls/jGkbaOxjdfDZTVfEhZ.json) | One Piece x Fortnite: Teaser Song: A$AP Rocky - RIOT                                                 |
+| [ZttqKTeKCfhrfGmMmC](blurls/ZttqKTeKCfhrfGmMmC.json) | One Piece x Fortnite: Teaser Song: Anamanaguchi - Miku ft. Hatsune Miku                              |
+| [BTKPCgyWZlPQhItdCw](blurls/BTKPCgyWZlPQhItdCw.json) | One Piece x Fortnite: Teaser Song: Jamie Paige & OK Glass - BIRDBRAIN                                |
+| [iiWzBpjBjUCRmypEpN](blurls/iiWzBpjBjUCRmypEpN.json) | One Piece x Fortnite: Teaser Song: Lil Uzi Vert - What You Saying                                    |
 | [BSrEJzIJjMDOJGEoUk](blurls/BSrEJzIJjMDOJGEoUk.json) | One Piece x Fortnite: Teaser Day 1 Voiceline 1                                                       |
 | [HIEdJSaRIunrxERvOD](blurls/HIEdJSaRIunrxERvOD.json) | One Piece x Fortnite: Teaser Day 1 Voiceline 2                                                       |
 | [hRFUdOiHRRyujEjQsm](blurls/hRFUdOiHRRyujEjQsm.json) | One Piece x Fortnite: Teaser Day 1 Voiceline 3                                                       |

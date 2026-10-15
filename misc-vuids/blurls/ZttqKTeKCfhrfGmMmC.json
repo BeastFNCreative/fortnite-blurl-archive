@@ -1,0 +1,15 @@
+{
+    "playlists": [
+        {
+            "type": "main",
+            "language": "en",
+            "url": "https://cdn-0001.qstv.on.epicgames.com/ZttqKTeKCfhrfGmMmC/faa1980c-4fa4-48cc-8c14-df2ac64878bb/main_en_US.mpd",
+            "data": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" xmlns:xsi=\"\" xsi:schemaLocation=\"\" xmlns:cenc=\"urn:mpeg:cenc:2013\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011,http://dashif.org/guidelines/dash264\" type=\"static\" mediaPresentationDuration=\"PT3M27.748S\" minBufferTime=\"PT1.500S\">\n  <BaseURL serviceLocation=\"AWS\">https://cdn-0001.qstv.on.epicgames.com/ZttqKTeKCfhrfGmMmC/faa1980c-4fa4-48cc-8c14-df2ac64878bb/</BaseURL>\n  <BaseURL serviceLocation=\"Akamai\">https://fortnite-vod.akamaized.net/ZttqKTeKCfhrfGmMmC/faa1980c-4fa4-48cc-8c14-df2ac64878bb/</BaseURL>\n  <BaseURL serviceLocation=\"Fastly\">https://cdn-0002.qstv.on.epicgames.com/ZttqKTeKCfhrfGmMmC/faa1980c-4fa4-48cc-8c14-df2ac64878bb/</BaseURL>\n  <ProgramInformation></ProgramInformation>\n  <Period start=\"PT0S\" duration=\"PT3M27.748S\">\n    <AdaptationSet contentType=\"\" lang=\"und\" startWithSAP=\"1\" segmentAlignment=\"true\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n      <Representation id=\"1\" audioSamplingRate=\"48000\" bandwidth=\"127712\" mimeType=\"audio/mp4\" codecs=\"mp4a.40.2\">\n        <AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\"></AudioChannelConfiguration>\n        <BaseURL>main_en_US_0_dashinit.mp4</BaseURL>\n        <SegmentBase indexRange=\"1128-2407\" indexRangeExact=\"true\">\n          <Initialization range=\"0-991\"></Initialization>\n        </SegmentBase>\n      </Representation>\n      <ContentProtection schemeIdUri=\"urn:mpeg:dash:mp4protection:2011\" value=\"cbcs\" cenc:default_KID=\"ed2d53f8-ebb6-1e77-8b3d-0535f59b0157\"></ContentProtection>\n      <ContentProtection schemeIdUri=\"urn:uuid:e2719d58-a985-b3c9-781a-b030af78d30e\" value=\"ClearKey1.0\">\n        <clearkey:Laurl>key.key</clearkey:Laurl>\n      </ContentProtection>\n    </AdaptationSet>\n  </Period>\n</MPD>",
+            "duration": 207.748875
+        }
+    ],
+    "type": "vod",
+    "ev": "AQANABB5T2tpTHhJZ3djeWtxf0FGJbdhRKelfbJDbcYpmg==",
+    "ucp": "a",
+    "audioonly": true
+}
