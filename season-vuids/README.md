@@ -105,3 +105,11 @@ Seasonal Trailer Video Content, found in either the Career Tab or First Time Sta
 | [UvecNfYRdelkZUhYHR](blurls/UvecNfYRdelkZUhYHR.json) | Chapter 7 Season 3: Fortnite x Addison Rae |
 | [ZQhwctnSQezjgxLKWC](blurls/ZQhwctnSQezjgxLKWC.json) | Chapter 7 Season 4: Season Trailer |
 | [miANbFeAfWQHpQxAzM](blurls/miANbFeAfWQHpQxAzM.json) | Chapter 7 Season 4: LEGO Fortnite Quick Build Feature |
+| [qDmudsndTcJlqFroIK](blurls/qDmudsndTcJlqFroIK.json) | Chapter 7 Season 4: Dracula Icon Series Emote |
+| [OMdhyOeyQouhzodnic](blurls/OMdhyOeyQouhzodnic.json) | Chapter 7 Season 4: Fortnite x Black Clover Trailer |
+| [tjSoKdMTRabdHGVORF](blurls/tjSoKdMTRabdHGVORF.json) | Chapter 7 Season 4: Fortnite x Nightmare on Elm Street Trailer |
+| [AShjJQHkDOfsBOPnuK](blurls/AShjJQHkDOfsBOPnuK.json) | Chapter 7 Season 4: Fortnite x Pacman Trailer |
+| [ZTteVehgNzHxcgRzsa](blurls/ZTteVehgNzHxcgRzsa.json) | Chapter 7 Season 4: Fortnite x Kingdom Hearts Trailer |
+| [TKqOHJjzMKRDKwLcEn](blurls/TKqOHJjzMKRDKwLcEn.json) | Chapter 7 Season 4: Fortnite x Persona 5 Trailer (Missing BLURL) |
+| [rDDojNxFwxBpTOUnTq](blurls/rDDojNxFwxBpTOUnTq.json) | Chapter 7 Season 4: Cry For Me Icon Series Emote |
+| [ypMFxSkKEHohWtzqUS](blurls/ypMFxSkKEHohWtzqUS.json) | Chapter 7 Season 4: This Week In The Item Shop (Sep 3rd 2026) |

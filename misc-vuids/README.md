@@ -14,6 +14,7 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [zVEuFPigBeWeAVTu](blurls/zVEuFPigBeWeAVTu.json)     | Bouncing Llama Placeholder (v1)                                                                      |
 | [8WOS7JultH2n65OhZP](blurls/8WOS7JultH2n65OhZP.json) | Bouncing Llama Placeholder with Movie Qoute Subtitles                                                |
 | [TSrJAuydirPcYVVmcD](blurls/TSrJAuydirPcYVVmcD.json) | Chapter 3 Season 3 : Jungle Environment Music                                                        |
+| [PMkepprUBhojQwtxFB](blurls/PMkepprUBhojQwtxFB.json) | Chapter 7 Mini Season 1 Teaser: Debug Audio                                                          |
 | [uMgMeHviftMSnWav](blurls/uMgMeHviftMSnWav.json)     | Creative Video Player Base ID                                                                        |
 | [OMgvRuKGFDIczdiawa](blurls/OMgvRuKGFDIczdiawa.json) | Daigo's Spirit Realm Cinematic Reward                                                                |
 | [dFrwUcEUFxQWWKqoSW](blurls/dFrwUcEUFxQWWKqoSW.json) | Daigo's Spirit Realm Cinematic Reward (v2)                                                           |
@@ -78,6 +79,35 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [zvQuSNCIqYMGgFljiM](blurls/zvQuSNCIqYMGgFljiM.json) | Mobile Shooting Tutorial Unused Video 1                                                              |
 | [AMzqULFVDUKJFmWtxq](blurls/AMzqULFVDUKJFmWtxq.json) | Mobile Shooting Tutorial Unused Video 2                                                              |
 | [cdItBLrFXpWRXScwuc](blurls/cdItBLrFXpWRXScwuc.json) | Mobile Shooting Tutorial Unused Video 3                                                              |
+| [BSrEJzIJjMDOJGEoUk](blurls/BSrEJzIJjMDOJGEoUk.json) | One Piece x Fortnite: Teaser Day 1 Voiceline 1                                                       |
+| [HIEdJSaRIunrxERvOD](blurls/HIEdJSaRIunrxERvOD.json) | One Piece x Fortnite: Teaser Day 1 Voiceline 2                                                       |
+| [hRFUdOiHRRyujEjQsm](blurls/hRFUdOiHRRyujEjQsm.json) | One Piece x Fortnite: Teaser Day 1 Voiceline 3                                                       |
+| [GrtQCmSpiQsdmVbmjE](blurls/GrtQCmSpiQsdmVbmjE.json) | One Piece x Fortnite: Teaser Day 1 Voiceline 4                                                       |
+| [DxqMSFSxzlLWvPJCIp](blurls/DxqMSFSxzlLWvPJCIp.json) | One Piece x Fortnite: Teaser Day 2 Voiceline 1                                                       |
+| [AFztmJuMKHuAggIxxZ](blurls/AFztmJuMKHuAggIxxZ.json) | One Piece x Fortnite: Teaser Day 2 Voiceline 2                                                       |
+| [viYTTFfVFofIxBTrlK](blurls/viYTTFfVFofIxBTrlK.json) | One Piece x Fortnite: Teaser Day 2 Voiceline 3                                                       |
+| [ZonJqTmToWKcTVknPv](blurls/ZonJqTmToWKcTVknPv.json) | One Piece x Fortnite: Teaser Day 2 Voiceline 4                                                       |
+| [qoQhNEYmkMPOsXXERc](blurls/qoQhNEYmkMPOsXXERc.json) | One Piece x Fortnite: Teaser Day 3 Voiceline 1                                                       |
+| [rmtACYwMIwdbQwvUBM](blurls/rmtACYwMIwdbQwvUBM.json) | One Piece x Fortnite: Teaser Day 3 Voiceline 2                                                       |
+| [NPOhTTTnlEaetOBaim](blurls/NPOhTTTnlEaetOBaim.json) | One Piece x Fortnite: Teaser Day 3 Voiceline 3                                                       |
+| [nHCJnPfqGfIwXMSoye](blurls/nHCJnPfqGfIwXMSoye.json) | One Piece x Fortnite: Teaser Day 3 Voiceline 4                                                       |
+| [DJgokgoaRTzPXsRaLn](blurls/DJgokgoaRTzPXsRaLn.json) | One Piece x Fortnite: Teaser Day 4 Voiceline 1                                                       |
+| [LZHjQAvmkAOUCLHJYR](blurls/LZHjQAvmkAOUCLHJYR.json) | One Piece x Fortnite: Teaser Day 4 Voiceline 2                                                       |
+| [dmAqodZykjGqhlxBqA](blurls/dmAqodZykjGqhlxBqA.json) | One Piece x Fortnite: Teaser Day 4 Voiceline 3                                                       |
+| [ufJtRdMJUmnakpoJvS](blurls/ufJtRdMJUmnakpoJvS.json) | One Piece x Fortnite: Teaser Day 4 Voiceline 4                                                       |
+| [cfiwWIWaneewfVjiAJ](blurls/cfiwWIWaneewfVjiAJ.json) | One Piece x Fortnite: Teaser Day 5 Voiceline 1                                                       |
+| [CgjjxQctWJYxNCLlAT](blurls/CgjjxQctWJYxNCLlAT.json) | One Piece x Fortnite: Teaser Day 5 Voiceline 2                                                       |
+| [JMHksYtfPLdCSgdxdt](blurls/JMHksYtfPLdCSgdxdt.json) | One Piece x Fortnite: Teaser Day 5 Voiceline 3                                                       |
+| [QphZlGqyimYfvCzQio](blurls/QphZlGqyimYfvCzQio.json) | One Piece x Fortnite: Teaser Day 5 Voiceline 4                                                       |
+| [oYCLQgBbYMysLWeqCu](blurls/oYCLQgBbYMysLWeqCu.json) | One Piece x Fortnite: Teaser Day 6 Voiceline 1                                                       |
+| [oEQWYGiYVRqKHyfwGT](blurls/oEQWYGiYVRqKHyfwGT.json) | One Piece x Fortnite: Teaser Day 6 Voiceline 2                                                       |
+| [sStsLCkeREdRrncWLU](blurls/sStsLCkeREdRrncWLU.json) | One Piece x Fortnite: Teaser Day 6 Voiceline 3                                                       |
+| [nKCXdpqcTqefFmEqwJ](blurls/nKCXdpqcTqefFmEqwJ.json) | One Piece x Fortnite: Teaser Day 6 Voiceline 4                                                       |
+| [VlInNnllWEFszJyUQc](blurls/VlInNnllWEFszJyUQc.json) | One Piece x Fortnite: Teaser Day 7 Voiceline 1                                                       |
+| [zbYdNtwqroMbxNokro](blurls/zbYdNtwqroMbxNokro.json) | One Piece x Fortnite: Teaser Day 7 Voiceline 2                                                       |
+| [yGTGdmwTacaFtZpmhy](blurls/yGTGdmwTacaFtZpmhy.json) | One Piece x Fortnite: Teaser Day 7 Voiceline 3                                                       |
+| [DlwFQPWSJBfgLATnXG](blurls/DlwFQPWSJBfgLATnXG.json) | One Piece x Fortnite: Teaser Day 7 Voiceline 4                                                       |
+| [mtoUrQNyyOxEIWwkKb](blurls/mtoUrQNyyOxEIWwkKb.json) | One Piece x Fortnite: Teaser Day 7 Voiceline 5                                                       |
 | [yZCScFFPeBHXNMtusu](blurls/yZCScFFPeBHXNMtusu.json) | Picture-in-Picture Bouncing Llama Placeholder                                                        |
 | [CQHiUBeIAlYGpheYEx](blurls/CQHiUBeIAlYGpheYEx.json) | Placeholder for Unused Simpsons TV Video                                                             |
 | [JyzYsYnJwAqfHteptR](blurls/JyzYsYnJwAqfHteptR.json) | Placeholder for Sidekick How To Video                                                                |

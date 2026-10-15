@@ -10,6 +10,13 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [fbbBDLtglZDZjyEfbP](blurls/fbbBDLtglZDZjyEfbP.json) | Fortnitemares 2026 Gameplay Trailer |
+| [ATTpDuJeLeRLHhbqsh](blurls/ATTpDuJeLeRLHhbqsh.json) | Fortnite x Five Nights At Freddy's Gameplay Trailer |
+| [PdIFkcUVKdSDUEWPCD](blurls/PdIFkcUVKdSDUEWPCD.json) | Fortnitemares 2026 Cinematic Trailer |
+| [beySIMTKtHRIfOTnef](blurls/beySIMTKtHRIfOTnef.json) | Deadzone Controller Explanation |
+| [DXpXYmulcQTQxIRKen](blurls/DXpXYmulcQTQxIRKen.json) | Lollipop Icon Series Emote |
+| [hmXnbZZltzSeDpwOvE](blurls/hmXnbZZltzSeDpwOvE.json) | Fortnite x Kingdom Hearts Trailer |
+| [IJoEFavNAXEPolcxmg](blurls/IJoEFavNAXEPolcxmg.json) | Chapter 7 Season 4: Override 8-Bit Trailer |
 | [gTWPEvefXZlIFifXQi](blurls/gTWPEvefXZlIFifXQi.json) | Chapter 7 Season 4: Override Trailer |
 | [BbwzgXbYYiITcftOFl](blurls/BbwzgXbYYiITcftOFl.json) | Unstable Story Moment Teaser |
 | [XOieRhpLBNLqoPSKav](blurls/XOieRhpLBNLqoPSKav.json) | Fortnite Festival Season 15: Lil Tecca Trailer |
