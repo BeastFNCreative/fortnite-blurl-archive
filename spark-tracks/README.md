@@ -1377,6 +1377,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [pdYGJMnKhboAjewjCj](blurls/pdYGJMnKhboAjewjCj.json) | HAVEN., Kaitlin Aragon - I Run (Instrumental)                                 |
 | [AOZAcXVuiGkzYhtlIZ](blurls/AOZAcXVuiGkzYhtlIZ.json) | HAVEN., Kaitlin Aragon - I Run (Preview)                                      |
 | [lnZiTsByuxcnpRvSJo](blurls/lnZiTsByuxcnpRvSJo.json) | HAVEN., Kaitlin Aragon - I Run (Stereo Track)                                 |
+| [kCTPswvWJiLsooKDxw](blurls/kCTPswvWJiLsooKDxw.json) | Hazbin Hotel - Happy Day in Hell                                              |
+| [OwfLwCeVdhNLTVwaKE](blurls/OwfLwCeVdhNLTVwaKE.json) | Hazbin Hotel - Happy Day in Hell (Instrumental)                               |
+| [NLFbJCticEuVKLpFkT](blurls/NLFbJCticEuVKLpFkT.json) | Hazbin Hotel - Happy Day in Hell (Preview)                                    |
+| [IkmMibzhbnUzrvJAdS](blurls/IkmMibzhbnUzrvJAdS.json) | Hazbin Hotel - Happy Day in Hell (Stereo Track)                               |
+| [RwNgvrIYupJDkvPKZc](blurls/RwNgvrIYupJDkvPKZc.json) | Hazbin Hotel - Hell's Greatest Dad                                            |
+| [TpqVNOUxGFThFrQWOL](blurls/TpqVNOUxGFThFrQWOL.json) | Hazbin Hotel - Hell's Greatest Dad (Instrumental)                             |
+| [VmyGTmCYGzCWrHBfjq](blurls/VmyGTmCYGzCWrHBfjq.json) | Hazbin Hotel - Hell's Greatest Dad (Preview)                                  |
+| [GreOBobHNuhEKeXsFe](blurls/GreOBobHNuhEKeXsFe.json) | Hazbin Hotel - Hell's Greatest Dad (Stereo Track)                             |
 | [HlvyoDJELiFBRTCrIn](blurls/HlvyoDJELiFBRTCrIn.json) | Hechizeros Band - El Sonidito                                                 |
 | [bWvFjRwEPkJBZpRmIb](blurls/bWvFjRwEPkJBZpRmIb.json) | Hechizeros Band - El Sonidito (Instrumental)                                  |
 | [cvQgywupjSLhyjzigA](blurls/cvQgywupjSLhyjzigA.json) | Hechizeros Band - El Sonidito (Preview)                                       |
