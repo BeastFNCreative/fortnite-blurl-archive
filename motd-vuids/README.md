@@ -407,7 +407,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 | [VczVinQIUTIGIYcWPY](blurls/VczVinQIUTIGIYcWPY.json) | ShortNite 2 : WebGen Trailer |
 | [EqzIIDrKcaBYsYIlIg](blurls/EqzIIDrKcaBYsYIlIg.json) | Ferrari Collaboration Trailer |
 | [JklkLDikLacANECXYx](blurls/JklkLDikLacANECXYx.json) | Simple Trios Zone Wars Creative LTM Showcase |
-| [LEkfjSPdFlADzyZFnc](blurls/LEkfjSPdFlADzyZFnc.json) | Wrap Outfits (DO NOT KEEP) Showcase |
+| [LEkfjSPdFlADzyZFnc](blurls/LEkfjSPdFlADzyZFnc.json) | Wrap Outfits Showcase |
 | [QJgwBlsHfUsWdRkyfa](blurls/QJgwBlsHfUsWdRkyfa.json) | Plasma Cannon Item Trailer |
 | [cFumdLeQWOdpKlDJZp](blurls/cFumdLeQWOdpKlDJZp.json) | Hey Now Icon Series Emote |
 | [jbTNjFGlsiYEpJarCQ](blurls/jbTNjFGlsiYEpJarCQ.json) | FNCS Chapter 2 Season 7 Hype Trailer |
