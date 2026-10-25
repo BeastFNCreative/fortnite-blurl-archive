@@ -36,6 +36,40 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [gMVycBuZDFMJXebCeh](blurls/gMVycBuZDFMJXebCeh.json) | Fortnite: Shattered Event Trailer Cinematic Reward                                                   |
 | [HKRxpAPvKelKwKUVrK](blurls/HKRxpAPvKelKwKUVrK.json) | Fortnite: Shattered Event Betrayal Cinematic                                                         |
 | [uaunTiIyNfEFgBdguy](blurls/uaunTiIyNfEFgBdguy.json) | Fortnite: Shattered Event Runners Gameplay Trailer                                                   |
+| [utewlkNaYEsRzngdWA](blurls/utewlkNaYEsRzngdWA.json) | Fortnite - Treasure Hunters: Season Teaser                                                           |
+| [jGkbaOxjdfDZTVfEhZ](blurls/jGkbaOxjdfDZTVfEhZ.json) | Fortnite - Treasure Hunters: Teaser Song: A$AP Rocky - RIOT                                          |
+| [ZttqKTeKCfhrfGmMmC](blurls/ZttqKTeKCfhrfGmMmC.json) | Fortnite - Treasure Hunters: Teaser Song: Anamanaguchi - Miku ft. Hatsune Miku                       |
+| [BTKPCgyWZlPQhItdCw](blurls/BTKPCgyWZlPQhItdCw.json) | Fortnite - Treasure Hunters: Teaser Song: Jamie Paige & OK Glass - BIRDBRAIN                         |
+| [iiWzBpjBjUCRmypEpN](blurls/iiWzBpjBjUCRmypEpN.json) | Fortnite - Treasure Hunters: Teaser Song: Lil Uzi Vert - What You Saying                             |
+| [BSrEJzIJjMDOJGEoUk](blurls/BSrEJzIJjMDOJGEoUk.json) | Fortnite - Treasure Hunters: Teaser Day 1 Voiceline 1                                                |
+| [HIEdJSaRIunrxERvOD](blurls/HIEdJSaRIunrxERvOD.json) | Fortnite - Treasure Hunters: Teaser Day 1 Voiceline 2                                                |
+| [hRFUdOiHRRyujEjQsm](blurls/hRFUdOiHRRyujEjQsm.json) | Fortnite - Treasure Hunters: Teaser Day 1 Voiceline 3                                                |
+| [GrtQCmSpiQsdmVbmjE](blurls/GrtQCmSpiQsdmVbmjE.json) | Fortnite - Treasure Hunters: Teaser Day 1 Voiceline 4                                                |
+| [DxqMSFSxzlLWvPJCIp](blurls/DxqMSFSxzlLWvPJCIp.json) | Fortnite - Treasure Hunters: Teaser Day 2 Voiceline 1                                                |
+| [AFztmJuMKHuAggIxxZ](blurls/AFztmJuMKHuAggIxxZ.json) | Fortnite - Treasure Hunters: Teaser Day 2 Voiceline 2                                                |
+| [viYTTFfVFofIxBTrlK](blurls/viYTTFfVFofIxBTrlK.json) | Fortnite - Treasure Hunters: Teaser Day 2 Voiceline 3                                                |
+| [ZonJqTmToWKcTVknPv](blurls/ZonJqTmToWKcTVknPv.json) | Fortnite - Treasure Hunters: Teaser Day 2 Voiceline 4                                                |
+| [qoQhNEYmkMPOsXXERc](blurls/qoQhNEYmkMPOsXXERc.json) | Fortnite - Treasure Hunters: Teaser Day 3 Voiceline 1                                                |
+| [rmtACYwMIwdbQwvUBM](blurls/rmtACYwMIwdbQwvUBM.json) | Fortnite - Treasure Hunters: Teaser Day 3 Voiceline 2                                                |
+| [NPOhTTTnlEaetOBaim](blurls/NPOhTTTnlEaetOBaim.json) | Fortnite - Treasure Hunters: Teaser Day 3 Voiceline 3                                                |
+| [nHCJnPfqGfIwXMSoye](blurls/nHCJnPfqGfIwXMSoye.json) | Fortnite - Treasure Hunters: Teaser Day 3 Voiceline 4                                                |
+| [DJgokgoaRTzPXsRaLn](blurls/DJgokgoaRTzPXsRaLn.json) | Fortnite - Treasure Hunters: Teaser Day 4 Voiceline 1                                                |
+| [LZHjQAvmkAOUCLHJYR](blurls/LZHjQAvmkAOUCLHJYR.json) | Fortnite - Treasure Hunters: Teaser Day 4 Voiceline 2                                                |
+| [dmAqodZykjGqhlxBqA](blurls/dmAqodZykjGqhlxBqA.json) | Fortnite - Treasure Hunters: Teaser Day 4 Voiceline 3                                                |
+| [ufJtRdMJUmnakpoJvS](blurls/ufJtRdMJUmnakpoJvS.json) | Fortnite - Treasure Hunters: Teaser Day 4 Voiceline 4                                                |
+| [cfiwWIWaneewfVjiAJ](blurls/cfiwWIWaneewfVjiAJ.json) | Fortnite - Treasure Hunters: Teaser Day 5 Voiceline 1                                                |
+| [CgjjxQctWJYxNCLlAT](blurls/CgjjxQctWJYxNCLlAT.json) | Fortnite - Treasure Hunters: Teaser Day 5 Voiceline 2                                                |
+| [JMHksYtfPLdCSgdxdt](blurls/JMHksYtfPLdCSgdxdt.json) | Fortnite - Treasure Hunters: Teaser Day 5 Voiceline 3                                                |
+| [QphZlGqyimYfvCzQio](blurls/QphZlGqyimYfvCzQio.json) | Fortnite - Treasure Hunters: Teaser Day 5 Voiceline 4                                                |
+| [oYCLQgBbYMysLWeqCu](blurls/oYCLQgBbYMysLWeqCu.json) | Fortnite - Treasure Hunters: Teaser Day 6 Voiceline 1                                                |
+| [oEQWYGiYVRqKHyfwGT](blurls/oEQWYGiYVRqKHyfwGT.json) | Fortnite - Treasure Hunters: Teaser Day 6 Voiceline 2                                                |
+| [sStsLCkeREdRrncWLU](blurls/sStsLCkeREdRrncWLU.json) | Fortnite - Treasure Hunters: Teaser Day 6 Voiceline 3                                                |
+| [nKCXdpqcTqefFmEqwJ](blurls/nKCXdpqcTqefFmEqwJ.json) | Fortnite - Treasure Hunters: Teaser Day 6 Voiceline 4                                                |
+| [VlInNnllWEFszJyUQc](blurls/VlInNnllWEFszJyUQc.json) | Fortnite - Treasure Hunters: Teaser Day 7 Voiceline 1                                                |
+| [zbYdNtwqroMbxNokro](blurls/zbYdNtwqroMbxNokro.json) | Fortnite - Treasure Hunters: Teaser Day 7 Voiceline 2                                                |
+| [yGTGdmwTacaFtZpmhy](blurls/yGTGdmwTacaFtZpmhy.json) | Fortnite - Treasure Hunters: Teaser Day 7 Voiceline 3                                                |
+| [DlwFQPWSJBfgLATnXG](blurls/DlwFQPWSJBfgLATnXG.json) | Fortnite - Treasure Hunters: Teaser Day 7 Voiceline 4                                                |
+| [mtoUrQNyyOxEIWwkKb](blurls/mtoUrQNyyOxEIWwkKb.json) | Fortnite - Treasure Hunters: Teaser Day 7 Voiceline 5                                                |
 | [VOssCiYipSOlQlRqCz](blurls/VOssCiYipSOlQlRqCz.json) | Fortnite x The Simpsons: Week 1 Animated Short: Apocalypse D'Oh Part 1                               |
 | [nxCwVvfizOLduoZWop](blurls/nxCwVvfizOLduoZWop.json) | Fortnite x The Simpsons: Week 2 Animated Short: Apocalypse D'Oh Part 2 (Unused)                      |
 | [WkHMpshFmdIrAetsaZ](blurls/WkHMpshFmdIrAetsaZ.json) | Fortnite x The Simpsons: Week 2 Animated Short: Sugar High Part 1                                    |
@@ -79,39 +113,6 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [zvQuSNCIqYMGgFljiM](blurls/zvQuSNCIqYMGgFljiM.json) | Mobile Shooting Tutorial Unused Video 1                                                              |
 | [AMzqULFVDUKJFmWtxq](blurls/AMzqULFVDUKJFmWtxq.json) | Mobile Shooting Tutorial Unused Video 2                                                              |
 | [cdItBLrFXpWRXScwuc](blurls/cdItBLrFXpWRXScwuc.json) | Mobile Shooting Tutorial Unused Video 3                                                              |
-| [jGkbaOxjdfDZTVfEhZ](blurls/jGkbaOxjdfDZTVfEhZ.json) | One Piece x Fortnite: Teaser Song: A$AP Rocky - RIOT                                                 |
-| [ZttqKTeKCfhrfGmMmC](blurls/ZttqKTeKCfhrfGmMmC.json) | One Piece x Fortnite: Teaser Song: Anamanaguchi - Miku ft. Hatsune Miku                              |
-| [BTKPCgyWZlPQhItdCw](blurls/BTKPCgyWZlPQhItdCw.json) | One Piece x Fortnite: Teaser Song: Jamie Paige & OK Glass - BIRDBRAIN                                |
-| [iiWzBpjBjUCRmypEpN](blurls/iiWzBpjBjUCRmypEpN.json) | One Piece x Fortnite: Teaser Song: Lil Uzi Vert - What You Saying                                    |
-| [BSrEJzIJjMDOJGEoUk](blurls/BSrEJzIJjMDOJGEoUk.json) | One Piece x Fortnite: Teaser Day 1 Voiceline 1                                                       |
-| [HIEdJSaRIunrxERvOD](blurls/HIEdJSaRIunrxERvOD.json) | One Piece x Fortnite: Teaser Day 1 Voiceline 2                                                       |
-| [hRFUdOiHRRyujEjQsm](blurls/hRFUdOiHRRyujEjQsm.json) | One Piece x Fortnite: Teaser Day 1 Voiceline 3                                                       |
-| [GrtQCmSpiQsdmVbmjE](blurls/GrtQCmSpiQsdmVbmjE.json) | One Piece x Fortnite: Teaser Day 1 Voiceline 4                                                       |
-| [DxqMSFSxzlLWvPJCIp](blurls/DxqMSFSxzlLWvPJCIp.json) | One Piece x Fortnite: Teaser Day 2 Voiceline 1                                                       |
-| [AFztmJuMKHuAggIxxZ](blurls/AFztmJuMKHuAggIxxZ.json) | One Piece x Fortnite: Teaser Day 2 Voiceline 2                                                       |
-| [viYTTFfVFofIxBTrlK](blurls/viYTTFfVFofIxBTrlK.json) | One Piece x Fortnite: Teaser Day 2 Voiceline 3                                                       |
-| [ZonJqTmToWKcTVknPv](blurls/ZonJqTmToWKcTVknPv.json) | One Piece x Fortnite: Teaser Day 2 Voiceline 4                                                       |
-| [qoQhNEYmkMPOsXXERc](blurls/qoQhNEYmkMPOsXXERc.json) | One Piece x Fortnite: Teaser Day 3 Voiceline 1                                                       |
-| [rmtACYwMIwdbQwvUBM](blurls/rmtACYwMIwdbQwvUBM.json) | One Piece x Fortnite: Teaser Day 3 Voiceline 2                                                       |
-| [NPOhTTTnlEaetOBaim](blurls/NPOhTTTnlEaetOBaim.json) | One Piece x Fortnite: Teaser Day 3 Voiceline 3                                                       |
-| [nHCJnPfqGfIwXMSoye](blurls/nHCJnPfqGfIwXMSoye.json) | One Piece x Fortnite: Teaser Day 3 Voiceline 4                                                       |
-| [DJgokgoaRTzPXsRaLn](blurls/DJgokgoaRTzPXsRaLn.json) | One Piece x Fortnite: Teaser Day 4 Voiceline 1                                                       |
-| [LZHjQAvmkAOUCLHJYR](blurls/LZHjQAvmkAOUCLHJYR.json) | One Piece x Fortnite: Teaser Day 4 Voiceline 2                                                       |
-| [dmAqodZykjGqhlxBqA](blurls/dmAqodZykjGqhlxBqA.json) | One Piece x Fortnite: Teaser Day 4 Voiceline 3                                                       |
-| [ufJtRdMJUmnakpoJvS](blurls/ufJtRdMJUmnakpoJvS.json) | One Piece x Fortnite: Teaser Day 4 Voiceline 4                                                       |
-| [cfiwWIWaneewfVjiAJ](blurls/cfiwWIWaneewfVjiAJ.json) | One Piece x Fortnite: Teaser Day 5 Voiceline 1                                                       |
-| [CgjjxQctWJYxNCLlAT](blurls/CgjjxQctWJYxNCLlAT.json) | One Piece x Fortnite: Teaser Day 5 Voiceline 2                                                       |
-| [JMHksYtfPLdCSgdxdt](blurls/JMHksYtfPLdCSgdxdt.json) | One Piece x Fortnite: Teaser Day 5 Voiceline 3                                                       |
-| [QphZlGqyimYfvCzQio](blurls/QphZlGqyimYfvCzQio.json) | One Piece x Fortnite: Teaser Day 5 Voiceline 4                                                       |
-| [oYCLQgBbYMysLWeqCu](blurls/oYCLQgBbYMysLWeqCu.json) | One Piece x Fortnite: Teaser Day 6 Voiceline 1                                                       |
-| [oEQWYGiYVRqKHyfwGT](blurls/oEQWYGiYVRqKHyfwGT.json) | One Piece x Fortnite: Teaser Day 6 Voiceline 2                                                       |
-| [sStsLCkeREdRrncWLU](blurls/sStsLCkeREdRrncWLU.json) | One Piece x Fortnite: Teaser Day 6 Voiceline 3                                                       |
-| [nKCXdpqcTqefFmEqwJ](blurls/nKCXdpqcTqefFmEqwJ.json) | One Piece x Fortnite: Teaser Day 6 Voiceline 4                                                       |
-| [VlInNnllWEFszJyUQc](blurls/VlInNnllWEFszJyUQc.json) | One Piece x Fortnite: Teaser Day 7 Voiceline 1                                                       |
-| [zbYdNtwqroMbxNokro](blurls/zbYdNtwqroMbxNokro.json) | One Piece x Fortnite: Teaser Day 7 Voiceline 2                                                       |
-| [yGTGdmwTacaFtZpmhy](blurls/yGTGdmwTacaFtZpmhy.json) | One Piece x Fortnite: Teaser Day 7 Voiceline 3                                                       |
-| [DlwFQPWSJBfgLATnXG](blurls/DlwFQPWSJBfgLATnXG.json) | One Piece x Fortnite: Teaser Day 7 Voiceline 4                                                       |
-| [mtoUrQNyyOxEIWwkKb](blurls/mtoUrQNyyOxEIWwkKb.json) | One Piece x Fortnite: Teaser Day 7 Voiceline 5                                                       |
 | [yZCScFFPeBHXNMtusu](blurls/yZCScFFPeBHXNMtusu.json) | Picture-in-Picture Bouncing Llama Placeholder                                                        |
 | [CQHiUBeIAlYGpheYEx](blurls/CQHiUBeIAlYGpheYEx.json) | Placeholder for Unused Simpsons TV Video                                                             |
 | [JyzYsYnJwAqfHteptR](blurls/JyzYsYnJwAqfHteptR.json) | Placeholder for Sidekick How To Video                                                                |

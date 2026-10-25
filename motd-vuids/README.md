@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [ltbZLjKabXnsGtUuCz](blurls/ltbZLjKabXnsGtUuCz.json) | Fortnite: Treasure Hunters Teaser |
 | [fbbBDLtglZDZjyEfbP](blurls/fbbBDLtglZDZjyEfbP.json) | Fortnitemares 2026 Gameplay Trailer |
 | [ATTpDuJeLeRLHhbqsh](blurls/ATTpDuJeLeRLHhbqsh.json) | Fortnite x Five Nights At Freddy's Gameplay Trailer |
 | [PdIFkcUVKdSDUEWPCD](blurls/PdIFkcUVKdSDUEWPCD.json) | Fortnitemares 2026 Cinematic Trailer |

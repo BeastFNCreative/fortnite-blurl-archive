@@ -509,6 +509,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [hfEccByoNYdjWKmMqo](blurls/hfEccByoNYdjWKmMqo.json) | Danny Elfman - The Simpsons Main Title Theme (Instrumental)                   |
 | [vMykHRIZehyDrStuVP](blurls/vMykHRIZehyDrStuVP.json) | Danny Elfman - The Simpsons Main Title Theme (Preview)                        |
 | [zbyWgSJMNyxsLdXRbh](blurls/zbyWgSJMNyxsLdXRbh.json) | Danny Elfman - The Simpsons Main Title Theme (Stereo Track)                   |
+| [gRYuTAHzBPOcNLVSoJ](blurls/gRYuTAHzBPOcNLVSoJ.json) | Danny Elfman - This Is Halloween                                              |
+| [mzHsujQSAUjlCPhhMR](blurls/mzHsujQSAUjlCPhhMR.json) | Danny Elfman - This Is Halloween (v2)                                         |
+| [xlMQkCFiKTmDuPvXEs](blurls/xlMQkCFiKTmDuPvXEs.json) | Danny Elfman - This Is Halloween (Instrumental)                               |
+| [uMrxbxTySukvCxoGWu](blurls/uMrxbxTySukvCxoGWu.json) | Danny Elfman - This Is Halloween (Instrumental) (v2)                          |
+| [HXQSyJxhoyUVmgtwxc](blurls/HXQSyJxhoyUVmgtwxc.json) | Danny Elfman - This Is Halloween (Preview)                                    |
+| [sKAopZsFErmocyIJvS](blurls/sKAopZsFErmocyIJvS.json) | Danny Elfman - This Is Halloween (Preview) (v2)                               |
+| [dVyOyKRLNbwJdFAWIt](blurls/dVyOyKRLNbwJdFAWIt.json) | Danny Elfman - This Is Halloween (Stereo Track)                               |
+| [xdHobTbTZpZAVNoAlz](blurls/xdHobTbTZpZAVNoAlz.json) | Danny Elfman - This Is Halloween (Stereo Track) (v2)                          |
 | [YWSZWKXdPcJdCgXheg](blurls/YWSZWKXdPcJdCgXheg.json) | Darude - Sandstorm                                                            |
 | [WixdzaEYcZFljoeibH](blurls/WixdzaEYcZFljoeibH.json) | Darude - Sandstorm (Instrumental)                                             |
 | [fFiWFfKnAjyjncUHLI](blurls/fFiWFfKnAjyjncUHLI.json) | Darude - Sandstorm (Preview)                                                  |
@@ -665,6 +673,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [MrUsyVtNzaaxYhwaFM](blurls/MrUsyVtNzaaxYhwaFM.json) | Elton John & Britney Spears - Hold Me Closer (Instrumental)                   |
 | [AACFRxoSQmUrLrsJro](blurls/AACFRxoSQmUrLrsJro.json) | Elton John & Britney Spears - Hold Me Closer (Preview)                        |
 | [hHMzgetDuLOhKCBpWL](blurls/hHMzgetDuLOhKCBpWL.json) | Elton John & Britney Spears - Hold Me Closer (Stereo Track)                   |
+| [bLAnAkcAuLYkfaFFdg](blurls/bLAnAkcAuLYkfaFFdg.json) | Elvis Crespo - Suavemente                                                     |
+| [GkwhldKiekaxHcEcxz](blurls/GkwhldKiekaxHcEcxz.json) | Elvis Crespo - Suavemente (Instrumental)                                      |
+| [IYoJMSLlNpCrlRIiHb](blurls/IYoJMSLlNpCrlRIiHb.json) | Elvis Crespo - Suavemente (Preview)                                           |
+| [EXBtwxqtXOVdSOtPhN](blurls/EXBtwxqtXOVdSOtPhN.json) | Elvis Crespo - Suavemente (Stereo Track)                                      |
 | [yLMkHhUTFpbtxsIcSz](blurls/yLMkHhUTFpbtxsIcSz.json) | ENHYPEN - No Doubt                                                            |
 | [woOJUAnuaxOLhNEWPr](blurls/woOJUAnuaxOLhNEWPr.json) | ENHYPEN - No Doubt (Instrumental)                                             |
 | [YRfZoCtYiwinCqlOGp](blurls/YRfZoCtYiwinCqlOGp.json) | ENHYPEN - No Doubt (Preview)                                                  |
@@ -1271,6 +1283,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [epvsUkfkcgcrfvGrxU](blurls/epvsUkfkcgcrfvGrxU.json) | Ghost - Dance Macabre (Instrumental)                                          |
 | [jOWUaGqetGYdlNQukk](blurls/jOWUaGqetGYdlNQukk.json) | Ghost - Dance Macabre (Preview)                                               |
 | [fiRDTRjbPWAbGqUfbV](blurls/fiRDTRjbPWAbGqUfbV.json) | Ghost - Dance Macabre (Stereo Track)                                          |
+| [hloQSIzyFOIvIciIia](blurls/hloQSIzyFOIvIciIia.json) | Ghost - Lachryma                                                              |
+| [pvOuwPMKrBEacYIBti](blurls/pvOuwPMKrBEacYIBti.json) | Ghost - Lachryma (Instrumental)                                               |
+| [jcBKzdZNeNVKGZNgxH](blurls/jcBKzdZNeNVKGZNgxH.json) | Ghost - Lachryma (Preview)                                                    |
+| [JumnTEcCSzDrQUokbt](blurls/JumnTEcCSzDrQUokbt.json) | Ghost - Lachryma (Stereo Track)                                               |
 | [pmJqrDfiisajErRPdH](blurls/pmJqrDfiisajErRPdH.json) | Ghost - Mary on a Cross                                                       |
 | [IVHeXqgmLrNeJTeIgT](blurls/IVHeXqgmLrNeJTeIgT.json) | Ghost - Mary on a Cross (Instrumental)                                        |
 | [SsstUWepefCwdNlEwO](blurls/SsstUWepefCwdNlEwO.json) | Ghost - Mary on a Cross (Preview)                                             |
@@ -1369,6 +1385,14 @@ Jam Track Audio Data from Fortnite Festival.
 | [MVHItKowMPNkRVYxTW](blurls/MVHItKowMPNkRVYxTW.json) | Hanumankind ft. Kalmi - Big Dawgs (Instrumental)                              |
 | [XQOmLvaxwZOVSeeOYC](blurls/XQOmLvaxwZOVSeeOYC.json) | Hanumankind ft. Kalmi - Big Dawgs (Preview)                                   |
 | [AkKVjkmiRSlRyHSFRP](blurls/AkKVjkmiRSlRyHSFRP.json) | Hanumankind ft. Kalmi - Big Dawgs (Stereo Track)                              |
+| [BAloVRMxQRTAzhiiNE](blurls/BAloVRMxQRTAzhiiNE.json) | Harry Belafonte - Banana Boat (Day-O)                                         |
+| [aCQVflzuWAZfqqeZUV](blurls/aCQVflzuWAZfqqeZUV.json) | Harry Belafonte - Banana Boat (Day-O) (Instrumental)                          |
+| [xFFLKFwccvdcEpANDu](blurls/xFFLKFwccvdcEpANDu.json) | Harry Belafonte - Banana Boat (Day-O) (Preview)                               |
+| [yWcJgkWNlCfLJbVRNX](blurls/yWcJgkWNlCfLJbVRNX.json) | Harry Belafonte - Banana Boat (Day-O) (Stereo Track)                          |
+| [GdXihFwmvWLzXpxbfh](blurls/GdXihFwmvWLzXpxbfh.json) | Harry Belafonte - Jump in the Line                                            |
+| [knbttdYAaCcBHFMBTV](blurls/knbttdYAaCcBHFMBTV.json) | Harry Belafonte - Jump in the Line (Instrumental)                             |
+| [GqizMOACCLdECQHeef](blurls/GqizMOACCLdECQHeef.json) | Harry Belafonte - Jump in the Line (Preview)                                  |
+| [JwoScWfseFeMxcWrIK](blurls/JwoScWfseFeMxcWrIK.json) | Harry Belafonte - Jump in the Line (Stereo Track)                             |
 | [kmCqysrOGOxHNaMalp](blurls/kmCqysrOGOxHNaMalp.json) | Haute & Freddy - Shy Girl                                                     |
 | [idCoAnbmCHeZZtePjJ](blurls/idCoAnbmCHeZZtePjJ.json) | Haute & Freddy - Shy Girl (Instrumental)                                      |
 | [PWbHajZOdwkbXoOrlG](blurls/PWbHajZOdwkbXoOrlG.json) | Haute & Freddy - Shy Girl (Preview)                                           |
@@ -1766,6 +1790,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [fYjlWUxSpPLZRlNkuO](blurls/fYjlWUxSpPLZRlNkuO.json) | Kenshi Yonezu - Iris Out (Instrumental)                                       |
 | [yraKKsYYjcODsOLjGT](blurls/yraKKsYYjcODsOLjGT.json) | Kenshi Yonezu - Iris Out (Preview)                                            |
 | [LcjLANmxWyzSkyRIEB](blurls/LcjLANmxWyzSkyRIEB.json) | Kenshi Yonezu - Iris Out (Stereo Track)                                       |
+| [psAIntlEMCgteRzfzj](blurls/psAIntlEMCgteRzfzj.json) | Ken Carson - Kryptonite                                                       |
+| [FwQxxtXKHRzNrAMPsY](blurls/FwQxxtXKHRzNrAMPsY.json) | Ken Carson - Kryptonite (Instrumental)                                        |
+| [wBsNbtBWUUeUCbMylC](blurls/wBsNbtBWUUeUCbMylC.json) | Ken Carson - Kryptonite (Preview)                                             |
+| [nsVXRroPYOjnGbjnXP](blurls/nsVXRroPYOjnGbjnXP.json) | Ken Carson - Kryptonite (Stereo Track)                                        |
 | [UxoOUoPPnxdAvdTauV](blurls/UxoOUoPPnxdAvdTauV.json) | Kid Cudi - Day 'N' Nite                                                       |
 | [ipUBkifhqXnbiRBBrY](blurls/ipUBkifhqXnbiRBBrY.json) | Kid Cudi - Day 'N' Nite (Instrumental)                                        |
 | [FtkhWEQpGASLvvKfAv](blurls/FtkhWEQpGASLvvKfAv.json) | Kid Cudi - Day 'N' Nite (Preview)                                             |
@@ -2039,6 +2067,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [GfAfdplFXLPjaKayxb](blurls/GfAfdplFXLPjaKayxb.json) | Mariah Carey - All I Want For Christmas Is You (Instrumental)                 |
 | [mqBecdUiOLefKLcFNp](blurls/mqBecdUiOLefKLcFNp.json) | Mariah Carey - All I Want For Christmas Is You (Preview)                      |
 | [UOEixeDwEOZNqCnwPI](blurls/UOEixeDwEOZNqCnwPI.json) | Mariah Carey - All I Want For Christmas Is You (Stereo Track)                 |
+| [rILzicEmKwCTQPmyBK](blurls/rILzicEmKwCTQPmyBK.json) | Mark Mothersbaugh - Halloweentown Theme                                       |
+| [dFwRzEVolynBgGjTao](blurls/dFwRzEVolynBgGjTao.json) | Mark Mothersbaugh - Halloweentown Theme (Instrumental)                        |
+| [zescNQPXmVqzHcKEzb](blurls/zescNQPXmVqzHcKEzb.json) | Mark Mothersbaugh - Halloweentown Theme (Preview)                             |
+| [zpUwrBiMMppJasioND](blurls/zpUwrBiMMppJasioND.json) | Mark Mothersbaugh - Halloweentown Theme (Stereo Track)                        |
 | [JSSfPDTCwsFcTopvjD](blurls/JSSfPDTCwsFcTopvjD.json) | Mark Ronson ft. Bruno Mars - Uptown Funk                                      |
 | [wFJlbUQduGgpBZFlcq](blurls/wFJlbUQduGgpBZFlcq.json) | Mark Ronson ft. Bruno Mars - Uptown Funk (Instrumental)                       |
 | [hHivsrkRnmicZXtbEU](blurls/hHivsrkRnmicZXtbEU.json) | Mark Ronson ft. Bruno Mars - Uptown Funk (Preview)                            |
@@ -2519,6 +2551,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [VnqsUQloulrHpfbJoD](blurls/VnqsUQloulrHpfbJoD.json) | Rob Zombie - Dragula (Instrumental)                                           |
 | [RjYNsdjgoDFYxNDoup](blurls/RjYNsdjgoDFYxNDoup.json) | Rob Zombie - Dragula (Preview)                                                |
 | [YIJEFhJWOOyFqSYPgj](blurls/YIJEFhJWOOyFqSYPgj.json) | Rob Zombie - Dragula (Stereo Track)                                           |
+| [LCMutQKddyqQDzouWW](blurls/LCMutQKddyqQDzouWW.json) | Rockwell - Somebody's Watching Me (Urban Renewal Project Remix)               |
+| [eEjQQkZUAcxdMlhXGM](blurls/eEjQQkZUAcxdMlhXGM.json) | Rockwell - Somebody's Watching Me (Urban Renewal Project Remix) (Instrumental) |
+| [RASCfKIcrxmEdRksaV](blurls/RASCfKIcrxmEdRksaV.json) | Rockwell - Somebody's Watching Me (Urban Renewal Project Remix) (Preview)     |
+| [bdOEHyCTpCWwBgFXtT](blurls/bdOEHyCTpCWwBgFXtT.json) | Rockwell - Somebody's Watching Me (Urban Renewal Project Remix) (Stereo Track) |
 | [OYECBpNvoNqGemPCgM](blurls/OYECBpNvoNqGemPCgM.json) | Ron Wasserman - Go Go Power Rangers                                           |
 | [ywoIZDjTAcyJtuGXZG](blurls/ywoIZDjTAcyJtuGXZG.json) | Ron Wasserman - Go Go Power Rangers (Instrumental)                            |
 | [yycagqkbRFzREMfWUp](blurls/yycagqkbRFzREMfWUp.json) | Ron Wasserman - Go Go Power Rangers (Preview)                                 |
@@ -2842,6 +2878,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [jAgubsZbhHDzkeTpAb](blurls/jAgubsZbhHDzkeTpAb.json) | The Killers - Somebody Told Me (Instrumental)                                 |
 | [hCxMpjlyeZrkMwAfqP](blurls/hCxMpjlyeZrkMwAfqP.json) | The Killers - Somebody Told Me (Preview)                                      |
 | [gLOuskyrkTpoefTsed](blurls/gLOuskyrkTpoefTsed.json) | The Killers - Somebody Told Me (Stereo Track)                                 |
+| [GHXxBCLLAgEATJjOFR](blurls/GHXxBCLLAgEATJjOFR.json) | The Living Tombstone - Five Nights At Freddy's                                |
+| [vgvDeylULDrRcLzddt](blurls/vgvDeylULDrRcLzddt.json) | The Living Tombstone - Five Nights At Freddy's (Instrumental)                 |
+| [VKUzdsacTEJEAwlKYX](blurls/VKUzdsacTEJEAwlKYX.json) | The Living Tombstone - Five Nights At Freddy's (Preview)                      |
+| [oFQFrdRSCBtASwddvg](blurls/oFQFrdRSCBtASwddvg.json) | The Living Tombstone - Five Nights At Freddy's (Stereo Track)                 |
 | [IyXJeRyINnWslZHKJU](blurls/IyXJeRyINnWslZHKJU.json) | The Long Faces - Jane!                                                        |
 | [iXGaOyQnoVuNRpuTfJ](blurls/iXGaOyQnoVuNRpuTfJ.json) | The Long Faces - Jane! (Instrumental)                                         |
 | [ruBCwoDjglkcBEYxnS](blurls/ruBCwoDjglkcBEYxnS.json) | The Long Faces - Jane! (Preview)                                              |
@@ -3034,6 +3074,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [ebYpSDEYfcFtcwlrCA](blurls/ebYpSDEYfcFtcwlrCA.json) | Warren G ft. Nate Dogg - Regulate (Instrumental)                              |
 | [XCHeDnveXmJTKSWTyC](blurls/XCHeDnveXmJTKSWTyC.json) | Warren G ft. Nate Dogg - Regulate (Preview)                                   |
 | [JwwcTPvdznXNIHdomu](blurls/JwwcTPvdznXNIHdomu.json) | Warren G ft. Nate Dogg - Regulate (Stereo Track)                              |
+| [LCdyWrIlSVQHBcsEoj](blurls/LCdyWrIlSVQHBcsEoj.json) | Warren Zevon - Werewolves of London                                           |
+| [HaymeFrKiCscgxCkBz](blurls/HaymeFrKiCscgxCkBz.json) | Warren Zevon - Werewolves of London (Instrumental)                            |
+| [UODlFLCwJnCeZbogsq](blurls/UODlFLCwJnCeZbogsq.json) | Warren Zevon - Werewolves of London (Preview)                                 |
+| [QBReqwDsjepNEjDfQi](blurls/QBReqwDsjepNEjDfQi.json) | Warren Zevon - Werewolves of London (Stereo Track)                            |
 | [bJtXoDgRSDEWwNCeBs](blurls/bJtXoDgRSDEWwNCeBs.json) | Weezer - Buddy Holly                                                          |
 | [XlnpkrCisDlhglECCy](blurls/XlnpkrCisDlhglECCy.json) | Weezer - Buddy Holly (Instrumental)                                           |
 | [LMXwIbQlnMVDNGfJUf](blurls/LMXwIbQlnMVDNGfJUf.json) | Weezer - Buddy Holly (Preview)                                                |
