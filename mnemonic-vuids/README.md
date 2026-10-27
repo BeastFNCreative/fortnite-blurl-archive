@@ -29,6 +29,8 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [tmvSSlruCWPBGwPGGo](blurls/tmvSSlruCWPBGwPGGo.json) | 9078-3552-2260: Mall Stories |
 | [iDPCjnEJSWpwnLSsNy](blurls/iDPCjnEJSWpwnLSsNy.json) | 9697-2486-6699: Doomsday Princess |
 | [FafeDLtfnvVWWmOFzQ](blurls/FafeDLtfnvVWWmOFzQ.json) | campaign: Save The World |
+| [JgqTsxNwtISGugCNUp](blurls/JgqTsxNwtISGugCNUp.json) | experience_br: Battle Royale (Fortnitemares 2026) |
+| [emqobJroAzbslxHLYD](blurls/emqobJroAzbslxHLYD.json) | experience_reload: Fortnite Reload (Squid Grounds) |
 | [LXnhkKEjFQvnqgpxJE](blurls/LXnhkKEjFQvnqgpxJE.json) | playlist_fmclubisland: Festival Jam Stage |
 | [lPAAqsIrORbZBsKCiX](blurls/lPAAqsIrORbZBsKCiX.json) | playlist_juno: LEGO Fortnite |
 | [vlFxcxMYwkzwNNKSFf](blurls/vlFxcxMYwkzwNNKSFf.json) | playlist_juno: LEGO Fortnite (Extra VUID) |
