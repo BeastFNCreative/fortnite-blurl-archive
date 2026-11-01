@@ -13,6 +13,7 @@ Radio Stations used In-Game when inside Vehicles.
 | [gjqlfLXmalyNaDhzvK](blurls/gjqlfLXmalyNaDhzvK.json) | Beat Box (v3) |
 | [WeUnCNUKOtOWXFLpxa](blurls/WeUnCNUKOtOWXFLpxa.json) | Beat Box (v4) |
 | [AvOPsanMEwLFfhjDaB](blurls/AvOPsanMEwLFfhjDaB.json) | Beat Box (v4) |
+| [hZHBYBmJlepwMpsWQj](blurls/hZHBYBmJlepwMpsWQj.json) | Beat Box (v5) |
 | [QBJYyQRHJDHZrvUJPm](blurls/QBJYyQRHJDHZrvUJPm.json) | Bricktonix (LEGO Fortnite: Brick Life) |
 | [mHAsredAErEofdFLQv](blurls/mHAsredAErEofdFLQv.json) | Bricktonix (LEGO Fortnite: Brick Life) (v2) |
 | [saeOLZXrNKpBEPGRBQ](blurls/saeOLZXrNKpBEPGRBQ.json) | Icon Radio |
@@ -37,21 +38,25 @@ Radio Stations used In-Game when inside Vehicles.
 | [ixWkbUWHJfzaZVePXJ](blurls/ixWkbUWHJfzaZVePXJ.json) | Power Play (v3) |
 | [mAuLBYXpWEjBjfcTtN](blurls/mAuLBYXpWEjBjfcTtN.json) | Power Play (v4) |
 | [hGsKRcyLRaDrTiqEcf](blurls/hGsKRcyLRaDrTiqEcf.json) | Power Play (v5) |
+| [mtrlcHoRdnIUguLSNX](blurls/mtrlcHoRdnIUguLSNX.json) | Power Play (v6) |
 | [VlYSRdFWOKyyhNNNgr](blurls/VlYSRdFWOKyyhNNNgr.json) | Radio Underground |
 | [AxraiOXbAdcOPnthxV](blurls/AxraiOXbAdcOPnthxV.json) | Radio Underground (v2) |
 | [tWUtIfHtqBoqDkYBki](blurls/tWUtIfHtqBoqDkYBki.json) | Radio Underground (v3) |
 | [xiVQPzbVPCnBVdweDF](blurls/xiVQPzbVPCnBVdweDF.json) | Radio Underground (v4) |
 | [qrBPizSUUAHOHknvVH](blurls/qrBPizSUUAHOHknvVH.json) | Radio Underground (v5) |
+| [FJPYWfFmTXNkttkUti](blurls/FJPYWfFmTXNkttkUti.json) | Radio Underground (v6) |
 | [GEviYjIhzVVzJufW](blurls/GEviYjIhzVVzJufW.json) | Radio Yonder |
 | [liZWCXyJDbxNMHWlyk](blurls/liZWCXyJDbxNMHWlyk.json) | Radio Yonder (v2) |
 | [liZWCXyJDbxNMHWlyk](blurls/utHgQidSxmOzBNWSRs.json) | Radio Yonder (v3) |
 | [RhJVCdLJEXjyucbSYg](blurls/RhJVCdLJEXjyucbSYg.json) | Radio Yonder (v4) |
 | [LqLTOAefvoMvQveKRz](blurls/LqLTOAefvoMvQveKRz.json) | Radio Yonder (v5) |
+| [nZivmICajjiqolTKRc](blurls/nZivmICajjiqolTKRc.json) | Radio Yonder (v6) |
 | [hgsuJcchvKuaEzzijr](blurls/hgsuJcchvKuaEzzijr.json) | Rock & Royale |
 | [rdWxjjhVHWyqWozyMU](blurls/rdWxjjhVHWyqWozyMU.json) | Rock & Royale (v2) |
 | [eaIPyhOJafbnZUIYnZ](blurls/eaIPyhOJafbnZUIYnZ.json) | Rock & Royale (v3) |
 | [SoSbvjSRBeUYPDoTQa](blurls/SoSbvjSRBeUYPDoTQa.json) | Rock & Royale (v4) |
 | [BOaYzIwZUFXRDHLbyR](blurls/BOaYzIwZUFXRDHLbyR.json) | Rock & Royale (v5) |
+| [HrSzLCiOjueXppTpFr](blurls/HrSzLCiOjueXppTpFr.json) | Rock & Royale (v6) |
 | [PGDsVRDpWMMkgVqAZc](blurls/PGDsVRDpWMMkgVqAZc.json) | Rocket League Radio |
 | [UkfrqQCHURTSgvnQRI](blurls/UkfrqQCHURTSgvnQRI.json) | Summer Road Trip |
 | [EUcITxRRdaTMUELdgW](blurls/EUcITxRRdaTMUELdgW.json) | The Mixup (LEGO Fortnite: Brick Life) |
