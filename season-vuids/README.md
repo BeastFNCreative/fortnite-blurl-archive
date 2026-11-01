@@ -114,3 +114,4 @@ Seasonal Trailer Video Content, found in either the Career Tab or First Time Sta
 | [rDDojNxFwxBpTOUnTq](blurls/rDDojNxFwxBpTOUnTq.json) | Chapter 7 Season 4: Cry For Me Icon Series Emote |
 | [ypMFxSkKEHohWtzqUS](blurls/ypMFxSkKEHohWtzqUS.json) | Chapter 7 Season 4: This Week In The Item Shop (Sep 3rd 2026) |
 | [hHONWKqHVpSYIgPBMm](blurls/hHONWKqHVpSYIgPBMm.json) | Chapter 7 Season 4: Fortnite x Hazbin Hotel Trailer |
+| [XhGNJglcfBCnFeKccQ](blurls/XhGNJglcfBCnFeKccQ.json) | Chapter 7 Mini Season Season 1: Treasure Hunters Trailer |

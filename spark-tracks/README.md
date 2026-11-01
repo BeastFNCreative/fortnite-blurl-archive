@@ -55,6 +55,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [ThHPFgMwJRBwbBTlHJ](blurls/ThHPFgMwJRBwbBTlHJ.json) | a-ha - Take On Me (Instrumental)                                              |
 | [VmEkvwdeIRFTUuNhum](blurls/VmEkvwdeIRFTUuNhum.json) | a-ha - Take On Me (Preview)                                                   |
 | [OJBkkumkQFQiuMHLyZ](blurls/OJBkkumkQFQiuMHLyZ.json) | a-ha - Take On Me (Stereo Track)                                              |
+| [shvqJVSoINuhSpZnMG](blurls/shvqJVSoINuhSpZnMG.json) | A$AP Rocky - NO TRESPASSING                                                   |
+| [kyhoxyOwbyVKBrblky](blurls/kyhoxyOwbyVKBrblky.json) | A$AP Rocky - NO TRESPASSING (Instrumental)                                    |
+| [mwqjplElHJLZUHUKgK](blurls/mwqjplElHJLZUHUKgK.json) | A$AP Rocky - NO TRESPASSING (Preview)                                         |
+| [PCgoWzfDxDJCsVONRd](blurls/PCgoWzfDxDJCsVONRd.json) | A$AP Rocky - NO TRESPASSING (Stereo Track)                                    |
 | [EMDfTWUrZSItRrIRuV](blurls/EMDfTWUrZSItRrIRuV.json) | Addison Rae - Diet Pepsi                                                      |
 | [WXspZbgyFtACpTyYiL](blurls/WXspZbgyFtACpTyYiL.json) | Addison Rae - Diet Pepsi (Instrumental)                                       |
 | [LGMGhFaKMMylofOxiT](blurls/LGMGhFaKMMylofOxiT.json) | Addison Rae - Diet Pepsi (Preview)                                            |
@@ -843,6 +847,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [ayzsofmqrTSQNhkakI](blurls/ayzsofmqrTSQNhkakI.json) | Epic Games - For O.X.R.! (Instrumental)                                       |
 | [TJUuCWUELoPefXQIZn](blurls/TJUuCWUELoPefXQIZn.json) | Epic Games - For O.X.R.! (Preview)                                            |
 | [aVbpxKXKmOimiOWjfs](blurls/aVbpxKXKmOimiOWjfs.json) | Epic Games - For O.X.R.! (Stereo Track)                                       |
+| [kKRAhfOeFejmwLLUMU](blurls/kKRAhfOeFejmwLLUMU.json) | Epic Games - Fortune's End                                                    |
+| [OqoHoKdAUrdtZyliMF](blurls/OqoHoKdAUrdtZyliMF.json) | Epic Games - Fortune's End (Instrumental)                                     |
+| [dBfmVrIOxvTABRAJkQ](blurls/dBfmVrIOxvTABRAJkQ.json) | Epic Games - Fortune's End (Preview)                                          |
+| [FsuuDvNSyNLuLcdrZa](blurls/FsuuDvNSyNLuLcdrZa.json) | Epic Games - Fortune's End (Stereo Track)                                     |
 | [pxppsPqWxuRrJlHAtM](blurls/pxppsPqWxuRrJlHAtM.json) | Epic Games - Friendly Fire                                                    |
 | [bdIkmIukEDQBgwujrC](blurls/bdIkmIukEDQBgwujrC.json) | Epic Games - Friendly Fire (Instrumental)                                     |
 | [VTYbAEifeZtrLsAZkw](blurls/VTYbAEifeZtrLsAZkw.json) | Epic Games - Friendly Fire (Preview)                                          |
@@ -2870,6 +2878,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [EYMMrPFwgpddiPWbRB](blurls/EYMMrPFwgpddiPWbRB.json) | The Darkness - I Believe in a Thing Called Love (Preview) (v2)                |
 | [TQJkcYHGHLFIUndoDk](blurls/TQJkcYHGHLFIUndoDk.json) | The Darkness - I Believe in a Thing Called Love (Stereo Track)                |
 | [sGCwyzWhqUqBKTPmru](blurls/sGCwyzWhqUqBKTPmru.json) | The Darkness - I Believe in a Thing Called Love (Stereo Track) (v2)           |
+| [VGXqaHEJEOUhTTkPpj](blurls/VGXqaHEJEOUhTTkPpj.json) | The Home Of Happy - So Long, I'm Leaving                                      |
+| [BNGvSlNfNoilMKZHFC](blurls/BNGvSlNfNoilMKZHFC.json) | The Home Of Happy - So Long, I'm Leaving (Instrumental)                       |
+| [WncoZAvzYJfZBWQDlA](blurls/WncoZAvzYJfZBWQDlA.json) | The Home Of Happy - So Long, I'm Leaving (Preview)                            |
+| [JTFtSOevwrFsTXvPjc](blurls/JTFtSOevwrFsTXvPjc.json) | The Home Of Happy - So Long, I'm Leaving (Stereo Track)                       |
 | [GNGENvcSHgKpfWLNDA](blurls/GNGENvcSHgKpfWLNDA.json) | The Killers - Mr. Brightside                                                  |
 | [PITopPPUmxvuFXBMpt](blurls/PITopPPUmxvuFXBMpt.json) | The Killers - Mr. Brightside (Instrumental)                                   |
 | [KGRprRNLfuTkgjehoV](blurls/KGRprRNLfuTkgjehoV.json) | The Killers - Mr. Brightside (Preview)                                        |

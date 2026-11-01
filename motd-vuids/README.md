@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [vIkDnSSwUMEzqYJeRu](blurls/vIkDnSSwUMEzqYJeRu.json) | Fortnite: Treasure Hunters Week 1 - A$AP Rocky |
 | [VmszMSfFQGjFKcSAYQ](blurls/VmszMSfFQGjFKcSAYQ.json) | Fortnite: Treasure Hunters Trailer |
 | [ltbZLjKabXnsGtUuCz](blurls/ltbZLjKabXnsGtUuCz.json) | Fortnite: Treasure Hunters Teaser |
 | [fbbBDLtglZDZjyEfbP](blurls/fbbBDLtglZDZjyEfbP.json) | Fortnitemares 2026 Gameplay Trailer |
