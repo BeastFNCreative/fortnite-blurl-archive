@@ -12,4 +12,4 @@ Shop VUIDs that are showed when opening the Item Shop Tab In-Game.
 | [bgHAodTVHxBknyGUWt](blurls/bgHAodTVHxBknyGUWt.json) | Futurama                            |
 | [zganhFrntMEYYSlKQf](blurls/zganhFrntMEYYSlKQf.json) | LeBron James                        |
 | [WBJXpTaLBsrrROcWnF](blurls/WBJXpTaLBsrrROcWnF.json) | Naruto                              |
-| [jSEsqIggNMaCneAKPq](blurls/jSEsqIggNMaCneAKPq.json) | Spiderman : Across The Spider Verse |
+| [jSEsqIggNMaCneAKPq](blurls/jSEsqIggNMaCneAKPq.json) | Spiderman: Across The Spider Verse  |

@@ -228,12 +228,12 @@ MOTD Video Content from PRM Service or FortniteContent.
 | [KApusxnVmEPGGJItKN](blurls/KApusxnVmEPGGJItKN.json) | Fortnite Festival Season 5 feat. Karol G (MOTD Background) |
 | [CxJpXWjdZGmxcVodcP](blurls/CxJpXWjdZGmxcVodcP.json) | Feel It Icon Series Emote (MOTD Background) |
 | [nEMdpnjfhHWDgxAjcv](blurls/nEMdpnjfhHWDgxAjcv.json) | Moff Gideon & IG-11 Mini-Clip (MOTD Background) |
-| [JPIsbdgfMUyPQSGRpq](blurls/JPIsbdgfMUyPQSGRpq.json) | Absolute Doom (Chapter 5 Season 4) : Trailer |
+| [JPIsbdgfMUyPQSGRpq](blurls/JPIsbdgfMUyPQSGRpq.json) | Absolute Doom (Chapter 5 Season 4): Trailer |
 | [blPyqZHcmXrlTPagjD](blurls/blPyqZHcmXrlTPagjD.json) | Disney Horizons Live from D23 in Fortnite (MOTD Background) |
 | [nheSRKKtYAbbNWgeYd](blurls/nheSRKKtYAbbNWgeYd.json) | Fortnite x Fall Guys Trailer |
 | [RoldFVNSAzQTmbUQHL](blurls/RoldFVNSAzQTmbUQHL.json) | Mine Icon Series Emote |
 | [YzyNLfaTJAFSwrfukX](blurls/YzyNLfaTJAFSwrfukX.json) | Tesla Cyber Truck Cinematic Trailer |
-| [GJqGQmysBhvqNoIQVy](blurls/GJqGQmysBhvqNoIQVy.json) | Rocket Racing Season 2 : Inferno Island Trailer |
+| [GJqGQmysBhvqNoIQVy](blurls/GJqGQmysBhvqNoIQVy.json) | Rocket Racing Season 2: Inferno Island Trailer |
 | [xxNwsKwsiOOgRwDULf](blurls/xxNwsKwsiOOgRwDULf.json) | Fortnite x Pirates Of The Carribean Trailer |
 | [MEFPmTUCZExipuBfvy](blurls/MEFPmTUCZExipuBfvy.json) | Looking Good Icon Series Emote |
 | [iZKZXJqkzlRylSwndA](blurls/iZKZXJqkzlRylSwndA.json) | Entranced Icon Series Emote |
@@ -260,9 +260,9 @@ MOTD Video Content from PRM Service or FortniteContent.
 | [XboEFlbtapiukQmSzn](blurls/XboEFlbtapiukQmSzn.json) | Fortnite Festival Season 3 Billie Eilish Cinematic Trailer |
 | [VlmfWonlCyGMRoeTng](blurls/VlmfWonlCyGMRoeTng.json) | Boney Bounce Icon Series Emote |
 | [lHjUUkvuxepqVqExLt](blurls/lHjUUkvuxepqVqExLt.json) | Fortnite X Star Wars Teaser Trailer |
-| [PBFfPPTewNBMZVGqZZ](blurls/PBFfPPTewNBMZVGqZZ.json) | Avatar The Last Airbender : Elements Gameplay Trailer |
-| [ollNxPacWgpUqAHlvB](blurls/ollNxPacWgpUqAHlvB.json) | Rocket Racing : Neon Rush Season Trailer |
-| [XXjZgIFLZNaaEXFAuy](blurls/XXjZgIFLZNaaEXFAuy.json) | Avatar The Last Airbender : Elements Event Teaser |
+| [PBFfPPTewNBMZVGqZZ](blurls/PBFfPPTewNBMZVGqZZ.json) | Avatar The Last Airbender: Elements Gameplay Trailer |
+| [ollNxPacWgpUqAHlvB](blurls/ollNxPacWgpUqAHlvB.json) | Rocket Racing: Neon Rush Season Trailer |
+| [XXjZgIFLZNaaEXFAuy](blurls/XXjZgIFLZNaaEXFAuy.json) | Avatar The Last Airbender: Elements Event Teaser |
 | [YkhNDhxvmHgKLuCbrr](blurls/YkhNDhxvmHgKLuCbrr.json) | Stoic Icon Series Emote |
 | [zYsvpTYUqgdCUFGJZK](blurls/zYsvpTYUqgdCUFGJZK.json) | To The Beat Icon Series Emote |
 | [bjCwLgCQbvyxKwElSP](blurls/bjCwLgCQbvyxKwElSP.json) | Fresh Out The Box Emote Airphoria | 
@@ -297,8 +297,8 @@ MOTD Video Content from PRM Service or FortniteContent.
 | [pXnBlVTSIzDGrsgxgA](blurls/pXnBlVTSIzDGrsgxgA.json) | Llama Bro Set Fortnite Crew Trailer |
 | [GdGRHVKEJhGwcJRhNN](blurls/GdGRHVKEJhGwcJRhNN.json) | Lunch Break Icon Series Emote |
 | [UoRBuSjacfsOGkDgbr](blurls/UoRBuSjacfsOGkDgbr.json) | I'm Diamond & It's Dynamite Icon Series Emotes |
-| [NlTjjQPHhhPGayYobd](blurls/NlTjjQPHhhPGayYobd.json) | Chapter 2 Season 6 : Teaser 1 |
-| [cEYzVOCaXVUmsCxBJt](blurls/cEYzVOCaXVUmsCxBJt.json) | Chapter 2 Season 6 : Teaser 2 |
+| [NlTjjQPHhhPGayYobd](blurls/NlTjjQPHhhPGayYobd.json) | Chapter 2 Season 6: Teaser 1 |
+| [cEYzVOCaXVUmsCxBJt](blurls/cEYzVOCaXVUmsCxBJt.json) | Chapter 2 Season 6: Teaser 2 |
 | [BSaOnpyRWDsJrQPlXd](blurls/BSaOnpyRWDsJrQPlXd.json) | Chicken Wing It Icon Series Emote |
 | [xPNpCfwwrXcyUUJaii](blurls/xPNpCfwwrXcyUUJaii.json) | Lil Octane Gaming Legends Emote |
 | [yzWEpzyjFqkEWECUDN](blurls/yzWEpzyjFqkEWECUDN.json) | Raptors Update |
@@ -319,7 +319,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 | [KEzAvfsPhRTjwNOaRH](blurls/KEzAvfsPhRTjwNOaRH.json) | Griddy Icon Series Emote |
 | [rnxeSYTOxuXtnTKhIM](blurls/rnxeSYTOxuXtnTKhIM.json) | Deimos Set Fortnite Crew Trailer |
 | [AxWYSjAPHRFyoIbcol](blurls/AxWYSjAPHRFyoIbcol.json) | Onda Onda Icon Series Emote |
-| [aUoGNoJNirIxGRXsiN](blurls/aUoGNoJNirIxGRXsiN.json) | Chapter 2 Season 6 : FNCS Qualifiers Week 1 |
+| [aUoGNoJNirIxGRXsiN](blurls/aUoGNoJNirIxGRXsiN.json) | Chapter 2 Season 6: FNCS Qualifiers Week 1 |
 | [JvhZTWUOANHEeUsmZr](blurls/JvhZTWUOANHEeUsmZr.json) | Princess Filicity Fish Skin |
 | [rrQoggVsqKSjthftBa](blurls/rrQoggVsqKSjthftBa.json) | Batman Zero Skin Collaboration Trailer |
 | [uYBJlCHWRPUYspTHoC](blurls/uYBJlCHWRPUYspTHoC.json) | Toon Meowscles Skin |
@@ -340,17 +340,17 @@ MOTD Video Content from PRM Service or FortniteContent.
 | [hzhjkxgsGOffBrsNoi](blurls/hzhjkxgsGOffBrsNoi.json) | Socks Icon Series Emote |
 | [NntkGFULKsRdvXrimi](blurls/NntkGFULKsRdvXrimi.json) | Shadow vs Ghost Creative LTM Showcase |
 | [wIZHxzUfoxzbYZnnjb](blurls/wIZHxzUfoxzbYZnnjb.json) | Mecha Cuddle Master Set Fortnite Crew Trailer |
-| [PwlKCaItRhjxQboIfq](blurls/PwlKCaItRhjxQboIfq.json) | Chapter 2 Season 6 : FNCS - Plays of the Week - Semi Finals |
+| [PwlKCaItRhjxQboIfq](blurls/PwlKCaItRhjxQboIfq.json) | Chapter 2 Season 6: FNCS - Plays of the Week - Semi Finals |
 | [AMvoXGKxAfznASxaRS](blurls/AMvoXGKxAfznASxaRS.json) | Mecha Cuddle Master Set Fortnite Crew Trailer (w/o Spotify) |
 | [yXhhexFodyuiiYKyER](blurls/yXhhexFodyuiiYKyER.json) | Red vs Blue - OG Prison Creative LTM Showcase |
 | [KhZupQZVtvXcUraTQI](blurls/KhZupQZVtvXcUraTQI.json) | Vertigo Deathtower Creative LTM Showcase |
 | [DFefzFJZLUNVjXTCpO](blurls/DFefzFJZLUNVjXTCpO.json) | Build Up Icon Series Emote |
 | [BvVfEzTACbCDXTHvDx](blurls/BvVfEzTACbCDXTHvDx.json) | Pro Red vs Blue Creative LTM Showcase |
-| [QLFSbpKCHyZMEBNIkV](blurls/QLFSbpKCHyZMEBNIkV.json) | Chapter 2 Season 7 : Teaser 1 |
+| [QLFSbpKCHyZMEBNIkV](blurls/QLFSbpKCHyZMEBNIkV.json) | Chapter 2 Season 7: Teaser 1 |
 | [bCAZuslmXTUhripRfb](blurls/bCAZuslmXTUhripRfb.json) | Orelia Skin |
-| [dgbfmweOcVNNalNwSi](blurls/dgbfmweOcVNNalNwSi.json) | Chapter 2 Season 7 : Teaser 2 |
+| [dgbfmweOcVNNalNwSi](blurls/dgbfmweOcVNNalNwSi.json) | Chapter 2 Season 7: Teaser 2 |
 | [BZLIPUknCZWdESkqYF](blurls/BZLIPUknCZWdESkqYF.json) | Green vs Blue vs Red vs Yellow Creative LTM Showcase |
-| [sAjCBoAdBXXNXwoZsJ](blurls/sAjCBoAdBXXNXwoZsJ.json) | Chapter 2 Season 7 : Teaser 3 |
+| [sAjCBoAdBXXNXwoZsJ](blurls/sAjCBoAdBXXNXwoZsJ.json) | Chapter 2 Season 7: Teaser 3 |
 | [TWJKoCezoUNMMkqYMh](blurls/TWJKoCezoUNMMkqYMh.json) | How to Battle Pass of Chapter 2 Season 7 |
 | [aSDrTZBEKKxEnYvDND](blurls/aSDrTZBEKKxEnYvDND.json) | Creative Zombie LTM Showcase |
 | [OrrNFTCeYQoVciwVHP](blurls/OrrNFTCeYQoVciwVHP.json) | Primal Rumble Creative LTM Showcase |
@@ -363,13 +363,13 @@ MOTD Video Content from PRM Service or FortniteContent.
 | [qUrWPvpBBrazVGAMwx](blurls/qUrWPvpBBrazVGAMwx.json) | Savage Icon Series Emote |
 | [WbNhoRDAOrMCQEKr](blurls/WbNhoRDAOrMCQEKr.json) | Morph Juice Emote |
 | [pKnXiGrYMxadFoXb](blurls/pKnXiGrYMxadFoXb.json) | Smeeze Icon Series Emote |
-| [GSFskyhpUJpznrxA](blurls/GSFskyhpUJpznrxA.json) | Houseparty Collaboration Trailer (v1) |
+| [GSFskyhpUJpznrxA](blurls/GSFskyhpUJpznrxA.json) | Houseparty Collaboration Trailer (Alt) |
 | [lDUoNDKfBSlTojNk](blurls/lDUoNDKfBSlTojNk.json) | We Are Venom Marvel Series Emote |
 | [zqwGRqseVSKIrrwZ](blurls/zqwGRqseVSKIrrwZ.json) | Baba Yaga Outfit Animated Wallpaper |
 | [nLPgPqgqKugxhJrA](blurls/nLPgPqgqKugxhJrA.json) | Blinding Lights Icon Series Emote |
 | [hZGZXECAmfqVHLzJ](blurls/hZGZXECAmfqVHLzJ.json) | Wolverine Outfit Trailer |
 | [CAIcPDNOTRYrfnHR](blurls/CAIcPDNOTRYrfnHR.json) | Daywalker's Kata Marvel Series Emote |
-| [BWdFXUaoKjWBuifa](blurls/BWdFXUaoKjWBuifa.json) | Last Forever & Rollie Icon Series Emotes (v1) |
+| [BWdFXUaoKjWBuifa](blurls/BWdFXUaoKjWBuifa.json) | Last Forever & Rollie Icon Series Emotes (Alt) |
 | [BRUDPhuklEeAGQbZ](blurls/BRUDPhuklEeAGQbZ.json) | Stark Industries POI Trailer |
 | [vqQIgWDURIsikUqA](blurls/vqQIgWDURIsikUqA.json) | Say So Icon Series Emote |
 | [nlJpwBorrarfvinl](blurls/nlJpwBorrarfvinl.json) | Raise The Cup Emote |
@@ -384,7 +384,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 | [kDrsgRdgDiQrNOSu](blurls/kDrsgRdgDiQrNOSu.json) | The Last Laugh DC Bundle Trailer |
 | [EQgTsHSOVUyiYSBXXT](blurls/EQgTsHSOVUyiYSBXXT.json) | Master Chief Gaming Legends Outfit Trailer |
 | [AkTakxTUkhQCcgabOD](blurls/AkTakxTUkhQCcgabOD.json) | Last Forever & Rollie Icon Series Emotes |
-| [rqmDBRiCATNcIzQvJA](blurls/rqmDBRiCATNcIzQvJA.json) | Operation Snowdown In-Game Event Trailer (v1) |
+| [rqmDBRiCATNcIzQvJA](blurls/rqmDBRiCATNcIzQvJA.json) | Operation Snowdown In-Game Event Trailer (Alt) |
 | [PdFkKRQxPmLsBosqXl](blurls/PdFkKRQxPmLsBosqXl.json) | Operation Snowdown In-Game Event Trailer |
 | [cRPVPMeWNqEqgGEmiD](blurls/cRPVPMeWNqEqgGEmiD.json) | Marvel: Royalty & Warriors Bundle Trailer |
 | [mnJYBuyZwHcsDttxsM](blurls/mnJYBuyZwHcsDttxsM.json) | Houseparty Collaboration Trailer |
@@ -409,7 +409,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 | [dJbWKBxsNwumBHinOv](blurls/dJbWKBxsNwumBHinOv.json) | Last Maze Domination Creative LTM Showcase |
 | [BnOwSKBAvGjnrgFsXn](blurls/BnOwSKBAvGjnrgFsXn.json) | Inflate-A-Bull Item Trailer |
 | [QAbvkpcSNKBCrhyrWQ](blurls/QAbvkpcSNKBCrhyrWQ.json) | Bugha Icon Series Outfit Trailer |
-| [VczVinQIUTIGIYcWPY](blurls/VczVinQIUTIGIYcWPY.json) | ShortNite 2 : WebGen Trailer |
+| [VczVinQIUTIGIYcWPY](blurls/VczVinQIUTIGIYcWPY.json) | ShortNite 2: WebGen Trailer |
 | [EqzIIDrKcaBYsYIlIg](blurls/EqzIIDrKcaBYsYIlIg.json) | Ferrari Collaboration Trailer |
 | [JklkLDikLacANECXYx](blurls/JklkLDikLacANECXYx.json) | Simple Trios Zone Wars Creative LTM Showcase |
 | [LEkfjSPdFlADzyZFnc](blurls/LEkfjSPdFlADzyZFnc.json) | Wrap Outfits Showcase |
@@ -431,14 +431,14 @@ MOTD Video Content from PRM Service or FortniteContent.
 | [plxHCZGWFkWfUNLIKj](blurls/plxHCZGWFkWfUNLIKj.json) | Windwalker Echo Outfit Cinematic |
 | [smxGbEhgDcJtqsjVAP](blurls/smxGbEhgDcJtqsjVAP.json) | Operation : Skyfire In-Game Event Teaser |
 | [gYAhhqoDmxyLwcmpFC](blurls/gYAhhqoDmxyLwcmpFC.json) | Zombie Island Creative LTM Showcase |
-| [nArnKPExHdXVRgRchR](blurls/nArnKPExHdXVRgRchR.json) | Chapter 2 Season 8 : Battle Pass Trailer (MOTD Variant) |
+| [nArnKPExHdXVRgRchR](blurls/nArnKPExHdXVRgRchR.json) | Chapter 2 Season 8: Battle Pass Trailer (MOTD Variant) |
 | [EBxWMeXlzLDBgOkIAK](blurls/EBxWMeXlzLDBgOkIAK.json) | Heroes V Zombies Creative LTM Showcase |
 | [ZBsWwsXzpZeHWjaHHv](blurls/ZBsWwsXzpZeHWjaHHv.json) | City Life Creative LTM Showcase |
 | [ndsjBXGXkZwbctQchE](blurls/ndsjBXGXkZwbctQchE.json) | 1v1 Build Fights Creative LTM Showcase |
 | [JzIdBkFCBHODsjlyQW](blurls/JzIdBkFCBHODsjlyQW.json) | Balenciaga Collaboration Trailer |
 | [vODrvbxPmNocrDDnly](blurls/vODrvbxPmNocrDDnly.json) | Armored Wall Item Trailer |
 | [XvEkdxRreErrzoYMfD](blurls/XvEkdxRreErrzoYMfD.json) | Truck Pursuit Creative LTM Showcase |
-| [eFKAirrvyQiWgoJYXU](blurls/eFKAirrvyQiWgoJYXU.json) | Chapter 2 Season 8 : War Effort Trailer |
+| [eFKAirrvyQiWgoJYXU](blurls/eFKAirrvyQiWgoJYXU.json) | Chapter 2 Season 8: War Effort Trailer |
 | [oUhfOtTuGEhEWUtUnu](blurls/oUhfOtTuGEhEWUtUnu.json) | Cowtown Creative LTM Showcase |
 | [vAvLTMskqhpwbTvdXw](blurls/vAvLTMskqhpwbTvdXw.json) | Wildlands Survival Creative LTM Showcase |
 | [XbSKghRKsmXNrIeEPd](blurls/XbSKghRKsmXNrIeEPd.json) | 250 LEVEL SUPERNATURAL DEATHRUN Creative LTM Showcase |
@@ -478,14 +478,14 @@ MOTD Video Content from PRM Service or FortniteContent.
 | [sEpUhOfLGuHsSmNNFT](blurls/sEpUhOfLGuHsSmNNFT.json) | Zen Legacy Set Fortnite Crew Trailer |
 | [MDDDDKkDCHGfBTsWvP](blurls/MDDDDKkDCHGfBTsWvP.json) | Sierra Set Fortnite Crew |
 | [NHROmsnsrvyYFkEKhW](blurls/NHROmsnsrvyYFkEKhW.json) | Photonic Striker Pickaxe Fortnite Crew Trailer |
-| [OkQPKuSUcTOwJADHgt](blurls/OkQPKuSUcTOwJADHgt.json) | Chapter 4 Season 4 : Gameplay Trailer (MOTD Variant) |
+| [OkQPKuSUcTOwJADHgt](blurls/OkQPKuSUcTOwJADHgt.json) | Chapter 4 Season 4: Gameplay Trailer (MOTD Variant) |
 | [OzIFfirxPbnYSZYdXz](blurls/OzIFfirxPbnYSZYdXz.json) | Southpaw Set Style Fortnite Crew Trailer |
 | [plwuEXgMChdofqTScc](blurls/plwuEXgMChdofqTScc.json) | Green Arrow DC Series Set Fortnite Crew Trailer |
 | [pYdKAlzsykDdMvtShZ](blurls/pYdKAlzsykDdMvtShZ.json) | The Burning Wolf Set Fortnite Crew Trailer |
 | [qgJxhiAEyackEzVCsq](blurls/qgJxhiAEyackEzVCsq.json) | Southpaw Set Fortnite Crew Trailer |
 | [QsdXngXEbbCjhIRYQW](blurls/QsdXngXEbbCjhIRYQW.json) | Rockets vs Cars Creative LTM Showcase |
 | [RisjcsNTXUptUDyTlX](blurls/RisjcsNTXUptUDyTlX.json) | Rocket Racing Cinematic Trailer |
-| [sOVUdnXgTcyjucbKpW](blurls/sOVUdnXgTcyjucbKpW.json) | Chapter 4 Season 4 : Cinematic Trailer (MOTD Variant) |
+| [sOVUdnXgTcyjucbKpW](blurls/sOVUdnXgTcyjucbKpW.json) | Chapter 4 Season 4: Cinematic Trailer (MOTD Variant) |
 | [SZsdWXCFDBUdaTUXqP](blurls/SZsdWXCFDBUdaTUXqP.json) | Chaos Origin Set Fortnite Crew Trailer |
 | [UUhixRiYjRZwBCnuNG](blurls/UUhixRiYjRZwBCnuNG.json) | Winter Slone Set Fortnite Crew Trailer |
 | [VLdKVoPSBmtuENCVuz](blurls/VLdKVoPSBmtuENCVuz.json) | LeBron James Teaser |
@@ -539,7 +539,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 | [MiteBkqptaxZObgJgc](blurls/MiteBkqptaxZObgJgc.json) | Destiny Collaboration Trailer |
 | [pJGOUJRZDQYNEeioJj](blurls/pJGOUJRZDQYNEeioJj.json) | Starfire DC Series Outfit Trailer |
 | [BeGfuowcGTGwPLKdGI](blurls/BeGfuowcGTGwPLKdGI.json) | Jug Band Emote |
-| [QODkLxAtEsOXdpZHKh](blurls/QODkLxAtEsOXdpZHKh.json) | Chapter 3 Season 4 : Battle Pass Trailer (MOTD Variant) |
+| [QODkLxAtEsOXdpZHKh](blurls/QODkLxAtEsOXdpZHKh.json) | Chapter 3 Season 4: Battle Pass Trailer (MOTD Variant) |
 | [kpbxRfVjQYEVztWiPX](blurls/kpbxRfVjQYEVztWiPX.json) | Copines Icon Series Emote |
 | [NVHwLJOAXkIQSFIMLh](blurls/NVHwLJOAXkIQSFIMLh.json) | Pump Me Up Icon Series Emote |
 | [rHpryiPHPPQeHacVtW](blurls/rHpryiPHPPQeHacVtW.json) | Feel The Flow Icon Series Emote |
@@ -554,7 +554,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 | [lqdmOtXQeJaWXeTEgY](blurls/lqdmOtXQeJaWXeTEgY.json) | High Octane Event Trailer |
 | [GSHVYstkAWaQaFmgaR](blurls/GSHVYstkAWaQaFmgaR.json) | Ma-Ya-Hi Icon Series Emote |
 | [qgeiFkhDIUPHlTYvpG](blurls/qgeiFkhDIUPHlTYvpG.json) | Fracture In-Game Event Trailer |
-| [kjmdPxEbcizlzGIbvN](blurls/kjmdPxEbcizlzGIbvN.json) | Chapter 4 Season 1 : Battle Pass Trailer (MOTD Variant) |
+| [kjmdPxEbcizlzGIbvN](blurls/kjmdPxEbcizlzGIbvN.json) | Chapter 4 Season 1: Battle Pass Trailer (MOTD Variant) |
 | [vpxBuCgjevEAcQLGPB](blurls/vpxBuCgjevEAcQLGPB.json) | Bounce Wit' It Icon Series Emote |
 | [IkVouYOwQaYnTWraIQ](blurls/IkVouYOwQaYnTWraIQ.json) | Winterfest 2022 Event Trailer |
 | [PbMBTjERLzYenGnjWZ](blurls/PbMBTjERLzYenGnjWZ.json) | Master Of Puppets Icon Series Emote |
@@ -564,7 +564,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 | [RXiQkiERxHcBciraef](blurls/RXiQkiERxHcBciraef.json) | Falcon Scout Item Trailer |
 | [iKxEsbPbEOibflEbAZ](blurls/iKxEsbPbEOibflEbAZ.json) | The Kid LAROI Collaboration Trailer |
 | [SUJfxkyQACqPOeXPWy](blurls/SUJfxkyQACqPOeXPWy.json) | The Kid LAROIs Wild Dreams Event Trailer |
-| [GohhATLxBhNWShRPdw](blurls/GohhATLxBhNWShRPdw.json) | DB2 WAVE EMOTES VIDEO |
+| [GohhATLxBhNWShRPdw](blurls/GohhATLxBhNWShRPdw.json) | Dragonball Wave 2 Emote Showcase |
 | [HaPWguIwCowpERlsye](blurls/HaPWguIwCowpERlsye.json) | Shugoki Icon Series Glider Trailer |
 | [XhUsvBsoqnvygAHGpK](blurls/XhUsvBsoqnvygAHGpK.json) | Witcher Collaboration Trailer |
 | [MEsSheexhZxjBOJLnE](blurls/MEsSheexhZxjBOJLnE.json) | Postparty Collaboration Trailer |
@@ -577,9 +577,9 @@ MOTD Video Content from PRM Service or FortniteContent.
 | [XtGWMZqbeFaWzcvBBH](blurls/XtGWMZqbeFaWzcvBBH.json) | Fortnite MEGA Teaser Trailer |
 | [AzUCvgyzlURNUBVXxh](blurls/AzUCvgyzlURNUBVXxh.json) | Fortnite Crew : Astrea |
 | [FYXDRdzfpLRcnCcWrr](blurls/FYXDRdzfpLRcnCcWrr.json) | Serenade Outfit Trailer |
-| [HppCZYqXCzEiCCMuxG](blurls/HppCZYqXCzEiCCMuxG.json) | Chapter 4 Season 2 : Gameplay Trailer (MOTD Variant) |
-| [JerPMdCMTBdONSCrOP](blurls/JerPMdCMTBdONSCrOP.json) | Chapter 4 Season 3 : Teaser 2 |
-| [KJmZbHAiQTQLOGdmcZ](blurls/KJmZbHAiQTQLOGdmcZ.json) | Chapter 4 Season 3 : Gameplay Trailer (MOTD Variant) |
+| [HppCZYqXCzEiCCMuxG](blurls/HppCZYqXCzEiCCMuxG.json) | Chapter 4 Season 2: Gameplay Trailer (MOTD Variant) |
+| [JerPMdCMTBdONSCrOP](blurls/JerPMdCMTBdONSCrOP.json) | Chapter 4 Season 3: Teaser 2 |
+| [KJmZbHAiQTQLOGdmcZ](blurls/KJmZbHAiQTQLOGdmcZ.json) | Chapter 4 Season 3: Gameplay Trailer (MOTD Variant) |
 | [KtvclTcZIUAEawcywa](blurls/KtvclTcZIUAEawcywa.json) | Boy's A Liar Icon Series Emote |
 | [LZlGBbcCBbUkbBUGcg](blurls/LZlGBbcCBbUkbBUGcg.json) | Academy Champions Set Trailer |
 | [NbVJMQcLHTTHMVlsWx](blurls/NbVJMQcLHTTHMVlsWx.json) | Attack On Titan Gameplay Trailer |
@@ -601,10 +601,10 @@ MOTD Video Content from PRM Service or FortniteContent.
 | [amAzboyDWhYOHiZRTb](blurls/amAzboyDWhYOHiZRTb.json) | Wendell & Walnut Outfit Trailer |
 | [asYfnenIFygcYiHhRS](blurls/asYfnenIFygcYiHhRS.json) | MY HERO ACADEMIA Wave 2 Trailer |
 | [cAXRgTJUnxquhjXTQU](blurls/cAXRgTJUnxquhjXTQU.json) | Ranked Mode Teaser |
-| [dQwqkzjSUetZYqAMKh](blurls/dQwqkzjSUetZYqAMKh.json) | Chapter 4 Season 2 : Cinematic Trailer (MOTD Variant) |
+| [dQwqkzjSUetZYqAMKh](blurls/dQwqkzjSUetZYqAMKh.json) | Chapter 4 Season 2: Cinematic Trailer (MOTD Variant) |
 | [dThzUYFpkeRPUDHqdJ](blurls/dThzUYFpkeRPUDHqdJ.json) | Made You Look Icon Series Emote |
 | [dVtkDgIDaTnYAmGndI](blurls/dVtkDgIDaTnYAmGndI.json) | Progressive Crew Outfit Trailer |
-| [eNKhXnljokSETvqZkZ](blurls/eNKhXnljokSETvqZkZ.json) | Chapter 4 Season 3 : Cinematic Trailer (MOTD Variant) |
+| [eNKhXnljokSETvqZkZ](blurls/eNKhXnljokSETvqZkZ.json) | Chapter 4 Season 3: Cinematic Trailer (MOTD Variant) |
 | [haKfxxFTSpbwKBCWBX](blurls/haKfxxFTSpbwKBCWBX.json) | Fast Feet Icon Series Emote |
 | [iWOLdfPMnvygzMCSEW](blurls/iWOLdfPMnvygzMCSEW.json) | Verity Outfit Trailer |
 | [kKsAEYwuPOrXrngJgs](blurls/kKsAEYwuPOrXrngJgs.json) | Spring Breakout Event Trailer |
@@ -613,7 +613,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 | [micIOsAsJRfJTpCQyi](blurls/micIOsAsJRfJTpCQyi.json) | Summer Escape Event |
 | [oJTTcFxILilgUqAODw](blurls/oJTTcFxILilgUqAODw.json) | BPM Breakdown Emote |
 | [ojVxrGyTPKvIfRYBZN](blurls/ojVxrGyTPKvIfRYBZN.json) | Ashoka Star Wars Series Outfit |
-| [pfyidbNCPVrbiTYKPP](blurls/pfyidbNCPVrbiTYKPP.json) | Chapter 4 Season 3 : Teaser 1 |
+| [pfyidbNCPVrbiTYKPP](blurls/pfyidbNCPVrbiTYKPP.json) | Chapter 4 Season 3: Teaser 1 |
 | [phITUTqVGqIUDzIGcr](blurls/phITUTqVGqIUDzIGcr.json) | Lock-On Pistol Item Trailer |
 | [qHnAaWfRBuFCXHqygz](blurls/qHnAaWfRBuFCXHqygz.json) | Celebrate Me Icon Series Emote |
 | [vgAFTpoeJfgOqtWpTd](blurls/vgAFTpoeJfgOqtWpTd.json) | Spider Man - Across The Spider Verse Gameplay Trailer |
@@ -623,4 +623,4 @@ MOTD Video Content from PRM Service or FortniteContent.
 | [VORSeYnVLDJNGFFlrh](blurls/VORSeYnVLDJNGFFlrh.json) | McLaren 765LT Showcase |
 | [sTukXSoQdCkImSKCnj](blurls/sTukXSoQdCkImSKCnj.json) | TMNT Collaboration Cinematic Trailer |
 | [yquiCqtpseIkIAuIGH](blurls/yquiCqtpseIkIAuIGH.json) | TMNT Collaboration Gameplay Trailer |
-| [jScODamrlNxhiyGFoA](blurls/jScODamrlNxhiyGFoA.json) | Fortnite Mares 2024 Gameplay Trailer |
+| [jScODamrlNxhiyGFoA](blurls/jScODamrlNxhiyGFoA.json) | Fortnitemares 2024 Gameplay Trailer |
