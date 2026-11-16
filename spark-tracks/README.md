@@ -55,10 +55,22 @@ Jam Track Audio Data from Fortnite Festival.
 | [ThHPFgMwJRBwbBTlHJ](blurls/ThHPFgMwJRBwbBTlHJ.json) | a-ha - Take On Me (Instrumental)                                              |
 | [VmEkvwdeIRFTUuNhum](blurls/VmEkvwdeIRFTUuNhum.json) | a-ha - Take On Me (Preview)                                                   |
 | [OJBkkumkQFQiuMHLyZ](blurls/OJBkkumkQFQiuMHLyZ.json) | a-ha - Take On Me (Stereo Track)                                              |
+| [gGdzrgvMmdzskBlfXL](blurls/gGdzrgvMmdzskBlfXL.json) | A$AP Rocky - GRIM FREESTYLE                                                   |
+| [UGaUsVfeDRTJtSKvhf](blurls/UGaUsVfeDRTJtSKvhf.json) | A$AP Rocky - GRIM FREESTYLE (Instrumental)                                    |
+| [LQNqaWOdDOOXSyOAoM](blurls/LQNqaWOdDOOXSyOAoM.json) | A$AP Rocky - GRIM FREESTYLE (Preview)                                         |
+| [wLHShjUdSkGrHHlSMP](blurls/wLHShjUdSkGrHHlSMP.json) | A$AP Rocky - GRIM FREESTYLE (Stereo Track)                                    |
+| [BPbtefgBUliFzkGWYe](blurls/BPbtefgBUliFzkGWYe.json) | A$AP Rocky - Lord Pretty Flacko Jodye 2 (LPFJ2)                               |
+| [ArAGvkiMXbrfMhiQnL](blurls/ArAGvkiMXbrfMhiQnL.json) | A$AP Rocky - Lord Pretty Flacko Jodye 2 (LPFJ2) (Instrumental)                |
+| [AmxwYwMhfgGnaOElmz](blurls/AmxwYwMhfgGnaOElmz.json) | A$AP Rocky - Lord Pretty Flacko Jodye 2 (LPFJ2) (Preview)                     |
+| [NaLwaaMnSsAXZjWoBj](blurls/NaLwaaMnSsAXZjWoBj.json) | A$AP Rocky - Lord Pretty Flacko Jodye 2 (LPFJ2) (Stereo Track)                |
 | [shvqJVSoINuhSpZnMG](blurls/shvqJVSoINuhSpZnMG.json) | A$AP Rocky - NO TRESPASSING                                                   |
 | [kyhoxyOwbyVKBrblky](blurls/kyhoxyOwbyVKBrblky.json) | A$AP Rocky - NO TRESPASSING (Instrumental)                                    |
 | [mwqjplElHJLZUHUKgK](blurls/mwqjplElHJLZUHUKgK.json) | A$AP Rocky - NO TRESPASSING (Preview)                                         |
 | [PCgoWzfDxDJCsVONRd](blurls/PCgoWzfDxDJCsVONRd.json) | A$AP Rocky - NO TRESPASSING (Stereo Track)                                    |
+| [FQInFQxWYgjcqpkFsx](blurls/FQInFQxWYgjcqpkFsx.json) | A$AP Rocky - RIOT (Rowdy Pipe’n)                                              |
+| [ScolrLBBWkaeARhFiC](blurls/ScolrLBBWkaeARhFiC.json) | A$AP Rocky - RIOT (Rowdy Pipe’n) (Instrumental)                               |
+| [nTNJLQPkIHwECWBVJa](blurls/nTNJLQPkIHwECWBVJa.json) | A$AP Rocky - RIOT (Rowdy Pipe’n) (Preview)                                    |
+| [FwfmfvoHnTrevpLbgF](blurls/FwfmfvoHnTrevpLbgF.json) | A$AP Rocky - RIOT (Rowdy Pipe’n) (Stereo Track)                               |
 | [EMDfTWUrZSItRrIRuV](blurls/EMDfTWUrZSItRrIRuV.json) | Addison Rae - Diet Pepsi                                                      |
 | [WXspZbgyFtACpTyYiL](blurls/WXspZbgyFtACpTyYiL.json) | Addison Rae - Diet Pepsi (Instrumental)                                       |
 | [LGMGhFaKMMylofOxiT](blurls/LGMGhFaKMMylofOxiT.json) | Addison Rae - Diet Pepsi (Preview)                                            |
@@ -1240,6 +1252,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [lIBhUqgsqbQcHabdxp](blurls/lIBhUqgsqbQcHabdxp.json) | Far East Movement ft. The Cataracs & DEV - Like A G6 (Instrumental)           |
 | [WSUhSFJUohzHULIhmH](blurls/WSUhSFJUohzHULIhmH.json) | Far East Movement ft. The Cataracs & DEV - Like A G6 (Preview)                |
 | [OfaOVzVgIonQyfRLGj](blurls/OfaOVzVgIonQyfRLGj.json) | Far East Movement ft. The Cataracs & DEV - Like A G6 (Stereo Track)           |
+| [ZzOEZgkxRqgmxnwvki](blurls/ZzOEZgkxRqgmxnwvki.json) | FLAVOR FOLEY ft. Hatsune Miku - CONNECT:COMMUNE                               |
+| [jgeDTWEQrXbMJLfTsx](blurls/jgeDTWEQrXbMJLfTsx.json) | FLAVOR FOLEY ft. Hatsune Miku - CONNECT:COMMUNE (Instrumental)                |
+| [AaPZEmgRjiwToXNHGW](blurls/AaPZEmgRjiwToXNHGW.json) | FLAVOR FOLEY ft. Hatsune Miku - CONNECT:COMMUNE (Preview)                     |
+| [SxXEteiIKUgpiAEmQJ](blurls/SxXEteiIKUgpiAEmQJ.json) | FLAVOR FOLEY ft. Hatsune Miku - CONNECT:COMMUNE (Stereo Track)                |
 | [jicmdvoEmoRmYzQJCX](blurls/jicmdvoEmoRmYzQJCX.json) | Flo Rida - My House                                                           |
 | [GxcYeydZRPNCceAOnr](blurls/GxcYeydZRPNCceAOnr.json) | Flo Rida - My House (Instrumental)                                            |
 | [FdxmHFUqyXxnWXTvKy](blurls/FdxmHFUqyXxnWXTvKy.json) | Flo Rida - My House (Preview)                                                 |
@@ -1546,6 +1562,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [fdIaJlKiKuMfETzbSf](blurls/fdIaJlKiKuMfETzbSf.json) | Jackson 5 - ABC (Instrumental)                                                |
 | [jsKrqpUCZwXkCqyZfl](blurls/jsKrqpUCZwXkCqyZfl.json) | Jackson 5 - ABC (Preview)                                                     |
 | [MAIIkxFEMBRSXagDNx](blurls/MAIIkxFEMBRSXagDNx.json) | Jackson 5 - ABC (Stereo Track)                                                |
+| [YhnQOcVwTKPBiZmfIm](blurls/YhnQOcVwTKPBiZmfIm.json) | Jamie Paige, OK Glass ft. Kasane Teto - BIRDBRAIN                             |
+| [FuOElwNnobynbAeHHF](blurls/FuOElwNnobynbAeHHF.json) | Jamie Paige, OK Glass ft. Kasane Teto - BIRDBRAIN (Instrumental)              |
+| [rMyvQwEgtuNRCXzEed](blurls/rMyvQwEgtuNRCXzEed.json) | Jamie Paige, OK Glass ft. Kasane Teto - BIRDBRAIN (Preview)                   |
+| [sIUpxKyfEWZlGAAnQy](blurls/sIUpxKyfEWZlGAAnQy.json) | Jamie Paige, OK Glass ft. Kasane Teto - BIRDBRAIN (Stereo Track)              |
 | [ZlbzQjyUIOXUACTwOR](blurls/ZlbzQjyUIOXUACTwOR.json) | Japanese Breakfast - Be Sweet                                                 |
 | [rhAYSmKDQmnruxVIoJ](blurls/rhAYSmKDQmnruxVIoJ.json) | Japanese Breakfast - Be Sweet (v2)                                            |
 | [TRVTgoGXmkHGgGgcmB](blurls/TRVTgoGXmkHGgGgcmB.json) | Japanese Breakfast - Be Sweet (Instrumental)                                  |
@@ -1947,6 +1967,26 @@ Jam Track Audio Data from Fortnite Festival.
 | [oSalIjTXqEDdgartFp](blurls/oSalIjTXqEDdgartFp.json) | Lil Tecca - Ransom (Instrumental)                                             |
 | [ugyGpYRWjekGHsLciD](blurls/ugyGpYRWjekGHsLciD.json) | Lil Tecca - Ransom (Preview)                                                  |
 | [HAUALGrmyrpZfsSMwH](blurls/HAUALGrmyrpZfsSMwH.json) | Lil Tecca - Ransom (Stereo Track)                                             |
+| [OHiiOPxsRuLIhEcFqy](blurls/OHiiOPxsRuLIhEcFqy.json) | Lil Uzi Vert - London                                                         |
+| [oHSrGkASLdzVChiLDr](blurls/oHSrGkASLdzVChiLDr.json) | Lil Uzi Vert - London (v2)                                                    |
+| [eEzhNaLUORDSEHtSUO](blurls/eEzhNaLUORDSEHtSUO.json) | Lil Uzi Vert - London (Instrumental)                                          |
+| [eEzhNaLUORDSEHtSUO](blurls/eEzhNaLUORDSEHtSUO.json) | Lil Uzi Vert - London (Instrumental) (v2)                                     |
+| [jLVkHyKMSXlNMhpuQq](blurls/jLVkHyKMSXlNMhpuQq.json) | Lil Uzi Vert - London (Preview)                                               |
+| [sXfztLVTAbvPRkNtiT](blurls/sXfztLVTAbvPRkNtiT.json) | Lil Uzi Vert - London (Preview) (v2)                                          |
+| [SDTQpkOGqzbSUAFkUs](blurls/SDTQpkOGqzbSUAFkUs.json) | Lil Uzi Vert - London (Stereo Track)                                          |
+| [kdfiljNJCnjhusDRHS](blurls/kdfiljNJCnjhusDRHS.json) | Lil Uzi Vert - London (Stereo Track) (v2)                                     |
+| [ASlWkHTepPcgzJwUyD](blurls/ASlWkHTepPcgzJwUyD.json) | Lil Uzi Vert - Poured                                                         |
+| [YfoUqIyzRYGylXLCHD](blurls/YfoUqIyzRYGylXLCHD.json) | Lil Uzi Vert - Poured (Instrumental)                                          |
+| [gyWZVdjJtqvybPFvOX](blurls/gyWZVdjJtqvybPFvOX.json) | Lil Uzi Vert - Poured (Preview)                                               |
+| [VxGAKPHYkKvyjooLYV](blurls/VxGAKPHYkKvyjooLYV.json) | Lil Uzi Vert - Poured (Stereo Track)                                          |
+| [asPHkZyUwUErbhSJsr](blurls/asPHkZyUwUErbhSJsr.json) | Lil Uzi Vert - Say It Was                                                     |
+| [ufhqugounMAmyrEWce](blurls/ufhqugounMAmyrEWce.json) | Lil Uzi Vert - Say It Was (Instrumental)                                      |
+| [IOnjAGhDHVavdyswWP](blurls/IOnjAGhDHVavdyswWP.json) | Lil Uzi Vert - Say It Was (Preview)                                           |
+| [MrbRTeaQdwimJYxReK](blurls/MrbRTeaQdwimJYxReK.json) | Lil Uzi Vert - Say It Was (Stereo Track)                                      |
+| [AWKQIfBKBTEZzvyNsQ](blurls/AWKQIfBKBTEZzvyNsQ.json) | Lil Uzi Vert - What You Saying                                                |
+| [WszlPJFjltuwMeZxAx](blurls/WszlPJFjltuwMeZxAx.json) | Lil Uzi Vert - What You Saying (Instrumental)                                 |
+| [VNOlMbGkfdBascXKNe](blurls/VNOlMbGkfdBascXKNe.json) | Lil Uzi Vert - What You Saying (Preview)                                      |
+| [dtFsNDUOVrXWovYOIv](blurls/dtFsNDUOVrXWovYOIv.json) | Lil Uzi Vert - What You Saying (Stereo Track)                                 |
 | [ZzdveBTMVSejUSDGnS](blurls/ZzdveBTMVSejUSDGnS.json) | Lil Uzi Vert - XO Tour Llif3                                                  |
 | [gEttfXkmnxFOAMhscg](blurls/gEttfXkmnxFOAMhscg.json) | Lil Uzi Vert - XO Tour Llif3 (Instrumental)                                   |
 | [SNVLBWTIHwFiCeRnUF](blurls/SNVLBWTIHwFiCeRnUF.json) | Lil Uzi Vert - XO Tour Llif3 (Preview)                                        |
@@ -2201,6 +2241,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [yubGxdnVnJgSqkYxmN](blurls/yubGxdnVnJgSqkYxmN.json) | Miley Cyrus - Flowers (Instrumental)                                          |
 | [oSeWpNfSFwwwIxguPl](blurls/oSeWpNfSFwwwIxguPl.json) | Miley Cyrus - Flowers (Preview)                                               |
 | [QpwwvdetnWSoQxiQxq](blurls/QpwwvdetnWSoQxiQxq.json) | Miley Cyrus - Flowers (Stereo Track)                                          |
+| [qyZLmNzExeHdDDdDwC](blurls/qyZLmNzExeHdDDdDwC.json) | MONT, Risa, Musashi - Sa-Sen!                                                 |
+| [breaNkRlqXHVrLvoZT](blurls/breaNkRlqXHVrLvoZT.json) | MONT, Risa, Musashi - Sa-Sen! (Instrumental)                                  |
+| [iYTUvJRxEXyhWBzDhE](blurls/iYTUvJRxEXyhWBzDhE.json) | MONT, Risa, Musashi - Sa-Sen! (Preview)                                       |
+| [KcPSxScnixBCnsvjMI](blurls/KcPSxScnixBCnsvjMI.json) | MONT, Risa, Musashi - Sa-Sen! (Stereo Track)                                  |
 | [FDEaZmTqwPwSvNrgyj](blurls/FDEaZmTqwPwSvNrgyj.json) | Montell Jordan - This Is How We Do It                                         |
 | [ygIocINLhBWHdIYUxW](blurls/ygIocINLhBWHdIYUxW.json) | Montell Jordan - This Is How We Do It (Instrumental)                          |
 | [UOyvyyUWbjQkJnCmqw](blurls/UOyvyyUWbjQkJnCmqw.json) | Montell Jordan - This Is How We Do It (Preview)                               |
@@ -2810,6 +2854,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [aaZwqeRiPwacYorFpT](blurls/aaZwqeRiPwacYorFpT.json) | Taio Cruz - Dynamite (Instrumental)                                           |
 | [iRDnZzIJpFtvwNoGDc](blurls/iRDnZzIJpFtvwNoGDc.json) | Taio Cruz - Dynamite (Preview)                                                |
 | [SQwRBhxTaVVprXDcKC](blurls/SQwRBhxTaVVprXDcKC.json) | Taio Cruz - Dynamite (Stereo Track)                                           |
+| [DWejlAEMRRNmVAmcDx](blurls/DWejlAEMRRNmVAmcDx.json) | TAK ft. Hatsune Miku and Kasane Teto - PPPP                                   |
+| [TDTJHWGNtYydZMjbmX](blurls/TDTJHWGNtYydZMjbmX.json) | TAK ft. Hatsune Miku and Kasane Teto - PPPP (Instrumental)                    |
+| [FKZECjdLqbtuycvYue](blurls/FKZECjdLqbtuycvYue.json) | TAK ft. Hatsune Miku and Kasane Teto - PPPP (Preview)                         |
+| [mXYbMUDldrSshdydps](blurls/mXYbMUDldrSshdydps.json) | TAK ft. Hatsune Miku and Kasane Teto - PPPP (Stereo Track)                    |
 | [JTUazgeAknaesOgxnb](blurls/JTUazgeAknaesOgxnb.json) | Taking Back Sunday - MakeDamnSure                                             |
 | [qzRBmXBufTHckAKlef](blurls/qzRBmXBufTHckAKlef.json) | Taking Back Sunday - MakeDamnSure (Instrumental)                              |
 | [SNgkCjifyzSXREvCRA](blurls/SNgkCjifyzSXREvCRA.json) | Taking Back Sunday - MakeDamnSure (Preview)                                   |
@@ -2882,6 +2930,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [BNGvSlNfNoilMKZHFC](blurls/BNGvSlNfNoilMKZHFC.json) | The Home Of Happy - So Long, I'm Leaving (Instrumental)                       |
 | [WncoZAvzYJfZBWQDlA](blurls/WncoZAvzYJfZBWQDlA.json) | The Home Of Happy - So Long, I'm Leaving (Preview)                            |
 | [JTFtSOevwrFsTXvPjc](blurls/JTFtSOevwrFsTXvPjc.json) | The Home Of Happy - So Long, I'm Leaving (Stereo Track)                       |
+| [oNqpzpxvjVBJGKCRwu](blurls/oNqpzpxvjVBJGKCRwu.json) | The Home Of Happy, James Corbin - Chronicles of Destiny                       |
+| [WsuJcFswvOlSxIWsWl](blurls/WsuJcFswvOlSxIWsWl.json) | The Home Of Happy, James Corbin - Chronicles of Destiny (Instrumental)        |
+| [awIzYHluMSHRehPgsN](blurls/awIzYHluMSHRehPgsN.json) | The Home Of Happy, James Corbin - Chronicles of Destiny (Preview)             |
+| [bpRGygkHRyNrNYcFCe](blurls/bpRGygkHRyNrNYcFCe.json) | The Home Of Happy, James Corbin - Chronicles of Destiny (Stereo Track)        |
 | [GNGENvcSHgKpfWLNDA](blurls/GNGENvcSHgKpfWLNDA.json) | The Killers - Mr. Brightside                                                  |
 | [PITopPPUmxvuFXBMpt](blurls/PITopPPUmxvuFXBMpt.json) | The Killers - Mr. Brightside (Instrumental)                                   |
 | [KGRprRNLfuTkgjehoV](blurls/KGRprRNLfuTkgjehoV.json) | The Killers - Mr. Brightside (Preview)                                        |
@@ -3082,6 +3134,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [goKzpVsyztDUlvaTTD](blurls/goKzpVsyztDUlvaTTD.json) | W&W - OIIA OIIA (Spinning Cat) (Instrumental)                                 |
 | [ljiuFXvqsnYwPBpBJX](blurls/ljiuFXvqsnYwPBpBJX.json) | W&W - OIIA OIIA (Spinning Cat) (Preview)                                      |
 | [ZZUnnltwSFUJdIGdMq](blurls/ZZUnnltwSFUJdIGdMq.json) | W&W - OIIA OIIA (Spinning Cat) (Stereo Track)                                 |
+| [gdnUFfOMIdMULSlBqk](blurls/gdnUFfOMIdMULSlBqk.json) | WALK THE MOON - Shut Up and Dance                                             |
+| [XqGPXxeUZOPCyvPBSs](blurls/XqGPXxeUZOPCyvPBSs.json) | WALK THE MOON - Shut Up and Dance (Instrumental)                              |
+| [SidsjUJHXrUcEdaVBI](blurls/SidsjUJHXrUcEdaVBI.json) | WALK THE MOON - Shut Up and Dance (Preview)                                   |
+| [lGnxTIEXCWWVBkbSOV](blurls/lGnxTIEXCWWVBkbSOV.json) | WALK THE MOON - Shut Up and Dance (Stereo Track)                              |
 | [ktdgChhlPACjNHsKtc](blurls/ktdgChhlPACjNHsKtc.json) | Warren G ft. Nate Dogg - Regulate                                             |
 | [ebYpSDEYfcFtcwlrCA](blurls/ebYpSDEYfcFtcwlrCA.json) | Warren G ft. Nate Dogg - Regulate (Instrumental)                              |
 | [XCHeDnveXmJTKSWTyC](blurls/XCHeDnveXmJTKSWTyC.json) | Warren G ft. Nate Dogg - Regulate (Preview)                                   |

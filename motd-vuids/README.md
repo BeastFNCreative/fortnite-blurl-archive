@@ -10,6 +10,8 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [FQuvELWRPCgZxlhzIM](blurls/FQuvELWRPCgZxlhzIM.json) | Fortnite: Treasure Hunters Week 3 - Hatsune Miku & Kasane Teto |
+| [LSdsgBrxMTTfgrsNUy](blurls/LSdsgBrxMTTfgrsNUy.json) | Fortnite: Treasure Hunters Week 2 - Lil Uzi Vert |
 | [vIkDnSSwUMEzqYJeRu](blurls/vIkDnSSwUMEzqYJeRu.json) | Fortnite: Treasure Hunters Week 1 - A$AP Rocky |
 | [VmszMSfFQGjFKcSAYQ](blurls/VmszMSfFQGjFKcSAYQ.json) | Fortnite: Treasure Hunters Trailer |
 | [ltbZLjKabXnsGtUuCz](blurls/ltbZLjKabXnsGtUuCz.json) | Fortnite: Treasure Hunters Teaser |
@@ -621,4 +623,4 @@ MOTD Video Content from PRM Service or FortniteContent.
 | [VORSeYnVLDJNGFFlrh](blurls/VORSeYnVLDJNGFFlrh.json) | McLaren 765LT Showcase |
 | [sTukXSoQdCkImSKCnj](blurls/sTukXSoQdCkImSKCnj.json) | TMNT Collaboration Cinematic Trailer |
 | [yquiCqtpseIkIAuIGH](blurls/yquiCqtpseIkIAuIGH.json) | TMNT Collaboration Gameplay Trailer |
-| [jScODamrlNxhiyGFoA](blurls/jScODamrlNxhiyGFoA.json) | Fortnite Mares 2024 Gameplay Trailer (`Acorn_GameplayTrailer`) |
+| [jScODamrlNxhiyGFoA](blurls/jScODamrlNxhiyGFoA.json) | Fortnite Mares 2024 Gameplay Trailer |
