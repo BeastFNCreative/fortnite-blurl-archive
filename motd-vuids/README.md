@@ -10,6 +10,7 @@ MOTD Video Content from PRM Service or FortniteContent.
 
 | VUID | Description                |
 | :-------- | :------------------------- |
+| [qxXXyBGbOYMzHSSzCI](blurls/qxXXyBGbOYMzHSSzCI.json) | Fortnite Crew Benefits December 2025 |
 | [FQuvELWRPCgZxlhzIM](blurls/FQuvELWRPCgZxlhzIM.json) | Fortnite: Treasure Hunters Week 3 - Hatsune Miku & Kasane Teto |
 | [LSdsgBrxMTTfgrsNUy](blurls/LSdsgBrxMTTfgrsNUy.json) | Fortnite: Treasure Hunters Week 2 - Lil Uzi Vert |
 | [vIkDnSSwUMEzqYJeRu](blurls/vIkDnSSwUMEzqYJeRu.json) | Fortnite: Treasure Hunters Week 1 - A$AP Rocky |

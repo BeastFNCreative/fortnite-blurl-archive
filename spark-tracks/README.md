@@ -1253,9 +1253,13 @@ Jam Track Audio Data from Fortnite Festival.
 | [WSUhSFJUohzHULIhmH](blurls/WSUhSFJUohzHULIhmH.json) | Far East Movement ft. The Cataracs & DEV - Like A G6 (Preview)                |
 | [OfaOVzVgIonQyfRLGj](blurls/OfaOVzVgIonQyfRLGj.json) | Far East Movement ft. The Cataracs & DEV - Like A G6 (Stereo Track)           |
 | [ZzOEZgkxRqgmxnwvki](blurls/ZzOEZgkxRqgmxnwvki.json) | FLAVOR FOLEY ft. Hatsune Miku - CONNECT:COMMUNE                               |
+| [daoEXxzSHQPlrzSboB](blurls/daoEXxzSHQPlrzSboB.json) | FLAVOR FOLEY ft. Hatsune Miku - CONNECT:COMMUNE (v2)                          |
 | [jgeDTWEQrXbMJLfTsx](blurls/jgeDTWEQrXbMJLfTsx.json) | FLAVOR FOLEY ft. Hatsune Miku - CONNECT:COMMUNE (Instrumental)                |
+| [meuttRXjCkvCVHbWTe](blurls/meuttRXjCkvCVHbWTe.json) | FLAVOR FOLEY ft. Hatsune Miku - CONNECT:COMMUNE (Instrumental) (v2)           |
 | [AaPZEmgRjiwToXNHGW](blurls/AaPZEmgRjiwToXNHGW.json) | FLAVOR FOLEY ft. Hatsune Miku - CONNECT:COMMUNE (Preview)                     |
+| [dOpHZyslOKVMxAyguV](blurls/dOpHZyslOKVMxAyguV.json) | FLAVOR FOLEY ft. Hatsune Miku - CONNECT:COMMUNE (Preview) (v2)                |
 | [SxXEteiIKUgpiAEmQJ](blurls/SxXEteiIKUgpiAEmQJ.json) | FLAVOR FOLEY ft. Hatsune Miku - CONNECT:COMMUNE (Stereo Track)                |
+| [YUAehmrWNvnQgRwMUC](blurls/YUAehmrWNvnQgRwMUC.json) | FLAVOR FOLEY ft. Hatsune Miku - CONNECT:COMMUNE (Stereo Track) (v2)           |
 | [jicmdvoEmoRmYzQJCX](blurls/jicmdvoEmoRmYzQJCX.json) | Flo Rida - My House                                                           |
 | [GxcYeydZRPNCceAOnr](blurls/GxcYeydZRPNCceAOnr.json) | Flo Rida - My House (Instrumental)                                            |
 | [FdxmHFUqyXxnWXTvKy](blurls/FdxmHFUqyXxnWXTvKy.json) | Flo Rida - My House (Preview)                                                 |
@@ -2242,9 +2246,13 @@ Jam Track Audio Data from Fortnite Festival.
 | [oSeWpNfSFwwwIxguPl](blurls/oSeWpNfSFwwwIxguPl.json) | Miley Cyrus - Flowers (Preview)                                               |
 | [QpwwvdetnWSoQxiQxq](blurls/QpwwvdetnWSoQxiQxq.json) | Miley Cyrus - Flowers (Stereo Track)                                          |
 | [qyZLmNzExeHdDDdDwC](blurls/qyZLmNzExeHdDDdDwC.json) | MONT, Risa, Musashi - Sa-Sen!                                                 |
+| [zzowHKTMxkFNMvdjTU](blurls/zzowHKTMxkFNMvdjTU.json) | MONT, Risa, Musashi - Sa-Sen! (v2)                                            |
 | [breaNkRlqXHVrLvoZT](blurls/breaNkRlqXHVrLvoZT.json) | MONT, Risa, Musashi - Sa-Sen! (Instrumental)                                  |
+| [xPeWdlMtirPalafPdh](blurls/xPeWdlMtirPalafPdh.json) | MONT, Risa, Musashi - Sa-Sen! (Instrumental) (v2)                             |
 | [iYTUvJRxEXyhWBzDhE](blurls/iYTUvJRxEXyhWBzDhE.json) | MONT, Risa, Musashi - Sa-Sen! (Preview)                                       |
+| [QNdphOAJpVcHpdqtSV](blurls/QNdphOAJpVcHpdqtSV.json) | MONT, Risa, Musashi - Sa-Sen! (Preview) (v2)                                  |
 | [KcPSxScnixBCnsvjMI](blurls/KcPSxScnixBCnsvjMI.json) | MONT, Risa, Musashi - Sa-Sen! (Stereo Track)                                  |
+| [XiVfCWrWCdBzbeQaOJ](blurls/XiVfCWrWCdBzbeQaOJ.json) | MONT, Risa, Musashi - Sa-Sen! (Stereo Track) (v2)                             |
 | [FDEaZmTqwPwSvNrgyj](blurls/FDEaZmTqwPwSvNrgyj.json) | Montell Jordan - This Is How We Do It                                         |
 | [ygIocINLhBWHdIYUxW](blurls/ygIocINLhBWHdIYUxW.json) | Montell Jordan - This Is How We Do It (Instrumental)                          |
 | [UOyvyyUWbjQkJnCmqw](blurls/UOyvyyUWbjQkJnCmqw.json) | Montell Jordan - This Is How We Do It (Preview)                               |
@@ -2855,9 +2863,13 @@ Jam Track Audio Data from Fortnite Festival.
 | [iRDnZzIJpFtvwNoGDc](blurls/iRDnZzIJpFtvwNoGDc.json) | Taio Cruz - Dynamite (Preview)                                                |
 | [SQwRBhxTaVVprXDcKC](blurls/SQwRBhxTaVVprXDcKC.json) | Taio Cruz - Dynamite (Stereo Track)                                           |
 | [DWejlAEMRRNmVAmcDx](blurls/DWejlAEMRRNmVAmcDx.json) | TAK ft. Hatsune Miku and Kasane Teto - PPPP                                   |
+| [CGYEsCQtGKbJiCtqtQ](blurls/CGYEsCQtGKbJiCtqtQ.json) | TAK ft. Hatsune Miku and Kasane Teto - PPPP (v2)                              |
 | [TDTJHWGNtYydZMjbmX](blurls/TDTJHWGNtYydZMjbmX.json) | TAK ft. Hatsune Miku and Kasane Teto - PPPP (Instrumental)                    |
+| [QwngIHjpeCKrVoVamQ](blurls/QwngIHjpeCKrVoVamQ.json) | TAK ft. Hatsune Miku and Kasane Teto - PPPP (Instrumental) (v2)               |
 | [FKZECjdLqbtuycvYue](blurls/FKZECjdLqbtuycvYue.json) | TAK ft. Hatsune Miku and Kasane Teto - PPPP (Preview)                         |
+| [yYYREdXCEJiphIzBgr](blurls/yYYREdXCEJiphIzBgr.json) | TAK ft. Hatsune Miku and Kasane Teto - PPPP (Preview) (v2)                    |
 | [mXYbMUDldrSshdydps](blurls/mXYbMUDldrSshdydps.json) | TAK ft. Hatsune Miku and Kasane Teto - PPPP (Stereo Track)                    |
+| [RYkBvUoVsfBOGzQwYl](blurls/RYkBvUoVsfBOGzQwYl.json) | TAK ft. Hatsune Miku and Kasane Teto - PPPP (Stereo Track) (v2)               |
 | [JTUazgeAknaesOgxnb](blurls/JTUazgeAknaesOgxnb.json) | Taking Back Sunday - MakeDamnSure                                             |
 | [qzRBmXBufTHckAKlef](blurls/qzRBmXBufTHckAKlef.json) | Taking Back Sunday - MakeDamnSure (Instrumental)                              |
 | [SNgkCjifyzSXREvCRA](blurls/SNgkCjifyzSXREvCRA.json) | Taking Back Sunday - MakeDamnSure (Preview)                                   |

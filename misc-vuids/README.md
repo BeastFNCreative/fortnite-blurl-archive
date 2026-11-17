@@ -13,7 +13,7 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [sUgspRdIoSnuXYeZ](blurls/sUgspRdIoSnuXYeZ.json)     | Bouncing Llama Placeholder                                                                           |
 | [zVEuFPigBeWeAVTu](blurls/zVEuFPigBeWeAVTu.json)     | Bouncing Llama Placeholder (v1)                                                                      |
 | [8WOS7JultH2n65OhZP](blurls/8WOS7JultH2n65OhZP.json) | Bouncing Llama Placeholder with Movie Qoute Subtitles                                                |
-| [TSrJAuydirPcYVVmcD](blurls/TSrJAuydirPcYVVmcD.json) | Chapter 3 Season 3 : Jungle Environment Music                                                        |
+| [TSrJAuydirPcYVVmcD](blurls/TSrJAuydirPcYVVmcD.json) | Chapter 3 Season 3: Jungle Environment Music                                                        |
 | [PMkepprUBhojQwtxFB](blurls/PMkepprUBhojQwtxFB.json) | Chapter 7 Mini Season 1 Teaser: Debug Audio                                                          |
 | [uMgMeHviftMSnWav](blurls/uMgMeHviftMSnWav.json)     | Creative Video Player Base ID                                                                        |
 | [OMgvRuKGFDIczdiawa](blurls/OMgvRuKGFDIczdiawa.json) | Daigo's Spirit Realm Cinematic Reward                                                                |
@@ -127,7 +127,7 @@ Miscellaneous VUIDs that don't fit any other category, this ranges from In-Game 
 | [jdowniYVhDGgZLYhgm](blurls/jdowniYVhDGgZLYhgm.json) | Remix The Prelude: Pre-Event Music                                                                   |
 | [XXCKxHvovCXUnzJkZY](blurls/XXCKxHvovCXUnzJkZY.json) | Remix The Prelude: Full Event Replay at Risky                                                        |
 | [qpvkhEDcVqkgDwKteF](blurls/qpvkhEDcVqkgDwKteF.json) | Remix The Prelude: Remix Combined Trailer                                                            |
-| [shortnite_combined](blurls/shortnite_combined.json) | Short Nite is back! : Combined Version                                                               |
+| [shortnite_combined](blurls/shortnite_combined.json) | Short Nite is back!: Combined Version                                                               |
 | [xAVKwPTWFECnYjvJGc](blurls/xAVKwPTWFECnYjvJGc.json) | Simple Build UI Video: Console & PC                                                                  |
 | [UgMObThICTZRJhaHFh](blurls/UgMObThICTZRJhaHFh.json) | Simple Build UI Video: Mobile                                                                        |
 | [jFsphMAUYxOHgIEHsB](blurls/jFsphMAUYxOHgIEHsB.json) | Simple Edit UI Video: Console & PC                                                                   |
