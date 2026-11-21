@@ -35,6 +35,7 @@ The Stream File Path Structure has to follow a Epic Uploaded Video Structure, no
 | [UUywYOPJKDpQQqVyeX](blurls/UUywYOPJKDpQQqVyeX.json) | experience_br: Battle Royale (Treasure Hunters Week 1: A$AP Rocky) |
 | [dGXCxEsWozVFNlotTW](blurls/dGXCxEsWozVFNlotTW.json) | experience_br: Battle Royale (Treasure Hunters Week 2: Lil Uzi Vert) |
 | [SKmWFsWGaDWIcISQZd](blurls/SKmWFsWGaDWIcISQZd.json) | experience_br: Battle Royale (Treasure Hunters Week 3: Hatsune Miku & Kasane Teto) |
+| [tkILsnSOWcAcXafBUT](blurls/tkILsnSOWcAcXafBUT.json) | experience_reload: Fortnite Reload (Springfield Island) |
 | [emqobJroAzbslxHLYD](blurls/emqobJroAzbslxHLYD.json) | experience_reload: Fortnite Reload (Squid Grounds) |
 | [LXnhkKEjFQvnqgpxJE](blurls/LXnhkKEjFQvnqgpxJE.json) | playlist_fmclubisland: Festival Jam Stage |
 | [lPAAqsIrORbZBsKCiX](blurls/lPAAqsIrORbZBsKCiX.json) | playlist_juno: LEGO Fortnite |

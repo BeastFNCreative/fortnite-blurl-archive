@@ -1165,6 +1165,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [sHrmWcVDHgUvFuyJWx](blurls/sHrmWcVDHgUvFuyJWx.json) | Epic Games - Winterfest Wish (Instrumental)                                   |
 | [IVpxBpwjSCdfHrKCAH](blurls/IVpxBpwjSCdfHrKCAH.json) | Epic Games - Winterfest Wish (Preview)                                        |
 | [nvDsXVUxKrYVSHjHdM](blurls/nvDsXVUxKrYVSHjHdM.json) | Epic Games - Winterfest Wish (Stereo Track)                                   |
+| [mLXCzCZwEIOjzEAxhB](blurls/mLXCzCZwEIOjzEAxhB.json) | Epic Games - Year of the Beast                                                |
+| [rucHDQhEEuMiLHXGuT](blurls/rucHDQhEEuMiLHXGuT.json) | Epic Games - Year of the Beast (Instrumental)                                 |
+| [rIbTXfrWVkCYGDqMIE](blurls/rIbTXfrWVkCYGDqMIE.json) | Epic Games - Year of the Beast (Preview)                                      |
+| [iiZscVgtLLsykOHzUh](blurls/iiZscVgtLLsykOHzUh.json) | Epic Games - Year of the Beast (Stereo Track)                                 |
 | [ADVHilMkRFqgVYNodu](blurls/ADVHilMkRFqgVYNodu.json) | Epic Games - You Don't Know Me                                                |
 | [ImsfGeEASKCgJIZJri](blurls/ImsfGeEASKCgJIZJri.json) | Epic Games - You Don't Know Me (Instrumental)                                 |
 | [aYvnqpcyHlEMOdDrBI](blurls/aYvnqpcyHlEMOdDrBI.json) | Epic Games - You Don't Know Me (Preview)                                      |
@@ -1934,6 +1938,10 @@ Jam Track Audio Data from Fortnite Festival.
 | [BxeSyIGVWuuVFfVDwb](blurls/BxeSyIGVWuuVFfVDwb.json) | Laufey - Tough Luck (Instrumental)                                            |
 | [xoklYUEJaZEQZeZnVU](blurls/xoklYUEJaZEQZeZnVU.json) | Laufey - Tough Luck (Preview)                                                 |
 | [LGfqYlUxHOQqfCOgks](blurls/LGfqYlUxHOQqfCOgks.json) | Laufey - Tough Luck (Stereo Track)                                            |
+| [CMHXEuffmCwPfZSQTP](blurls/CMHXEuffmCwPfZSQTP.json) | LE SSERAFIM - Perfect Night                                                   |
+| [kUbnsDNlsLrwMtVtlG](blurls/kUbnsDNlsLrwMtVtlG.json) | LE SSERAFIM - Perfect Night (Instrumental)                                    |
+| [lKDLxaTMXPNbcdUafa](blurls/lKDLxaTMXPNbcdUafa.json) | LE SSERAFIM - Perfect Night (Preview)                                         |
+| [acEfVMGENWWPaTCiZL](blurls/acEfVMGENWWPaTCiZL.json) | LE SSERAFIM - Perfect Night (Stereo Track)                                    |
 | [vBGQUULeIETezKftrt](blurls/vBGQUULeIETezKftrt.json) | Lil Jon & The East Side Boyz ft. Ying Yang Twins - Get Low                    |
 | [ciRCjOGnFXKDSQqbKQ](blurls/ciRCjOGnFXKDSQqbKQ.json) | Lil Jon & The East Side Boyz ft. Ying Yang Twins - Get Low (Instrumental)     |
 | [kPecXJXYuKmbFDXBQA](blurls/kPecXJXYuKmbFDXBQA.json) | Lil Jon & The East Side Boyz ft. Ying Yang Twins - Get Low (Preview)          |

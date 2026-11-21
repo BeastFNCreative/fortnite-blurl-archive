@@ -30,7 +30,7 @@ Creative / UEFN Video's used for Partner Projects.
 | [SnuvBpgFnkZhwliPmw](blurls/SnuvBpgFnkZhwliPmw.json) | Dr. STONE x Crunchyroll Anime Island: Season 1 Episode 1 "Stone World"                                 |
 | [FzLiZXeLvPABLwGfmN](blurls/FzLiZXeLvPABLwGfmN.json) | Dr. STONE x Crunchyroll Anime Island: Season 4 "SCIENCE FUTURE" Episode 1 "FUTURE ENGINE"              |
 | [eQMnrJmwLWsizAhEgF](blurls/eQMnrJmwLWsizAhEgF.json) | Dr. STONE x Crunchyroll Anime Island: Season 4 "SCIENCE FUTURE" Episode 1 "FUTURE ENGINE" (Age-Gated)  |
-| [AhCZIrcvjAuMIhZYuY](blurls/AhCZIrcvjAuMIhZYuY.json) | Dr. STONE x Crunchyroll Anime Island: Season 4 "SCIENCE FUTURE" Episode 1 "FUTURE ENGINE" (Alt)        |
+| [AhCZIrcvjAuMIhZYuY](blurls/AhCZIrcvjAuMIhZYuY.json) | Dr. STONE x Crunchyroll Anime Island: Season 4 "SCIENCE FUTURE" Episode 1 "FUTURE ENGINE" (Alt) (DELETED)|
 | [PiEXYykwqLMxBFOHjd](blurls/PiEXYykwqLMxBFOHjd.json) | Dragon Ball Super: Episode 9 Video                                                                     |
 | [OtbCrvPwgTtDUjxWHw](blurls/OtbCrvPwgTtDUjxWHw.json) | Dragon Ball Super: Episode 10 Video                                                                    |
 | [EXBHhCfpFrmCntPfqZ](blurls/EXBHhCfpFrmCntPfqZ.json) | Dragon Ball Super: Episode 11 Video                                                                    |
